@@ -1,0 +1,155 @@
+﻿Sentence_ID,Register,Sub_Register,Movie_Title,Raw_Sentence,Copula_Status_Base,Copula_Status_NLP,Copula_Status_Match,Polarity_Base,Polarity_NLP,Polarity_Match,Predicate_Type_Hint_Base,Predicate_Type_Hint_NLP,Predicate_Type_Final_Base,Predicate_Type_Final_NLP,NLP_Root_Word_Notes
+LIT_0001,Literary,Literary Narrative,pahalwan_ki_dholak,जाड़े का दिन।,0,0,True,Affirmative,Affirmative,True,Nominal/Adjectival (Check Manually),NLP Parsed (NOUN),,Equational/Nominal,Root Word: दिन।
+LIT_0002,Literary,Literary Narrative,pahalwan_ki_dholak,अमावस्या की रात ... ठण्डी और काली।,0,0,True,Affirmative,Affirmative,True,Nominal/Adjectival (Check Manually),NLP Parsed (ADJ),,Adjectival,Root Word: ठण्डी
+LIT_0003,Literary,Literary Narrative,pahalwan_ki_dholak,"पुरानी और उजड़ी, बांस-फूस की झोपड़ियों में अन्धकार और सन्नाटे का सम्मिलित साम्राज्य।",0,0,True,Affirmative,Affirmative,True,Locative/Existential,NLP Parsed (NOUN),,Locative/Existential,Root Word: साम्राज्य।
+LIT_0004,Literary,Literary Narrative,pahalwan_ki_dholak,अन्धेरा और निस्तबधता !,0,0,True,Affirmative,Affirmative,True,Nominal/Adjectival (Check Manually),NLP Parsed (NOUN),,Equational/Nominal,Root Word: अन्धेरा
+LIT_0005,Literary,Literary Narrative,pahalwan_ki_dholak,पृथ्वी पर कहीं प्रकाश का नाम नहीं।,0,0,True,Negative,Negative,True,Locative/Existential,NLP Parsed (NOUN),,Locative/Existential,Root Word: नाम
+LIT_0006,Literary,Literary Narrative,pahalwan_ki_dholak,"गांव की झोपड़ियों से कराहने और कै करने की आवाज़, ‘हरे राम !",0,0,True,Affirmative,Affirmative,True,Nominal/Adjectival (Check Manually),NLP Parsed (NOUN),,Equational/Nominal,Root Word: आवाज़
+LIT_0007,Literary,Literary Narrative,pahalwan_ki_dholak,कुत्तों में परिस्थिति को ताड़ने की एक विशेष बुद्धि होती है।,1,1,True,Affirmative,Affirmative,True,Locative/Existential,NLP Parsed (VERB),,Locative/Existential,Root Word: होती
+LIT_0008,Literary,Literary Narrative,pahalwan_ki_dholak,संध्या से प्रात:काल तक एक ही गति से बजती रहती — चट् धा... गिर धा… चट् धा... गिर धा... !,0,0,True,Affirmative,Affirmative,True,Locative/Existential,NLP Parsed (VERB),,Locative/Existential,Root Word: बजती
+LIT_0009,Literary,Literary Narrative,pahalwan_ki_dholak,"’ यानी ‘आ जा, भिड़ जा, आ जा, भिड़ जा !",0,0,True,Affirmative,Affirmative,True,Nominal/Adjectival (Check Manually),NLP Parsed (VERB),,Equational/Nominal,Root Word: भिड़
+LIT_0010,Literary,Literary Narrative,pahalwan_ki_dholak,"’… बीच बीच में — ‘चटाक् चट् धा, चटा्क चट् धा !",0,0,True,Affirmative,Affirmative,True,Locative/Existential,NLP Parsed (PROPN),,Locative/Existential,Root Word: धा
+LIT_0011,Literary,Literary Narrative,pahalwan_ki_dholak,’ यानी उठाकर पटक दे !,0,0,True,Affirmative,Affirmative,True,Nominal/Adjectival (Check Manually),NLP Parsed (VERB),,Equational/Nominal,Root Word: पटक
+LIT_0012,Literary,Literary Narrative,pahalwan_ki_dholak,उठाकर पटक दे।,0,0,True,Affirmative,Affirmative,True,Nominal/Adjectival (Check Manually),NLP Parsed (VERB),,Equational/Nominal,Root Word: पटक
+LIT_0013,Literary,Literary Narrative,pahalwan_ki_dholak,लुट्टन सिंह पहलवान !,0,0,True,Affirmative,Affirmative,True,Nominal/Adjectival (Check Manually),NLP Parsed (NOUN),,Equational/Nominal,Root Word: पहलवान
+LIT_0014,Literary,Literary Narrative,pahalwan_ki_dholak,किन्तु उसके होल इण्डिया की सीमा शायद एक ज़िले की सीमा के बराबर ही हो।,1,1,True,Affirmative,Affirmative,True,Nominal/Adjectival (Check Manually),NLP Parsed (VERB),,Equational/Nominal,Root Word: हो
+LIT_0015,Literary,Literary Narrative,pahalwan_ki_dholak,विधवा सास ने पाल-पोस कर बड़ा किया।,0,0,True,Affirmative,Affirmative,True,Nominal/Adjectival (Check Manually),NLP Parsed (VERB),,Adjectival,Root Word: किया
+LIT_0016,Literary,Literary Narrative,pahalwan_ki_dholak,जवानी में क़दम रखते ही वह गांव में सबसे अच्छा पहलवा समझा जाने लगा।,0,0,True,Affirmative,Affirmative,True,Locative/Existential,NLP Parsed (VERB),,Locative/Existential,Root Word: लगा
+LIT_0017,Literary,Literary Narrative,pahalwan_ki_dholak,"लोग उससे डरने लगे और वह दोनो हाथो को दोनों ओर 45 डिग्री की दूरी पर फैलाकर, पहलवानों की भाँति चलने लगा।",0,0,True,Affirmative,Affirmative,True,Locative/Existential,NLP Parsed (VERB),,Locative/Existential,Root Word: लगे
+LIT_0018,Literary,Literary Narrative,pahalwan_ki_dholak,उसने बिना कुछ सोचे-समझे दंगल में ‘शेर के बच्चे’ को चुनौती दे दी।,0,0,True,Negative,Negative,True,Locative/Existential,NLP Parsed (VERB),,Locative/Existential,Root Word: दे
+LIT_0019,Literary,Literary Narrative,pahalwan_ki_dholak,"सम्मान प्राप्त चांद सिंह पहले तो किंचित, उसकी स्पर्धा पर मुस्कराया।",0,0,True,Affirmative,Affirmative,True,Locative/Existential,NLP Parsed (VERB),,Locative/Existential,Root Word: मुस्कराया
+LIT_0020,Literary,Literary Narrative,pahalwan_ki_dholak,फिर बाज की तरह उस पे टूट पड़ा।,0,0,True,Affirmative,Affirmative,True,Locative/Existential,NLP Parsed (VERB),,Locative/Existential,Root Word: टूट
+LIT_0021,Literary,Literary Narrative,pahalwan_ki_dholak,"शांत दर्शको की भीड़ में खलबली मच गयी—’पागल है पागल, मरा—ऐं!",1,1,True,Affirmative,Affirmative,True,Locative/Existential,NLP Parsed (VERB),,Locative/Existential,Root Word: मच
+LIT_0022,Literary,Literary Narrative,pahalwan_ki_dholak,… पर वाह रे बहादुर!,0,0,True,Affirmative,Affirmative,True,Locative/Existential,NLP Parsed (PROPN),,Locative/Existential,Root Word: बहादुर
+LIT_0023,Literary,Literary Narrative,pahalwan_ki_dholak,राजा साहब ने कुश्ती बंद करवाकर लुट्टन को अपने पास बुलवाया और समझाया।,0,0,True,Affirmative,Affirmative,True,Nominal/Adjectival (Check Manually),NLP Parsed (VERB),,Adjectival,Root Word: बुलवाया
+LIT_0024,Literary,Literary Narrative,pahalwan_ki_dholak,"…
+
+”नहीं सरकार, लड़ेंगे…हुकुम हो सरकार…!",1,1,True,Negative,Affirmative,False,Nominal/Adjectival (Check Manually),NLP Parsed (VERB),,Equational/Nominal,Root Word: हो
+LIT_0025,Literary,Literary Narrative,pahalwan_ki_dholak,"”
+
+”तुम पागल हो,…जाओ…”
+
+मैनेजर साहब से लेकर सिपाहियों तक ने धमकाया—”देह में गोश्त नहीं, लड़ने चला है शेर के बच्चे से!",1,1,True,Negative,Negative,True,Locative/Existential,NLP Parsed (NOUN),,Locative/Existential,Root Word: बच्चे
+LIT_0026,Literary,Literary Narrative,pahalwan_ki_dholak,सरकार इतना समझा रहें हैं…!,0,0,True,Affirmative,Affirmative,True,Nominal/Adjectival (Check Manually),NLP Parsed (VERB),,Adjectival,Root Word: समझा
+LIT_0027,Literary,Literary Narrative,pahalwan_ki_dholak,"”
+
+”दुहाई सरकार, पत्थर पर माथा पटककर मर जाउंगा…मिले हुकुम!",0,0,True,Affirmative,Affirmative,True,Locative/Existential,NLP Parsed (VERB),,Locative/Existential,Root Word: मर
+LIT_0028,Literary,Literary Narrative,pahalwan_ki_dholak,कोई—कोई लुट्टन के पक्ष से चिल्ला उठता था—”उसे लड़ने दिया जाये!,0,0,True,Affirmative,Affirmative,True,Nominal/Adjectival (Check Manually),NLP Parsed (VERB),,Equational/Nominal,Root Word: चिल्ला
+LIT_0029,Literary,Literary Narrative,pahalwan_ki_dholak,"विवश होकर राजा साहब ने आज्ञा दे दी—”लड़ने दो”
+
+बाजे बजने लगे।",0,0,True,Affirmative,Affirmative,True,Nominal/Adjectival (Check Manually),NLP Parsed (VERB),,Adjectival,Root Word: लगे
+LIT_0030,Literary,Literary Narrative,pahalwan_ki_dholak,दर्शकों में फिर उत्तेजना फैली।,0,0,True,Affirmative,Affirmative,True,Locative/Existential,NLP Parsed (VERB),,Locative/Existential,Root Word: फैली।
+LIT_0031,Literary,Literary Narrative,pahalwan_ki_dholak,मेले के दुकानदार दुकान बंद कर के दौड़े—”चांद सिंह की जोड़ी—चांद की कुश्ती हो रही है।,1,1,True,Affirmative,Affirmative,True,Nominal/Adjectival (Check Manually),NLP Parsed (VERB),,Adjectival,Root Word: हो
+LIT_0032,Literary,Literary Narrative,pahalwan_ki_dholak,"”
+
+‘चट् धा, गिड़ धा, चट् धा, गिड़ धा…”
+
+भरी आवाज में एक ढोल— जो अब तक चुप था— बोलने लगा—
+
+‘ढाक् ढिना,ढाक् ढिना,ढाक् ढिना…’
+
+(अर्थात्— वाह पट्ठे!",0,0,True,Affirmative,Affirmative,True,Locative/Existential,NLP Parsed (NOUN),,Locative/Existential,Root Word: पट्ठे
+LIT_0033,Literary,Literary Narrative,pahalwan_ki_dholak,"—दर्शको ने तालियां बजायीं—”हलुआ हो जायेगा, हलुआ!",1,1,True,Affirmative,Affirmative,True,Nominal/Adjectival (Check Manually),NLP Parsed (VERB),,Equational/Nominal,Root Word: बजायीं
+LIT_0034,Literary,Literary Narrative,pahalwan_ki_dholak,हंसी—खेल नहीं—शेर का बच्चा है… बच्चू!,0,0,True,Affirmative,Negative,False,Nominal/Adjectival (Check Manually),NLP Parsed (PROPN),,Equational/Nominal,Root Word: बच्चू
+LIT_0035,Literary,Literary Narrative,pahalwan_ki_dholak,"”वहीं दफना दे, बहादुर!",0,0,True,Affirmative,Affirmative,True,Nominal/Adjectival (Check Manually),NLP Parsed (VERB),,Equational/Nominal,Root Word: दफना
+LIT_0036,Literary,Literary Narrative,pahalwan_ki_dholak,"अचानक ढोल की एक पतली आवाज सुनायी पड़ी—
+
+‘धाक—धिना, तिरकट—तिना,धाक—धिना, तिरकट—तिना…!",0,0,True,Affirmative,Affirmative,True,Nominal/Adjectival (Check Manually),NLP Parsed (NOUN),,Locative/Existential,Root Word: धिना
+LIT_0037,Literary,Literary Narrative,pahalwan_ki_dholak,"’
+
+लुट्टन को स्पष्ट सुनाई पड़ा, ढोल कह रहा था—’दांव काटो, बाहर हो जा, दांव काटो बाहर हो जा!",1,1,True,Affirmative,Affirmative,True,Nominal/Adjectival (Check Manually),NLP Parsed (VERB),,Adjectival,Root Word: सुनाई
+LIT_0038,Literary,Literary Narrative,pahalwan_ki_dholak,"’
+
+लोगो के आश्चर्य की सीमा नहीं रही, लुट्टन दांव काटकर बाहर निकला और तुरंत लपककर उसने चांद की गर्दन पकड़ ली।",0,0,True,Negative,Negative,True,Nominal/Adjectival (Check Manually),NLP Parsed (VERB),,Equational/Nominal,Root Word: रही
+LIT_0039,Literary,Literary Narrative,pahalwan_ki_dholak,”वाह रे मिट्टी के शेर!,0,0,True,Affirmative,Affirmative,True,Nominal/Adjectival (Check Manually),NLP Parsed (NOUN),,Equational/Nominal,Root Word: शेर!
+LIT_0040,Literary,Literary Narrative,pahalwan_ki_dholak,बाहर निकल आया?,0,0,True,Affirmative,Affirmative,True,Nominal/Adjectival (Check Manually),NLP Parsed (VERB),,Equational/Nominal,Root Word: निकल
+LIT_0041,Literary,Literary Narrative,pahalwan_ki_dholak,"मोटी और भोंडी आवाज वाला ढ़ोल बज उठा—’चटा्क—चट्—धा,चटा्क—चट्—धा…'(उठा पटक् दे!",0,0,True,Affirmative,Affirmative,True,Nominal/Adjectival (Check Manually),NLP Parsed (VERB),,Adjectival,Root Word: बज
+LIT_0042,Literary,Literary Narrative,pahalwan_ki_dholak,उठा पटक दे!,0,0,True,Affirmative,Affirmative,True,Nominal/Adjectival (Check Manually),NLP Parsed (VERB),,Equational/Nominal,Root Word: पटक
+LIT_0043,Literary,Literary Narrative,pahalwan_ki_dholak,")
+
+लुट्टन ने चालाकी से दांव और जोर लगाकर चांद को जमीन पे दे मारा।",0,0,True,Affirmative,Affirmative,True,Locative/Existential,NLP Parsed (VERB),,Locative/Existential,Root Word: दे
+LIT_0044,Literary,Literary Narrative,pahalwan_ki_dholak,"(अर्थात् चित करो, चित करो!",0,0,True,Affirmative,Affirmative,True,Nominal/Adjectival (Check Manually),NLP Parsed (VERB),,Adjectival,Root Word: करो
+LIT_0045,Literary,Literary Narrative,pahalwan_ki_dholak,")
+
+लुट्टन ने अंतिम जोर लगाया—चांद सिंह चारो खाने चित हो रहा।",1,1,True,Affirmative,Affirmative,True,Nominal/Adjectival (Check Manually),NLP Parsed (VERB),,Adjectival,Root Word: लगाया
+LIT_0046,Literary,Literary Narrative,pahalwan_ki_dholak,")
+
+जनता यह स्थिर नहीं कर सकी की किसकी जय—ध्वनी की जाये।",0,0,True,Negative,Negative,True,Nominal/Adjectival (Check Manually),NLP Parsed (VERB),,Adjectival,Root Word: कर
+LIT_0047,Literary,Literary Narrative,pahalwan_ki_dholak,"फलत: अपनी—अपनी इच्छानुसार किसी ने ‘मां दुर्गा की’, किसी ने महावीर जी की, कुछ ने राजा श्यामनंद की जय ध्वनी की।",0,0,True,Affirmative,Affirmative,True,Nominal/Adjectival (Check Manually),NLP Parsed (VERB),,Adjectival,Root Word: की
+LIT_0048,Literary,Literary Narrative,pahalwan_ki_dholak,अंत में सम्मिलित ‘जय!,0,0,True,Affirmative,Affirmative,True,Locative/Existential,NLP Parsed (PROPN),,Locative/Existential,Root Word: ‘जय
+LIT_0049,Literary,Literary Narrative,pahalwan_ki_dholak,’ से सारा आकाश गूंज उठा।,0,0,True,Affirmative,Affirmative,True,Nominal/Adjectival (Check Manually),NLP Parsed (VERB),,Equational/Nominal,Root Word: गूंज
+LIT_0050,Literary,Literary Narrative,pahalwan_ki_dholak,"विजयी लुट्टन कूदता—फांदता, ताल—ठोंकता सबसे पहले बाजे वालों की ओर दौड़ा और ढोलो को श्रद्धापूर्वक प्रणाम किया।",0,0,True,Affirmative,Affirmative,True,Locative/Existential,NLP Parsed (VERB),,Locative/Existential,Root Word: दौड़ा
+LIT_0051,Literary,Literary Narrative,pahalwan_ki_dholak,फिर दौड़कर उसने राजा साहब को गोद में उठा लिया।,0,0,True,Affirmative,Affirmative,True,Locative/Existential,NLP Parsed (VERB),,Locative/Existential,Root Word: उठा
+LIT_0052,Literary,Literary Narrative,pahalwan_ki_dholak,मैनेजर साहब ने आपत्ति की— ‘हें हें…अरे—रे!,0,0,True,Affirmative,Affirmative,True,Nominal/Adjectival (Check Manually),NLP Parsed (VERB),,Equational/Nominal,Root Word: की
+LIT_0053,Literary,Literary Narrative,pahalwan_ki_dholak,’ किन्तु राजा साहब ने उसे स्वयं छाती से लगाकर गदगद होकर कहा— ‘जीते रहो बहादुर!,0,0,True,Affirmative,Affirmative,True,Nominal/Adjectival (Check Manually),NLP Parsed (VERB),,Adjectival,Root Word: कहा
+LIT_0054,Literary,Literary Narrative,pahalwan_ki_dholak,तुमने मिट्टी की लाज रख ली!,0,0,True,Affirmative,Affirmative,True,Nominal/Adjectival (Check Manually),NLP Parsed (VERB),,Equational/Nominal,Root Word: रख
+LIT_0055,Literary,Literary Narrative,pahalwan_ki_dholak,"लुट्टन को राजा साहब ने पुरस्कृत ही नहीं किया, अपने दरबार में सदा के लिए रख लिया।",0,0,True,Negative,Negative,True,Locative/Existential,NLP Parsed (VERB),,Locative/Existential,Root Word: किया
+LIT_0056,Literary,Literary Narrative,pahalwan_ki_dholak,राज—पंडितों ने मुंह बिचकाया—”हुजूर!,0,0,True,Affirmative,Affirmative,True,Nominal/Adjectival (Check Manually),NLP Parsed (VERB),,Equational/Nominal,Root Word: बिचकाया
+LIT_0057,Literary,Literary Narrative,pahalwan_ki_dholak,जाति का दुसाध…सिंह!,0,0,True,Affirmative,Affirmative,True,Nominal/Adjectival (Check Manually),NLP Parsed (NOUN),,Equational/Nominal,Root Word: दुसाध
+LIT_0058,Literary,Literary Narrative,pahalwan_ki_dholak,पौष्टिक भोजन और व्यायाम तथा राजा साहब की स्नेह दृष्टि ने उसकी प्रसिद्धि में चार चांद लगा दिये।,0,0,True,Affirmative,Affirmative,True,Locative/Existential,NLP Parsed (VERB),,Locative/Existential,Root Word: लगा
+LIT_0059,Literary,Literary Narrative,pahalwan_ki_dholak,कुछ वर्षो में ही उसने एक—एक कर सभी नामी पहलवानों को मिट्टी सुंघाकर दिखा दिया।,0,0,True,Affirmative,Affirmative,True,Locative/Existential,NLP Parsed (VERB),,Locative/Existential,Root Word: दिखा
+LIT_0060,Literary,Literary Narrative,pahalwan_ki_dholak,लुट्टन ने उसको भी पटककर लोगों का भ्रम दूर कर दिया।,0,0,True,Affirmative,Affirmative,True,Nominal/Adjectival (Check Manually),NLP Parsed (VERB),,Equational/Nominal,Root Word: कर
+LIT_0061,Literary,Literary Narrative,pahalwan_ki_dholak,उसके बाद से वह राज—दरबार का दर्शनीय ‘जीव’ ही रहा।,0,0,True,Affirmative,Affirmative,True,Nominal/Adjectival (Check Manually),NLP Parsed (VERB),,Adjectival,Root Word: रहा
+LIT_0062,Literary,Literary Narrative,pahalwan_ki_dholak,"चिड़ियाखाने में पिंजड़े और जंजीरो को झकोरकर बाघ दहाड़ता—’हां—उं, हां—उं!",0,0,True,Affirmative,Affirmative,True,Locative/Existential,NLP Parsed (VERB),,Locative/Existential,Root Word: दहाड़ता
+LIT_0063,Literary,Literary Narrative,pahalwan_ki_dholak,सुनने वाले कहते—’राजा का बाघ बोला।,0,0,True,Affirmative,Affirmative,True,Nominal/Adjectival (Check Manually),NLP Parsed (VERB),,Adjectival,Root Word: कहते
+LIT_0064,Literary,Literary Narrative,pahalwan_ki_dholak,ठाकुरबाड़े के सामने पहलवान गरजता— ‘महा—वीर!,0,0,True,Affirmative,Affirmative,True,Locative/Existential,NLP Parsed (VERB),,Locative/Existential,Root Word: गरजता
+LIT_0065,Literary,Literary Narrative,pahalwan_ki_dholak,’ लोग समझ लेते पहलवान बोला।,0,0,True,Affirmative,Affirmative,True,Nominal/Adjectival (Check Manually),NLP Parsed (VERB),,Equational/Nominal,Root Word: बोला।
+LIT_0066,Literary,Literary Narrative,pahalwan_ki_dholak,"मेलों में वह घुटने तक लंबा चोगा पहने, अस्त—व्यस्त पगड़ी बांधकर मतवाले हाथी की तरह झूमता चलता।",0,0,True,Affirmative,Affirmative,True,Locative/Existential,NLP Parsed (VERB),,Locative/Existential,Root Word: पहने
+LIT_0067,Literary,Literary Narrative,pahalwan_ki_dholak,दुकानदारों को चुहल करने की सुझती।,0,0,True,Affirmative,Affirmative,True,Nominal/Adjectival (Check Manually),NLP Parsed (VERB),,Equational/Nominal,Root Word: सुझती
+LIT_0068,Literary,Literary Narrative,pahalwan_ki_dholak,हलवाई अपनी दुकान पर बुलाता— ”पहलवान काका!,0,0,True,Affirmative,Affirmative,True,Locative/Existential,NLP Parsed (VERB),,Locative/Existential,Root Word: बुलाता
+LIT_0069,Literary,Literary Narrative,pahalwan_ki_dholak,"ताजा रसगुल्ला बना है, जरा नाश्ता कर लो!",1,1,True,Affirmative,Affirmative,True,Nominal/Adjectival (Check Manually),NLP Parsed (VERB),,Adjectival,Root Word: बना
+LIT_0070,Literary,Literary Narrative,pahalwan_ki_dholak,"”
+
+पहलवान बच्चो की—सी स्वाभाविक हंसी हंसकर कहता—”अरे तनी—मनी काहे!",0,0,True,Affirmative,Affirmative,True,Nominal/Adjectival (Check Manually),NLP Parsed (VERB),,Adjectival,Root Word: कहता
+LIT_0071,Literary,Literary Narrative,pahalwan_ki_dholak,ले आव डेढ़ सेर!,0,0,True,Affirmative,Affirmative,True,Nominal/Adjectival (Check Manually),NLP Parsed (VERB),,Equational/Nominal,Root Word: ले
+LIT_0072,Literary,Literary Narrative,pahalwan_ki_dholak,” और बैठ जाता।,0,0,True,Affirmative,Affirmative,True,Nominal/Adjectival (Check Manually),NLP Parsed (VERB),,Equational/Nominal,Root Word: बैठ
+LIT_0073,Literary,Literary Narrative,pahalwan_ki_dholak,बूढ़े राजा साहब देख—देखकर मुस्कराते रहते।,0,0,True,Affirmative,Affirmative,True,Nominal/Adjectival (Check Manually),NLP Parsed (VERB),,Adjectival,Root Word: मुस्कराते
+LIT_0074,Literary,Literary Narrative,pahalwan_ki_dholak,पहलवान अजेय रहा।,0,0,True,Affirmative,Affirmative,True,Nominal/Adjectival (Check Manually),NLP Parsed (VERB),,Adjectival,Root Word: रहा
+LIT_0075,Literary,Literary Narrative,pahalwan_ki_dholak,दंगल में दोनो को देखकर लोगो के मुंह से अनायास ही निकल पड़ता—”वाह!,0,0,True,Affirmative,Affirmative,True,Locative/Existential,NLP Parsed (VERB),,Locative/Existential,Root Word: निकल
+LIT_0076,Literary,Literary Narrative,pahalwan_ki_dholak,बाप से भी बढ़कर निकलेंगे ये दोनो बेटे!,0,0,True,Affirmative,Affirmative,True,Nominal/Adjectival (Check Manually),NLP Parsed (VERB),,Equational/Nominal,Root Word: निकलेंगे
+LIT_0077,Literary,Literary Narrative,pahalwan_ki_dholak,प्रतिदिन प्रात:काल पहलवान स्वयं ढोलक बजा—बजाकर दोनो से कसलर करवाता।,0,0,True,Affirmative,Affirmative,True,Nominal/Adjectival (Check Manually),NLP Parsed (VERB),,Adjectival,Root Word: करवाता
+LIT_0078,Literary,Literary Narrative,pahalwan_ki_dholak,"दोपहर में, लेटे—लेटे दोनों को सांसारिक ज्ञान की भी शिक्षा देता— ”समझे!",0,0,True,Affirmative,Affirmative,True,Locative/Existential,NLP Parsed (VERB),,Locative/Existential,Root Word: देता
+LIT_0079,Literary,Literary Narrative,pahalwan_ki_dholak,ढोलक की आवाज पर पूरा ध्यान रखना।,0,0,True,Affirmative,Affirmative,True,Locative/Existential,NLP Parsed (VERB),,Locative/Existential,Root Word: रखना
+LIT_0080,Literary,Literary Narrative,pahalwan_ki_dholak,"हां, मेरा गुरू कोई पहलवान नहीं, यही ढोल है, समझे!",1,1,True,Negative,Negative,True,Nominal/Adjectival (Check Manually),NLP Parsed (NOUN),,Equational/Nominal,Root Word: पहलवान
+LIT_0081,Literary,Literary Narrative,pahalwan_ki_dholak,"दंगल में उतरकर सबसे पहले ढोलों को प्रणाम करना, समझे!",0,0,True,Affirmative,Affirmative,True,Locative/Existential,NLP Parsed (VERB),,Locative/Existential,Root Word: समझे
+LIT_0082,Literary,Literary Narrative,pahalwan_ki_dholak,”… ऐसी बहुत सी बातें वह कहा करता।,0,0,True,Affirmative,Affirmative,True,Nominal/Adjectival (Check Manually),NLP Parsed (VERB),,Equational/Nominal,Root Word: कहा
+LIT_0083,Literary,Literary Narrative,pahalwan_ki_dholak,नये राजकुमार ने विलायत से आते ही राज्य—कार्य अपने हाथ में ले लिया।,0,0,True,Affirmative,Affirmative,True,Locative/Existential,NLP Parsed (VERB),,Locative/Existential,Root Word: ले
+LIT_0084,Literary,Literary Narrative,pahalwan_ki_dholak,उन्हीं परिवर्तनों की चपेटाघात में पड़ा पहलवान भी।,0,0,True,Affirmative,Affirmative,True,Locative/Existential,NLP Parsed (NOUN),,Locative/Existential,Root Word: पहलवान
+LIT_0085,Literary,Literary Narrative,pahalwan_ki_dholak,दंगल का स्थान घोड़े की रेस ने लिया।,0,0,True,Affirmative,Affirmative,True,Nominal/Adjectival (Check Manually),NLP Parsed (VERB),,Equational/Nominal,Root Word: लिया
+LIT_0086,Literary,Literary Narrative,pahalwan_ki_dholak,"पहलवान तथा दोनों भावी पहलवानों का दैनिक भोजन—व्यय सुनते ही राजकुमार न कहा—’टैरिबुल’
+
+नये मैनेजर ने कहा—’हौरिबुल!",0,0,True,Negative,Negative,True,Nominal/Adjectival (Check Manually),NLP Parsed (VERB),,Adjectival,Root Word: कहा
+LIT_0087,Literary,Literary Narrative,pahalwan_ki_dholak,"उसी दिन वह ढोलक कंधे से लटकाकर, अपने दोनो पुत्रों के साथ अपने गांव में लौट आया और वहीं रहने लगा।",0,0,True,Affirmative,Affirmative,True,Locative/Existential,NLP Parsed (VERB),,Locative/Existential,Root Word: लौट
+LIT_0088,Literary,Literary Narrative,pahalwan_ki_dholak,"गांव के एक छोर पर, गांव वालों ने एक झोपड़ी बांध दी।",0,0,True,Affirmative,Affirmative,True,Locative/Existential,NLP Parsed (VERB),,Locative/Existential,Root Word: बांध
+LIT_0089,Literary,Literary Narrative,pahalwan_ki_dholak,वहीं रहकर वह गांव के नौजवानों और चरवाहों को कुश्ती सिखाने लगा।,0,0,True,Affirmative,Affirmative,True,Nominal/Adjectival (Check Manually),NLP Parsed (VERB),,Equational/Nominal,Root Word: लगा
+LIT_0090,Literary,Literary Narrative,pahalwan_ki_dholak,गांव के किसान और खेतिहर—मजदूर के बच्चे भला क्या खाकर कुश्ती सीखते!,0,0,True,Affirmative,Affirmative,True,Nominal/Adjectival (Check Manually),NLP Parsed (VERB),,Equational/Nominal,Root Word: सीखते
+LIT_0091,Literary,Literary Narrative,pahalwan_ki_dholak,धीरे—धीरे पहलवान का स्कूल खाली पड़ने लगा।,0,0,True,Affirmative,Affirmative,True,Nominal/Adjectival (Check Manually),NLP Parsed (VERB),,Adjectival,Root Word: लगा
+LIT_0092,Literary,Literary Narrative,pahalwan_ki_dholak,अंत में अपने दोनो पुत्रों को ही वह ढोलक बजा—बजाकर लड़ाता रहा—सिखाता रहा।,0,0,True,Affirmative,Affirmative,True,Locative/Existential,NLP Parsed (VERB),,Locative/Existential,Root Word: लड़ाता
+LIT_0093,Literary,Literary Narrative,pahalwan_ki_dholak,"दोनों लड़के दिन भर मजदूरी करके जो कुछ भी लाते, उसी में गुजर होती रही।",0,0,True,Affirmative,Affirmative,True,Locative/Existential,NLP Parsed (VERB),,Locative/Existential,Root Word: गुजर
+LIT_0094,Literary,Literary Narrative,pahalwan_ki_dholak,"पहले अनावृष्टि, फिर अन्न की कमी, तब मलेरिया और हैजे ने मिलकर गांव को भूनना शुरू कर दिया।",0,0,True,Affirmative,Affirmative,True,Nominal/Adjectival (Check Manually),NLP Parsed (VERB),,Equational/Nominal,Root Word: कर
+LIT_0095,Literary,Literary Narrative,pahalwan_ki_dholak,रोज दो—तीन लाशें उठने लगीं।,0,0,True,Affirmative,Affirmative,True,Nominal/Adjectival (Check Manually),NLP Parsed (VERB),,Equational/Nominal,Root Word: लगीं
+LIT_0096,Literary,Literary Narrative,pahalwan_ki_dholak,"सूर्योदय होते ही लोग कांखते—कूंखते—कराहते अपने—अपने घरों से बाहर निकल कर अपने पड़ोसियों और आत्मीयों को ढाढंस देते थे— ”अरे क्या करोगी रोकर, दुलहिन!",0,0,True,Affirmative,Affirmative,True,Nominal/Adjectival (Check Manually),NLP Parsed (VERB),,Adjectival,Root Word: देते
+LIT_0097,Literary,Literary Narrative,pahalwan_ki_dholak,"कफन की क्या जरूरत है, दे आओ नदी में।",1,1,True,Affirmative,Affirmative,True,Locative/Existential,NLP Parsed (NOUN),,Locative/Existential,Root Word: जरूरत
+LIT_0098,Literary,Literary Narrative,pahalwan_ki_dholak,किंतु सूर्यास्त होते ही जब लोग अपनी—अपनी झोपड़ियों में घुस जाते तो चूं भी नहीं करते।,0,0,True,Negative,Negative,True,Locative/Existential,NLP Parsed (VERB),,Locative/Existential,Root Word: चूं
+LIT_0099,Literary,Literary Narrative,pahalwan_ki_dholak,पास में दम तोड़ते पुत्र को अंतिम बार ‘बेटा!,0,0,True,Affirmative,Affirmative,True,Locative/Existential,NLP Parsed (PUNCT),,Locative/Existential,Root Word: ‘बेटा
+LIT_0100,Literary,Literary Narrative,pahalwan_ki_dholak,उठा पटक दो वाला ताल बजाओ!,0,0,True,Affirmative,Affirmative,True,Nominal/Adjectival (Check Manually),NLP Parsed (VERB),,Adjectival,Root Word: बजाओ
+LIT_0101,Literary,Literary Narrative,pahalwan_ki_dholak,"”
+
+‘चटा्क चट् धा,चटा्क चट् धा…’—सारी रात ढोलक पीटता रहा पहलवान।",0,0,True,Affirmative,Affirmative,True,Nominal/Adjectival (Check Manually),NLP Parsed (VERB),,Equational/Nominal,Root Word: पीटता
+LIT_0102,Literary,Literary Narrative,pahalwan_ki_dholak,बीच—बीच में पहलवानों की भाषा में उत्साहित भी करता था—”मारो बहादुर!,0,0,True,Affirmative,Affirmative,True,Locative/Existential,NLP Parsed (VERB),,Locative/Existential,Root Word: करता
+LIT_0103,Literary,Literary Narrative,pahalwan_ki_dholak,"”
+
+प्रात:काल उसने देखा— उसके दोनों बच्चे जमीन पर निस्पंद पड़े हैं।",1,1,True,Affirmative,Affirmative,True,Locative/Existential,NLP Parsed (VERB),,Locative/Existential,Root Word: देखा
+LIT_0104,Literary,Literary Narrative,pahalwan_ki_dholak,एक लंबी सांस लेकर पहलवान ने मुस्कराने की चेष्टा की थी—”दोनो बहादुर गिर पड़े!,0,0,True,Affirmative,Affirmative,True,Nominal/Adjectival (Check Manually),NLP Parsed (VERB),,Adjectival,Root Word: की
+LIT_0105,Literary,Literary Narrative,pahalwan_ki_dholak,"सारे शरीर में मिट्टी मलकर थोड़ी कसरत की, फिर दोनों पुत्रों को कंधो पर लादकर नदी में बहा आया।",0,0,True,Affirmative,Affirmative,True,Locative/Existential,NLP Parsed (VERB),,Locative/Existential,Root Word: की
+LIT_0106,Literary,Literary Narrative,pahalwan_ki_dholak,"किंतु, रात में फिर पहलवान की ढोलक की आवाज, प्रतिदिन की भांति सुनायी पड़ी।",0,0,True,Affirmative,Affirmative,True,Locative/Existential,NLP Parsed (VERB),,Locative/Existential,Root Word: सुनायी
+LIT_0107,Literary,Literary Narrative,pahalwan_ki_dholak,"”
+
+चार—पांच दिनो के बाद।",0,0,True,Affirmative,Affirmative,True,Nominal/Adjectival (Check Manually),NLP Parsed (NOUN),,Locative/Existential,Root Word: दिनो
+LIT_0108,Literary,Literary Narrative,pahalwan_ki_dholak,एक रात को ढोलक की आवाज नहीं सुनायी पड़ी।,0,0,True,Negative,Negative,True,Nominal/Adjectival (Check Manually),NLP Parsed (VERB),,Equational/Nominal,Root Word: सुनायी
+LIT_0109,Literary,Literary Narrative,pahalwan_ki_dholak,ढोलक नहीं बोली।,0,0,True,Negative,Negative,True,Nominal/Adjectival (Check Manually),NLP Parsed (VERB),,Equational/Nominal,Root Word: बोली
+LIT_0110,Literary,Literary Narrative,pahalwan_ki_dholak,"पहलवान के कुछ दिलेर, किंतु रूगण शिष्यों ने प्रात:काल जाकर देखा—पहलवान की लाश ‘चित’ पड़ी है।",1,1,True,Affirmative,Affirmative,True,Nominal/Adjectival (Check Manually),NLP Parsed (VERB),,Adjectival,Root Word: देखा
+LIT_0111,Literary,Literary Narrative,pahalwan_ki_dholak,रात में सियारों ने सुगठित बायीं जांघ के मांस को खा डाला है।,1,1,True,Affirmative,Affirmative,True,Locative/Existential,NLP Parsed (VERB),,Locative/Existential,Root Word: खा
+LIT_0112,Literary,Literary Narrative,pahalwan_ki_dholak,पेट पर भी…।,0,0,True,Affirmative,Affirmative,True,Locative/Existential,NLP Parsed (NOUN),,Locative/Existential,Root Word: पेट
+LIT_0113,Literary,Literary Narrative,pahalwan_ki_dholak,और चिता सुलगाने के समय ढोलक बजा देना।,0,0,True,Affirmative,Affirmative,True,Nominal/Adjectival (Check Manually),NLP Parsed (VERB),,Equational/Nominal,Root Word: बजा
+LIT_0114,Literary,Literary Narrative,pahalwan_ki_dholak,” वह आगे बोल नहीं सका।,0,0,True,Negative,Negative,True,Nominal/Adjectival (Check Manually),NLP Parsed (VERB),,Equational/Nominal,Root Word: बोल

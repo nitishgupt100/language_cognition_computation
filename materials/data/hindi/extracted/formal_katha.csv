@@ -1,0 +1,335 @@
+﻿Sentence_ID,Register,Sub_Register,Movie_Title,Raw_Sentence,Copula_Status_Base,Copula_Status_NLP,Copula_Status_Match,Polarity_Base,Polarity_NLP,Polarity_Match,Predicate_Type_Hint_Base,Predicate_Type_Hint_NLP,Predicate_Type_Final_Base,Predicate_Type_Final_NLP,NLP_Root_Word_Notes
+LIT_0001,Literary,Literary Narrative,katha,जानवरों में गधा सबसे ज्यादा बुद्धिहीन समझा जाता हैं ।,1,1,True,Affirmative,Affirmative,True,Locative/Existential,NLP Parsed (VERB),,Locative/Existential,Root Word: समझा
+LIT_0002,Literary,Literary Narrative,katha,हम जब किसी आदमी को पल्ले दरजे का बेवकूफ कहना चाहता हैं तो उसे गधा कहते हैं ।,1,1,True,Affirmative,Affirmative,True,Nominal/Adjectival (Check Manually),NLP Parsed (VERB),,Equational/Nominal,Root Word: कहते
+LIT_0003,Literary,Literary Narrative,katha,"गधा सचमुच बेवकूफ हैं, या उसके सीधेपन, उसकी मिरापद सहिष्णुता ने उसे यह पदवी दे दी हैं, इसका निश्चय नहीं किया जा सकता ।",1,1,True,Negative,Negative,True,Nominal/Adjectival (Check Manually),NLP Parsed (ADJ),,Adjectival,Root Word: बेवकूफ
+LIT_0004,Literary,Literary Narrative,katha,"कुत्ता भी बहुत गरीब जानवर हैं, लेकिन कभी-कभी उसे भी क्रोध आ जाता हैं, किन्तु गधे को कभी क्रोध करते नहीं सुना ।",1,1,True,Negative,Negative,True,Nominal/Adjectival (Check Manually),NLP Parsed (NOUN),,Equational/Nominal,Root Word: जानवर
+LIT_0005,Literary,Literary Narrative,katha,"वैशाख में चाहे एकाध बार कुलेल कर लेता हो, पर हमने तो उसे कभी खुश होते नहीं देखा ।",1,1,True,Negative,Negative,True,Locative/Existential,NLP Parsed (VERB),,Locative/Existential,Root Word: कर
+LIT_0006,Literary,Literary Narrative,katha,उसके चहरे पर एक स्थायी विषाद स्थायी रूप से छाया रहता हैं ।,1,1,True,Affirmative,Affirmative,True,Locative/Existential,NLP Parsed (VERB),,Locative/Existential,Root Word: छाया
+LIT_0007,Literary,Literary Narrative,katha,"सुख-दुःख, हानि-लाभ, किसी भी दशा में बदलते नहीं देखा ।",0,0,True,Negative,Negative,True,Locative/Existential,NLP Parsed (VERB),,Locative/Existential,Root Word: देखा
+LIT_0008,Literary,Literary Narrative,katha,सद् गुणों का इतना अनादर कहीं नहीं देखा ।,0,0,True,Negative,Negative,True,Nominal/Adjectival (Check Manually),NLP Parsed (VERB),,Adjectival,Root Word: देखा
+LIT_0009,Literary,Literary Narrative,katha,कदाचित् सीधापन संसार के लिए उपयुक्त नहीं हैं ।,1,1,True,Negative,Negative,True,Nominal/Adjectival (Check Manually),NLP Parsed (ADJ),,Adjectival,Root Word: उपयुक्त
+LIT_0010,Literary,Literary Narrative,katha,"देखिये न, भारतवासियों की अफ्रीका में क्यों दुर्दशा हो रही हैं।",1,1,True,Negative,Negative,True,Locative/Existential,NLP Parsed (VERB),,Locative/Existential,Root Word: हो
+LIT_0011,Literary,Literary Narrative,katha,क्यों अमरीका में उन्हें घुसने नहीं दिया जाता ?,0,0,True,Negative,Negative,True,Locative/Existential,NLP Parsed (VERB),,Locative/Existential,Root Word: दिया
+LIT_0012,Literary,Literary Narrative,katha,"बेचारे शराब नहीं पीते, चार पैसे कुसमय के लिए बचाकर रखते हैं, जी तोड़कर काम करते हैं, किसी से लड़ाई-झगड़ा नहीं करते, चार बातें सुनकर गम खा जाते हैं फिर भी बदनाम हैं ।",1,1,True,Negative,Negative,True,Nominal/Adjectival (Check Manually),NLP Parsed (AUX),,Equational/Nominal,Root Word: हैं
+LIT_0013,Literary,Literary Narrative,katha,"कहा जाता हैं, वे जीवन के आदर्श को नीचा करते हैं ।",1,1,True,Affirmative,Affirmative,True,Nominal/Adjectival (Check Manually),NLP Parsed (VERB),,Adjectival,Root Word: कहा
+LIT_0014,Literary,Literary Narrative,katha,अगर वे ईट का जवाब पत्थर से देना सीश जाते तो शायद सभ्य कहलाते लगते ।,0,0,True,Affirmative,Affirmative,True,Nominal/Adjectival (Check Manually),NLP Parsed (VERB),,Adjectival,Root Word: लगते
+LIT_0015,Literary,Literary Narrative,katha,जापान की मिशाल सामने हैं ।,1,1,True,Affirmative,Affirmative,True,Nominal/Adjectival (Check Manually),NLP Parsed (ADV),,Equational/Nominal,Root Word: सामने
+LIT_0016,Literary,Literary Narrative,katha,एक ही विजय ने उसे संसार की सभ्य जातियों में गण्य बना दिया ।,0,0,True,Affirmative,Affirmative,True,Locative/Existential,NLP Parsed (VERB),,Locative/Existential,Root Word: बना
+LIT_0017,Literary,Literary Narrative,katha,"लेकिन गधे का एक छोटा भाई और भी हैं, जो उससे कम गधा हैं और वह हैं बैल ।",1,1,True,Affirmative,Affirmative,True,Nominal/Adjectival (Check Manually),NLP Parsed (NOUN),,Equational/Nominal,Root Word: भाई
+LIT_0018,Literary,Literary Dialogue,katha,"जिस अर्थ में हम गधा का प्रयोग करते हैं, कुछ उसी से मिलते-जुलते अर्थ में 'बछिया के ताउ' का भी प्रयोग करते हैं ।",1,1,True,Affirmative,Affirmative,True,Locative/Existential,NLP Parsed (VERB),,Locative/Existential,Root Word: करते
+LIT_0019,Literary,Literary Narrative,katha,"कुछ लोग बैल को शायद बेवकूफों में सर्वश्रेष्ठ कहेंगे, मगर हमारा विचार ऐसा नहीं हैं ।",1,1,True,Negative,Negative,True,Locative/Existential,NLP Parsed (VERB),,Locative/Existential,Root Word: कहेंगे
+LIT_0020,Literary,Literary Narrative,katha,बैल कभी-कभी मारता भी हैं और कभी-कभी अड़ियल बैल भी देखने में आता हैं ।,1,1,True,Affirmative,Affirmative,True,Locative/Existential,NLP Parsed (VERB),,Locative/Existential,Root Word: मारता
+LIT_0021,Literary,Literary Narrative,katha,"और भी कई रीतिओं से अपना असंतोष प्रकट कर देता हैं, अतएव उसका स्थान गधे से नीचा हैं ।",1,1,True,Affirmative,Affirmative,True,Nominal/Adjectival (Check Manually),NLP Parsed (VERB),,Adjectival,Root Word: कर
+LIT_0022,Literary,Literary Narrative,katha,"इसके बिना दोस्ती कुछ फुसफसी, कुछ हल्की-सी रहती हैं, जिस पर ज्यादा विश्वास नहीं किया जा सकता ।",1,1,True,Negative,Negative,True,Locative/Existential,NLP Parsed (VERB),,Locative/Existential,Root Word: रहती
+LIT_0023,Literary,Literary Narrative,katha,दिनभर के बाद या संध्या को दोनों खुलते तो एक दुसरे को चाट-चूटकर अपनी थकान मिटा लिया करते ।,0,0,True,Affirmative,Affirmative,True,Nominal/Adjectival (Check Manually),NLP Parsed (VERB),,Equational/Nominal,Root Word: मिटा
+LIT_0024,Literary,Literary Narrative,katha,"एक मूँह हटा लेता, तो दूसरा भी हटा लेता ।",0,0,True,Affirmative,Affirmative,True,Nominal/Adjectival (Check Manually),NLP Parsed (VERB),,Adjectival,Root Word: हटा
+LIT_0025,Literary,Literary Narrative,katha,"सं योग की बात, झूरी ने एक बार गोई को सुसराल भेज दिया ।",0,0,True,Affirmative,Affirmative,True,Nominal/Adjectival (Check Manually),NLP Parsed (VERB),,Equational/Nominal,Root Word: भेज
+LIT_0026,Literary,Literary Narrative,katha,बैलों को क्या मालूम क्यों भेजे जा रहे हैं ।,1,1,True,Affirmative,Affirmative,True,Nominal/Adjectival (Check Manually),NLP Parsed (VERB),,Adjectival,Root Word: भेजे
+LIT_0027,Literary,Literary Narrative,katha,"समझे, मालिक ने हमे बेच दिया ।",0,0,True,Affirmative,Affirmative,True,Nominal/Adjectival (Check Manually),NLP Parsed (VERB),,Equational/Nominal,Root Word: बेच
+LIT_0028,Literary,Literary Narrative,katha,"पीछे से हाँकता तो दोनों दायें-बायें भागते, पगहिया पकड़कर आगे से खींचता, तो दोनो पीछे को जोर लगाते ।",0,0,True,Affirmative,Affirmative,True,Nominal/Adjectival (Check Manually),NLP Parsed (VERB),,Equational/Nominal,Root Word: हाँकता
+LIT_0029,Literary,Literary Narrative,katha,मारते तो दोनों सींग नीचे करके हुँकारते ।,0,0,True,Affirmative,Affirmative,True,Nominal/Adjectival (Check Manually),NLP Parsed (VERB),,Equational/Nominal,Root Word: हुँकारते
+LIT_0030,Literary,Literary Narrative,katha,"अगर ईश्वर ने उन्हें वाणी दी होती, तो झूरी से पूछते -- तुम हम गरीबों को क्यों निकाल रहे हो ?",1,1,True,Affirmative,Affirmative,True,Nominal/Adjectival (Check Manually),NLP Parsed (VERB),,Equational/Nominal,Root Word: पूछते
+LIT_0031,Literary,Literary Narrative,katha,हमने तो तुम्हारी सेवा करने में कोई कसर नहीं उठा रखी ।,0,0,True,Negative,Negative,True,Locative/Existential,NLP Parsed (VERB),,Locative/Existential,Root Word: उठा
+LIT_0032,Literary,Literary Narrative,katha,हमने कभी दाने-चारे की शिकाय नही की ।,0,0,True,Affirmative,Affirmative,True,Nominal/Adjectival (Check Manually),NLP Parsed (VERB),,Equational/Nominal,Root Word: की
+LIT_0033,Literary,Literary Narrative,katha,"तुमने जो कुछ खिलाया, वह सिर झुकाकर खा लिया, फिर भी तुमने हमें उस जालिम के हाथ क्यों बेच दिया ?",0,0,True,Affirmative,Affirmative,True,Locative/Existential,NLP Parsed (VERB),,Locative/Existential,Root Word: खा
+LIT_0034,Literary,Literary Narrative,katha,संध्या समय दोनों बैल अपने नये स्थान पर पहुँचे ।,0,0,True,Affirmative,Affirmative,True,Locative/Existential,NLP Parsed (VERB),,Locative/Existential,Root Word: पहुँचे
+LIT_0035,Literary,Literary Narrative,katha,"झूरी प्रातःकाल सोकर उठा, तो देखा दोनों बैल चरनी पर खड़े हैं ।",1,1,True,Affirmative,Affirmative,True,Locative/Existential,NLP Parsed (VERB),,Locative/Existential,Root Word: देखा
+LIT_0036,Literary,Literary Narrative,katha,दोनों की गरदनों में आधा-आधा गराँव लटक रहा हैं ।,1,1,True,Affirmative,Affirmative,True,Locative/Existential,NLP Parsed (VERB),,Locative/Existential,Root Word: लटक
+LIT_0037,Literary,Literary Narrative,katha,घुटने तक पाँव कीचड़ से भरे हैं और दोनों की आँखों में विद्रोहमय स्नेह झलक रहा हैं ।,1,1,True,Affirmative,Affirmative,True,Locative/Existential,NLP Parsed (VERB),,Locative/Existential,Root Word: भरे
+LIT_0038,Literary,Literary Narrative,katha,दौड़कर उन्हे गले लगा लिया ।,0,0,True,Affirmative,Affirmative,True,Nominal/Adjectival (Check Manually),NLP Parsed (VERB),,Equational/Nominal,Root Word: लगा
+LIT_0039,Literary,Literary Narrative,katha,"बाल-सभा ने निश्चय किया, दोनों पशू-वीरों को अभिनन्दन पत्र देना चाहिए ।",0,0,True,Affirmative,Affirmative,True,Nominal/Adjectival (Check Manually),NLP Parsed (VERB),,Equational/Nominal,Root Word: किया
+LIT_0040,Literary,Literary Narrative,katha,"कोई अपने घर से रोटियाँ लाया, कोई गुड़ , कोई चोकर , कोई भूसी ।",0,0,True,Affirmative,Affirmative,True,Nominal/Adjectival (Check Manually),NLP Parsed (VERB),,Equational/Nominal,Root Word: लाया
+LIT_0041,Literary,Literary Narrative,katha,दूसरे ने समर्थन किया -- इतनी दूर से दोनों अकेले चले आये ।,0,0,True,Affirmative,Affirmative,True,Nominal/Adjectival (Check Manually),NLP Parsed (VERB),,Adjectival,Root Word: किया
+LIT_0042,Literary,Literary Narrative,katha,"तीसरा बोला -- बैल नही हैं वे, उस जनम के आदमी हैं ।",1,1,True,Affirmative,Affirmative,True,Nominal/Adjectival (Check Manually),NLP Parsed (VERB),,Adjectival,Root Word: बोला
+LIT_0043,Literary,Literary Narrative,katha,झूरी की स्त्री ने बैलों को द्वार पर देखा तो जल उठी ।,0,0,True,Affirmative,Affirmative,True,Locative/Existential,NLP Parsed (VERB),,Locative/Existential,Root Word: जल
+LIT_0044,Literary,Literary Narrative,katha,झूरी अपने बैलों पर यह आक्षेप न सुन सका -- नमकहराम क्यों हैं?,1,1,True,Negative,Negative,True,Locative/Existential,NLP Parsed (VERB),,Locative/Existential,Root Word: सुन
+LIT_0045,Literary,Literary Narrative,katha,"स्त्री रोब के साथ कहा -- बस, तुम्हीं ही तो बैलों को खिलाना जानते हो और तो सभी पानी पिला-पिलाकर रखते है ।",1,1,True,Affirmative,Affirmative,True,Nominal/Adjectival (Check Manually),NLP Parsed (VERB),,Equational/Nominal,Root Word: कहा
+LIT_0046,Literary,Literary Narrative,katha,झूरी ने चिढ़ाया -- चारा मिलता तो क्यों भागचे ?,0,0,True,Affirmative,Affirmative,True,Nominal/Adjectival (Check Manually),NLP Parsed (VERB),,Equational/Nominal,Root Word: चिढ़ाया
+LIT_0047,Literary,Literary Narrative,katha,स्त्री चिढ़ी -- भागे इसलिए कि वे लोग तुम जैसे बुद्धुओं की तरह बैलों के सहलाते नहीं ।,0,0,True,Negative,Negative,True,Nominal/Adjectival (Check Manually),NLP Parsed (VERB),,Equational/Nominal,Root Word: सहलाते
+LIT_0048,Literary,Literary Narrative,katha,खिलाते है तो रगड़कर जोतते भी हैं ।,1,1,True,Affirmative,Affirmative,True,Nominal/Adjectival (Check Manually),NLP Parsed (VERB),,Equational/Nominal,Root Word: जोतते
+LIT_0049,Literary,Literary Narrative,katha,"ये ठहरे काम-चोर, भाग निकले, अब देखूँ ?",0,0,True,Affirmative,Affirmative,True,Nominal/Adjectival (Check Manually),NLP Parsed (VERB),,Equational/Nominal,Root Word: देखूँ
+LIT_0050,Literary,Literary Narrative,katha,कहाँ से खली और चोकर मिलता हैं ।,1,1,True,Affirmative,Affirmative,True,Nominal/Adjectival (Check Manually),NLP Parsed (VERB),,Equational/Nominal,Root Word: मिलता
+LIT_0051,Literary,Literary Narrative,katha,"सूखे-भूसे के सिवा कुछ न दूँगी , खाये चाहे मरे ।",0,0,True,Negative,Negative,True,Nominal/Adjectival (Check Manually),NLP Parsed (VERB),,Equational/Nominal,Root Word: दूँगी
+LIT_0052,Literary,Literary Narrative,katha,"बैलों ने नाँद मे मुँह डाला, तो फीका-फीका ।",0,0,True,Affirmative,Affirmative,True,Nominal/Adjectival (Check Manually),NLP Parsed (VERB),,Equational/Nominal,Root Word: डाला
+LIT_0053,Literary,Literary Narrative,katha,"न कोई चिकनाहट, न कोई रस ।",0,0,True,Negative,Negative,True,Nominal/Adjectival (Check Manually),NLP Parsed (NOUN),,Equational/Nominal,Root Word: चिकनाहट
+LIT_0054,Literary,Literary Narrative,katha,आशा भरी आँखों से द्वार की ओर ताकने लगे ।,0,0,True,Affirmative,Affirmative,True,Locative/Existential,NLP Parsed (VERB),,Locative/Existential,Root Word: लगे
+LIT_0055,Literary,Literary Narrative,katha,झूरी ने मजूर सा कहा -- थोड़ी सी खली क्यों नहीं ड़ाल देता बे ?,0,0,True,Negative,Negative,True,Nominal/Adjectival (Check Manually),NLP Parsed (VERB),,Adjectival,Root Word: कहा
+LIT_0056,Literary,Literary Dialogue,katha,'मालकिन मुझे मार डालेगी।,0,0,True,Affirmative,Affirmative,True,Nominal/Adjectival (Check Manually),NLP Parsed (VERB),,Equational/Nominal,Root Word: मार
+LIT_0057,Literary,Literary Dialogue,katha,' 'चुराकर डाल आ।,0,0,True,Affirmative,Affirmative,True,Nominal/Adjectival (Check Manually),NLP Parsed (VERB),,Equational/Nominal,Root Word: डाल
+LIT_0058,Literary,Literary Dialogue,katha,"' 'ना दादा, पीछे से तुम ही उन्हीं की-सी कहोगे ।",0,0,True,Negative,Negative,True,Nominal/Adjectival (Check Manually),NLP Parsed (VERB),,Equational/Nominal,Root Word: कहोगे
+LIT_0059,Literary,Literary Dialogue,katha,"'
+
+2
+
+दूसरे दिन झूरी का साला फिर आया और बैलों को ले चला ।",0,0,True,Affirmative,Affirmative,True,Nominal/Adjectival (Check Manually),NLP Parsed (VERB),,Adjectival,Root Word: आया
+LIT_0060,Literary,Literary Narrative,katha,अबकी बार उसने दोनों को गाड़ी मे जोता ।,0,0,True,Affirmative,Affirmative,True,Nominal/Adjectival (Check Manually),NLP Parsed (VERB),,Equational/Nominal,Root Word: जोता
+LIT_0061,Literary,Literary Narrative,katha,दो-चार बार मोती ने गाड़ी को सड़क की खाई में गिराना चाहा ; पर हीरा ने सँभाल लिया ।,0,0,True,Affirmative,Affirmative,True,Locative/Existential,NLP Parsed (VERB),,Locative/Existential,Root Word: सँभाल
+LIT_0062,Literary,Literary Narrative,katha,संध्या-समय घर पुहँचकर उसने दोनों को मोटी रस्सियों से बाँधा और कल की शरारत का मजा चखाया . फिर वही सूखा भूसा डाल दिया ।,0,0,True,Affirmative,Affirmative,True,Nominal/Adjectival (Check Manually),NLP Parsed (VERB),,Locative/Existential,Root Word: डाल
+LIT_0063,Literary,Literary Narrative,katha,"अपने दोनों बैलों को खली, चूनी सब कुछ दी ।",0,0,True,Affirmative,Affirmative,True,Nominal/Adjectival (Check Manually),NLP Parsed (VERB),,Equational/Nominal,Root Word: दी
+LIT_0064,Literary,Literary Narrative,katha,यहाँ मार पड़ी ।,0,0,True,Affirmative,Affirmative,True,Nominal/Adjectival (Check Manually),NLP Parsed (VERB),,Equational/Nominal,Root Word: मार
+LIT_0065,Literary,Literary Narrative,katha,"गले में बड़ी-बड़ी रस्सियाँ न होती, तो दोनो पकड़ाई में न आते ।",0,0,True,Negative,Negative,True,Locative/Existential,NLP Parsed (VERB),,Locative/Existential,Root Word: आते
+LIT_0066,Literary,Literary Narrative,katha,हीरा ने मूक-भाषा में कहा - भागना व्यर्थ हैं ।,1,1,True,Affirmative,Affirmative,True,Locative/Existential,NLP Parsed (VERB),,Locative/Existential,Root Word: कहा
+LIT_0067,Literary,Literary Dialogue,katha,'अबकी बार बड़ी मार पड़ेगी ।,0,0,True,Affirmative,Affirmative,True,Nominal/Adjectival (Check Manually),NLP Parsed (VERB),,Adjectival,Root Word: पड़ेगी
+LIT_0068,Literary,Literary Dialogue,katha,"'
+
+'पड़ने दो, बैल का जन्म लिया हैं तो मार से कहाँ तक बचेंगे?",1,1,True,Affirmative,Affirmative,True,Locative/Existential,NLP Parsed (VERB),,Locative/Existential,Root Word: बचेंगे
+LIT_0069,Literary,Literary Narrative,katha,दोनों के हाथ में लाठियाँ हैं ।,1,1,True,Affirmative,Affirmative,True,Locative/Existential,NLP Parsed (NOUN),,Locative/Existential,Root Word: लाठियाँ
+LIT_0070,Literary,Literary Dialogue,katha,"'
+
+मोती बोला -- कहो तो दिखा दूँ कुछ मजा मैं भी ।",0,0,True,Affirmative,Affirmative,True,Nominal/Adjectival (Check Manually),NLP Parsed (VERB),,Equational/Nominal,Root Word: बोला
+LIT_0071,Literary,Literary Narrative,katha,लाठी लेकर आ रहा हैं ।,1,1,True,Affirmative,Affirmative,True,Nominal/Adjectival (Check Manually),NLP Parsed (VERB),,Equational/Nominal,Root Word: आ
+LIT_0072,Literary,Literary Narrative,katha,हीरा ने समझाया -- नहीं भाई !,0,0,True,Negative,Negative,True,Nominal/Adjectival (Check Manually),NLP Parsed (VERB),,Equational/Nominal,Root Word: समझाया
+LIT_0073,Literary,Literary Narrative,katha,खड़े हो जाओ ।,1,1,True,Affirmative,Affirmative,True,Nominal/Adjectival (Check Manually),NLP Parsed (VERB),,Adjectival,Root Word: हो
+LIT_0074,Literary,Literary Dialogue,katha,'मुझे मारेगा तो मैं भी एक-दो को गिरा दूँगी ।,0,0,True,Affirmative,Affirmative,True,Nominal/Adjectival (Check Manually),NLP Parsed (VERB),,Equational/Nominal,Root Word: गिरा
+LIT_0075,Literary,Literary Narrative,katha,दोनों चुपचाप खड़े रहे।,0,0,True,Affirmative,Affirmative,True,Nominal/Adjectival (Check Manually),NLP Parsed (VERB),,Adjectival,Root Word: रहे
+LIT_0076,Literary,Literary Narrative,katha,धर के लोग भोजन करने लगे ।,0,0,True,Affirmative,Affirmative,True,Nominal/Adjectival (Check Manually),NLP Parsed (VERB),,Equational/Nominal,Root Word: लगे
+LIT_0077,Literary,Literary Narrative,katha,यहाँ भी किसी सज्जन का वास हैं ।,1,1,True,Affirmative,Affirmative,True,Nominal/Adjectival (Check Manually),NLP Parsed (NOUN),,Equational/Nominal,Root Word: वास
+LIT_0078,Literary,Literary Narrative,katha,"दोनों दिन-भर जोते जाते, डंडे खाते, अड़ते ।",0,0,True,Affirmative,Affirmative,True,Nominal/Adjectival (Check Manually),NLP Parsed (VERB),,Equational/Nominal,Root Word: जोते
+LIT_0079,Literary,Literary Narrative,katha,शाम को थान में बाँध दिये जाते और रात को वही बालिका उन्हें दो रोटियाँ खिला जाती ।,0,0,True,Affirmative,Affirmative,True,Locative/Existential,NLP Parsed (VERB),,Locative/Existential,Root Word: बाँध
+LIT_0080,Literary,Literary Narrative,katha,"एक दिन मोती ने मुक-भाषा में कहा -- अब तो नहीं सहा जाता, हीरा ।",0,0,True,Negative,Negative,True,Locative/Existential,NLP Parsed (VERB),,Locative/Existential,Root Word: कहा
+LIT_0081,Literary,Literary Dialogue,katha,'क्या करना चाहते हो ?,1,1,True,Affirmative,Affirmative,True,Nominal/Adjectival (Check Manually),NLP Parsed (VERB),,Equational/Nominal,Root Word: चाहते
+LIT_0082,Literary,Literary Dialogue,katha,"'
+
+'एकाध को सींगो पर उठाकर फेंक दूँगा ।",0,0,True,Affirmative,Affirmative,True,Locative/Existential,NLP Parsed (VERB),,Locative/Existential,Root Word: फेंक
+LIT_0083,Literary,Literary Dialogue,katha,"'
+
+'लेकिन जानते हो, वह प्यारी लड़की, जो हमे रोटियाँ हैं, उसी की लड़की हैं, जो घर का मालिक है ।",1,1,True,Affirmative,Affirmative,True,Nominal/Adjectival (Check Manually),NLP Parsed (VERB),,Adjectival,Root Word: जानते
+LIT_0084,Literary,Literary Narrative,katha,यह बेचारी अनाथ हो जायगी?,1,1,True,Affirmative,Affirmative,True,Nominal/Adjectival (Check Manually),NLP Parsed (VERB),,Adjectival,Root Word: हो
+LIT_0085,Literary,Literary Dialogue,katha,"'
+
+'मालकिन को न फेंक दूँ ।",0,0,True,Negative,Negative,True,Nominal/Adjectival (Check Manually),NLP Parsed (VERB),,Equational/Nominal,Root Word: फेंक
+LIT_0086,Literary,Literary Narrative,katha,वही तो उस लड़की मारती हैं।,1,1,True,Affirmative,Affirmative,True,Nominal/Adjectival (Check Manually),NLP Parsed (VERB),,Equational/Nominal,Root Word: मारती
+LIT_0087,Literary,Literary Dialogue,katha,"'
+
+'लेकिन औरत जात पर सींग चलाना मना है, यह भूले जाते हो ।",1,1,True,Affirmative,Affirmative,True,Locative/Existential,NLP Parsed (VERB),,Locative/Existential,Root Word: भूले
+LIT_0088,Literary,Literary Dialogue,katha,"'
+
+'तुम तो किसी तरह निकलने नही देते हो ।",1,1,True,Affirmative,Affirmative,True,Nominal/Adjectival (Check Manually),NLP Parsed (VERB),,Equational/Nominal,Root Word: निकलने
+LIT_0089,Literary,Literary Narrative,katha,"बताओ, तुड़ा कर भाग चले ।",0,0,True,Affirmative,Affirmative,True,Nominal/Adjectival (Check Manually),NLP Parsed (VERB),,Equational/Nominal,Root Word: बताओ
+LIT_0090,Literary,Literary Dialogue,katha,"'
+
+'हाँ, यह मैं स्वीकार करता, लेकिन इतनी मोटी रस्सी टूटेगी कैसे ?",0,0,True,Affirmative,Affirmative,True,Nominal/Adjectival (Check Manually),NLP Parsed (VERB),,Adjectival,Root Word: करता
+LIT_0091,Literary,Literary Dialogue,katha,"'
+
+'इसका एक उपाय हैं।",1,1,True,Affirmative,Affirmative,True,Nominal/Adjectival (Check Manually),NLP Parsed (NOUN),,Equational/Nominal,Root Word: उपाय
+LIT_0092,Literary,Literary Narrative,katha,पहले रस्सी को थोड़ा सा चबा दो ।,0,0,True,Affirmative,Affirmative,True,Nominal/Adjectival (Check Manually),NLP Parsed (VERB),,Equational/Nominal,Root Word: चबा
+LIT_0093,Literary,Literary Narrative,katha,फिर एक झटके में जाती हैं।,1,1,True,Affirmative,Affirmative,True,Locative/Existential,NLP Parsed (VERB),,Locative/Existential,Root Word: जाती
+LIT_0094,Literary,Literary Narrative,katha,सहसा घर का द्वार खुला और वही लड़की निकली ।,0,0,True,Affirmative,Affirmative,True,Nominal/Adjectival (Check Manually),NLP Parsed (VERB),,Equational/Nominal,Root Word: खुला
+LIT_0095,Literary,Literary Narrative,katha,दोनों सिर झुकाकर उसका हाथ चाटने लगे ।,0,0,True,Affirmative,Affirmative,True,Nominal/Adjectival (Check Manually),NLP Parsed (VERB),,Equational/Nominal,Root Word: लगे
+LIT_0096,Literary,Literary Narrative,katha,उसने उनके माथे सहलाये और बोली -- खोले देती हूँ ।,1,1,True,Affirmative,Affirmative,True,Nominal/Adjectival (Check Manually),NLP Parsed (VERB),,Equational/Nominal,Root Word: सहलाये
+LIT_0097,Literary,Literary Narrative,katha,"चुपके से भाग जाओ , नहीं तो यहाँ के लोग मार डालेंगे ।",0,0,True,Negative,Negative,True,Nominal/Adjectival (Check Manually),NLP Parsed (VERB),,Equational/Nominal,Root Word: मार
+LIT_0098,Literary,Literary Narrative,katha,आज ही घर में सलाह हो रही हैं कि इनकी नाकों में नाथ डाल दी जायँ ।,1,1,True,Affirmative,Affirmative,True,Locative/Existential,NLP Parsed (VERB),,Locative/Existential,Root Word: हो
+LIT_0099,Literary,Literary Narrative,katha,"उसने गराँव खोल दिया, पर दोनों चुपचाप खड़े रहे ।",0,0,True,Affirmative,Affirmative,True,Locative/Existential,NLP Parsed (VERB),,Locative/Existential,Root Word: खोल
+LIT_0100,Literary,Literary Narrative,katha,मोती ने अपनी भाषा में पूछा -- अब चलते क्यों नही।,0,0,True,Affirmative,Affirmative,True,Locative/Existential,NLP Parsed (VERB),,Locative/Existential,Root Word: पूछा
+LIT_0101,Literary,Literary Narrative,katha,हीरा ने कहा -- चलें तो लेकिन कल इस अनाथ पर आफत आयेगी ।,0,0,True,Affirmative,Affirmative,True,Locative/Existential,NLP Parsed (VERB),,Locative/Existential,Root Word: कहा
+LIT_0102,Literary,Literary Narrative,katha,सब इसी पर संदेह करेंगे ।,0,0,True,Affirmative,Affirmative,True,Locative/Existential,NLP Parsed (VERB),,Locative/Existential,Root Word: करेंगे
+LIT_0103,Literary,Literary Narrative,katha,सहसा बालिका चिल्लायी -- दोनों फूफावाले बैल भागे जा रहे हैं ।,1,1,True,Affirmative,Affirmative,True,Nominal/Adjectival (Check Manually),NLP Parsed (VERB),,Adjectival,Root Word: चिल्लायी
+LIT_0104,Literary,Literary Narrative,katha,"दोनों बैल भागे जा रहे हैं, जल्दी दौड़ो ।",1,1,True,Affirmative,Affirmative,True,Nominal/Adjectival (Check Manually),NLP Parsed (VERB),,Equational/Nominal,Root Word: भागे
+LIT_0105,Literary,Literary Narrative,katha,वे दोनों भागे ।,0,0,True,Affirmative,Affirmative,True,Nominal/Adjectival (Check Manually),NLP Parsed (VERB),,Equational/Nominal,Root Word: भागे
+LIT_0106,Literary,Literary Narrative,katha,फिर गाँव के कुछ आदमियों को भी साथ लेने के लिए लौटा ।,0,0,True,Affirmative,Affirmative,True,Nominal/Adjectival (Check Manually),NLP Parsed (VERB),,Equational/Nominal,Root Word: लौटा
+LIT_0107,Literary,Literary Narrative,katha,यहाँ तक कि मार्ग का ज्ञान न रहा ।,0,0,True,Negative,Negative,True,Locative/Existential,NLP Parsed (VERB),,Locative/Existential,Root Word: रहा
+LIT_0108,Literary,Literary Narrative,katha,नये-नये गाँव मिलने लगे ।,0,0,True,Affirmative,Affirmative,True,Nominal/Adjectival (Check Manually),NLP Parsed (VERB),,Adjectival,Root Word: लगे
+LIT_0109,Literary,Literary Narrative,katha,"तब दोनों एक खेत के किनारे खड़े होकर सोचने लगे , अब क्या करना चाहिए ।",0,0,True,Affirmative,Affirmative,True,Nominal/Adjectival (Check Manually),NLP Parsed (VERB),,Adjectival,Root Word: लगे
+LIT_0110,Literary,Literary Dialogue,katha,'तुम भी तो बेताहाशा भागे ।,0,0,True,Affirmative,Affirmative,True,Nominal/Adjectival (Check Manually),NLP Parsed (VERB),,Equational/Nominal,Root Word: भागे
+LIT_0111,Literary,Literary Dialogue,katha,"'
+
+'उसे मार गिराते तो, दुनिया क्या कहती?",0,0,True,Affirmative,Affirmative,True,Nominal/Adjectival (Check Manually),NLP Parsed (VERB),,Equational/Nominal,Root Word: कहती
+LIT_0112,Literary,Literary Narrative,katha,"वह अपना धर्म छोड़ दे, लेकिन हम अपना धर्म क्यों छोड़े ?",0,0,True,Affirmative,Affirmative,True,Nominal/Adjectival (Check Manually),NLP Parsed (VERB),,Equational/Nominal,Root Word: छोड़
+LIT_0113,Literary,Literary Narrative,katha,पहले दोनों ने डकार ली ।,0,0,True,Affirmative,Affirmative,True,Nominal/Adjectival (Check Manually),NLP Parsed (VERB),,Equational/Nominal,Root Word: ली
+LIT_0114,Literary,Literary Narrative,katha,फिर सींग मिलाये और एक दूसरे को ठेलने लगे ।,0,0,True,Affirmative,Affirmative,True,Nominal/Adjectival (Check Manually),NLP Parsed (VERB),,Equational/Nominal,Root Word: मिलाये
+LIT_0115,Literary,Literary Narrative,katha,तब उसे भी क्रोध आया ।,0,0,True,Affirmative,Affirmative,True,Nominal/Adjectival (Check Manually),NLP Parsed (VERB),,Equational/Nominal,Root Word: आया
+LIT_0116,Literary,Literary Narrative,katha,कौई साँड़ डौकता चला आ रहा हैं ।,1,1,True,Affirmative,Affirmative,True,Nominal/Adjectival (Check Manually),NLP Parsed (VERB),,Equational/Nominal,Root Word: चला
+LIT_0117,Literary,Literary Narrative,katha,"हाँ, साँड ही हैं ।",1,1,True,Affirmative,Affirmative,True,Nominal/Adjectival (Check Manually),NLP Parsed (NOUN),,Equational/Nominal,Root Word: साँड
+LIT_0118,Literary,Literary Narrative,katha,वह सामने आ पहुँचा ।,0,0,True,Affirmative,Affirmative,True,Nominal/Adjectival (Check Manually),NLP Parsed (VERB),,Equational/Nominal,Root Word: आ
+LIT_0119,Literary,Literary Narrative,katha,दोनो मित्र बगलें झाँक रहे हैं ।,1,1,True,Affirmative,Affirmative,True,Nominal/Adjectival (Check Manually),NLP Parsed (VERB),,Equational/Nominal,Root Word: झाँक
+LIT_0120,Literary,Literary Narrative,katha,साँड पूरा हाथी हैं ।,1,1,True,Affirmative,Affirmative,True,Nominal/Adjectival (Check Manually),NLP Parsed (NOUN),,Equational/Nominal,Root Word: हाथी
+LIT_0121,Literary,Literary Narrative,katha,"उससे भिडना जान से हाथ धोना हैं , लेकिन न भिडने पर भी जान बचती नहीं नजर आती ।",1,1,True,Negative,Negative,True,Locative/Existential,NLP Parsed (VERB),,Locative/Existential,Root Word: धोना
+LIT_0122,Literary,Literary Narrative,katha,इन्हीं की तरफ आ भी रहा हैं ।,1,1,True,Affirmative,Affirmative,True,Locative/Existential,NLP Parsed (VERB),,Locative/Existential,Root Word: आ
+LIT_0123,Literary,Literary Narrative,katha,कितनी भयंकर सूरत हैं ।,1,1,True,Affirmative,Affirmative,True,Nominal/Adjectival (Check Manually),NLP Parsed (NOUN),,Equational/Nominal,Root Word: सूरत
+LIT_0124,Literary,Literary Narrative,katha,मोती ने मूक भाषा में कहा -- बुरे फँसे ।,0,0,True,Affirmative,Affirmative,True,Locative/Existential,NLP Parsed (VERB),,Locative/Existential,Root Word: कहा
+LIT_0125,Literary,Literary Narrative,katha,कोई उपाय सोचो।,0,0,True,Affirmative,Affirmative,True,Nominal/Adjectival (Check Manually),NLP Parsed (VERB),,Equational/Nominal,Root Word: सोचो।
+LIT_0126,Literary,Literary Narrative,katha,आरजू-विनती न सुनेगा ।,0,0,True,Negative,Negative,True,Nominal/Adjectival (Check Manually),NLP Parsed (VERB),,Equational/Nominal,Root Word: सुनेगा
+LIT_0127,Literary,Literary Dialogue,katha,'भाग क्यों न चले?,0,0,True,Negative,Negative,True,Nominal/Adjectival (Check Manually),NLP Parsed (VERB),,Equational/Nominal,Root Word: चले
+LIT_0128,Literary,Literary Dialogue,katha,"'
+
+'भागना कायरता हैं ।",1,1,True,Affirmative,Affirmative,True,Nominal/Adjectival (Check Manually),NLP Parsed (NOUN),,Equational/Nominal,Root Word: कायरता
+LIT_0129,Literary,Literary Dialogue,katha,"'
+
+'तो फिर यहीं मरो ।",0,0,True,Affirmative,Affirmative,True,Nominal/Adjectival (Check Manually),NLP Parsed (VERB),,Equational/Nominal,Root Word: मरो
+LIT_0130,Literary,Literary Narrative,katha,बन्दा तो नौ-दो-ग्यारह होता हैं ।,1,1,True,Affirmative,Affirmative,True,Nominal/Adjectival (Check Manually),NLP Parsed (VERB),,Equational/Nominal,Root Word: होता
+LIT_0131,Literary,Literary Dialogue,katha,"'
+
+'और जो दौड़ाये ?",0,0,True,Affirmative,Affirmative,True,Nominal/Adjectival (Check Manually),NLP Parsed (VERB),,Equational/Nominal,Root Word: दौड़ाये
+LIT_0132,Literary,Literary Dialogue,katha,"'
+
+'तो फिर कोई उपाय सोचो जल्द ।",0,0,True,Affirmative,Affirmative,True,Nominal/Adjectival (Check Manually),NLP Parsed (VERB),,Equational/Nominal,Root Word: सोचो
+LIT_0133,Literary,Literary Dialogue,katha,"'
+
+'उपाय यही हैं कि उस पर दोनो जने एक साथ चोट करे ?",1,1,True,Affirmative,Affirmative,True,Locative/Existential,NLP Parsed (PRON),,Locative/Existential,Root Word: यही
+LIT_0134,Literary,Literary Narrative,katha,"मेरी ओर झपटे, तुम बगल से उसके पेट में सींग घुसेड देना ।",0,0,True,Affirmative,Affirmative,True,Locative/Existential,NLP Parsed (VERB),,Locative/Existential,Root Word: झपटे
+LIT_0135,Literary,Literary Narrative,katha,"जान जोशिम हैं , पर दूसरा उपाय नहीं है ।",1,1,True,Negative,Negative,True,Locative/Existential,NLP Parsed (ADJ),,Locative/Existential,Root Word: जोशिम
+LIT_0136,Literary,Literary Dialogue,katha,"'
+
+दोनों मित्र जान हथेली पर लेकर लपके ।",0,0,True,Affirmative,Affirmative,True,Locative/Existential,NLP Parsed (VERB),,Locative/Existential,Root Word: लपके
+LIT_0137,Literary,Literary Narrative,katha,"ज्योही हीरा पर झपटा , मोती ने पीछे से दौड़ाया ।",0,0,True,Affirmative,Affirmative,True,Locative/Existential,NLP Parsed (VERB),,Locative/Existential,Root Word: दौड़ाया
+LIT_0138,Literary,Literary Narrative,katha,"साँड उसकी तरउ मुडा, तो हीरा ने रगेदा ।",0,0,True,Affirmative,Affirmative,True,Nominal/Adjectival (Check Manually),NLP Parsed (VERB),,Equational/Nominal,Root Word: रगेदा
+LIT_0139,Literary,Literary Narrative,katha,एक बार साँड झल्लाकर हीरा का अन्त कर देने ले लिए चला कि मोती ने बगल से आकर पेट मे सींग भोक दी ।,0,0,True,Affirmative,Affirmative,True,Locative/Existential,NLP Parsed (VERB),,Locative/Existential,Root Word: चला
+LIT_0140,Literary,Literary Narrative,katha,साँड क्रोध मे आकर पीछे फिरा तो हीरा ने दूसरे पहलू में सींग चुभा दिया ।,0,0,True,Affirmative,Affirmative,True,Locative/Existential,NLP Parsed (VERB),,Locative/Existential,Root Word: चुभा
+LIT_0141,Literary,Literary Narrative,katha,आखिर बेचारा जख्मी होकर भागा और दोनो मित्रो ने दूर तक उसका पीछा किया ।,0,0,True,Affirmative,Affirmative,True,Locative/Existential,NLP Parsed (VERB),,Locative/Existential,Root Word: भागा
+LIT_0142,Literary,Literary Narrative,katha,यहाँ तक की साँड बेदम होकर गिर पड़ा ।,0,0,True,Affirmative,Affirmative,True,Locative/Existential,NLP Parsed (VERB),,Locative/Existential,Root Word: गिर
+LIT_0143,Literary,Literary Narrative,katha,तब दोनो ने उसे छोड़ दिया ।,0,0,True,Affirmative,Affirmative,True,Nominal/Adjectival (Check Manually),NLP Parsed (VERB),,Equational/Nominal,Root Word: छोड़
+LIT_0144,Literary,Literary Dialogue,katha,'यह सब ढोग हैं ।,1,1,True,Affirmative,Affirmative,True,Nominal/Adjectival (Check Manually),NLP Parsed (NOUN),,Equational/Nominal,Root Word: ढोग
+LIT_0145,Literary,Literary Narrative,katha,बैरी को ऐसा मारना चाहिये कि फिर न उठे ।,0,0,True,Negative,Negative,True,Nominal/Adjectival (Check Manually),NLP Parsed (VERB),,Equational/Nominal,Root Word: मारना
+LIT_0146,Literary,Literary Dialogue,katha,"'
+
+'अब घर कैसे पहुँचेंगे , वह सोचो ।",0,0,True,Affirmative,Affirmative,True,Nominal/Adjectival (Check Manually),NLP Parsed (VERB),,Equational/Nominal,Root Word: पहुँचेंगे
+LIT_0147,Literary,Literary Dialogue,katha,"'
+
+'पहले कुछ खा ले, तो सोचे ।",0,0,True,Affirmative,Affirmative,True,Nominal/Adjectival (Check Manually),NLP Parsed (VERB),,Equational/Nominal,Root Word: सोचे
+LIT_0148,Literary,Literary Narrative,katha,"हीरा मना करता रहा, पर उसने एक न सुनी ।",0,0,True,Negative,Negative,True,Locative/Existential,NLP Parsed (VERB),,Locative/Existential,Root Word: करता
+LIT_0149,Literary,Literary Narrative,katha,उसके खुर कीचड़ मे धँसने लगे ।,0,0,True,Affirmative,Affirmative,True,Nominal/Adjectival (Check Manually),NLP Parsed (VERB),,Equational/Nominal,Root Word: लगे
+LIT_0150,Literary,Literary Narrative,katha,न भाग सका ।,0,0,True,Negative,Negative,True,Nominal/Adjectival (Check Manually),NLP Parsed (VERB),,Equational/Nominal,Root Word: भाग
+LIT_0151,Literary,Literary Narrative,katha,"हीरा ने देखा , संगी संकट मे हैं , तो लौट पड़ा फँसेगे तो दोनो फँसेगे ।",1,1,True,Affirmative,Affirmative,True,Nominal/Adjectival (Check Manually),NLP Parsed (VERB),,Equational/Nominal,Root Word: देखा
+LIT_0152,Literary,Literary Narrative,katha,रखवालो ने उसे भी पकड़ लिया ।,0,0,True,Affirmative,Affirmative,True,Nominal/Adjectival (Check Manually),NLP Parsed (VERB),,Equational/Nominal,Root Word: पकड़
+LIT_0153,Literary,Literary Narrative,katha,"सारा दिन दोनो मित्र फाटक की ओर टकटकी लगाये ताकते रहे, पर कोई चारा लेकर न आता न दिखायी दिया ।",0,0,True,Negative,Negative,True,Locative/Existential,NLP Parsed (VERB),,Locative/Existential,Root Word: टकटकी
+LIT_0154,Literary,Literary Narrative,katha,"तब दोनो ने दीवार की नमकीन मिट्टी चाटनी शुरु की, पर इससे क्या तृप्ति होती ?",0,0,True,Affirmative,Affirmative,True,Locative/Existential,NLP Parsed (VERB),,Locative/Existential,Root Word: की
+LIT_0155,Literary,Literary Narrative,katha,रात को भी जब कुछ भोजन न मिला तो हीरा के दिल में विद्रोह की ज्वाला दहक उठी।,0,0,True,Negative,Negative,True,Locative/Existential,NLP Parsed (VERB),,Locative/Existential,Root Word: दहक
+LIT_0156,Literary,Literary Narrative,katha,मोती से बोला -- अब तो नही रहा जाता मोती !,0,0,True,Affirmative,Affirmative,True,Nominal/Adjectival (Check Manually),NLP Parsed (VERB),,Equational/Nominal,Root Word: बोला
+LIT_0157,Literary,Literary Dialogue,katha,'इतनी जल्दी हिम्मत न हारो भाई !,0,0,True,Negative,Negative,True,Nominal/Adjectival (Check Manually),NLP Parsed (VERB),,Equational/Nominal,Root Word: हारो
+LIT_0158,Literary,Literary Narrative,katha,यहाँ से भागने का कोई उपाय निकलना चाहिये ।,0,0,True,Affirmative,Affirmative,True,Nominal/Adjectival (Check Manually),NLP Parsed (VERB),,Equational/Nominal,Root Word: निकलना
+LIT_0159,Literary,Literary Dialogue,katha,"'
+
+'आओ दीवार तोड डालें।",0,0,True,Affirmative,Affirmative,True,Nominal/Adjectival (Check Manually),NLP Parsed (VERB),,Equational/Nominal,Root Word: तोड
+LIT_0160,Literary,Literary Narrative,katha,फिर तो उसका साहस बढा ।,0,0,True,Affirmative,Affirmative,True,Nominal/Adjectival (Check Manually),NLP Parsed (VERB),,Equational/Nominal,Root Word: बढा
+LIT_0161,Literary,Literary Narrative,katha,इसने दौड-दौडकर दीवार पर कई चोटे की और हर चोट मे थोडी थोड़ी मिट्टी गिराने लगा।,0,0,True,Affirmative,Affirmative,True,Locative/Existential,NLP Parsed (VERB),,Locative/Existential,Root Word: की
+LIT_0162,Literary,Literary Narrative,katha,उसी समय काँजीहौस का चौकीदार लालटेन लेकर जानवरो की हाजिरी लेने आ निकला ।,0,0,True,Affirmative,Affirmative,True,Nominal/Adjectival (Check Manually),NLP Parsed (VERB),,Equational/Nominal,Root Word: आ
+LIT_0163,Literary,Literary Narrative,katha,हीरा का उजड्डपन देखकर उसने उसे कई डंडे रसीद किये और मोटी सी रस्सी से बाँध दिया ।,0,0,True,Affirmative,Affirmative,True,Nominal/Adjectival (Check Manually),NLP Parsed (VERB),,Adjectival,Root Word: किये
+LIT_0164,Literary,Literary Narrative,katha,"मोती ने पड़े पड़े कहा -- आखिर मार खायी, क्या मिला ?",0,0,True,Affirmative,Affirmative,True,Nominal/Adjectival (Check Manually),NLP Parsed (VERB),,Equational/Nominal,Root Word: कहा
+LIT_0165,Literary,Literary Dialogue,katha,'अपने बूते भर जोर तो मार दिया।,0,0,True,Affirmative,Affirmative,True,Nominal/Adjectival (Check Manually),NLP Parsed (VERB),,Equational/Nominal,Root Word: मार
+LIT_0166,Literary,Literary Dialogue,katha,"'
+
+'जोर तो मारता ही जाऊँगा, चाहे कितने वंधन पड़ जाये ।",0,0,True,Affirmative,Affirmative,True,Nominal/Adjectival (Check Manually),NLP Parsed (VERB),,Equational/Nominal,Root Word: मारता
+LIT_0167,Literary,Literary Dialogue,katha,"'
+
+'जान से हाथ धोना पड़ेगा ।",0,0,True,Affirmative,Affirmative,True,Nominal/Adjectival (Check Manually),NLP Parsed (VERB),,Equational/Nominal,Root Word: धोना
+LIT_0168,Literary,Literary Dialogue,katha,"'
+
+'कुछ परवाह नहीं ।",0,0,True,Negative,Negative,True,Locative/Existential,NLP Parsed (NOUN),,Locative/Existential,Root Word: परवाह
+LIT_0169,Literary,Literary Narrative,katha,यो भी तो मरना ही हैं ।,1,1,True,Affirmative,Affirmative,True,Nominal/Adjectival (Check Manually),NLP Parsed (VERB),,Equational/Nominal,Root Word: मरना
+LIT_0170,Literary,Literary Narrative,katha,"सोचो, दीवार खुद जाती तो कितनी जाने बच जाती ।",0,0,True,Affirmative,Affirmative,True,Nominal/Adjectival (Check Manually),NLP Parsed (VERB),,Equational/Nominal,Root Word: बच
+LIT_0171,Literary,Literary Narrative,katha,इतने भाई यहाँ बन्द हैं ।,1,1,True,Affirmative,Affirmative,True,Nominal/Adjectival (Check Manually),NLP Parsed (ADJ),,Adjectival,Root Word: बन्द
+LIT_0172,Literary,Literary Narrative,katha,किसी के देह में जान नहीं हैं ।,1,1,True,Negative,Negative,True,Locative/Existential,NLP Parsed (NOUN),,Locative/Existential,Root Word: जान
+LIT_0173,Literary,Literary Narrative,katha,दो चार दिन और यही हाल रहा तो सब मर जायेगे ।,0,0,True,Affirmative,Affirmative,True,Nominal/Adjectival (Check Manually),NLP Parsed (VERB),,Equational/Nominal,Root Word: मर
+LIT_0174,Literary,Literary Dialogue,katha,"'
+
+'हाँ, यह बात तो हैं।",1,1,True,Affirmative,Affirmative,True,Nominal/Adjectival (Check Manually),NLP Parsed (NOUN),,Equational/Nominal,Root Word: बात
+LIT_0175,Literary,Literary Narrative,katha,"अच्छा, तो लो, फिर में भी जोर लगाता हूँ ।",1,1,True,Affirmative,Affirmative,True,Locative/Existential,NLP Parsed (VERB),,Locative/Existential,Root Word: लगाता
+LIT_0176,Literary,Literary Dialogue,katha,"'
+
+मोती ने भी दीवार मे उसी जगह सींग मारा ।",0,0,True,Affirmative,Affirmative,True,Nominal/Adjectival (Check Manually),NLP Parsed (VERB),,Equational/Nominal,Root Word: मारा
+LIT_0177,Literary,Literary Narrative,katha,थोडी सी मिट्टी गिरी और हिम्मत बढी ।,0,0,True,Affirmative,Affirmative,True,Nominal/Adjectival (Check Manually),NLP Parsed (VERB),,Equational/Nominal,Root Word: गिरी
+LIT_0178,Literary,Literary Narrative,katha,"फिर तो दीवार में सींग लगा कर इस तरह जोर करने लगा , मानो किसी प्रतिद्वन्द्वी से लड रहा हैं ।",1,1,True,Affirmative,Affirmative,True,Locative/Existential,NLP Parsed (VERB),,Locative/Existential,Root Word: लगा
+LIT_0179,Literary,Literary Narrative,katha,तीनो घोड़ियाँ सरपट भाग निकली ।,0,0,True,Affirmative,Affirmative,True,Nominal/Adjectival (Check Manually),NLP Parsed (VERB),,Equational/Nominal,Root Word: भाग
+LIT_0180,Literary,Literary Narrative,katha,फिर बकरियाँ निकली ।,0,0,True,Affirmative,Affirmative,True,Nominal/Adjectival (Check Manually),NLP Parsed (VERB),,Equational/Nominal,Root Word: निकली
+LIT_0181,Literary,Literary Narrative,katha,हीरा ने पूछा -- तुम दोनो भाग क्यो नहीं जाते ?,0,0,True,Negative,Negative,True,Nominal/Adjectival (Check Manually),NLP Parsed (VERB),,Equational/Nominal,Root Word: पूछा
+LIT_0182,Literary,Literary Narrative,katha,एक गधे ने कहा -- जो कही फिर पकड़ लिये जायँ ।,0,0,True,Affirmative,Affirmative,True,Nominal/Adjectival (Check Manually),NLP Parsed (VERB),,Equational/Nominal,Root Word: कहा
+LIT_0183,Literary,Literary Dialogue,katha,'तो क्या हरज हैं ।,1,1,True,Affirmative,Affirmative,True,Nominal/Adjectival (Check Manually),NLP Parsed (NOUN),,Equational/Nominal,Root Word: हरज
+LIT_0184,Literary,Literary Narrative,katha,अभी तो भागने का अवसर हैं ।,1,1,True,Affirmative,Affirmative,True,Nominal/Adjectival (Check Manually),NLP Parsed (NOUN),,Equational/Nominal,Root Word: अवसर
+LIT_0185,Literary,Literary Dialogue,katha,"'
+
+'हमे तो डर लगता हैं।",1,1,True,Affirmative,Affirmative,True,Nominal/Adjectival (Check Manually),NLP Parsed (VERB),,Equational/Nominal,Root Word: लगता
+LIT_0186,Literary,Literary Narrative,katha,हम यही पड़े रहेंगे ।,0,0,True,Affirmative,Affirmative,True,Nominal/Adjectival (Check Manually),NLP Parsed (VERB),,Equational/Nominal,Root Word: पड़े
+LIT_0187,Literary,Literary Narrative,katha,शायद कहीम भेट हो जाये ।,1,1,True,Affirmative,Affirmative,True,Nominal/Adjectival (Check Manually),NLP Parsed (VERB),,Equational/Nominal,Root Word: हो
+LIT_0188,Literary,Literary Narrative,katha,मोती ने आँखो मे आँसू लाकर कहा -- सुम मुझे इतना स्वार्थी समझते हैं हीरा ।,1,1,True,Affirmative,Affirmative,True,Nominal/Adjectival (Check Manually),NLP Parsed (VERB),,Adjectival,Root Word: कहा
+LIT_0189,Literary,Literary Narrative,katha,हम और तुम इतने दिनो एक साथ रहे हैं ।,1,1,True,Affirmative,Affirmative,True,Nominal/Adjectival (Check Manually),NLP Parsed (VERB),,Equational/Nominal,Root Word: रहे
+LIT_0190,Literary,Literary Narrative,katha,हीरा ने कहा -- बहुत मार पड़ेगी ।,0,0,True,Affirmative,Affirmative,True,Nominal/Adjectival (Check Manually),NLP Parsed (VERB),,Equational/Nominal,Root Word: कहा
+LIT_0191,Literary,Literary Narrative,katha,"लोग समझ जायेगे, यह तुम्हारी शरारत हैं ।",1,1,True,Affirmative,Affirmative,True,Nominal/Adjectival (Check Manually),NLP Parsed (VERB),,Equational/Nominal,Root Word: समझ
+LIT_0192,Literary,Literary Narrative,katha,"मोती गर्व से बोला -- जिस अपराध के लिए तुम्हारे गले में बन्धन पड़ा, उसके लिए अगर मुझ पर मार पड़े तो क्या चिन्ता ।",0,0,True,Affirmative,Affirmative,True,Locative/Existential,NLP Parsed (VERB),,Locative/Existential,Root Word: बोला
+LIT_0193,Literary,Literary Narrative,katha,वे सब तो आशीर्वाद देगे ।,0,0,True,Affirmative,Affirmative,True,Nominal/Adjectival (Check Manually),NLP Parsed (VERB),,Equational/Nominal,Root Word: देगे
+LIT_0194,Literary,Literary Narrative,katha,"भोर होते ही मुंशी और चौकीदार तथा अन्य कर्मचारियों में कैसी खलबली मची , इसके लिखने की जरुरत नही ।",0,0,True,Affirmative,Affirmative,True,Locative/Existential,NLP Parsed (VERB),,Locative/Existential,Root Word: मची
+LIT_0195,Literary,Literary Narrative,katha,"5
+
+एक सप्ताह तक दोनो मित्र वहाँ बँधे रहे ।",0,0,True,Affirmative,Affirmative,True,Locative/Existential,NLP Parsed (VERB),,Locative/Existential,Root Word: बँधे
+LIT_0196,Literary,Literary Narrative,katha,किसी ने चारे का एक तृण भी न डाला ।,0,0,True,Negative,Negative,True,Nominal/Adjectival (Check Manually),NLP Parsed (VERB),,Equational/Nominal,Root Word: डाला
+LIT_0197,Literary,Literary Narrative,katha,लोग आ आकर उनकी सूरत देखते और मन फीका करके चले जाते ।,0,0,True,Affirmative,Affirmative,True,Nominal/Adjectival (Check Manually),NLP Parsed (VERB),,Adjectival,Root Word: देखते
+LIT_0198,Literary,Literary Narrative,katha,ऐसे मृतक बैलो का कौन खरीदार होता ?,0,0,True,Affirmative,Affirmative,True,Locative/Existential,NLP Parsed (VERB),,Locative/Existential,Root Word: होता
+LIT_0199,Literary,Literary Narrative,katha,उसका चेहरा देखकर अन्तर्ज्ञान सं दोनो मित्रों के दिल काँप उठे ।,0,0,True,Affirmative,Affirmative,True,Nominal/Adjectival (Check Manually),NLP Parsed (VERB),,Equational/Nominal,Root Word: काँप
+LIT_0200,Literary,Literary Narrative,katha,दोनो ने एक दूसरे को भीत नेत्रों स देखा और सिर झुका लिया ।,0,0,True,Affirmative,Affirmative,True,Nominal/Adjectival (Check Manually),NLP Parsed (VERB),,Equational/Nominal,Root Word: देखा
+LIT_0201,Literary,Literary Narrative,katha,अब जान न बचेगी ।,0,0,True,Negative,Negative,True,Nominal/Adjectival (Check Manually),NLP Parsed (VERB),,Equational/Nominal,Root Word: बचेगी
+LIT_0202,Literary,Literary Narrative,katha,"मोती ने अश्रद्धा के भाव से उत्तर दिया -- कहते हैं, भगवान सबके ऊपर दया करते हैं ।",1,1,True,Affirmative,Affirmative,True,Locative/Existential,NLP Parsed (VERB),,Locative/Existential,Root Word: दिया
+LIT_0203,Literary,Literary Narrative,katha,उन्हें हमारे ऊपर क्यो दया नही आती?,0,0,True,Affirmative,Affirmative,True,Locative/Existential,NLP Parsed (VERB),,Locative/Existential,Root Word: आती
+LIT_0204,Literary,Literary Dialogue,katha,'भगवान् के लिए हमारा मरना-जीना दोनो बराबर हैं ।,1,1,True,Affirmative,Affirmative,True,Nominal/Adjectival (Check Manually),NLP Parsed (ADJ),,Adjectival,Root Word: बराबर
+LIT_0205,Literary,Literary Narrative,katha,"चलो, अच्छा ही है, कुछ दिन उसके पास तो रहेंगे ।",1,1,True,Affirmative,Affirmative,True,Locative/Existential,NLP Parsed (ADJ),,Locative/Existential,Root Word: अच्छा
+LIT_0206,Literary,Literary Dialogue,katha,"'
+
+'यह आदमी छुरी चलायेगा ।",0,0,True,Affirmative,Affirmative,True,Nominal/Adjectival (Check Manually),NLP Parsed (VERB),,Equational/Nominal,Root Word: चलायेगा
+LIT_0207,Literary,Literary Dialogue,katha,"'
+
+'तो क्या चिन्ता हैं?",1,1,True,Affirmative,Affirmative,True,Nominal/Adjectival (Check Manually),NLP Parsed (NOUN),,Equational/Nominal,Root Word: चिन्ता
+LIT_0208,Literary,Literary Dialogue,katha,"'
+
+नीलाम हो जाने के बाद दोनो मित्र दढियल के साथ चले ।",1,1,True,Affirmative,Affirmative,True,Nominal/Adjectival (Check Manually),NLP Parsed (VERB),,Adjectival,Root Word: चले
+LIT_0209,Literary,Literary Narrative,katha,राह में गाय-बैलो का एक रेवड हरे-हरे हार मे चरता नजर आया ।,0,0,True,Affirmative,Affirmative,True,Locative/Existential,NLP Parsed (VERB),,Locative/Existential,Root Word: आया
+LIT_0210,Literary,Literary Narrative,katha,किसी को चिन्ता नहीं कि उनके दो भाई बधिक के हाथ पड़े कैसे दुःखी है ।,1,1,True,Negative,Negative,True,Nominal/Adjectival (Check Manually),NLP Parsed (NOUN),,Equational/Nominal,Root Word: चिन्ता
+LIT_0211,Literary,Literary Narrative,katha,"वही खेत, वही बाग, वही गाँव मिलने लगे ।",0,0,True,Affirmative,Affirmative,True,Nominal/Adjectival (Check Manually),NLP Parsed (VERB),,Equational/Nominal,Root Word: लगे
+LIT_0212,Literary,Literary Narrative,katha,हीरा बोला -- भगवान् की दया हैं ।,1,1,True,Affirmative,Affirmative,True,Nominal/Adjectival (Check Manually),NLP Parsed (VERB),,Equational/Nominal,Root Word: बोला
+LIT_0213,Literary,Literary Dialogue,katha,'मै तो अब घर भागता हूँ ।,1,1,True,Affirmative,Affirmative,True,Nominal/Adjectival (Check Manually),NLP Parsed (VERB),,Equational/Nominal,Root Word: भागता
+LIT_0214,Literary,Literary Dialogue,katha,"'
+
+'यह जाने देगा ?",0,0,True,Affirmative,Affirmative,True,Nominal/Adjectival (Check Manually),NLP Parsed (VERB),,Equational/Nominal,Root Word: जाने
+LIT_0215,Literary,Literary Dialogue,katha,"'
+
+'इसे मार गिराता हूँ ।",1,1,True,Affirmative,Affirmative,True,Nominal/Adjectival (Check Manually),NLP Parsed (VERB),,Equational/Nominal,Root Word: मार
+LIT_0216,Literary,Literary Dialogue,katha,"'
+
+'नहीं-नहीं, दौड़कर थान पर चलो।",0,0,True,Affirmative,Negative,False,Locative/Existential,NLP Parsed (VERB),,Locative/Existential,Root Word: चलो।
+LIT_0217,Literary,Literary Narrative,katha,वहाँ से आगे न जायेंगे ।,0,0,True,Negative,Negative,True,Nominal/Adjectival (Check Manually),NLP Parsed (VERB),,Equational/Nominal,Root Word: जायेंगे
+LIT_0218,Literary,Literary Narrative,katha,वह हमारा थान हैं ।,1,1,True,Affirmative,Affirmative,True,Nominal/Adjectival (Check Manually),NLP Parsed (NOUN),,Equational/Nominal,Root Word: थान
+LIT_0219,Literary,Literary Narrative,katha,बैलों को देखते ही दौडा और उन्हें बारी-बारी से गले लगाने लगा।,0,0,True,Affirmative,Affirmative,True,Nominal/Adjectival (Check Manually),NLP Parsed (VERB),,Equational/Nominal,Root Word: दौडा
+LIT_0220,Literary,Literary Narrative,katha,मित्रों की आँखों से आनन्द के आँसू बहने लगे ।,0,0,True,Affirmative,Affirmative,True,Nominal/Adjectival (Check Manually),NLP Parsed (VERB),,Equational/Nominal,Root Word: लगे
+LIT_0221,Literary,Literary Narrative,katha,दढियल ने जाकर बैलो की रस्सी पकड़ ली ।,0,0,True,Affirmative,Affirmative,True,Nominal/Adjectival (Check Manually),NLP Parsed (VERB),,Equational/Nominal,Root Word: पकड़
+LIT_0222,Literary,Literary Narrative,katha,झूरी ने कहा -- मेरे बैल हैं ।,1,1,True,Affirmative,Affirmative,True,Nominal/Adjectival (Check Manually),NLP Parsed (VERB),,Equational/Nominal,Root Word: कहा
+LIT_0223,Literary,Literary Dialogue,katha,'तुम्हारे बैल कैसे ?,0,0,True,Affirmative,Affirmative,True,Nominal/Adjectival (Check Manually),NLP Parsed (NOUN),,Equational/Nominal,Root Word: बैल
+LIT_0224,Literary,Literary Narrative,katha,मैं मवेशीखाने से नीलाम लिये आता हूँ ।,1,1,True,Affirmative,Affirmative,True,Nominal/Adjectival (Check Manually),NLP Parsed (VERB),,Adjectival,Root Word: आता
+LIT_0225,Literary,Literary Dialogue,katha,"'
+
+'मैं समझता हूँ कि चुराये लिये आते हो !",1,1,True,Affirmative,Affirmative,True,Nominal/Adjectival (Check Manually),NLP Parsed (VERB),,Equational/Nominal,Root Word: समझता
+LIT_0226,Literary,Literary Narrative,katha,चुपके से चले जाओ ।,0,0,True,Affirmative,Affirmative,True,Nominal/Adjectival (Check Manually),NLP Parsed (VERB),,Equational/Nominal,Root Word: चले
+LIT_0227,Literary,Literary Narrative,katha,मेरे बैल हैे ।,0,0,True,Affirmative,Affirmative,True,Nominal/Adjectival (Check Manually),NLP Parsed (NOUN),,Equational/Nominal,Root Word: बैल
+LIT_0228,Literary,Literary Narrative,katha,मैं बेचूँगा तो बिकेंगे ।,0,0,True,Affirmative,Affirmative,True,Nominal/Adjectival (Check Manually),NLP Parsed (VERB),,Equational/Nominal,Root Word: बिकेंगे
+LIT_0229,Literary,Literary Narrative,katha,किसी को मेरे बैल नीलाम करने का क्या अख्तियार हैं ?,1,1,True,Affirmative,Affirmative,True,Nominal/Adjectival (Check Manually),NLP Parsed (NOUN),,Equational/Nominal,Root Word: अख्तियार
+LIT_0230,Literary,Literary Dialogue,katha,"'
+
+'जाकर थाने मे रपट कर दूँगा ।",0,0,True,Affirmative,Affirmative,True,Nominal/Adjectival (Check Manually),NLP Parsed (VERB),,Equational/Nominal,Root Word: कर
+LIT_0231,Literary,Literary Dialogue,katha,"'
+
+'मेरे बैल हैं।",1,1,True,Affirmative,Affirmative,True,Nominal/Adjectival (Check Manually),NLP Parsed (NOUN),,Equational/Nominal,Root Word: बैल
+LIT_0232,Literary,Literary Narrative,katha,इसका सबूत हैं कि मेरे द्वार पर खड़े हैं ।,1,1,True,Affirmative,Affirmative,True,Locative/Existential,NLP Parsed (NOUN),,Locative/Existential,Root Word: सबूत
+LIT_0233,Literary,Literary Dialogue,katha,"'
+
+दढियल झल्लाकर बैलो को जबरदस्ती पकड़ ले जाने के लिए बढा ।",0,0,True,Affirmative,Affirmative,True,Nominal/Adjectival (Check Manually),NLP Parsed (VERB),,Equational/Nominal,Root Word: बढा
+LIT_0234,Literary,Literary Narrative,katha,उसी वक्त मोती ने सींग चलाया ।,0,0,True,Affirmative,Affirmative,True,Nominal/Adjectival (Check Manually),NLP Parsed (VERB),,Equational/Nominal,Root Word: चलाया
+LIT_0235,Literary,Literary Narrative,katha,दढियल पीछे हटा ।,0,0,True,Affirmative,Affirmative,True,Nominal/Adjectival (Check Manually),NLP Parsed (VERB),,Equational/Nominal,Root Word: हटा
+LIT_0236,Literary,Literary Narrative,katha,मोती ने पीछा किया ।,0,0,True,Affirmative,Affirmative,True,Nominal/Adjectival (Check Manually),NLP Parsed (VERB),,Equational/Nominal,Root Word: किया
+LIT_0237,Literary,Literary Narrative,katha,मोती पीछे दौड़ा ।,0,0,True,Affirmative,Affirmative,True,Nominal/Adjectival (Check Manually),NLP Parsed (VERB),,Equational/Nominal,Root Word: दौड़ा
+LIT_0238,Literary,Literary Dialogue,katha,"'अगर वह मुझे पकड़ता , तो बे-मारे न छोड़ता ।",0,0,True,Negative,Negative,True,Nominal/Adjectival (Check Manually),NLP Parsed (VERB),,Equational/Nominal,Root Word: छोड़ता
+LIT_0239,Literary,Literary Dialogue,katha,"'
+
+'अब न आयेगा ।",0,0,True,Negative,Negative,True,Nominal/Adjectival (Check Manually),NLP Parsed (VERB),,Equational/Nominal,Root Word: आयेगा
+LIT_0240,Literary,Literary Dialogue,katha,"'
+
+'आयेगा तो दूर ही से खबर लूँगा ।",0,0,True,Affirmative,Affirmative,True,Nominal/Adjectival (Check Manually),NLP Parsed (VERB),,Equational/Nominal,Root Word: लूँगा
+LIT_0241,Literary,Literary Narrative,katha,देखूँ कैसे ले जाता हैं ।,1,1,True,Affirmative,Affirmative,True,Nominal/Adjectival (Check Manually),NLP Parsed (VERB),,Equational/Nominal,Root Word: ले
+LIT_0242,Literary,Literary Dialogue,katha,"'
+
+'जो गोली मरवा दे ?",0,0,True,Affirmative,Affirmative,True,Nominal/Adjectival (Check Manually),NLP Parsed (VERB),,Equational/Nominal,Root Word: मरवा
+LIT_0243,Literary,Literary Dialogue,katha,"'
+
+'मर जाऊँगा ; पर उसके काम तो न आऊँगा ।",0,0,True,Negative,Negative,True,Locative/Existential,NLP Parsed (VERB),,Locative/Existential,Root Word: मर
+LIT_0244,Literary,Literary Dialogue,katha,"'
+
+'हमारी जान को कोई जान ही नहीं समझता ।",0,0,True,Negative,Negative,True,Nominal/Adjectival (Check Manually),NLP Parsed (VERB),,Equational/Nominal,Root Word: समझता
+LIT_0245,Literary,Literary Dialogue,katha,"'
+
+'इसीलिए कि हम इतने सीधे हैं ।",1,1,True,Affirmative,Affirmative,True,Nominal/Adjectival (Check Manually),NLP Parsed (ADJ),,Adjectival,Root Word: सीधे
+LIT_0246,Literary,Literary Narrative,katha,उसी समय मालकिन ने आकर दोनो के माथे चूम लिये ।,0,0,True,Affirmative,Affirmative,True,Nominal/Adjectival (Check Manually),NLP Parsed (VERB),,Equational/Nominal,Root Word: चूम

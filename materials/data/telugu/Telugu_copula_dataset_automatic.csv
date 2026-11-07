@@ -1,0 +1,760 @@
+﻿Sentence_ID,Language,Register,Sub_Register,Source_Title,Raw_Sentence,Copula_Status_NLP,Polarity_NLP,Predicate_Type_Final_NLP,NLP_Root_Word_Notes,Copula_Form
+TE_AUTO_0001,Telugu,Spoken Subtitle,Film Dialogue,Ala_Vaikunthapurramuloo,చేతిలో చిల్లర లేదు,1,Negative,Locative/Existential,Root Word: లేదు (VERB),లేదు
+TE_AUTO_0002,Telugu,Spoken Subtitle,Film Dialogue,Ala_Vaikunthapurramuloo,సర్షన్ లో ఉన్నారు,1,Affirmative,Locative/Existential,Root Word: ఉన్నారు (VERB),ఉన్నారు
+TE_AUTO_0003,Telugu,Spoken Subtitle,Film Dialogue,Ala_Vaikunthapurramuloo,మరి మీ ఆవిడ,0,Affirmative,Equational/Nominal,Root Word: ఆవిడ (NOUN),
+TE_AUTO_0004,Telugu,Spoken Subtitle,Film Dialogue,Ala_Vaikunthapurramuloo,ఇంట్లో దీపం వెలిగితే ఒక్క కుటుంబానికే,0,Affirmative,Locative/Existential,Root Word: వెలిగితే (VERB),
+TE_AUTO_0005,Telugu,Spoken Subtitle,Film Dialogue,Ala_Vaikunthapurramuloo,ఈ టీ సార్,0,Affirmative,Equational/Nominal,Root Word: సార్ (NOUN),
+TE_AUTO_0006,Telugu,Spoken Subtitle,Film Dialogue,Ala_Vaikunthapurramuloo,మీరు ఇందాక చేసిన త్యాగం సార్,0,Affirmative,Equational/Nominal,Root Word: సార్ (VERB),
+TE_AUTO_0007,Telugu,Spoken Subtitle,Film Dialogue,Ala_Vaikunthapurramuloo,ఏంటి ఏంటి మోసం,0,Affirmative,Equational/Nominal,Root Word: మోసం (PART),
+TE_AUTO_0008,Telugu,Spoken Subtitle,Film Dialogue,Ala_Vaikunthapurramuloo,నేను అదే స్కూటర్ మీద ఉన్నాను.,1,Affirmative,Locative/Existential,Root Word: ఉన్నాను (VERB),ఉన్నాను
+TE_AUTO_0009,Telugu,Spoken Subtitle,Film Dialogue,Ala_Vaikunthapurramuloo,అది వాడి అదృష్టం,0,Affirmative,Equational/Nominal,Root Word: అదృష్టం (NOUN),
+TE_AUTO_0010,Telugu,Spoken Subtitle,Film Dialogue,Ala_Vaikunthapurramuloo,ఇది వీడి దురదృష్టం.,0,Affirmative,Equational/Nominal,Root Word: దురదృష్టం (NOUN),
+TE_AUTO_0011,Telugu,Spoken Subtitle,Film Dialogue,Ala_Vaikunthapurramuloo,ఇది మోసం కూడా కాదు,1,Negative,Equational/Nominal,Root Word: కాదు (VERB),కాదు
+TE_AUTO_0012,Telugu,Spoken Subtitle,Film Dialogue,Ala_Vaikunthapurramuloo,ఈ తల్లి నువ్వు వేద్దా సార్,0,Affirmative,Equational/Nominal,Root Word: వేద్దా (NOUN),
+TE_AUTO_0013,Telugu,Spoken Subtitle,Film Dialogue,Ala_Vaikunthapurramuloo,రాజ్ రాజ్ మనోహర్,0,Affirmative,Equational/Nominal,Root Word: రాజ్ (INTJ),
+TE_AUTO_0014,Telugu,Spoken Subtitle,Film Dialogue,Ala_Vaikunthapurramuloo,రాజు లాంటి పేరు సార్,0,Affirmative,Equational/Nominal,Root Word: సార్ (VERB),
+TE_AUTO_0015,Telugu,Spoken Subtitle,Film Dialogue,Ala_Vaikunthapurramuloo,పెట్టను కూడా ఒక్క నిమిషం ఇలాంటి పేరు పెడితే నాకున్న పేరు పంతులు గారు పంతులు గారు,0,Affirmative,Equational/Nominal,Root Word: పంతులు (PROPN),
+TE_AUTO_0016,Telugu,Spoken Subtitle,Film Dialogue,Ala_Vaikunthapurramuloo,వీడు ఎవడికి బంటు,0,Affirmative,Equational/Nominal,Root Word: బంటు (NOUN),
+TE_AUTO_0017,Telugu,Spoken Subtitle,Film Dialogue,Ala_Vaikunthapurramuloo,మళ్ళీ బతిపోతే ఉంది,1,Affirmative,Locative/Existential,Root Word: ఉంది (VERB),ఉంది
+TE_AUTO_0018,Telugu,Spoken Subtitle,Film Dialogue,Ala_Vaikunthapurramuloo,మరి ఆనందం ఏంట్రా,0,Affirmative,Equational/Nominal,Root Word: ఆనందం (NOUN),
+TE_AUTO_0019,Telugu,Spoken Subtitle,Film Dialogue,Ala_Vaikunthapurramuloo,ప్లీజ్ థర్డ్ సెమిస్టర్,0,Affirmative,Equational/Nominal,Root Word: సెమిస్టర్ (NOUN),
+TE_AUTO_0020,Telugu,Spoken Subtitle,Film Dialogue,Ala_Vaikunthapurramuloo,హలో ఏరా బస్ స్టాండ్ లో ఉన్నామా,1,Affirmative,Locative/Existential,Root Word: ఉన్నామా (VERB),ఉన్నాము
+TE_AUTO_0021,Telugu,Spoken Subtitle,Film Dialogue,Ala_Vaikunthapurramuloo,ఏంటి గుమ్మడికాయ గుమ్మడికాయే,0,Affirmative,Equational/Nominal,Root Word: గుమ్మడికాయే (NOUN),
+TE_AUTO_0022,Telugu,Spoken Subtitle,Film Dialogue,Ala_Vaikunthapurramuloo,ఏంటి ఏంటి ఇక్కడ గుమ్మడికాయ ఏంటి ఇక్కడ ఎక్కడ దొరుకుద్ది సాగతీయకు అర్జెంట్,0,Affirmative,Locative/Existential,Root Word: అర్జెంట్ (NOUN),
+TE_AUTO_0023,Telugu,Spoken Subtitle,Film Dialogue,Ala_Vaikunthapurramuloo,ఇదో లెక్క రేయ్,0,Affirmative,Equational/Nominal,Root Word: ఇదో (PRON),
+TE_AUTO_0024,Telugu,Spoken Subtitle,Film Dialogue,Ala_Vaikunthapurramuloo,అది మన రేంజ్,0,Affirmative,Equational/Nominal,Root Word: రేంజ్ (NOUN),
+TE_AUTO_0025,Telugu,Spoken Subtitle,Film Dialogue,Ala_Vaikunthapurramuloo,వాడు ఆల్రెడీ డౌన్ లో ఉన్నాడు,1,Affirmative,Locative/Existential,Root Word: ఉన్నాడు (VERB),ఉన్నాడు
+TE_AUTO_0026,Telugu,Spoken Subtitle,Film Dialogue,Ala_Vaikunthapurramuloo,10 ఇంటికి ఇంటర్వ్యూ,0,Affirmative,Equational/Nominal,Root Word: ఇంటర్వ్యూ (NOUN),
+TE_AUTO_0027,Telugu,Spoken Subtitle,Film Dialogue,Ala_Vaikunthapurramuloo,నీకు నా మీద చాలా పెద్ద పెద్ద ఎక్స్పెక్టేషన్స్ ఉన్నాయి,1,Affirmative,Locative/Existential,Root Word: ఉన్నాయి (VERB),ఉన్నాయి
+TE_AUTO_0028,Telugu,Spoken Subtitle,Film Dialogue,Ala_Vaikunthapurramuloo,మా సిస్టర్స్ బ్రదర్ నీ చెల్లి కత్తిలా ఉందిరా,1,Affirmative,Adjectival,Root Word: ఉందిరా (VERB),ఉంది
+TE_AUTO_0029,Telugu,Spoken Subtitle,Film Dialogue,Ala_Vaikunthapurramuloo,సరే అందగత కదా,0,Affirmative,Equational/Nominal,Root Word: కదా (VERB),
+TE_AUTO_0030,Telugu,Spoken Subtitle,Film Dialogue,Ala_Vaikunthapurramuloo,మా మిడిల్ క్లాస్ వాళ్ళ మెంటాలిటీ,0,Affirmative,Equational/Nominal,Root Word: మెంటాలిటీ (NOUN),
+TE_AUTO_0031,Telugu,Spoken Subtitle,Film Dialogue,Ala_Vaikunthapurramuloo,ఇంతలోపల ఎవడు సార్,0,Affirmative,Equational/Nominal,Root Word: సార్ (VERB),
+TE_AUTO_0032,Telugu,Spoken Subtitle,Film Dialogue,Ala_Vaikunthapurramuloo,ఏ ఊరికే బాబు,0,Affirmative,Equational/Nominal,Root Word: బాబు (NOUN),
+TE_AUTO_0033,Telugu,Spoken Subtitle,Film Dialogue,Ala_Vaikunthapurramuloo,స్టైల్ గా ఉంది,1,Affirmative,Adjectival,Root Word: ఉంది (VERB),ఉంది
+TE_AUTO_0034,Telugu,Spoken Subtitle,Film Dialogue,Ala_Vaikunthapurramuloo,ఐ యమ్ రవీందర్ రెడ్డి హలో సార్,0,Affirmative,Locative/Existential,Root Word: సార్ (PRON),
+TE_AUTO_0035,Telugu,Spoken Subtitle,Film Dialogue,Ala_Vaikunthapurramuloo,వన్ టూ ఇంట్రెస్టింగ్ నేమ్,0,Affirmative,Equational/Nominal,Root Word: నేమ్ (PRON),
+TE_AUTO_0036,Telugu,Spoken Subtitle,Film Dialogue,Ala_Vaikunthapurramuloo,నాకు చాలా సుఖంగా ఉంది.,1,Affirmative,Adjectival,Root Word: ఉంది (VERB),ఉంది
+TE_AUTO_0037,Telugu,Spoken Subtitle,Film Dialogue,Ala_Vaikunthapurramuloo,ఏమ్మా నాన్నగారు ఉన్నారా?,1,Affirmative,Locative/Existential,Root Word: ఉన్నారా (VERB),ఉన్నారు
+TE_AUTO_0038,Telugu,Spoken Subtitle,Film Dialogue,Ala_Vaikunthapurramuloo,నాలాంటి మంచోడిని మోసం చేస్తే ఆ రెండో కాలు,0,Affirmative,Equational/Nominal,Root Word: కాలు (NOUN),
+TE_AUTO_0039,Telugu,Spoken Subtitle,Film Dialogue,Ala_Vaikunthapurramuloo,ఏమ్మా నాన్నగారు అబే లేరండి,1,Negative,Locative/Existential,Root Word: లేరండి (VERB),లేరు
+TE_AUTO_0040,Telugu,Spoken Subtitle,Film Dialogue,Ala_Vaikunthapurramuloo,మనది మిడిల్ క్లాస్ రా,0,Affirmative,Equational/Nominal,Root Word: రా (VERB),
+TE_AUTO_0041,Telugu,Spoken Subtitle,Film Dialogue,Ala_Vaikunthapurramuloo,ఆడికి ఫ్యాన్స్ ఉన్నారు,1,Affirmative,Locative/Existential,Root Word: ఉన్నారు (VERB),ఉన్నారు
+TE_AUTO_0042,Telugu,Spoken Subtitle,Film Dialogue,Ala_Vaikunthapurramuloo,మరి వెరీ బ్యాడ్,0,Affirmative,Equational/Nominal,Root Word: బ్యాడ్ (NOUN),
+TE_AUTO_0043,Telugu,Spoken Subtitle,Film Dialogue,Ala_Vaikunthapurramuloo,నా బాధకంతు లేదు,1,Negative,Locative/Existential,Root Word: లేదు (VERB),లేదు
+TE_AUTO_0044,Telugu,Spoken Subtitle,Film Dialogue,Ala_Vaikunthapurramuloo,ఓ మై గాడ్ డాడీ,0,Affirmative,Equational/Nominal,Root Word: డాడీ (NOUN),
+TE_AUTO_0045,Telugu,Spoken Subtitle,Film Dialogue,Ala_Vaikunthapurramuloo,ఓ మై గాడ్ డాడీ,0,Affirmative,Equational/Nominal,Root Word: డాడీ (NOUN),
+TE_AUTO_0046,Telugu,Spoken Subtitle,Film Dialogue,Ala_Vaikunthapurramuloo,ఓ మై గాడ్ డాడీ,0,Affirmative,Equational/Nominal,Root Word: డాడీ (NOUN),
+TE_AUTO_0047,Telugu,Spoken Subtitle,Film Dialogue,Ala_Vaikunthapurramuloo,స్పై డాడీ స్పై డాడీ,0,Affirmative,Equational/Nominal,Root Word: డాడీ (NOUN),
+TE_AUTO_0048,Telugu,Spoken Subtitle,Film Dialogue,Ala_Vaikunthapurramuloo,స్పై డాడీ స్పై డాడీ,0,Affirmative,Equational/Nominal,Root Word: డాడీ (NOUN),
+TE_AUTO_0049,Telugu,Spoken Subtitle,Film Dialogue,Ala_Vaikunthapurramuloo,ఓ మై గాడ్ డాడీ,0,Affirmative,Equational/Nominal,Root Word: డాడీ (NOUN),
+TE_AUTO_0050,Telugu,Spoken Subtitle,Film Dialogue,Ala_Vaikunthapurramuloo,ఓ మై గాడ్ డాడీ,0,Affirmative,Equational/Nominal,Root Word: డాడీ (NOUN),
+TE_AUTO_0051,Telugu,Spoken Subtitle,Film Dialogue,Ala_Vaikunthapurramuloo,మేక్ మీ సాడీ,0,Affirmative,Equational/Nominal,Root Word: సాడీ (NOUN),
+TE_AUTO_0052,Telugu,Spoken Subtitle,Film Dialogue,Ala_Vaikunthapurramuloo,ఆ ఇక్కడ ఇక్కడ సర్,0,Affirmative,Locative/Existential,Root Word: సర్ (PROPN),
+TE_AUTO_0053,Telugu,Spoken Subtitle,Film Dialogue,Ala_Vaikunthapurramuloo,ఆడికి ఈగో లేదు,1,Negative,Locative/Existential,Root Word: లేదు (VERB),లేదు
+TE_AUTO_0054,Telugu,Spoken Subtitle,Film Dialogue,Ala_Vaikunthapurramuloo,ఐ సెడ్ మార్నింగ్ గుడ్ మార్నింగ్,0,Affirmative,Equational/Nominal,Root Word: గుడ్ (NOUN),
+TE_AUTO_0055,Telugu,Spoken Subtitle,Film Dialogue,Ala_Vaikunthapurramuloo,తొమ్మిది నాది అదే,0,Affirmative,Equational/Nominal,Root Word: నాది (PRON),
+TE_AUTO_0056,Telugu,Spoken Subtitle,Film Dialogue,Ala_Vaikunthapurramuloo,ఆల్ ద బెస్ట్ ఆ బెస్ట్ బెస్ట్ బెస్ట్ బెస్ట్,0,Affirmative,Adjectival,Root Word: బెస్ట్ (NOUN),
+TE_AUTO_0057,Telugu,Spoken Subtitle,Film Dialogue,Ala_Vaikunthapurramuloo,ఇటు కూడా బాగుంది.,1,Affirmative,Adjectival,Root Word: బాగుంది (VERB),ఉంది
+TE_AUTO_0058,Telugu,Spoken Subtitle,Film Dialogue,Ala_Vaikunthapurramuloo,ఎనీ అదర్ ఆల్టర్నేటివ్స్,0,Affirmative,Equational/Nominal,Root Word: ఆల్టర్నేటివ్స్ (NOUN),
+TE_AUTO_0059,Telugu,Spoken Subtitle,Film Dialogue,Ala_Vaikunthapurramuloo,బెస్ట్ ఆప్షన్ సార్,0,Affirmative,Equational/Nominal,Root Word: సార్ (VERB),
+TE_AUTO_0060,Telugu,Spoken Subtitle,Film Dialogue,Ala_Vaikunthapurramuloo,సాటిజం నా మనరిజం అంటూ,0,Affirmative,Equational/Nominal,Root Word: మనరిజం (NOUN),
+TE_AUTO_0061,Telugu,Spoken Subtitle,Film Dialogue,Ala_Vaikunthapurramuloo,ఎవరు నేను మేడం,0,Affirmative,Equational/Nominal,Root Word: మేడం (NOUN),
+TE_AUTO_0062,Telugu,Spoken Subtitle,Film Dialogue,Ala_Vaikunthapurramuloo,మూడు రోజులుగా మనిషి అనేవాడు లేడు,1,Negative,Locative/Existential,Root Word: లేడు (VERB),లేడు
+TE_AUTO_0063,Telugu,Spoken Subtitle,Film Dialogue,Ala_Vaikunthapurramuloo,హే సీ బాడ్ లెట్స్ గో దేర్ నైస్ వ్యూ ఏ మేడం,0,Affirmative,Equational/Nominal,Root Word: మేడం (NOUN),
+TE_AUTO_0064,Telugu,Spoken Subtitle,Film Dialogue,Ala_Vaikunthapurramuloo,నీకు స్పృహ లేదు,1,Negative,Locative/Existential,Root Word: లేదు (VERB),లేదు
+TE_AUTO_0065,Telugu,Spoken Subtitle,Film Dialogue,Ala_Vaikunthapurramuloo,ఇన్నేళ్ళు కోమాలో ఉన్నారు,1,Affirmative,Locative/Existential,Root Word: ఉన్నారు (VERB),ఉన్నారు
+TE_AUTO_0066,Telugu,Spoken Subtitle,Film Dialogue,Ala_Vaikunthapurramuloo,ఎన్నాళ్ళు ఈ ఎదవ శరీరం,0,Affirmative,Equational/Nominal,Root Word: శరీరం (NOUN),
+TE_AUTO_0067,Telugu,Spoken Subtitle,Film Dialogue,Ala_Vaikunthapurramuloo,చిన్నప్పటి నుంచి నా లైఫ్ లో ఆహా అనుకునే ఒక్క రోజు కూడా లేదు.,1,Negative,Locative/Existential,Root Word: లేదు (VERB),లేదు
+TE_AUTO_0068,Telugu,Spoken Subtitle,Film Dialogue,Ala_Vaikunthapurramuloo,చెత్త నాలో ఉందా,1,Affirmative,Locative/Existential,Root Word: ఉందా (VERB),ఉంది
+TE_AUTO_0069,Telugu,Spoken Subtitle,Film Dialogue,Ala_Vaikunthapurramuloo,మా బాబులో ఉందా,1,Affirmative,Locative/Existential,Root Word: ఉందా (VERB),ఉంది
+TE_AUTO_0070,Telugu,Spoken Subtitle,Film Dialogue,Ala_Vaikunthapurramuloo,నా లైఫ్ లోనే ఉందా,1,Affirmative,Locative/Existential,Root Word: ఉందా (VERB),ఉంది
+TE_AUTO_0071,Telugu,Spoken Subtitle,Film Dialogue,Ala_Vaikunthapurramuloo,నువ్వు నెట్టేస్తే ఎలా నిట్టు చవట్టే నిష్టురపు,0,Affirmative,Equational/Nominal,Root Word: నిష్టురపు (NOUN),
+TE_AUTO_0072,Telugu,Spoken Subtitle,Film Dialogue,Ala_Vaikunthapurramuloo,వన్నెల వనమా విరిసిన పించమా,0,Affirmative,Equational/Nominal,Root Word: విరిసిన (VERB),
+TE_AUTO_0073,Telugu,Spoken Subtitle,Film Dialogue,Ala_Vaikunthapurramuloo,ఎంతో మది మారినా,0,Affirmative,Equational/Nominal,Root Word: మారినా (NOUN),
+TE_AUTO_0074,Telugu,Spoken Subtitle,Film Dialogue,Ala_Vaikunthapurramuloo,ఇంతే నా అంగన,0,Affirmative,Equational/Nominal,Root Word: అంగన (NOUN),
+TE_AUTO_0075,Telugu,Spoken Subtitle,Film Dialogue,Ala_Vaikunthapurramuloo,మదిని మీ మధురమైన,0,Affirmative,Equational/Nominal,Root Word: మధురమైన (NOUN),
+TE_AUTO_0076,Telugu,Spoken Subtitle,Film Dialogue,Ala_Vaikunthapurramuloo,అప్పల్ నాయుడు అని ఒకడున్నాడు,1,Affirmative,Locative/Existential,Root Word: ఒకడున్నాడు (VERB),ఉన్నాడు
+TE_AUTO_0077,Telugu,Spoken Subtitle,Film Dialogue,Ala_Vaikunthapurramuloo,అతని కొడుకు రాజమనోహర్ కి అసలు స్పీడే లేదు.,1,Negative,Locative/Existential,Root Word: లేదు (VERB),లేదు
+TE_AUTO_0078,Telugu,Spoken Subtitle,Film Dialogue,Ala_Vaikunthapurramuloo,హలో పక్కనే ఉన్నాను,1,Affirmative,Locative/Existential,Root Word: ఉన్నాను (VERB),ఉన్నాను
+TE_AUTO_0079,Telugu,Spoken Subtitle,Film Dialogue,Ala_Vaikunthapurramuloo,మీ నాన్న వెనకాలలో ఉన్న హోటల్ లోనే ఉన్నాడు.,1,Affirmative,Locative/Existential,Root Word: ఉన్నాడు (VERB),ఉన్నాడు
+TE_AUTO_0080,Telugu,Spoken Subtitle,Film Dialogue,Ala_Vaikunthapurramuloo,ఆ పోర్ట్ మీ బాబుది కాదు,1,Negative,Equational/Nominal,Root Word: కాదు (VERB),కాదు
+TE_AUTO_0081,Telugu,Spoken Subtitle,Film Dialogue,Ala_Vaikunthapurramuloo,మీ కోట్లు నష్టం మీది కాకపోతే ఇంకా చాలా పోర్ట్లు ఉన్నాయి.,1,Affirmative,Locative/Existential,Root Word: ఉన్నాయి (VERB),ఉన్నాయి
+TE_AUTO_0082,Telugu,Spoken Subtitle,Film Dialogue,Ala_Vaikunthapurramuloo,ఎవడా గ్రే కోటోడా,0,Affirmative,Equational/Nominal,Root Word: కోటోడా (NOUN),
+TE_AUTO_0083,Telugu,Spoken Subtitle,Film Dialogue,Ala_Vaikunthapurramuloo,ఇవి గుడి తలుపులు కావు,1,Negative,Equational/Nominal,Root Word: కావు (VERB),కావు
+TE_AUTO_0084,Telugu,Spoken Subtitle,Film Dialogue,Ala_Vaikunthapurramuloo,గారికి అలాంటి ఉద్దేశాలు ఏమ లేవు,1,Negative,Locative/Existential,Root Word: లేవు (VERB),లేవు
+TE_AUTO_0085,Telugu,Spoken Subtitle,Film Dialogue,Ala_Vaikunthapurramuloo,పెద్ద వార్నింగ్ ఇది,0,Affirmative,Equational/Nominal,Root Word: ఇది (PRON),
+TE_AUTO_0086,Telugu,Spoken Subtitle,Film Dialogue,Ala_Vaikunthapurramuloo,నా పర్సనాలిటీ కూడా పెద్ద మ్యాచ్ కాదు,1,Negative,Equational/Nominal,Root Word: కాదు (VERB),కాదు
+TE_AUTO_0087,Telugu,Spoken Subtitle,Film Dialogue,Ala_Vaikunthapurramuloo,దేన్నైనా పుట్టించే శక్తి ఇద్దరికే ఉంది,1,Affirmative,Locative/Existential,Root Word: ఉంది (VERB),ఉంది
+TE_AUTO_0088,Telugu,Spoken Subtitle,Film Dialogue,Ala_Vaikunthapurramuloo,అంతే అమూల్య వాట్స్ హాపెనింగ్,0,Affirmative,Equational/Nominal,Root Word: హాపెనింగ్ (NOUN),
+TE_AUTO_0089,Telugu,Spoken Subtitle,Film Dialogue,Ala_Vaikunthapurramuloo,అనుకుంటే మాత్రం నా దగ్గర మూడు ఆప్షన్స్ ఉన్నాయి.,1,Affirmative,Locative/Existential,Root Word: ఉన్నాయి (VERB),ఉన్నాయి
+TE_AUTO_0090,Telugu,Spoken Subtitle,Film Dialogue,Ala_Vaikunthapurramuloo,అన్నారంటే మాత్రం దాని అర్థం,0,Affirmative,Equational/Nominal,Root Word: అర్థం (NOUN),
+TE_AUTO_0091,Telugu,Spoken Subtitle,Film Dialogue,Ala_Vaikunthapurramuloo,అంటే మాత్రం దాని అర్థం,0,Affirmative,Equational/Nominal,Root Word: అర్థం (NOUN),
+TE_AUTO_0092,Telugu,Spoken Subtitle,Film Dialogue,Ala_Vaikunthapurramuloo,ఇది నా ఫెయిల్యూరా,0,Affirmative,Equational/Nominal,Root Word: ఫెయిల్యూరా (NOUN),
+TE_AUTO_0093,Telugu,Spoken Subtitle,Film Dialogue,Ala_Vaikunthapurramuloo,రాము నువ్వు క్లర్క్ వి,0,Affirmative,Equational/Nominal,Root Word: వి (PRON),
+TE_AUTO_0094,Telugu,Spoken Subtitle,Film Dialogue,Ala_Vaikunthapurramuloo,క్యాజువల్ గా తాతగారు,0,Affirmative,Equational/Nominal,Root Word: తాతగారు (NOUN),
+TE_AUTO_0095,Telugu,Spoken Subtitle,Film Dialogue,Ala_Vaikunthapurramuloo,హాయ్ హాయ్ మా ప్లీజ్,0,Affirmative,Equational/Nominal,Root Word: హాయ్ (NOUN),
+TE_AUTO_0096,Telugu,Spoken Subtitle,Film Dialogue,Ala_Vaikunthapurramuloo,మీలో హ్యూమర్ ఉంది,1,Affirmative,Locative/Existential,Root Word: ఉంది (VERB),ఉంది
+TE_AUTO_0097,Telugu,Spoken Subtitle,Film Dialogue,Ala_Vaikunthapurramuloo,రెడీ ఎస్ సార్,0,Affirmative,Equational/Nominal,Root Word: సార్ (NOUN),
+TE_AUTO_0098,Telugu,Spoken Subtitle,Film Dialogue,Ala_Vaikunthapurramuloo,నా కూతురు మితభాషి,0,Affirmative,Equational/Nominal,Root Word: మితభాషి (NOUN),
+TE_AUTO_0099,Telugu,Spoken Subtitle,Film Dialogue,Ala_Vaikunthapurramuloo,బాబాయ్ దాని ఎక్స్పెక్టేషన్స్,0,Affirmative,Equational/Nominal,Root Word: ఎక్స్పెక్టేషన్స్ (NOUN),
+TE_AUTO_0100,Telugu,Spoken Subtitle,Film Dialogue,Ala_Vaikunthapurramuloo,వద్దులే ఇంట్లో ఉన్నారు.,1,Affirmative,Locative/Existential,Root Word: ఉన్నారు (VERB),ఉన్నారు
+TE_AUTO_0101,Telugu,Spoken Subtitle,Film Dialogue,Ala_Vaikunthapurramuloo,అప్పుడు మీరు కదా,0,Affirmative,Equational/Nominal,Root Word: కదా (VERB),
+TE_AUTO_0102,Telugu,Spoken Subtitle,Film Dialogue,Ala_Vaikunthapurramuloo,వీడు ఎలా ఉన్నాడో,1,Affirmative,Adjectival,Root Word: ఉన్నాడో (VERB),ఉన్నాడు
+TE_AUTO_0103,Telugu,Spoken Subtitle,Film Dialogue,Ala_Vaikunthapurramuloo,మావాడు ఎలా ఉన్నాడో,1,Affirmative,Adjectival,Root Word: ఉన్నాడో (VERB),ఉన్నాడు
+TE_AUTO_0104,Telugu,Spoken Subtitle,Film Dialogue,Ala_Vaikunthapurramuloo,పాయింటే అబద్ధం సార్,0,Affirmative,Equational/Nominal,Root Word: సార్ (NOUN),
+TE_AUTO_0105,Telugu,Spoken Subtitle,Film Dialogue,Ala_Vaikunthapurramuloo,ఏ ఊరుక సార్,0,Affirmative,Equational/Nominal,Root Word: సార్ (NOUN),
+TE_AUTO_0106,Telugu,Spoken Subtitle,Film Dialogue,Ala_Vaikunthapurramuloo,మీరు చూసే టైం కి కూర్చుని ఉన్నాడు.,1,Affirmative,Locative/Existential,Root Word: ఉన్నాడు (VERB),ఉన్నాడు
+TE_AUTO_0107,Telugu,Spoken Subtitle,Film Dialogue,Ala_Vaikunthapurramuloo,పైగా నీకు బోల్డ్ అంత బ్రైట్ ఫీచర్ ఉంది,1,Affirmative,Locative/Existential,Root Word: ఉంది (VERB),ఉంది
+TE_AUTO_0108,Telugu,Spoken Subtitle,Film Dialogue,Ala_Vaikunthapurramuloo,మీరు కూడా అబద్ధం,0,Affirmative,Equational/Nominal,Root Word: అబద్ధం (NOUN),
+TE_AUTO_0109,Telugu,Spoken Subtitle,Film Dialogue,Ala_Vaikunthapurramuloo,నాకు ఎంగేజ్మెంట్ ఇష్టం లేదు,1,Negative,Locative/Existential,Root Word: లేదు (VERB),లేదు
+TE_AUTO_0110,Telugu,Spoken Subtitle,Film Dialogue,Ala_Vaikunthapurramuloo,నిజం చెప్తే ఏం కాదు,1,Negative,Equational/Nominal,Root Word: కాదు (VERB),కాదు
+TE_AUTO_0111,Telugu,Spoken Subtitle,Film Dialogue,Ala_Vaikunthapurramuloo,రామచంద్ర గారు ఆ నో వేస్ మేడం,0,Affirmative,Equational/Nominal,Root Word: మేడం (NOUN),
+TE_AUTO_0112,Telugu,Spoken Subtitle,Film Dialogue,Ala_Vaikunthapurramuloo,నిజంగానే తేలిగ్గా ఉంది.,1,Affirmative,Adjectival,Root Word: ఉంది (VERB),ఉంది
+TE_AUTO_0113,Telugu,Spoken Subtitle,Film Dialogue,Ala_Vaikunthapurramuloo,నాకు తేలిగ్గా ఉంది.,1,Affirmative,Adjectival,Root Word: ఉంది (VERB),ఉంది
+TE_AUTO_0114,Telugu,Spoken Subtitle,Film Dialogue,Ala_Vaikunthapurramuloo,ఓ వాడు కాదు,1,Negative,Equational/Nominal,Root Word: కాదు (VERB),కాదు
+TE_AUTO_0115,Telugu,Spoken Subtitle,Film Dialogue,Ala_Vaikunthapurramuloo,కానీ కొంచెం బాగుంది,1,Affirmative,Adjectival,Root Word: బాగుంది (VERB),ఉంది
+TE_AUTO_0116,Telugu,Spoken Subtitle,Film Dialogue,Ala_Vaikunthapurramuloo,లైక్ అమ్ము అబ్బో,0,Affirmative,Equational/Nominal,Root Word: అమ్ము (NOUN),
+TE_AUTO_0117,Telugu,Spoken Subtitle,Film Dialogue,Ala_Vaikunthapurramuloo,గాజుల కాలం కాదు,1,Negative,Equational/Nominal,Root Word: కాదు (VERB),కాదు
+TE_AUTO_0118,Telugu,Spoken Subtitle,Film Dialogue,Ala_Vaikunthapurramuloo,రథము గుర్రం లేవు,1,Negative,Locative/Existential,Root Word: లేవు (VERB),లేవు
+TE_AUTO_0119,Telugu,Spoken Subtitle,Film Dialogue,Ala_Vaikunthapurramuloo,వా మనమే కదా,0,Affirmative,Equational/Nominal,Root Word: మనమే (PRON),
+TE_AUTO_0120,Telugu,Spoken Subtitle,Film Dialogue,Ala_Vaikunthapurramuloo,మీకు పరిచయం ఉందా?,1,Affirmative,Locative/Existential,Root Word: ఉందా (VERB),ఉంది
+TE_AUTO_0121,Telugu,Spoken Subtitle,Film Dialogue,Ala_Vaikunthapurramuloo,చిన్న చిన్న యక్సిడెంట్,0,Affirmative,Equational/Nominal,Root Word: యక్సిడెంట్ (NOUN),
+TE_AUTO_0122,Telugu,Spoken Subtitle,Film Dialogue,Ala_Vaikunthapurramuloo,ఒక్క నిమిషం ఇక్కడే ఉన్నాను,1,Affirmative,Locative/Existential,Root Word: ఉన్నాను (VERB),ఉన్నాను
+TE_AUTO_0123,Telugu,Spoken Subtitle,Film Dialogue,Ala_Vaikunthapurramuloo,మీ నాన్న కాదు,1,Negative,Equational/Nominal,Root Word: కాదు (VERB),కాదు
+TE_AUTO_0124,Telugu,Spoken Subtitle,Film Dialogue,Ala_Vaikunthapurramuloo,మీ నాన్న కాదు,1,Negative,Equational/Nominal,Root Word: కాదు (VERB),కాదు
+TE_AUTO_0125,Telugu,Spoken Subtitle,Film Dialogue,Ala_Vaikunthapurramuloo,వాల్మీకి మీ నాన్న కాదు,1,Negative,Equational/Nominal,Root Word: కాదు (VERB),కాదు
+TE_AUTO_0126,Telugu,Spoken Subtitle,Film Dialogue,Ala_Vaikunthapurramuloo,నువ్వు ఈ రామచంద్ర కొడకవి,0,Affirmative,Equational/Nominal,Root Word: కొడకవి (NOUN),
+TE_AUTO_0127,Telugu,Spoken Subtitle,Film Dialogue,Ala_Vaikunthapurramuloo,నీ పేరేంటి ఏంటి?,0,Affirmative,Equational/Nominal,Root Word: పేరేంటి (NOUN),
+TE_AUTO_0128,Telugu,Spoken Subtitle,Film Dialogue,Ala_Vaikunthapurramuloo,ఆ నిజం నాకు ఆ భగవంతుడికే,0,Affirmative,Equational/Nominal,Root Word: భగవంతుడికే (NOUN),
+TE_AUTO_0129,Telugu,Spoken Subtitle,Film Dialogue,Ala_Vaikunthapurramuloo,రాజు పిన్ పిలు పిలు పిలు పిలు రామచంద్ర పిలువు పిలు రాజు రాజు రాజువి పిలు,0,Affirmative,Equational/Nominal,Root Word: పిలు (NOUN),
+TE_AUTO_0130,Telugu,Spoken Subtitle,Film Dialogue,Ala_Vaikunthapurramuloo,పిలు రామచంద్ర పిలు పిలు పిలు,0,Affirmative,Equational/Nominal,Root Word: పిలు (NOUN),
+TE_AUTO_0131,Telugu,Spoken Subtitle,Film Dialogue,Ala_Vaikunthapurramuloo,ఈ పేషెంట్ ఇక్కడ ఉన్నారండి,1,Affirmative,Locative/Existential,Root Word: ఉన్నారండి (VERB),ఉన్నారు
+TE_AUTO_0132,Telugu,Spoken Subtitle,Film Dialogue,Ala_Vaikunthapurramuloo,డాక్టర్ భాస్కర్ రెడ్డి ఉన్నారా,1,Affirmative,Locative/Existential,Root Word: ఉన్నారా (VERB),ఉన్నారు
+TE_AUTO_0133,Telugu,Spoken Subtitle,Film Dialogue,Ala_Vaikunthapurramuloo,ఇష్యూస్ ఏం లేవు,1,Negative,Locative/Existential,Root Word: లేవు (VERB),లేవు
+TE_AUTO_0134,Telugu,Spoken Subtitle,Film Dialogue,Ala_Vaikunthapurramuloo,కాశీ బొడబో సెక్యూరిటీ,0,Affirmative,Equational/Nominal,Root Word: సెక్యూరిటీ (NOUN),
+TE_AUTO_0135,Telugu,Spoken Subtitle,Film Dialogue,Ala_Vaikunthapurramuloo,జస్ట్ వన్ సెకండ్,0,Affirmative,Equational/Nominal,Root Word: సెకండ్ (NOUN),
+TE_AUTO_0136,Telugu,Spoken Subtitle,Film Dialogue,Ala_Vaikunthapurramuloo,మన బతుకులు గేట్ బయటే,0,Affirmative,Equational/Nominal,Root Word: బయటే (NOUN),
+TE_AUTO_0137,Telugu,Spoken Subtitle,Film Dialogue,Ala_Vaikunthapurramuloo,నువ్వు కన్నతండ్రివి కావు,1,Negative,Equational/Nominal,Root Word: కావు (VERB),కావు
+TE_AUTO_0138,Telugu,Spoken Subtitle,Film Dialogue,Ala_Vaikunthapurramuloo,కన్న తండ్రిని కాదు,1,Negative,Equational/Nominal,Root Word: కాదు (VERB),కాదు
+TE_AUTO_0139,Telugu,Spoken Subtitle,Film Dialogue,Ala_Vaikunthapurramuloo,నేను కన్న తండ్రిని కాదు,1,Negative,Equational/Nominal,Root Word: కాదు (VERB),కాదు
+TE_AUTO_0140,Telugu,Spoken Subtitle,Film Dialogue,Ala_Vaikunthapurramuloo,పాతికేలు కోమాలో ఉన్న నర్సు,0,Affirmative,Equational/Nominal,Root Word: నర్సు (NOUN),
+TE_AUTO_0141,Telugu,Spoken Subtitle,Film Dialogue,Ala_Vaikunthapurramuloo,మా నాన్న అంటే నీకు జెలసీ,0,Affirmative,Equational/Nominal,Root Word: జెలసీ (NOUN),
+TE_AUTO_0142,Telugu,Spoken Subtitle,Film Dialogue,Ala_Vaikunthapurramuloo,నీ గురించి నేను,0,Affirmative,Equational/Nominal,Root Word: నేను (PRON),
+TE_AUTO_0143,Telugu,Spoken Subtitle,Film Dialogue,Ala_Vaikunthapurramuloo,ఇవన్నీ ఆలోచించుకునే అక్కడ నోరు మూసుకొని ఉన్నాను.,1,Affirmative,Locative/Existential,Root Word: ఉన్నాను (VERB),ఉన్నాను
+TE_AUTO_0144,Telugu,Spoken Subtitle,Film Dialogue,Ala_Vaikunthapurramuloo,నిన్ను ఇంప్రెస్ చేయక్కర్లేదనే ఫ్రీడమ,0,Affirmative,Equational/Nominal,Root Word: ఫ్రీడమ (NOUN),
+TE_AUTO_0145,Telugu,Spoken Subtitle,Film Dialogue,Ala_Vaikunthapurramuloo,ఐ యమ్ ఫ్రీ,0,Affirmative,Adjectival,Root Word: ఫ్రీ (NOUN),
+TE_AUTO_0146,Telugu,Spoken Subtitle,Film Dialogue,Ala_Vaikunthapurramuloo,బండికి ఇన్సూరెన్స్ ఉంది,1,Affirmative,Locative/Existential,Root Word: ఉంది (VERB),ఉంది
+TE_AUTO_0147,Telugu,Spoken Subtitle,Film Dialogue,Ala_Vaikunthapurramuloo,వీడు వాళ్ళకి చెప్పడని ఇన్షూరెన్స్ ఉంది,1,Affirmative,Locative/Existential,Root Word: ఉంది (VERB),ఉంది
+TE_AUTO_0148,Telugu,Spoken Subtitle,Film Dialogue,Ala_Vaikunthapurramuloo,ఏంటి ఒంట్లో బాలేదా,1,Negative,Adjectival,Root Word: బాలేదా (VERB),లేదు
+TE_AUTO_0149,Telugu,Spoken Subtitle,Film Dialogue,Ala_Vaikunthapurramuloo,సాయంత్రం నుంచి టెంపరేచర్ రా,0,Affirmative,Equational/Nominal,Root Word: రా (VERB),
+TE_AUTO_0150,Telugu,Spoken Subtitle,Film Dialogue,Ala_Vaikunthapurramuloo,ఎవరు నాకు రేయ్,0,Affirmative,Equational/Nominal,Root Word: రేయ్ (NOUN),
+TE_AUTO_0151,Telugu,Spoken Subtitle,Film Dialogue,Ala_Vaikunthapurramuloo,నాన్న ఎలా ఉన్నాడు,1,Affirmative,Adjectival,Root Word: ఉన్నాడు (VERB),ఉన్నాడు
+TE_AUTO_0152,Telugu,Spoken Subtitle,Film Dialogue,Ala_Vaikunthapurramuloo,ఓ నువ్వు సుబ్రహ్మణ్యం కాదు,1,Negative,Equational/Nominal,Root Word: కాదు (VERB),కాదు
+TE_AUTO_0153,Telugu,Spoken Subtitle,Film Dialogue,Ala_Vaikunthapurramuloo,లక్కీగా ఆవిడికి ఇలాంటి బామర్దులు లేరు,1,Negative,Locative/Existential,Root Word: లేరు (VERB),లేరు
+TE_AUTO_0154,Telugu,Spoken Subtitle,Film Dialogue,Ala_Vaikunthapurramuloo,వాళ్ళ ఇంటి గురించి అడిగితే అది ఇల్లు కాదు,1,Negative,Equational/Nominal,Root Word: కాదు (VERB),కాదు
+TE_AUTO_0155,Telugu,Spoken Subtitle,Film Dialogue,Ala_Vaikunthapurramuloo,ఒక్కడు సరిగ్గా లేడు,1,Negative,Adjectival,Root Word: లేడు (VERB),లేడు
+TE_AUTO_0156,Telugu,Spoken Subtitle,Film Dialogue,Ala_Vaikunthapurramuloo,నీ యువరాజు ఎలా ఉన్నాడో,1,Affirmative,Adjectival,Root Word: ఉన్నాడో (VERB),ఉన్నాడు
+TE_AUTO_0157,Telugu,Spoken Subtitle,Film Dialogue,Ala_Vaikunthapurramuloo,ఒకడు రాజు ఆయన ఎలా ఉన్నారో,1,Affirmative,Adjectival,Root Word: ఉన్నారో (VERB),ఉన్నారు
+TE_AUTO_0158,Telugu,Spoken Subtitle,Film Dialogue,Ala_Vaikunthapurramuloo,గుల్లుగం లాంటోడివిరా నువ్వు,0,Affirmative,Equational/Nominal,Root Word: లాంటోడివిరా (NOUN),
+TE_AUTO_0159,Telugu,Spoken Subtitle,Film Dialogue,Ala_Vaikunthapurramuloo,ఏయ్ అసలు టీష షర్ట్ కి దానికి ఏంటి సంబంధం అండి,0,Affirmative,Equational/Nominal,Root Word: సంబంధం (NOUN),
+TE_AUTO_0160,Telugu,Spoken Subtitle,Film Dialogue,Ala_Vaikunthapurramuloo,మీ గురించి కాదు,1,Negative,Equational/Nominal,Root Word: కాదు (VERB),కాదు
+TE_AUTO_0161,Telugu,Spoken Subtitle,Film Dialogue,Ala_Vaikunthapurramuloo,ఐ యమ్ ఓకే సార్,0,Affirmative,Equational/Nominal,Root Word: సార్ (NOUN),
+TE_AUTO_0162,Telugu,Spoken Subtitle,Film Dialogue,Ala_Vaikunthapurramuloo,మన లాంటి వాళ్ళు కాకుండా లైక్,0,Affirmative,Equational/Nominal,Root Word: వాళ్ళు (PRON),
+TE_AUTO_0163,Telugu,Spoken Subtitle,Film Dialogue,Ala_Vaikunthapurramuloo,అర్చి హర్చి వీడికి బిపి ఎక్కువయ్యేలా ఉంది.,1,Affirmative,Adjectival,Root Word: ఉంది (VERB),ఉంది
+TE_AUTO_0164,Telugu,Spoken Subtitle,Film Dialogue,Ala_Vaikunthapurramuloo,అది గవర్నమెంట్ ఆఫీస్ కాదు.,1,Negative,Equational/Nominal,Root Word: కాదు (VERB),కాదు
+TE_AUTO_0165,Telugu,Spoken Subtitle,Film Dialogue,Ala_Vaikunthapurramuloo,అది బ్యాటరీ కొంచెం లోగ ఉంది,1,Affirmative,Adjectival,Root Word: ఉంది (VERB),ఉంది
+TE_AUTO_0166,Telugu,Spoken Subtitle,Film Dialogue,Ala_Vaikunthapurramuloo,ఏం నోరురా నీది,0,Affirmative,Equational/Nominal,Root Word: నీది (PRON),
+TE_AUTO_0167,Telugu,Spoken Subtitle,Film Dialogue,Ala_Vaikunthapurramuloo,సరే సరే సర్,0,Affirmative,Equational/Nominal,Root Word: సరే (PART),
+TE_AUTO_0168,Telugu,Spoken Subtitle,Film Dialogue,Ala_Vaikunthapurramuloo,పండుగా చేరే బంధమే,0,Affirmative,Equational/Nominal,Root Word: బంధమే (NOUN),
+TE_AUTO_0169,Telugu,Spoken Subtitle,Film Dialogue,Ala_Vaikunthapurramuloo,అలై పొక్కేటి కళ్ళలో,0,Affirmative,Locative/Existential,Root Word: పొక్కేటి (NOUN),
+TE_AUTO_0170,Telugu,Spoken Subtitle,Film Dialogue,Ala_Vaikunthapurramuloo,కదిలి వస్తుంటే మేఘమే,0,Affirmative,Equational/Nominal,Root Word: మేఘమే (NOUN),
+TE_AUTO_0171,Telugu,Spoken Subtitle,Film Dialogue,Ala_Vaikunthapurramuloo,పరుగు మోయంగా బంధమే,0,Affirmative,Equational/Nominal,Root Word: బంధమే (NOUN),
+TE_AUTO_0172,Telugu,Spoken Subtitle,Film Dialogue,Ala_Vaikunthapurramuloo,చిత్రమై రవి సింధూరమే,0,Affirmative,Equational/Nominal,Root Word: సింధూరమే (NOUN),
+TE_AUTO_0173,Telugu,Spoken Subtitle,Film Dialogue,Ala_Vaikunthapurramuloo,ఐ కాంట్ టీ బంక్ లో ఉన్నాడు,1,Affirmative,Locative/Existential,Root Word: ఉన్నాడు (VERB),ఉన్నాడు
+TE_AUTO_0174,Telugu,Spoken Subtitle,Film Dialogue,Ala_Vaikunthapurramuloo,నా హెడ్ఫోన్స్ ఆడి దగ్గర ఉన్నాయి.,1,Affirmative,Locative/Existential,Root Word: ఉన్నాయి (VERB),ఉన్నాయి
+TE_AUTO_0175,Telugu,Spoken Subtitle,Film Dialogue,Ala_Vaikunthapurramuloo,మా మనవరాల దగ్గరే కదా,0,Affirmative,Locative/Existential,Root Word: కదా (VERB),
+TE_AUTO_0176,Telugu,Spoken Subtitle,Film Dialogue,Ala_Vaikunthapurramuloo,చాలా పనులు ఉన్నాయి,1,Affirmative,Locative/Existential,Root Word: ఉన్నాయి (VERB),ఉన్నాయి
+TE_AUTO_0177,Telugu,Spoken Subtitle,Film Dialogue,Ala_Vaikunthapurramuloo,మొన్న మా మేడం,0,Affirmative,Equational/Nominal,Root Word: మేడం (NOUN),
+TE_AUTO_0178,Telugu,Spoken Subtitle,Film Dialogue,Ala_Vaikunthapurramuloo,ఆల్ ఓకే అబ్బే,0,Affirmative,Equational/Nominal,Root Word: ఓకే (PRON),
+TE_AUTO_0179,Telugu,Spoken Subtitle,Film Dialogue,Ala_Vaikunthapurramuloo,అయ్యో సారీ అండి,0,Affirmative,Equational/Nominal,Root Word: సారీ (NOUN),
+TE_AUTO_0180,Telugu,Spoken Subtitle,Film Dialogue,Ala_Vaikunthapurramuloo,వా ఇల్లు ఎలా ఉంది?,1,Affirmative,Adjectival,Root Word: ఉంది (VERB),ఉంది
+TE_AUTO_0181,Telugu,Spoken Subtitle,Film Dialogue,Ala_Vaikunthapurramuloo,ఎవిడెన్సులు ఏవి సరిగ్గా లేవు.,1,Negative,Adjectival,Root Word: లేవు (VERB),లేవు
+TE_AUTO_0182,Telugu,Spoken Subtitle,Film Dialogue,Ala_Vaikunthapurramuloo,లోపలికి ఎంట్రీ లేదు,1,Negative,Locative/Existential,Root Word: లేదు (VERB),లేదు
+TE_AUTO_0183,Telugu,Spoken Subtitle,Film Dialogue,Ala_Vaikunthapurramuloo,ఆ చేతి ముద్ర,0,Affirmative,Equational/Nominal,Root Word: ముద్ర (NOUN),
+TE_AUTO_0184,Telugu,Spoken Subtitle,Film Dialogue,Ala_Vaikunthapurramuloo,ముసల్ నా కొడక,0,Affirmative,Equational/Nominal,Root Word: కొడక (NOUN),
+TE_AUTO_0185,Telugu,Spoken Subtitle,Film Dialogue,Ala_Vaikunthapurramuloo,ఎవడరా నువ్వా ఏయ్,0,Affirmative,Equational/Nominal,Root Word: ఏయ్ (PRON),
+TE_AUTO_0186,Telugu,Spoken Subtitle,Film Dialogue,Ala_Vaikunthapurramuloo,కేసు వీక్ గా ఉంది,1,Affirmative,Adjectival,Root Word: ఉంది (VERB),ఉంది
+TE_AUTO_0187,Telugu,Spoken Subtitle,Film Dialogue,Ala_Vaikunthapurramuloo,ఇద్దర ఇద్దరే సైలెంట్ మూవీ సూపర్ స్టార్స్,0,Affirmative,Equational/Nominal,Root Word: స్టార్స్ (NOUN),
+TE_AUTO_0188,Telugu,Spoken Subtitle,Film Dialogue,Ala_Vaikunthapurramuloo,ఆ రారా ఏంటి సార్,0,Affirmative,Equational/Nominal,Root Word: రారా (NOUN),
+TE_AUTO_0189,Telugu,Spoken Subtitle,Film Dialogue,Ala_Vaikunthapurramuloo,ఇది రాజమౌళి సినిమా పేరులో ఉంది,1,Affirmative,Locative/Existential,Root Word: ఉంది (VERB),ఉంది
+TE_AUTO_0190,Telugu,Spoken Subtitle,Film Dialogue,Ala_Vaikunthapurramuloo,హ రోల్స్ రాయస్ రా,0,Affirmative,Equational/Nominal,Root Word: రా (VERB),
+TE_AUTO_0191,Telugu,Spoken Subtitle,Film Dialogue,Ala_Vaikunthapurramuloo,ఏం కాంట్రాస్ట్ గా ఉన్నారు,1,Affirmative,Adjectival,Root Word: ఉన్నారు (VERB),ఉన్నారు
+TE_AUTO_0192,Telugu,Spoken Subtitle,Film Dialogue,Ala_Vaikunthapurramuloo,గురువుగారు ఆ ఆ కార్కున్న క్లాస్ కి మీకు సంబంధమే లేదు,1,Negative,Locative/Existential,Root Word: లేదు (VERB),లేదు
+TE_AUTO_0193,Telugu,Spoken Subtitle,Film Dialogue,Ala_Vaikunthapurramuloo,వాళ్ళు మనలాగా మిడిల్ కాదు,1,Negative,Equational/Nominal,Root Word: కాదు (VERB),కాదు
+TE_AUTO_0194,Telugu,Spoken Subtitle,Film Dialogue,Ala_Vaikunthapurramuloo,హయ్ సరే అమ్మో,0,Affirmative,Equational/Nominal,Root Word: హయ్ (PRON),
+TE_AUTO_0195,Telugu,Spoken Subtitle,Film Dialogue,Ala_Vaikunthapurramuloo,వీడికి మొత్తం మనమే,0,Affirmative,Equational/Nominal,Root Word: మనమే (NOUN),
+TE_AUTO_0196,Telugu,Spoken Subtitle,Film Dialogue,Ala_Vaikunthapurramuloo,వాడు కాబోయే పెళ్ళం కదా,0,Affirmative,Equational/Nominal,Root Word: కదా (VERB),
+TE_AUTO_0197,Telugu,Spoken Subtitle,Film Dialogue,Ala_Vaikunthapurramuloo,ఏంటి అదే సార్,0,Affirmative,Equational/Nominal,Root Word: సార్ (NOUN),
+TE_AUTO_0198,Telugu,Spoken Subtitle,Film Dialogue,Ala_Vaikunthapurramuloo,మార్నింగ్ ఆఫీసర్ బంటు మార్నింగ్ సార్,0,Affirmative,Equational/Nominal,Root Word: సార్ (NOUN),
+TE_AUTO_0199,Telugu,Spoken Subtitle,Film Dialogue,Ala_Vaikunthapurramuloo,ఏం మాట్లాడుతున్నావే నువ్వు ఈ ఇంటి మొత్తం మీద కామన్ సెన్స్ లో గాని ఇంటెలిజెన్స్ లో గాని నా తర్వాత ఎవడైనా ఉన్నాడంటే అది వాడే,0,Affirmative,Equational/Nominal,Root Word: వాడే (PRON),
+TE_AUTO_0200,Telugu,Spoken Subtitle,Film Dialogue,Ala_Vaikunthapurramuloo,గుడ్ మార్నింగ్ సార్,0,Affirmative,Equational/Nominal,Root Word: సార్ (NOUN),
+TE_AUTO_0201,Telugu,Spoken Subtitle,Film Dialogue,Ala_Vaikunthapurramuloo,హాయ్ మార్నింగ్ కం,0,Affirmative,Equational/Nominal,Root Word: కం (NOUN),
+TE_AUTO_0202,Telugu,Spoken Subtitle,Film Dialogue,Ala_Vaikunthapurramuloo,గ్రేటెస్ట్ బాటిల్స్ ఆ విత్ క్లోసెస్ట్ పీపుల్,0,Affirmative,Equational/Nominal,Root Word: క్లోసెస్ట్ (NOUN),
+TE_AUTO_0203,Telugu,Spoken Subtitle,Film Dialogue,Ala_Vaikunthapurramuloo,వాడి మనసులో ఏముందో,1,Affirmative,Locative/Existential,Root Word: ఏముందో (VERB),ఉంది
+TE_AUTO_0204,Telugu,Spoken Subtitle,Film Dialogue,Ala_Vaikunthapurramuloo,వీడిలో ఏదో పవర్ ఉందిరా,1,Affirmative,Locative/Existential,Root Word: ఉందిరా (VERB),ఉంది
+TE_AUTO_0205,Telugu,Spoken Subtitle,Film Dialogue,Ala_Vaikunthapurramuloo,వీడిని మనం లాగేస్తే బెటర్ ఎందుకు మన మీద ఎక్కడానిక,0,Affirmative,Equational/Nominal,Root Word: ఎక్కడాని (VERB),
+TE_AUTO_0206,Telugu,Spoken Subtitle,Film Dialogue,Ala_Vaikunthapurramuloo,వాళ్ళకి కమిషన్ తినాల్సిన కరం ఏంటి?,0,Affirmative,Equational/Nominal,Root Word: ఏంటి (PRON),
+TE_AUTO_0207,Telugu,Spoken Subtitle,Film Dialogue,Ala_Vaikunthapurramuloo,అంటే చివర్లో బేబీ అని ఉంది,1,Affirmative,Locative/Existential,Root Word: ఉంది (VERB),ఉంది
+TE_AUTO_0208,Telugu,Spoken Subtitle,Film Dialogue,Ala_Vaikunthapurramuloo,ఒక హార్ట్ సింబల్ కూడా ఉంది,1,Affirmative,Locative/Existential,Root Word: ఉంది (VERB),ఉంది
+TE_AUTO_0209,Telugu,Spoken Subtitle,Film Dialogue,Ala_Vaikunthapurramuloo,ఆ రోజే కన్ఫర్మ్,0,Affirmative,Equational/Nominal,Root Word: కన్ఫర్మ్ (NOUN),
+TE_AUTO_0210,Telugu,Spoken Subtitle,Film Dialogue,Ala_Vaikunthapurramuloo,అది వాళ్ళ ఇష్టం,0,Affirmative,Equational/Nominal,Root Word: ఇష్టం (NOUN),
+TE_AUTO_0211,Telugu,Spoken Subtitle,Film Dialogue,Ala_Vaikunthapurramuloo,అంటే దాని అర్థం,0,Affirmative,Equational/Nominal,Root Word: అర్థం (NOUN),
+TE_AUTO_0212,Telugu,Spoken Subtitle,Film Dialogue,Ala_Vaikunthapurramuloo,సీ యు మమ్,0,Affirmative,Equational/Nominal,Root Word: యు (NOUN),
+TE_AUTO_0213,Telugu,Spoken Subtitle,Film Dialogue,Ala_Vaikunthapurramuloo,నీకంటే గొప్పది కాదు,1,Negative,Adjectival,Root Word: కాదు (VERB),కాదు
+TE_AUTO_0214,Telugu,Spoken Subtitle,Film Dialogue,Ala_Vaikunthapurramuloo,నాలో ఏం లేదు,1,Negative,Locative/Existential,Root Word: లేదు (VERB),లేదు
+TE_AUTO_0215,Telugu,Spoken Subtitle,Film Dialogue,Ala_Vaikunthapurramuloo,ఐ యమ్ సారీ,0,Affirmative,Equational/Nominal,Root Word: యమ్ (INTJ),
+TE_AUTO_0216,Telugu,Spoken Subtitle,Film Dialogue,Ala_Vaikunthapurramuloo,అలా కొంచెం టైం,0,Affirmative,Equational/Nominal,Root Word: టైం (NOUN),
+TE_AUTO_0217,Telugu,Spoken Subtitle,Film Dialogue,Ala_Vaikunthapurramuloo,వీడు ఉత్తమవుడు కాదు,1,Negative,Equational/Nominal,Root Word: కాదు (VERB),కాదు
+TE_AUTO_0218,Telugu,Spoken Subtitle,Film Dialogue,Ala_Vaikunthapurramuloo,వాడు పైలట్ రా,0,Affirmative,Equational/Nominal,Root Word: రా (VERB),
+TE_AUTO_0219,Telugu,Spoken Subtitle,Film Dialogue,Ala_Vaikunthapurramuloo,వీళ్ళ ఆఫర్ కూడా ఏముందో,1,Affirmative,Locative/Existential,Root Word: ఏముందో (VERB),ఉంది
+TE_AUTO_0220,Telugu,Spoken Subtitle,Film Dialogue,Ala_Vaikunthapurramuloo,ఎదురుపడకు మోగు తాతి బాధ,0,Affirmative,Equational/Nominal,Root Word: బాధ (NOUN),
+TE_AUTO_0221,Telugu,Spoken Subtitle,Film Dialogue,Ala_Vaikunthapurramuloo,మీ చిన్నసారికి మేడం,0,Affirmative,Equational/Nominal,Root Word: మేడం (NOUN),
+TE_AUTO_0222,Telugu,Spoken Subtitle,Film Dialogue,Ala_Vaikunthapurramuloo,ఆ ఫైన్ దెన్ ఐ లీవ్,0,Affirmative,Equational/Nominal,Root Word: లీవ్ (NOUN),
+TE_AUTO_0223,Telugu,Spoken Subtitle,Film Dialogue,Ala_Vaikunthapurramuloo,నీకు సినిమా సువిత తమా,0,Affirmative,Equational/Nominal,Root Word: సువిత (NOUN),
+TE_AUTO_0224,Telugu,Spoken Subtitle,Film Dialogue,Ala_Vaikunthapurramuloo,సిటీ కొట్టిత మామా మామ,0,Affirmative,Equational/Nominal,Root Word: కొట్టిత (NOUN),
+TE_AUTO_0225,Telugu,Spoken Subtitle,Film Dialogue,Ala_Vaikunthapurramuloo,సినిమా సువిత మామా,0,Affirmative,Equational/Nominal,Root Word: సువిత (NOUN),
+TE_AUTO_0226,Telugu,Spoken Subtitle,Film Dialogue,Ala_Vaikunthapurramuloo,నీకు సినిమా సువితమా,0,Affirmative,Equational/Nominal,Root Word: సువితమా (NOUN),
+TE_AUTO_0227,Telugu,Spoken Subtitle,Film Dialogue,Ala_Vaikunthapurramuloo,సిటీ కొట్టిత మామా,0,Affirmative,Equational/Nominal,Root Word: మామా (NOUN),
+TE_AUTO_0228,Telugu,Spoken Subtitle,Film Dialogue,Ala_Vaikunthapurramuloo,సీతారామ గారు ఆయన పాటకి సిచువేషన్ ఏముందండి,1,Affirmative,Locative/Existential,Root Word: ఏముందండి (VERB),ఉంది
+TE_AUTO_0229,Telugu,Spoken Subtitle,Film Dialogue,Ala_Vaikunthapurramuloo,వివిధ భారతీ వాణిజ్య ప్రసార విభాగానికి స్వాగతం.,0,Affirmative,Equational/Nominal,Root Word: స్వాగతం (NOUN),
+TE_AUTO_0230,Telugu,Spoken Subtitle,Film Dialogue,Ala_Vaikunthapurramuloo,నాన్న ఒంట్లో బాలేదు,1,Negative,Adjectival,Root Word: బాలేదు (VERB),లేదు
+TE_AUTO_0231,Telugu,Spoken Subtitle,Film Dialogue,Ala_Vaikunthapurramuloo,కార్లు ఖాళీగా ఉన్నాయి,1,Affirmative,Adjectival,Root Word: ఉన్నాయి (VERB),ఉన్నాయి
+TE_AUTO_0232,Telugu,Spoken Subtitle,Film Dialogue,Ala_Vaikunthapurramuloo,రోడ్లు విశాలంగా ఉన్నాయి,1,Affirmative,Adjectival,Root Word: ఉన్నాయి (VERB),ఉన్నాయి
+TE_AUTO_0233,Telugu,Spoken Subtitle,Film Dialogue,Ala_Vaikunthapurramuloo,ఇక్కడ అన్న ఒకడు ఉన్నాడు,1,Affirmative,Locative/Existential,Root Word: ఉన్నాడు (VERB),ఉన్నాడు
+TE_AUTO_0234,Telugu,Spoken Subtitle,Film Dialogue,Ala_Vaikunthapurramuloo,బద్దలైపోయే బ్యాక్గ్రౌండ్ మ్యూజిక్ స్లో మోషన్ గాలిలో కోటాలు చాలా స్పెషల్ ఎఫెక్ట్లు ఉన్నాయి,1,Affirmative,Locative/Existential,Root Word: ఉన్నాయి (VERB),ఉన్నాయి
+TE_AUTO_0235,Telugu,Spoken Subtitle,Film Dialogue,Ala_Vaikunthapurramuloo,ఇట్స్ ఏ సిక్సర్,0,Affirmative,Equational/Nominal,Root Word: సిక్సర్ (NOUN),
+TE_AUTO_0236,Telugu,Spoken Subtitle,Film Dialogue,Ala_Vaikunthapurramuloo,వచ్చిన మంటే సుట్టు,0,Affirmative,Equational/Nominal,Root Word: సుట్టు (NOUN),
+TE_AUTO_0237,Telugu,Spoken Subtitle,Film Dialogue,Ala_Vaikunthapurramuloo,నా లిల్లుకు మావ,0,Affirmative,Equational/Nominal,Root Word: మావ (NOUN),
+TE_AUTO_0238,Telugu,Spoken Subtitle,Film Dialogue,Ala_Vaikunthapurramuloo,నీలాంటి వాడిని ఈ ఇంట్లోనే కాదు,1,Negative,Locative/Existential,Root Word: కాదు (VERB),కాదు
+TE_AUTO_0239,Telugu,Spoken Subtitle,Film Dialogue,Ala_Vaikunthapurramuloo,ఆ ఇంట్లో ఉన్న వచ్చేసిన ఏంటి తేడా బంటు,0,Affirmative,Locative/Existential,Root Word: బంటు (NOUN),
+TE_AUTO_0240,Telugu,Spoken Subtitle,Film Dialogue,Ala_Vaikunthapurramuloo,వాటి మీద మీ మొగుడు పిల్లలు ఇద్దరు సంతకాలెట్టి,0,Affirmative,Equational/Nominal,Root Word: సంతకాలెట్టి (NOUN),
+TE_AUTO_0241,Telugu,Spoken Subtitle,Film Dialogue,Ala_Vaikunthapurramuloo,కాశీ అది నా కూతురు కాదా,1,Negative,Equational/Nominal,Root Word: కాదా (VERB),కాదు
+TE_AUTO_0242,Telugu,Spoken Subtitle,Film Dialogue,Ala_Vaikunthapurramuloo,అమూల్యతో పెళ్లి నాకు ఇష్టం లేదు,1,Negative,Locative/Existential,Root Word: లేదు (VERB),లేదు
+TE_AUTO_0243,Telugu,Spoken Subtitle,Film Dialogue,Ala_Vaikunthapurramuloo,ఆస్తి మా అమ్మది,0,Affirmative,Equational/Nominal,Root Word: అమ్మది (NOUN),
+TE_AUTO_0244,Telugu,Spoken Subtitle,Film Dialogue,Ala_Vaikunthapurramuloo,ఆ బంటుగాని గెంటేసిన సువార్త తినంగానే మా బావ,0,Affirmative,Equational/Nominal,Root Word: బావ (NOUN),
+TE_AUTO_0245,Telugu,Spoken Subtitle,Film Dialogue,Ala_Vaikunthapurramuloo,మర్రి చెట్టు దెయ్యాల,0,Affirmative,Equational/Nominal,Root Word: దెయ్యాల (NOUN),
+TE_AUTO_0246,Telugu,Spoken Subtitle,Film Dialogue,Ala_Vaikunthapurramuloo,ఒంటెతల ల రావణుడు,0,Affirmative,Equational/Nominal,Root Word: రావణుడు (NOUN),
+TE_AUTO_0247,Telugu,Spoken Subtitle,Film Dialogue,Ala_Vaikunthapurramuloo,మరి మీ బావ,0,Affirmative,Equational/Nominal,Root Word: బావ (NOUN),
+TE_AUTO_0248,Telugu,Spoken Subtitle,Film Dialogue,Ala_Vaikunthapurramuloo,స్వామి శేసి కండబోటి,0,Affirmative,Equational/Nominal,Root Word: కండబోటి (NOUN),
+TE_AUTO_0249,Telugu,Spoken Subtitle,Film Dialogue,Ala_Vaikunthapurramuloo,స్వామి శేసి కండబోటి,0,Affirmative,Equational/Nominal,Root Word: కండబోటి (NOUN),
+TE_AUTO_0250,Telugu,Spoken Subtitle,Film Dialogue,Ala_Vaikunthapurramuloo,ఇస్ యక్చులీ ఏ గుడ్ సాంగ్ నాయుడు,0,Affirmative,Equational/Nominal,Root Word: నాయుడు (NOUN),
+TE_AUTO_0251,Telugu,Spoken Subtitle,Film Dialogue,Ala_Vaikunthapurramuloo,ఊరి సివర సిత్తరాల,0,Affirmative,Equational/Nominal,Root Word: సిత్తరాల (NOUN),
+TE_AUTO_0252,Telugu,Spoken Subtitle,Film Dialogue,Ala_Vaikunthapurramuloo,వీడు నీ కొడుకు నా ఆస్తికి వారసుడు,0,Affirmative,Equational/Nominal,Root Word: వారసుడు (NOUN),
+TE_AUTO_0253,Telugu,Spoken Subtitle,Film Dialogue,Ala_Vaikunthapurramuloo,మనుషుల మీద కోపం లేదు,1,Negative,Locative/Existential,Root Word: లేదు (VERB),లేదు
+TE_AUTO_0254,Telugu,Spoken Subtitle,Film Dialogue,Ala_Vaikunthapurramuloo,ఆస్తి మీద ఆశ లేదు,1,Negative,Locative/Existential,Root Word: లేదు (VERB),లేదు
+TE_AUTO_0255,Telugu,Spoken Subtitle,Film Dialogue,Ala_Vaikunthapurramuloo,గెలుపుకు కేర్ ఆఫ్ అడ్రెస్,0,Affirmative,Equational/Nominal,Root Word: అడ్రెస్ (NOUN),
+TE_AUTO_0256,Telugu,Spoken Subtitle,Film Dialogue,Ala_Vaikunthapurramuloo,నాకు ఇంతకన్నా ఏం అవసరం లేదు,1,Negative,Adjectival,Root Word: లేదు (VERB),లేదు
+TE_AUTO_0257,Telugu,Spoken Subtitle,Film Dialogue,Ala_Vaikunthapurramuloo,నువ్వు నాకు ఇష్టం లేని నిజం,0,Affirmative,Equational/Nominal,Root Word: నిజం (NOUN),
+TE_AUTO_0258,Telugu,Spoken Subtitle,Film Dialogue,Ala_Vaikunthapurramuloo,నువ్వు ఏం చేస్తే అదే రైట్,0,Affirmative,Equational/Nominal,Root Word: రైట్ (NOUN),
+TE_AUTO_0259,Telugu,Spoken Subtitle,Film Dialogue,Ala_Vaikunthapurramuloo,ఏంటి వాళ్ళు మీకు నీరసంగా ఉన్నావ్,1,Affirmative,Adjectival,Root Word: ఉన్నావ్ (VERB),ఉన్నావ్
+TE_AUTO_0260,Telugu,Spoken Subtitle,Film Dialogue,Ala_Vaikunthapurramuloo,ఫైవ్ ఇయర్స్ లో సఈఓ,0,Affirmative,Equational/Nominal,Root Word: సఈ (NUM),
+TE_AUTO_0261,Telugu,Spoken Subtitle,Film Dialogue,Ala_Vaikunthapurramuloo,రాసా అందుకే ఇది,0,Affirmative,Equational/Nominal,Root Word: ఇది (PRON),
+TE_AUTO_0262,Telugu,Spoken Subtitle,Film Dialogue,Ala_Vaikunthapurramuloo,నా కార్డు సార్,0,Affirmative,Equational/Nominal,Root Word: సార్ (PRON),
+TE_AUTO_0263,Telugu,Spoken Subtitle,Film Dialogue,Ala_Vaikunthapurramuloo,నా కార్డు సార్,0,Affirmative,Equational/Nominal,Root Word: సార్ (PRON),
+TE_AUTO_0264,Telugu,Spoken Subtitle,Film Dialogue,Srirastu_Subhamastu,నేను చెప్తూనే ఉన్నాను,1,Affirmative,Locative/Existential,Root Word: ఉన్నాను (VERB),ఉన్నాను
+TE_AUTO_0265,Telugu,Spoken Subtitle,Film Dialogue,Srirastu_Subhamastu,మీరు బిజినెస్ సార్,0,Affirmative,Equational/Nominal,Root Word: సార్ (NOUN),
+TE_AUTO_0266,Telugu,Spoken Subtitle,Film Dialogue,Srirastu_Subhamastu,ఈ విషయం మీకు ముందే,1,Affirmative,Locative/Existential,Root Word: ముందే (VERB),ఉంది
+TE_AUTO_0267,Telugu,Spoken Subtitle,Film Dialogue,Srirastu_Subhamastu,ఈ రోజు జరిగిన పెళ్లి గురించి కాదు,1,Negative,Equational/Nominal,Root Word: కాదు (VERB),కాదు
+TE_AUTO_0268,Telugu,Spoken Subtitle,Film Dialogue,Srirastu_Subhamastu,ఎన్నాళ్ళ నుంచో వీళ్ళ మధ్య జరుగుతున్న ప్రేమ,0,Affirmative,Equational/Nominal,Root Word: ప్రేమ (NOUN),
+TE_AUTO_0269,Telugu,Spoken Subtitle,Film Dialogue,Srirastu_Subhamastu,నీ భార్యగా అమ్మాయిని ఇంటికి తెచ్చుకునే హక్కు నీకు ఉంది.,1,Affirmative,Locative/Existential,Root Word: ఉంది (VERB),ఉంది
+TE_AUTO_0270,Telugu,Spoken Subtitle,Film Dialogue,Srirastu_Subhamastu,గుడ్ మార్నింగ్ బాబు,0,Affirmative,Equational/Nominal,Root Word: బాబు (NOUN),
+TE_AUTO_0271,Telugu,Spoken Subtitle,Film Dialogue,Srirastu_Subhamastu,ఆ బైనోక్లస్ లేవండి.,1,Negative,Locative/Existential,Root Word: లేవండి (VERB),లేవు
+TE_AUTO_0272,Telugu,Spoken Subtitle,Film Dialogue,Srirastu_Subhamastu,షూర్ రాజుగారు వాళ్ళు పాజిటివ్ గా ఉన్నారా,1,Affirmative,Adjectival,Root Word: ఉన్నారా (VERB),ఉన్నారు
+TE_AUTO_0273,Telugu,Spoken Subtitle,Film Dialogue,Srirastu_Subhamastu,ఆ మొత్తం పాజిటివ్ బాబు,0,Affirmative,Equational/Nominal,Root Word: బాబు (NOUN),
+TE_AUTO_0274,Telugu,Spoken Subtitle,Film Dialogue,Srirastu_Subhamastu,సౌండ్ ఎక్కడి నుంచి రాజుగారు,0,Affirmative,Equational/Nominal,Root Word: రాజుగారు (NOUN),
+TE_AUTO_0275,Telugu,Spoken Subtitle,Film Dialogue,Srirastu_Subhamastu,ప్రకృతితో ఇంత సాన్నిత్యంగా మెలిగే వాళ్ళు జనరల్,0,Affirmative,Equational/Nominal,Root Word: జనరల్ (PROPN),
+TE_AUTO_0276,Telugu,Spoken Subtitle,Film Dialogue,Srirastu_Subhamastu,మే బాహర్ జాతా కోయి బాత్ న,0,Affirmative,Equational/Nominal,Root Word: మే (NOUN),
+TE_AUTO_0277,Telugu,Spoken Subtitle,Film Dialogue,Srirastu_Subhamastu,ఎక్స్క్యూస్ మీ సర్,0,Affirmative,Equational/Nominal,Root Word: సర్ (NOUN),
+TE_AUTO_0278,Telugu,Spoken Subtitle,Film Dialogue,Srirastu_Subhamastu,కహా గయేతే ఆప్,0,Affirmative,Equational/Nominal,Root Word: కహా (INTJ),
+TE_AUTO_0279,Telugu,Spoken Subtitle,Film Dialogue,Srirastu_Subhamastu,ఏమన్నా ఆ లాస్ట్ సెమిస్టర్ కదా,0,Affirmative,Equational/Nominal,Root Word: కదా (VERB),
+TE_AUTO_0280,Telugu,Spoken Subtitle,Film Dialogue,Srirastu_Subhamastu,అమ్మ ఎలా ఉందిరా,1,Affirmative,Adjectival,Root Word: ఉందిరా (VERB),ఉంది
+TE_AUTO_0281,Telugu,Spoken Subtitle,Film Dialogue,Srirastu_Subhamastu,లాస్ట్ టైం ఎంత కట్టానురా టర్మ్ ఫీస్ లక్ష రూపాయలు రా,0,Affirmative,Equational/Nominal,Root Word: రా (VERB),
+TE_AUTO_0282,Telugu,Spoken Subtitle,Film Dialogue,Srirastu_Subhamastu,ఇంకోసారి లెక్కల గురించి చెప్తే రేయ్,0,Affirmative,Equational/Nominal,Root Word: చెప్తే (VERB),
+TE_AUTO_0283,Telugu,Spoken Subtitle,Film Dialogue,Srirastu_Subhamastu,మాకు మాత్రం ఎవరున్నారురా,1,Affirmative,Locative/Existential,Root Word: ఎవరున్నారురా (VERB),ఉన్నారు
+TE_AUTO_0284,Telugu,Spoken Subtitle,Film Dialogue,Srirastu_Subhamastu,ఏ ఈ కాలేజ్ బాగా స్ట్రిక్ట్ రా,0,Affirmative,Equational/Nominal,Root Word: రా (VERB),
+TE_AUTO_0285,Telugu,Spoken Subtitle,Film Dialogue,Srirastu_Subhamastu,వీడు బానే ఉన్నాడు,1,Affirmative,Adjectival,Root Word: ఉన్నాడు (VERB),ఉన్నాడు
+TE_AUTO_0286,Telugu,Spoken Subtitle,Film Dialogue,Srirastu_Subhamastu,ఈ వయసులో అమ్మా,0,Affirmative,Locative/Existential,Root Word: వయసులో (NOUN),
+TE_AUTO_0287,Telugu,Spoken Subtitle,Film Dialogue,Srirastu_Subhamastu,టెన్షన్ గా ఉంది,1,Affirmative,Adjectival,Root Word: ఉంది (VERB),ఉంది
+TE_AUTO_0288,Telugu,Spoken Subtitle,Film Dialogue,Srirastu_Subhamastu,ఆ తర్వాత కడుపు,0,Affirmative,Equational/Nominal,Root Word: కడుపు (NOUN),
+TE_AUTO_0289,Telugu,Spoken Subtitle,Film Dialogue,Srirastu_Subhamastu,స్టెప్స్ అవే కదా,0,Affirmative,Equational/Nominal,Root Word: కదా (VERB),
+TE_AUTO_0290,Telugu,Spoken Subtitle,Film Dialogue,Srirastu_Subhamastu,నువ్వు నువ్వు చూపించిన స్లో మోషన్ షాట్స్ కి ఆ కొట్టడికి ఏమైనా సంబంధం ఉందా,1,Affirmative,Locative/Existential,Root Word: ఉందా (VERB),ఉంది
+TE_AUTO_0291,Telugu,Spoken Subtitle,Film Dialogue,Srirastu_Subhamastu,ఆ ఏటి పెనాలంటే ఎట్కారంగా ఉందా,1,Affirmative,Adjectival,Root Word: ఉందా (VERB),ఉంది
+TE_AUTO_0292,Telugu,Spoken Subtitle,Film Dialogue,Srirastu_Subhamastu,ఏంట్రా రియల్ పిక్ పాకెటర్స్ లా ఉన్నారు,1,Affirmative,Adjectival,Root Word: ఉన్నారు (VERB),ఉన్నారు
+TE_AUTO_0293,Telugu,Spoken Subtitle,Film Dialogue,Srirastu_Subhamastu,రియల్ పిక్ పాకెటర్స్ రా,0,Affirmative,Equational/Nominal,Root Word: రా (VERB),
+TE_AUTO_0294,Telugu,Spoken Subtitle,Film Dialogue,Srirastu_Subhamastu,మీకు వేరే దారి లేదు,1,Negative,Locative/Existential,Root Word: లేదు (VERB),లేదు
+TE_AUTO_0295,Telugu,Spoken Subtitle,Film Dialogue,Srirastu_Subhamastu,నాకు వేరే ఆప్షన్ లేదు.,1,Negative,Locative/Existential,Root Word: లేదు (VERB),లేదు
+TE_AUTO_0296,Telugu,Spoken Subtitle,Film Dialogue,Srirastu_Subhamastu,ఏయ్ స్వప్న ఏంటే ఆ అబ్బాయి ఇంకా ఇక్కడే ఉన్నాడే,1,Affirmative,Locative/Existential,Root Word: ఉన్నాడే (VERB),ఉన్నాడు
+TE_AUTO_0297,Telugu,Spoken Subtitle,Film Dialogue,Srirastu_Subhamastu,ఇతను ఒక్కడేనా ఇంక ఎవరైనా ఉన్నారా?,1,Affirmative,Locative/Existential,Root Word: ఉన్నారా (VERB),ఉన్నారు
+TE_AUTO_0298,Telugu,Spoken Subtitle,Film Dialogue,Srirastu_Subhamastu,ఈ యువకుడు చెబుతున్న అమ్మాయి ఎవరు ఏ అటు బొందలవే ఏం కాదు,1,Negative,Locative/Existential,Root Word: కాదు (VERB),కాదు
+TE_AUTO_0299,Telugu,Spoken Subtitle,Film Dialogue,Srirastu_Subhamastu,ఆ అమ్మాయిని వదులు వదులు,0,Affirmative,Equational/Nominal,Root Word: వదులు (NOUN),
+TE_AUTO_0300,Telugu,Spoken Subtitle,Film Dialogue,Srirastu_Subhamastu,సిస్టర్స్ ఎవరు లేరు.,1,Negative,Locative/Existential,Root Word: లేరు (VERB),లేరు
+TE_AUTO_0301,Telugu,Spoken Subtitle,Film Dialogue,Srirastu_Subhamastu,బట్ ఫ్రెండ్ సార్,0,Affirmative,Equational/Nominal,Root Word: సార్ (NOUN),
+TE_AUTO_0302,Telugu,Spoken Subtitle,Film Dialogue,Srirastu_Subhamastu,ఇది మరీ బాగుంది,1,Affirmative,Adjectival,Root Word: బాగుంది (VERB),ఉంది
+TE_AUTO_0303,Telugu,Spoken Subtitle,Film Dialogue,Srirastu_Subhamastu,ఏయ్ హెల్ప్ కాదు,1,Negative,Equational/Nominal,Root Word: కాదు (VERB),కాదు
+TE_AUTO_0304,Telugu,Spoken Subtitle,Film Dialogue,Srirastu_Subhamastu,ఇండియన్ పీనల్ కోడ్ అంటే ఒకటి ఉంది.,1,Affirmative,Locative/Existential,Root Word: ఉంది (VERB),ఉంది
+TE_AUTO_0305,Telugu,Spoken Subtitle,Film Dialogue,Srirastu_Subhamastu,ఏంటి ఎక్కడ బయట ఉన్నాడు,1,Affirmative,Locative/Existential,Root Word: ఉన్నాడు (VERB),ఉన్నాడు
+TE_AUTO_0306,Telugu,Spoken Subtitle,Film Dialogue,Srirastu_Subhamastu,చాలా ఎకసకాలు ఉన్నారా,1,Affirmative,Locative/Existential,Root Word: ఉన్నారా (VERB),ఉన్నారు
+TE_AUTO_0307,Telugu,Spoken Subtitle,Film Dialogue,Srirastu_Subhamastu,మీ నాన్న పేరఏంటి,0,Affirmative,Equational/Nominal,Root Word: పేరఏంటి (NOUN),
+TE_AUTO_0308,Telugu,Spoken Subtitle,Film Dialogue,Srirastu_Subhamastu,నా తల్లి కోసం బతికాను.,1,Negative,Equational/Nominal,Root Word: బతికాను (VERB),కాను
+TE_AUTO_0309,Telugu,Spoken Subtitle,Film Dialogue,Srirastu_Subhamastu,నా ఫ్రెండ్ అలాంటిది కాదు.,1,Negative,Equational/Nominal,Root Word: కాదు (VERB),కాదు
+TE_AUTO_0310,Telugu,Spoken Subtitle,Film Dialogue,Srirastu_Subhamastu,ఒక పనిలో ఉన్నాడు.,1,Affirmative,Locative/Existential,Root Word: ఉన్నాడు (VERB),ఉన్నాడు
+TE_AUTO_0311,Telugu,Spoken Subtitle,Film Dialogue,Srirastu_Subhamastu,నేను ప్రేమలో ఉన్నాను.,1,Affirmative,Locative/Existential,Root Word: ఉన్నాను (VERB),ఉన్నాను
+TE_AUTO_0312,Telugu,Spoken Subtitle,Film Dialogue,Srirastu_Subhamastu,ఓ మై గాడ్,0,Affirmative,Equational/Nominal,Root Word: గాడ్ (NOUN),
+TE_AUTO_0313,Telugu,Spoken Subtitle,Film Dialogue,Srirastu_Subhamastu,దొంగ నోట్లు ఏంటి సార్,0,Affirmative,Equational/Nominal,Root Word: సార్ (VERB),
+TE_AUTO_0314,Telugu,Spoken Subtitle,Film Dialogue,Srirastu_Subhamastu,అదే గర్ల్ ఫ్రెండ్.,0,Affirmative,Equational/Nominal,Root Word: ఫ్రెండ్ (NOUN),
+TE_AUTO_0315,Telugu,Spoken Subtitle,Film Dialogue,Srirastu_Subhamastu,వాడికి నాకు ఏ సంబంధం లేదు,1,Negative,Locative/Existential,Root Word: లేదు (VERB),లేదు
+TE_AUTO_0316,Telugu,Spoken Subtitle,Film Dialogue,Srirastu_Subhamastu,ఆల్రెడీ టెర్రరిస్ట్ సస్పెన్షన్ కేస్ ఒకటి ఉంది.,1,Affirmative,Locative/Existential,Root Word: ఉంది (VERB),ఉంది
+TE_AUTO_0317,Telugu,Spoken Subtitle,Film Dialogue,Srirastu_Subhamastu,ఏంటి నాకు వావ్,0,Affirmative,Equational/Nominal,Root Word: వావ్ (NOUN),
+TE_AUTO_0318,Telugu,Spoken Subtitle,Film Dialogue,Srirastu_Subhamastu,మీ మనసులాగే మీ ఇల్లు కూడా ఎంత విశాలంగా ఉందండి,1,Affirmative,Adjectival,Root Word: ఉందండి (VERB),ఉంది
+TE_AUTO_0319,Telugu,Spoken Subtitle,Film Dialogue,Srirastu_Subhamastu,అవట్ హౌస్ లో వాచ్మెన్ రూమ్ ఉంది,1,Affirmative,Locative/Existential,Root Word: ఉంది (VERB),ఉంది
+TE_AUTO_0320,Telugu,Spoken Subtitle,Film Dialogue,Srirastu_Subhamastu,ఇది నీ ఇంటర్నేషనల్ డ్రైవింగ్,0,Affirmative,Equational/Nominal,Root Word: ఇంటర్నేషనల్ (NOUN),
+TE_AUTO_0321,Telugu,Spoken Subtitle,Film Dialogue,Srirastu_Subhamastu,ఏయ్ ఎవరు ఈ కుర్రోడు అచ్చు నాలా ఉన్నాడే,1,Affirmative,Adjectival,Root Word: ఉన్నాడే (VERB),ఉన్నాడు
+TE_AUTO_0322,Telugu,Spoken Subtitle,Film Dialogue,Srirastu_Subhamastu,హాయ్ హాయ్ డాడ్,0,Affirmative,Equational/Nominal,Root Word: హాయ్ (NOUN),
+TE_AUTO_0323,Telugu,Spoken Subtitle,Film Dialogue,Srirastu_Subhamastu,ఓ మై గాడ్,0,Affirmative,Equational/Nominal,Root Word: గాడ్ (NOUN),
+TE_AUTO_0324,Telugu,Spoken Subtitle,Film Dialogue,Srirastu_Subhamastu,అలా పెరిగిన పిల్ల అయితే ఏంట్రా ఆ అమ్మాయి పేరు?,0,Affirmative,Equational/Nominal,Root Word: పేరు (NOUN),
+TE_AUTO_0325,Telugu,Spoken Subtitle,Film Dialogue,Srirastu_Subhamastu,ఆహా ఏమి లేదు,1,Negative,Locative/Existential,Root Word: లేదు (VERB),లేదు
+TE_AUTO_0326,Telugu,Spoken Subtitle,Film Dialogue,Srirastu_Subhamastu,ఊద బానే ఉందా,1,Affirmative,Adjectival,Root Word: ఉందా (VERB),ఉంది
+TE_AUTO_0327,Telugu,Spoken Subtitle,Film Dialogue,Srirastu_Subhamastu,ఏంటమ్మా అదే అమ్మగారి టేబుల్ మీద ఉప్మా ఉంది,1,Affirmative,Locative/Existential,Root Word: ఉంది (VERB),ఉంది
+TE_AUTO_0328,Telugu,Spoken Subtitle,Film Dialogue,Srirastu_Subhamastu,దోసలు బానే ఉన్నాయి,1,Affirmative,Adjectival,Root Word: ఉన్నాయి (VERB),ఉన్నాయి
+TE_AUTO_0329,Telugu,Spoken Subtitle,Film Dialogue,Srirastu_Subhamastu,అంటావా ఎవడు బాబా తెంగరోడు,0,Affirmative,Equational/Nominal,Root Word: బాబా (PRON),
+TE_AUTO_0330,Telugu,Spoken Subtitle,Film Dialogue,Srirastu_Subhamastu,సిగ్నల్ సరిగ్గా లేవు,1,Negative,Adjectival,Root Word: లేవు (VERB),లేవు
+TE_AUTO_0331,Telugu,Spoken Subtitle,Film Dialogue,Srirastu_Subhamastu,ఏ అను అరే కంగ్రాాచులేషన్స్,0,Affirmative,Equational/Nominal,Root Word: కంగ్రాాచులేషన్స్ (NOUN),
+TE_AUTO_0332,Telugu,Spoken Subtitle,Film Dialogue,Srirastu_Subhamastu,అండ్ సెలబ్రేషన్స్ మా నువ్వు చదువు తప్పితే వేరే గ్యాస్ లేదు,1,Negative,Locative/Existential,Root Word: లేదు (VERB),లేదు
+TE_AUTO_0333,Telugu,Spoken Subtitle,Film Dialogue,Srirastu_Subhamastu,ఏదో ఒక రోజు ఒక బిల్ రూమ్ లో మీరు ఇద్దరే కదా,0,Affirmative,Equational/Nominal,Root Word: కదా (VERB),
+TE_AUTO_0334,Telugu,Spoken Subtitle,Film Dialogue,Srirastu_Subhamastu,ఇది లేటెస్ట్ ట్రెండ్,0,Affirmative,Equational/Nominal,Root Word: ట్రెండ్ (NOUN),
+TE_AUTO_0335,Telugu,Spoken Subtitle,Film Dialogue,Srirastu_Subhamastu,కానీ సక్సెస్ చాలా రేర్,0,Affirmative,Equational/Nominal,Root Word: రేర్ (NOUN),
+TE_AUTO_0336,Telugu,Spoken Subtitle,Film Dialogue,Srirastu_Subhamastu,మీరంటే నాకు చాలా ఇష్టం.,0,Affirmative,Equational/Nominal,Root Word: ఇష్టం (NOUN),
+TE_AUTO_0337,Telugu,Spoken Subtitle,Film Dialogue,Srirastu_Subhamastu,వన్ సెకండ్ మేడం,0,Affirmative,Equational/Nominal,Root Word: మేడం (NOUN),
+TE_AUTO_0338,Telugu,Spoken Subtitle,Film Dialogue,Srirastu_Subhamastu,జగ జగన్నాథ్ ఆ జగన్నాథం గారు,0,Affirmative,Equational/Nominal,Root Word: జగన్నాథం (PROPN),
+TE_AUTO_0339,Telugu,Spoken Subtitle,Film Dialogue,Srirastu_Subhamastu,త ఈ ఏ ఎర ఏ ఎరఏ,0,Affirmative,Equational/Nominal,Root Word: ఎరఏ (NOUN),
+TE_AUTO_0340,Telugu,Spoken Subtitle,Film Dialogue,Srirastu_Subhamastu,నాకు లాస్ట్ ఎక్స్ట్రానా,0,Affirmative,Equational/Nominal,Root Word: ఎక్స్ట్రానా (NOUN),
+TE_AUTO_0341,Telugu,Spoken Subtitle,Film Dialogue,Srirastu_Subhamastu,నీ హార్ట్ బీట్ కొంచెం నార్మల్ అయ్యే మాట,0,Affirmative,Equational/Nominal,Root Word: మాట (NOUN),
+TE_AUTO_0342,Telugu,Spoken Subtitle,Film Dialogue,Srirastu_Subhamastu,హాయ్ అంకుల్ హాయ్ ఆంటీ,0,Affirmative,Equational/Nominal,Root Word: అంకుల్ (PRON),
+TE_AUTO_0343,Telugu,Spoken Subtitle,Film Dialogue,Srirastu_Subhamastu,హాయ్ డాడీ హాయ్ అను మమ్మీ,0,Affirmative,Equational/Nominal,Root Word: హాయ్ (NOUN),
+TE_AUTO_0344,Telugu,Spoken Subtitle,Film Dialogue,Srirastu_Subhamastu,హలో అంకుల్ రేయ్,0,Affirmative,Equational/Nominal,Root Word: అంకుల్ (NOUN),
+TE_AUTO_0345,Telugu,Spoken Subtitle,Film Dialogue,Srirastu_Subhamastu,ఆ ఈ ప్రొపోజల్ నీకు ఇష్టమో లేదో,1,Negative,Locative/Existential,Root Word: లేదో (VERB),లేదు
+TE_AUTO_0346,Telugu,Spoken Subtitle,Film Dialogue,Srirastu_Subhamastu,మమ్మీ వి ఆర్ లకీ థాంక్యూ,0,Affirmative,Equational/Nominal,Root Word: ఆర్ (PROPN),
+TE_AUTO_0347,Telugu,Spoken Subtitle,Film Dialogue,Srirastu_Subhamastu,ఏ ఏమనా కంప్లైంట్,0,Affirmative,Equational/Nominal,Root Word: కంప్లైంట్ (NOUN),
+TE_AUTO_0348,Telugu,Spoken Subtitle,Film Dialogue,Srirastu_Subhamastu,నువ్వంటే నాకు ఇష్టం లేదు,1,Negative,Locative/Existential,Root Word: లేదు (VERB),లేదు
+TE_AUTO_0349,Telugu,Spoken Subtitle,Film Dialogue,Srirastu_Subhamastu,ఓ దా కాదు,1,Negative,Equational/Nominal,Root Word: కాదు (VERB),కాదు
+TE_AUTO_0350,Telugu,Spoken Subtitle,Film Dialogue,Srirastu_Subhamastu,యు క్యారీ ఆన్ ఆల్రైట్,0,Affirmative,Equational/Nominal,Root Word: ఆల్రైట్ (NOUN),
+TE_AUTO_0351,Telugu,Spoken Subtitle,Film Dialogue,Srirastu_Subhamastu,మార్నింగ్ డాడ్ వాట్ నెక్స్ట్,0,Affirmative,Equational/Nominal,Root Word: నెక్స్ట్ (NOUN),
+TE_AUTO_0352,Telugu,Spoken Subtitle,Film Dialogue,Srirastu_Subhamastu,కరెక్టే కానీ ఇప్పుడప్పుడే కాదా,1,Negative,Equational/Nominal,Root Word: కాదా (VERB),కాదు
+TE_AUTO_0353,Telugu,Spoken Subtitle,Film Dialogue,Srirastu_Subhamastu,ఇంకా టైం ఉందే,1,Affirmative,Locative/Existential,Root Word: ఉందే (VERB),ఉంది
+TE_AUTO_0354,Telugu,Spoken Subtitle,Film Dialogue,Srirastu_Subhamastu,ఓ 10 రోజులు ముందే,1,Affirmative,Locative/Existential,Root Word: ముందే (VERB),ఉంది
+TE_AUTO_0355,Telugu,Spoken Subtitle,Film Dialogue,Srirastu_Subhamastu,చాలా పని ఉన్నాయి,1,Affirmative,Locative/Existential,Root Word: ఉన్నాయి (VERB),ఉన్నాయి
+TE_AUTO_0356,Telugu,Spoken Subtitle,Film Dialogue,Srirastu_Subhamastu,అను పెరట్లో ఉంది,1,Affirmative,Locative/Existential,Root Word: ఉంది (VERB),ఉంది
+TE_AUTO_0357,Telugu,Spoken Subtitle,Film Dialogue,Srirastu_Subhamastu,అలాంటిది ఏం లేదు,1,Negative,Locative/Existential,Root Word: లేదు (VERB),లేదు
+TE_AUTO_0358,Telugu,Spoken Subtitle,Film Dialogue,Srirastu_Subhamastu,మెంటల్ పిచ్చి పిచ్చిగా ఉందా,1,Affirmative,Adjectival,Root Word: ఉందా (VERB),ఉంది
+TE_AUTO_0359,Telugu,Spoken Subtitle,Film Dialogue,Srirastu_Subhamastu,నువ్వంటే నాకు ఇష్టం లేదు.,1,Negative,Locative/Existential,Root Word: లేదు (VERB),లేదు
+TE_AUTO_0360,Telugu,Spoken Subtitle,Film Dialogue,Srirastu_Subhamastu,అంకుల్ అను ఈ పెళ్లి విషయంలో చాలా అప్సెట్ గా ఉంది.,1,Affirmative,Adjectival,Root Word: ఉంది (VERB),ఉంది
+TE_AUTO_0361,Telugu,Spoken Subtitle,Film Dialogue,Srirastu_Subhamastu,క్లోస్ ఫ్రెండ్ పెళ్లికి నా సహాయంగా ఉంటాడని ముందే,1,Affirmative,Locative/Existential,Root Word: ముందే (VERB),ఉంది
+TE_AUTO_0362,Telugu,Spoken Subtitle,Film Dialogue,Srirastu_Subhamastu,10 రోజులు ముందే,1,Affirmative,Locative/Existential,Root Word: ముందే (VERB),ఉంది
+TE_AUTO_0363,Telugu,Spoken Subtitle,Film Dialogue,Srirastu_Subhamastu,అదో పెద్ద లవ్ స్టోరీ,0,Affirmative,Equational/Nominal,Root Word: స్టోరీ (NOUN),
+TE_AUTO_0364,Telugu,Spoken Subtitle,Film Dialogue,Srirastu_Subhamastu,లవ్ స్టోరీ అంటే లవ్ స్టోరీ లాంటిది ఏమీ లేదు,1,Negative,Locative/Existential,Root Word: లేదు (VERB),లేదు
+TE_AUTO_0365,Telugu,Spoken Subtitle,Film Dialogue,Srirastu_Subhamastu,కానీ ఒక 10 రోజులు ముందే,1,Affirmative,Locative/Existential,Root Word: ముందే (VERB),ఉంది
+TE_AUTO_0366,Telugu,Spoken Subtitle,Film Dialogue,Srirastu_Subhamastu,బయటోళ్ళు ఎవరు సార్,0,Affirmative,Equational/Nominal,Root Word: సార్ (VERB),
+TE_AUTO_0367,Telugu,Spoken Subtitle,Film Dialogue,Srirastu_Subhamastu,ఆ అది కాదు,1,Negative,Equational/Nominal,Root Word: కాదు (VERB),కాదు
+TE_AUTO_0368,Telugu,Spoken Subtitle,Film Dialogue,Srirastu_Subhamastu,నువ్వు ఆపరా బాబు,0,Affirmative,Equational/Nominal,Root Word: బాబు (NOUN),
+TE_AUTO_0369,Telugu,Spoken Subtitle,Film Dialogue,Srirastu_Subhamastu,పేరు ఆ పేరు శ్యామ సుందర్,0,Affirmative,Equational/Nominal,Root Word: శ్యామ (NOUN),
+TE_AUTO_0370,Telugu,Spoken Subtitle,Film Dialogue,Srirastu_Subhamastu,ఈ అబ్బాయి పెళ్లి కొడకా పెళ్లికూతురు,0,Affirmative,Equational/Nominal,Root Word: పెళ్లికూతురు (NOUN),
+TE_AUTO_0371,Telugu,Spoken Subtitle,Film Dialogue,Srirastu_Subhamastu,మా అమ్మాయి వాళ్ళ క్లాస్మేట్ అండి,0,Affirmative,Equational/Nominal,Root Word: క్లాస్మేట్ (NOUN),
+TE_AUTO_0372,Telugu,Spoken Subtitle,Film Dialogue,Srirastu_Subhamastu,20 లక్షలు అండి,0,Affirmative,Equational/Nominal,Root Word: లక్షలు (NOUN),
+TE_AUTO_0373,Telugu,Spoken Subtitle,Film Dialogue,Srirastu_Subhamastu,పెళ్లి చూపులు కాదు,1,Negative,Equational/Nominal,Root Word: కాదు (VERB),కాదు
+TE_AUTO_0374,Telugu,Spoken Subtitle,Film Dialogue,Srirastu_Subhamastu,పెళ్లి బడ్జెట్ే సార్,0,Affirmative,Equational/Nominal,Root Word: సార్ (NOUN),
+TE_AUTO_0375,Telugu,Spoken Subtitle,Film Dialogue,Srirastu_Subhamastu,మరి ఏం మెసేజ్లు సార్,0,Affirmative,Equational/Nominal,Root Word: సార్ (VERB),
+TE_AUTO_0376,Telugu,Spoken Subtitle,Film Dialogue,Srirastu_Subhamastu,అంటే నాకు పార్ట్నర్ ఉన్నాడు,1,Affirmative,Locative/Existential,Root Word: ఉన్నాడు (VERB),ఉన్నాడు
+TE_AUTO_0377,Telugu,Spoken Subtitle,Film Dialogue,Srirastu_Subhamastu,అలాగే సరే బాబు,0,Affirmative,Equational/Nominal,Root Word: బాబు (VERB),
+TE_AUTO_0378,Telugu,Spoken Subtitle,Film Dialogue,Srirastu_Subhamastu,మన ప్లాన్ ఏమిటి?,0,Affirmative,Equational/Nominal,Root Word: ఏమిటి (PRON),
+TE_AUTO_0379,Telugu,Spoken Subtitle,Film Dialogue,Srirastu_Subhamastu,వీడు పెద్ద సైకో లో ఉన్నాడు,1,Affirmative,Locative/Existential,Root Word: ఉన్నాడు (VERB),ఉన్నాడు
+TE_AUTO_0380,Telugu,Spoken Subtitle,Film Dialogue,Srirastu_Subhamastu,బాగా స్ట్రెస్ లో ఉందన్న ఒకసారి రా,0,Affirmative,Equational/Nominal,Root Word: రా (VERB),
+TE_AUTO_0381,Telugu,Spoken Subtitle,Film Dialogue,Srirastu_Subhamastu,హాయ్ హే హాయ్,0,Affirmative,Equational/Nominal,Root Word: హాయ్ (INTJ),
+TE_AUTO_0382,Telugu,Spoken Subtitle,Film Dialogue,Srirastu_Subhamastu,పోలీస్ పర్మిషన్లు అవి వాలే వాళ్ళు సార్,0,Affirmative,Equational/Nominal,Root Word: సార్ (VERB),
+TE_AUTO_0383,Telugu,Spoken Subtitle,Film Dialogue,Srirastu_Subhamastu,శ్యాము వీడు మా బామర్ది సుభాష్ అని ఎన్కౌంటర్ స్పెషలిస్ట్ అరుణ్ కి మేనమామ,0,Affirmative,Equational/Nominal,Root Word: మేనమామ (NOUN),
+TE_AUTO_0384,Telugu,Spoken Subtitle,Film Dialogue,Srirastu_Subhamastu,అను ఫ్రెండ్ అండి,0,Affirmative,Equational/Nominal,Root Word: ఫ్రెండ్ (NOUN),
+TE_AUTO_0385,Telugu,Spoken Subtitle,Film Dialogue,Srirastu_Subhamastu,ఇప్పుడు అక్కడ లేము,1,Negative,Locative/Existential,Root Word: లేము (VERB),లేము
+TE_AUTO_0386,Telugu,Spoken Subtitle,Film Dialogue,Srirastu_Subhamastu,గ్లాస్ లో రక్తం మూసుకొని తాగేసే ఉన్నాడు,1,Affirmative,Locative/Existential,Root Word: ఉన్నాడు (VERB),ఉన్నాడు
+TE_AUTO_0387,Telugu,Spoken Subtitle,Film Dialogue,Srirastu_Subhamastu,గుడ్ మార్నింగ్ సార్,0,Affirmative,Equational/Nominal,Root Word: సార్ (NOUN),
+TE_AUTO_0388,Telugu,Spoken Subtitle,Film Dialogue,Srirastu_Subhamastu,ఒకసారి దాని ఇంటర్మీడియట్ ఫీస్ ఇంకోసారి బీటెక్ సెకండ్ ఇయర్ ఫీస్,0,Affirmative,Equational/Nominal,Root Word: ఫీస్ (NOUN),
+TE_AUTO_0389,Telugu,Spoken Subtitle,Film Dialogue,Srirastu_Subhamastu,మీరు తీసుకెళ్తారఏం సార్,0,Affirmative,Equational/Nominal,Root Word: సార్ (PRON),
+TE_AUTO_0390,Telugu,Spoken Subtitle,Film Dialogue,Srirastu_Subhamastu,ఇవాళ అసలు మామూలు రోజు కాదు,1,Negative,Equational/Nominal,Root Word: కాదు (VERB),కాదు
+TE_AUTO_0391,Telugu,Spoken Subtitle,Film Dialogue,Srirastu_Subhamastu,తండ్రి లాంటి వారు సార్,0,Affirmative,Equational/Nominal,Root Word: సార్ (NOUN),
+TE_AUTO_0392,Telugu,Spoken Subtitle,Film Dialogue,Srirastu_Subhamastu,నాకు కాబోయే భార్యా భర్తలా లేరు.,1,Negative,Adjectival,Root Word: లేరు (VERB),లేరు
+TE_AUTO_0393,Telugu,Spoken Subtitle,Film Dialogue,Srirastu_Subhamastu,ఓకే థాంక్యూ హేయ్ వాళ్ళద్దరి,0,Affirmative,Equational/Nominal,Root Word: వాళ్ళద్దరి (NOUN),
+TE_AUTO_0394,Telugu,Spoken Subtitle,Film Dialogue,Srirastu_Subhamastu,శామ సుందర్ సార్,0,Affirmative,Equational/Nominal,Root Word: సుందర్ (PROPN),
+TE_AUTO_0395,Telugu,Spoken Subtitle,Film Dialogue,Srirastu_Subhamastu,ఐ అబ్సల్ూట్లీ ఫైన్,0,Affirmative,Adjectival,Root Word: అబ్సల్ూట్లీ (NOUN),
+TE_AUTO_0396,Telugu,Spoken Subtitle,Film Dialogue,Srirastu_Subhamastu,అబ్బబ్బ మీ ఇష్టం సార్,0,Affirmative,Equational/Nominal,Root Word: ఇష్టం (NOUN),
+TE_AUTO_0397,Telugu,Spoken Subtitle,Film Dialogue,Srirastu_Subhamastu,ఆయన అసలే మంచోడు కాదు,1,Negative,Adjectival,Root Word: కాదు (VERB),కాదు
+TE_AUTO_0398,Telugu,Spoken Subtitle,Film Dialogue,Srirastu_Subhamastu,ఏ నందు హాయ్ సార్,0,Affirmative,Equational/Nominal,Root Word: సార్ (NOUN),
+TE_AUTO_0399,Telugu,Spoken Subtitle,Film Dialogue,Srirastu_Subhamastu,నీతో పని ఉంది,1,Affirmative,Locative/Existential,Root Word: ఉంది (VERB),ఉంది
+TE_AUTO_0400,Telugu,Spoken Subtitle,Film Dialogue,Srirastu_Subhamastu,ఆ శ్యామ్ సార్,0,Affirmative,Equational/Nominal,Root Word: సార్ (NOUN),
+TE_AUTO_0401,Telugu,Spoken Subtitle,Film Dialogue,Srirastu_Subhamastu,మన అరుణ్ గాడి పెళ్లిలో ఏదో సంగీత ఏదో ప్లాన్,0,Affirmative,Equational/Nominal,Root Word: ప్లాన్ (NOUN),
+TE_AUTO_0402,Telugu,Spoken Subtitle,Film Dialogue,Srirastu_Subhamastu,ఆ నందు టేక్ కేర్ సీ యు బాయ్ బాయ్,0,Affirmative,Equational/Nominal,Root Word: బాయ్ (NOUN),
+TE_AUTO_0403,Telugu,Spoken Subtitle,Film Dialogue,Srirastu_Subhamastu,మీ లవరా సార్,0,Affirmative,Equational/Nominal,Root Word: సార్ (PRON),
+TE_AUTO_0404,Telugu,Spoken Subtitle,Film Dialogue,Srirastu_Subhamastu,ఇవాళ ఈవినింగ్ జరగబోయే సంగీత్ నీ పెళ్లికి లాస్ట్ ఇవెంట్,0,Affirmative,Equational/Nominal,Root Word: ఇవెంట్ (NOUN),
+TE_AUTO_0405,Telugu,Spoken Subtitle,Film Dialogue,Srirastu_Subhamastu,శామ సుందర్ సార్,0,Affirmative,Equational/Nominal,Root Word: సుందర్ (PROPN),
+TE_AUTO_0406,Telugu,Spoken Subtitle,Film Dialogue,Srirastu_Subhamastu,ఆల్వేస్ అలర్ట్ సార్,0,Affirmative,Equational/Nominal,Root Word: సార్ (NOUN),
+TE_AUTO_0407,Telugu,Spoken Subtitle,Film Dialogue,Srirastu_Subhamastu,మీరు కూడా ఈ డ్రెస్ లాగా చాలా అందంగా ఉన్నారు.,1,Affirmative,Adjectival,Root Word: ఉన్నారు (VERB),ఉన్నారు
+TE_AUTO_0408,Telugu,Spoken Subtitle,Film Dialogue,Srirastu_Subhamastu,హాయ్ సిరి హాయ్ అబ్బబ్బ,0,Affirmative,Equational/Nominal,Root Word: సిరి (INTJ),
+TE_AUTO_0409,Telugu,Spoken Subtitle,Film Dialogue,Srirastu_Subhamastu,అంతే అన్ని బాగున్నాయి,1,Affirmative,Adjectival,Root Word: బాగున్నాయి (VERB),ఉన్నాయి
+TE_AUTO_0410,Telugu,Spoken Subtitle,Film Dialogue,Srirastu_Subhamastu,ఏంటి అదేంటి సార్,0,Affirmative,Equational/Nominal,Root Word: సార్ (NOUN),
+TE_AUTO_0411,Telugu,Spoken Subtitle,Film Dialogue,Srirastu_Subhamastu,వాడి పైలం వాడి ఇష్టం,0,Affirmative,Equational/Nominal,Root Word: ఇష్టం (NOUN),
+TE_AUTO_0412,Telugu,Spoken Subtitle,Film Dialogue,Srirastu_Subhamastu,తప్ప తనకి నీ పైన ఎటువంటి స్పెషల్ ఇంట్రెస్ట్ లేదు.,1,Negative,Locative/Existential,Root Word: లేదు (VERB),లేదు
+TE_AUTO_0413,Telugu,Spoken Subtitle,Film Dialogue,Srirastu_Subhamastu,సుందర్ అదే కనంది,0,Affirmative,Equational/Nominal,Root Word: కనంది (NOUN),
+TE_AUTO_0414,Telugu,Spoken Subtitle,Film Dialogue,Srirastu_Subhamastu,గొమ్మటం లాగా వీడు స్టాడిష్ కి పరా శామ సుందర్,0,Affirmative,Equational/Nominal,Root Word: శామ (NOUN),
+TE_AUTO_0415,Telugu,Spoken Subtitle,Film Dialogue,Srirastu_Subhamastu,పిల్లలారా లోపల ఆడు బయట,0,Affirmative,Locative/Existential,Root Word: బయట (NOUN),
+TE_AUTO_0416,Telugu,Spoken Subtitle,Film Dialogue,Srirastu_Subhamastu,సుందర్ ఫిలాంత్రఫగడి కాదు,1,Negative,Equational/Nominal,Root Word: కాదు (VERB),కాదు
+TE_AUTO_0417,Telugu,Spoken Subtitle,Film Dialogue,Srirastu_Subhamastu,అని చెప్తుంటే నాకు ఏదో ఒకటి చెయి శామసుందర్ ప్లీజ్ డు సంథింగ్ నైట్ సంగీతలో,0,Affirmative,Locative/Existential,Root Word: ఒకటి (NOUN),
+TE_AUTO_0418,Telugu,Spoken Subtitle,Film Dialogue,Srirastu_Subhamastu,పబ్లిక్ లో ఆ లేదు,1,Negative,Locative/Existential,Root Word: లేదు (VERB),లేదు
+TE_AUTO_0419,Telugu,Spoken Subtitle,Film Dialogue,Srirastu_Subhamastu,ఏ శామ సుందర్ సార్,0,Affirmative,Equational/Nominal,Root Word: సార్ (NOUN),
+TE_AUTO_0420,Telugu,Spoken Subtitle,Film Dialogue,Srirastu_Subhamastu,నీకు అది ముఖ్యమా నందు ముఖ్యమా,0,Affirmative,Equational/Nominal,Root Word: ముఖ్యమా (NOUN),
+TE_AUTO_0421,Telugu,Spoken Subtitle,Film Dialogue,Srirastu_Subhamastu,అక్కడ నుంచో ఉంది,1,Affirmative,Locative/Existential,Root Word: ఉంది (VERB),ఉంది
+TE_AUTO_0422,Telugu,Spoken Subtitle,Film Dialogue,Srirastu_Subhamastu,మన మనసులో ఎవరున్నారో,1,Affirmative,Locative/Existential,Root Word: ఎవరున్నారో (VERB),ఉన్నారు
+TE_AUTO_0423,Telugu,Spoken Subtitle,Film Dialogue,Srirastu_Subhamastu,మీకు ఎవరి ఇష్టం,0,Affirmative,Equational/Nominal,Root Word: ఇష్టం (NOUN),
+TE_AUTO_0424,Telugu,Spoken Subtitle,Film Dialogue,Srirastu_Subhamastu,అరుణ్ మా ఫ్రెండ్స్,0,Affirmative,Equational/Nominal,Root Word: ఫ్రెండ్స్ (NOUN),
+TE_AUTO_0425,Telugu,Spoken Subtitle,Film Dialogue,Srirastu_Subhamastu,డాడీ నా మూడ్ ఏం బాలేదు,1,Negative,Adjectival,Root Word: బాలేదు (VERB),లేదు
+TE_AUTO_0426,Telugu,Spoken Subtitle,Film Dialogue,Srirastu_Subhamastu,ప్లీజ్ లీవ్ మీ అలోన్,0,Affirmative,Equational/Nominal,Root Word: అలోన్ (NOUN),
+TE_AUTO_0427,Telugu,Spoken Subtitle,Film Dialogue,Srirastu_Subhamastu,నువ్వు నాన్న అంటే నాకు ఇష్టం లేదా?,1,Negative,Locative/Existential,Root Word: లేదా (VERB),లేదు
+TE_AUTO_0428,Telugu,Spoken Subtitle,Film Dialogue,Srirastu_Subhamastu,నా పెళ్లి సంగీతి,0,Affirmative,Equational/Nominal,Root Word: సంగీతి (NOUN),
+TE_AUTO_0429,Telugu,Spoken Subtitle,Film Dialogue,Srirastu_Subhamastu,ఏ చిన్న పిల్లాడు,0,Affirmative,Equational/Nominal,Root Word: పిల్లాడు (NOUN),
+TE_AUTO_0430,Telugu,Spoken Subtitle,Film Dialogue,Srirastu_Subhamastu,మిమ్మల్ని అందరినీ ఇలా చూస్తుంటే చాలా సంతోషంగా ఉంది,1,Affirmative,Adjectival,Root Word: ఉంది (VERB),ఉంది
+TE_AUTO_0431,Telugu,Spoken Subtitle,Film Dialogue,Srirastu_Subhamastu,ఇందాక మీ మమ్మీ,0,Affirmative,Equational/Nominal,Root Word: మమ్మీ (NOUN),
+TE_AUTO_0432,Telugu,Spoken Subtitle,Film Dialogue,Srirastu_Subhamastu,దాని తరఫున నేను,0,Affirmative,Equational/Nominal,Root Word: నేను (PRON),
+TE_AUTO_0433,Telugu,Spoken Subtitle,Film Dialogue,Srirastu_Subhamastu,దేవత కూడా ఉంది,1,Affirmative,Locative/Existential,Root Word: ఉంది (VERB),ఉంది
+TE_AUTO_0434,Telugu,Spoken Subtitle,Film Dialogue,Srirastu_Subhamastu,పెళ్లి కొడుకు కాదు,1,Negative,Equational/Nominal,Root Word: కాదు (VERB),కాదు
+TE_AUTO_0435,Telugu,Spoken Subtitle,Film Dialogue,Srirastu_Subhamastu,నేను పేజ్ త్రీ సార్,0,Affirmative,Equational/Nominal,Root Word: సార్ (VERB),
+TE_AUTO_0436,Telugu,Spoken Subtitle,Film Dialogue,Srirastu_Subhamastu,ఉస్కి మా దస్ నెంబరి,0,Affirmative,Equational/Nominal,Root Word: నెంబరి (NOUN),
+TE_AUTO_0437,Telugu,Spoken Subtitle,Film Dialogue,Srirastu_Subhamastu,నేను మీ అమ్మనిరా,0,Affirmative,Equational/Nominal,Root Word: అమ్మనిరా (NOUN),
+TE_AUTO_0438,Telugu,Spoken Subtitle,Film Dialogue,Srirastu_Subhamastu,కామన్ సెన్స్ లేదు,1,Negative,Locative/Existential,Root Word: లేదు (VERB),లేదు
+TE_AUTO_0439,Telugu,Spoken Subtitle,Film Dialogue,Srirastu_Subhamastu,హలో ఏంటి సార్,0,Affirmative,Locative/Existential,Root Word: సార్ (VERB),
+TE_AUTO_0440,Telugu,Spoken Subtitle,Film Dialogue,Srirastu_Subhamastu,దాంట్లో రెండు స్టార్లు ఉన్నాయి,1,Affirmative,Locative/Existential,Root Word: ఉన్నాయి (VERB),ఉన్నాయి
+TE_AUTO_0441,Telugu,Spoken Subtitle,Film Dialogue,Srirastu_Subhamastu,మీరు ఎవరు మీరు సిరి ప్రసాద్ అని మన కోటేశ్వర అంకుల్కి నాకు చిన్ననాటి ఫ్రెండ్,0,Affirmative,Equational/Nominal,Root Word: ఫ్రెండ్ (NOUN),
+TE_AUTO_0442,Telugu,Spoken Subtitle,Film Dialogue,Srirastu_Subhamastu,ఇక్కడ ఆ ఆహ అది కాదు,1,Negative,Locative/Existential,Root Word: కాదు (VERB),కాదు
+TE_AUTO_0443,Telugu,Spoken Subtitle,Film Dialogue,Srirastu_Subhamastu,అంటే నేనైతే ఒక్క నిమిషం లక్ష్మి,0,Affirmative,Equational/Nominal,Root Word: లక్ష్మి (PROPN),
+TE_AUTO_0444,Telugu,Spoken Subtitle,Film Dialogue,Srirastu_Subhamastu,ప్రేమను వ్యక్తం చేయలేని నిస్సహాయతలో ఉన్నానే,1,Affirmative,Locative/Existential,Root Word: ఉన్నానే (VERB),ఉన్నాను
+TE_AUTO_0445,Telugu,Spoken Subtitle,Film Dialogue,Srirastu_Subhamastu,గుర్తించలేనంత గుడ్డిదాన్న అయితే కాదు,1,Negative,Equational/Nominal,Root Word: కాదు (VERB),కాదు
+TE_AUTO_0446,Telugu,Spoken Subtitle,Film Dialogue,Srirastu_Subhamastu,హాయ్ అంకుల్ ఒరేయ్,0,Affirmative,Equational/Nominal,Root Word: అంకుల్ (NOUN),
+TE_AUTO_0447,Telugu,Spoken Subtitle,Film Dialogue,Srirastu_Subhamastu,ఆ సిరికి ఇచ్చిన గిఫ్ట్ ఓ,0,Affirmative,Equational/Nominal,Root Word: గిఫ్ట్ (NOUN),
+TE_AUTO_0448,Telugu,Spoken Subtitle,Film Dialogue,Srirastu_Subhamastu,కానీ ఆ ఇంట్లో,0,Affirmative,Locative/Existential,Root Word: ఇంట్లో (NOUN),
+TE_AUTO_0449,Telugu,Spoken Subtitle,Film Dialogue,Srirastu_Subhamastu,నాకు స్వర్గం లాంటి ఇల్లు ఉంది,1,Affirmative,Locative/Existential,Root Word: ఉంది (VERB),ఉంది
+TE_AUTO_0450,Telugu,Spoken Subtitle,Film Dialogue,Srirastu_Subhamastu,అందులో అలాంటి మనుషులు ఉన్నారు,1,Affirmative,Locative/Existential,Root Word: ఉన్నారు (VERB),ఉన్నారు
+TE_AUTO_0451,Telugu,Spoken Subtitle,Film Dialogue,Srirastu_Subhamastu,ఇంటికి ప్రేమించిన అమ్మాయిని భార్యగా తీసుకొచ్చే ధైర్యం,0,Affirmative,Equational/Nominal,Root Word: ధైర్యం (NOUN),
+TE_AUTO_0452,Telugu,Spoken Subtitle,Film Dialogue,Srirastu_Subhamastu,ఏంటి గారు ఏమిటి ఎవర్రా ఆయన కృష్ణమోహన్ అని చాలా పెద్ద బిజినెస్ మన్ ఆ ఇండియాలో ఉన్న 100 రిచ్,0,Affirmative,Equational/Nominal,Root Word: ఉన్న (VERB),
+TE_AUTO_0453,Telugu,Spoken Subtitle,Film Dialogue,Vivaha_Bhojanambu,గుడ్ మార్నింగ్ రా,0,Affirmative,Equational/Nominal,Root Word: రా (VERB),
+TE_AUTO_0454,Telugu,Spoken Subtitle,Film Dialogue,Vivaha_Bhojanambu,ఐ యమ్ సారీ,0,Affirmative,Equational/Nominal,Root Word: యమ్ (INTJ),
+TE_AUTO_0455,Telugu,Spoken Subtitle,Film Dialogue,Vivaha_Bhojanambu,శ్రీ వెంకటేశ్ ఆ ఏరా రాధాకృష్ణ,0,Affirmative,Equational/Nominal,Root Word: రాధాకృష్ణ (PROPN),
+TE_AUTO_0456,Telugu,Spoken Subtitle,Film Dialogue,Vivaha_Bhojanambu,ఆ ఇంట్లోనే ఉన్నాం,1,Affirmative,Locative/Existential,Root Word: ఉన్నాం (VERB),ఉన్నాం
+TE_AUTO_0457,Telugu,Spoken Subtitle,Film Dialogue,Vivaha_Bhojanambu,రాష్ట్రంలో కొత్తగా వినిపిస్తున్న పేరు,0,Affirmative,Equational/Nominal,Root Word: పేరు (NOUN),
+TE_AUTO_0458,Telugu,Spoken Subtitle,Film Dialogue,Vivaha_Bhojanambu,ఏంట్రా అలా ఉన్నావో,1,Affirmative,Adjectival,Root Word: ఉన్నావో (VERB),ఉన్నావు
+TE_AUTO_0459,Telugu,Spoken Subtitle,Film Dialogue,Vivaha_Bhojanambu,నీకు అసలు బుద్ధి ఉందా,1,Affirmative,Locative/Existential,Root Word: ఉందా (VERB),ఉంది
+TE_AUTO_0460,Telugu,Spoken Subtitle,Film Dialogue,Vivaha_Bhojanambu,ఏంటి అన్నయ్య నీ టేస్ట్ మరి ఇంత బ్యాడ్ గా ఉంది.,1,Affirmative,Adjectival,Root Word: ఉంది (VERB),ఉంది
+TE_AUTO_0461,Telugu,Spoken Subtitle,Film Dialogue,Vivaha_Bhojanambu,అది ఆర్టిస్ట్ కాదు,1,Negative,Equational/Nominal,Root Word: కాదు (VERB),కాదు
+TE_AUTO_0462,Telugu,Spoken Subtitle,Film Dialogue,Vivaha_Bhojanambu,ఆ ఫోటో పంపించిందే అనిత,0,Affirmative,Equational/Nominal,Root Word: పంపించిందే (VERB),
+TE_AUTO_0463,Telugu,Spoken Subtitle,Film Dialogue,Vivaha_Bhojanambu,ఏంటందరూ సీరియస్ గా ఉన్నారు?,1,Affirmative,Adjectival,Root Word: ఉన్నారు (VERB),ఉన్నారు
+TE_AUTO_0464,Telugu,Spoken Subtitle,Film Dialogue,Vivaha_Bhojanambu,మహేష్ పేరు చాలా బాగుంది.,1,Affirmative,Adjectival,Root Word: బాగుంది (VERB),ఉంది
+TE_AUTO_0465,Telugu,Spoken Subtitle,Film Dialogue,Vivaha_Bhojanambu,ఏంటి ఇక్కడ పార్కింగ్ టికెట్ ఉందా,1,Affirmative,Locative/Existential,Root Word: ఉందా (VERB),ఉంది
+TE_AUTO_0466,Telugu,Spoken Subtitle,Film Dialogue,Vivaha_Bhojanambu,ప రూపాయలే 10 రూపాయలా వాట,0,Affirmative,Equational/Nominal,Root Word: రూపాయలే (NOUN),
+TE_AUTO_0467,Telugu,Spoken Subtitle,Film Dialogue,Vivaha_Bhojanambu,ఇక్కడ ₹ రూపాయలు అంట వేస్ట్ కదా,0,Affirmative,Locative/Existential,Root Word: కదా (VERB),
+TE_AUTO_0468,Telugu,Spoken Subtitle,Film Dialogue,Vivaha_Bhojanambu,నువ్వు ఇంత కంజూస్ ఏంట్రా,0,Affirmative,Equational/Nominal,Root Word: కంజూస్ (NOUN),
+TE_AUTO_0469,Telugu,Spoken Subtitle,Film Dialogue,Vivaha_Bhojanambu,నేను పీన సౌండ్ కాదు,1,Negative,Equational/Nominal,Root Word: కాదు (VERB),కాదు
+TE_AUTO_0470,Telugu,Spoken Subtitle,Film Dialogue,Vivaha_Bhojanambu,ఏదైనా పని చేసే ముందు,0,Affirmative,Locative/Existential,Root Word: చేసే (VERB),
+TE_AUTO_0471,Telugu,Spoken Subtitle,Film Dialogue,Vivaha_Bhojanambu,నాకు షుగర్ ఉంది,1,Affirmative,Locative/Existential,Root Word: ఉంది (VERB),ఉంది
+TE_AUTO_0472,Telugu,Spoken Subtitle,Film Dialogue,Vivaha_Bhojanambu,హెల్త్ ముఖ్యం కదా,0,Affirmative,Adjectival,Root Word: కదా (VERB),
+TE_AUTO_0473,Telugu,Spoken Subtitle,Film Dialogue,Vivaha_Bhojanambu,ఏమిటో దేవుడి దయవల్ల నాకు షుగర్ బీపి రెండు లేవు.,1,Negative,Locative/Existential,Root Word: లేవు (VERB),లేవు
+TE_AUTO_0474,Telugu,Spoken Subtitle,Film Dialogue,Vivaha_Bhojanambu,అదే ఆ ఎల్ఐసి జాబ్ నాన్నగారు,0,Affirmative,Equational/Nominal,Root Word: నాన్నగారు (NOUN),
+TE_AUTO_0475,Telugu,Spoken Subtitle,Film Dialogue,Vivaha_Bhojanambu,కొంచెం స్టార్టింగ్ ట్రబుల్ అండి,0,Affirmative,Equational/Nominal,Root Word: ట్రబుల్ (NOUN),
+TE_AUTO_0476,Telugu,Spoken Subtitle,Film Dialogue,Vivaha_Bhojanambu,అనితది చాలా లక్కీ హ్యాండ్ సార్,0,Affirmative,Equational/Nominal,Root Word: సార్ (NOUN),
+TE_AUTO_0477,Telugu,Spoken Subtitle,Film Dialogue,Vivaha_Bhojanambu,ఏదనా తొందరపడి నిర్ణయం తీసుకుంటే ఓ,0,Affirmative,Equational/Nominal,Root Word: ఓ (INTJ),
+TE_AUTO_0478,Telugu,Spoken Subtitle,Film Dialogue,Vivaha_Bhojanambu,నా పేరు రాజారాం,0,Affirmative,Equational/Nominal,Root Word: రాజారాం (PROPN),
+TE_AUTO_0479,Telugu,Spoken Subtitle,Film Dialogue,Vivaha_Bhojanambu,ఆ మీ ఇంటి పేరు,0,Affirmative,Equational/Nominal,Root Word: పేరు (NOUN),
+TE_AUTO_0480,Telugu,Spoken Subtitle,Film Dialogue,Vivaha_Bhojanambu,వాడు చాలా గొప్పవాడు అసలు పత్తి గింజలు వాళ్ళే గొప్పవాళ్ళు,0,Affirmative,Adjectival,Root Word: గొప్పవాళ్ళు (NOUN),
+TE_AUTO_0481,Telugu,Spoken Subtitle,Film Dialogue,Vivaha_Bhojanambu,మన రేంజ్ కాదు,1,Negative,Equational/Nominal,Root Word: కాదు (VERB),కాదు
+TE_AUTO_0482,Telugu,Spoken Subtitle,Film Dialogue,Vivaha_Bhojanambu,ఏర్పాటులో ఏదైనా తేడా జరిగితే రాధాకృష్ణలో,0,Affirmative,Locative/Existential,Root Word: రాధాకృష్ణలో (PROPN),
+TE_AUTO_0483,Telugu,Spoken Subtitle,Film Dialogue,Vivaha_Bhojanambu,ఏంటి పిన్ని గారు కాఫీ ఎలా ఉంది?,1,Affirmative,Adjectival,Root Word: ఉంది (VERB),ఉంది
+TE_AUTO_0484,Telugu,Spoken Subtitle,Film Dialogue,Vivaha_Bhojanambu,విష్ణుం శశివర్ణం చతుర్భుజం ప్రసన్నవదనం,0,Affirmative,Equational/Nominal,Root Word: ప్రసన్నవదనం (NOUN),
+TE_AUTO_0485,Telugu,Spoken Subtitle,Film Dialogue,Vivaha_Bhojanambu,ఓం దేవీం వాచమయంతు దేవాహం,0,Affirmative,Equational/Nominal,Root Word: దేవాహం (NOUN),
+TE_AUTO_0486,Telugu,Spoken Subtitle,Film Dialogue,Vivaha_Bhojanambu,అక్క ప్లీజ్ అక్క,0,Affirmative,Equational/Nominal,Root Word: అక్క (NOUN),
+TE_AUTO_0487,Telugu,Spoken Subtitle,Film Dialogue,Vivaha_Bhojanambu,సుఖే సోమన ముహూర్తే ఆద్య బ్రహ్మణః ద్వితీయ ప్రార్ధే శవేతవన్వంతరే,0,Affirmative,Equational/Nominal,Root Word: ముహూర్తే (NOUN),
+TE_AUTO_0488,Telugu,Spoken Subtitle,Film Dialogue,Vivaha_Bhojanambu,ప్రథమ పాదే బహుద,0,Affirmative,Equational/Nominal,Root Word: బహుద (NOUN),
+TE_AUTO_0489,Telugu,Spoken Subtitle,Film Dialogue,Vivaha_Bhojanambu,భరతవర్షే భరతఖండే మేరోర్ దక్షిణ దిగ్భాగే శ్రీశైలస్యవాయవ్య,0,Affirmative,Equational/Nominal,Root Word: భరతవర్షే (PROPN),
+TE_AUTO_0490,Telugu,Spoken Subtitle,Film Dialogue,Vivaha_Bhojanambu,నాన్నగారు మీకు ముందే,1,Affirmative,Locative/Existential,Root Word: ముందే (NOUN),ఉంది
+TE_AUTO_0491,Telugu,Spoken Subtitle,Film Dialogue,Vivaha_Bhojanambu,అదే ఒక్క నిమిషం,0,Affirmative,Equational/Nominal,Root Word: నిమిషం (NOUN),
+TE_AUTO_0492,Telugu,Spoken Subtitle,Film Dialogue,Vivaha_Bhojanambu,పత్తి గింజల గురునాథం వల్లే ఇదంతా,0,Affirmative,Equational/Nominal,Root Word: గురునాథం (PROPN),
+TE_AUTO_0493,Telugu,Spoken Subtitle,Film Dialogue,Vivaha_Bhojanambu,నేనేం పిసినారోని కాదు,1,Negative,Equational/Nominal,Root Word: కాదు (VERB),కాదు
+TE_AUTO_0494,Telugu,Spoken Subtitle,Film Dialogue,Vivaha_Bhojanambu,వైట్ రైస్ అట్టికాయ బజ్జియ,0,Affirmative,Equational/Nominal,Root Word: బజ్జియ (NOUN),
+TE_AUTO_0495,Telugu,Spoken Subtitle,Film Dialogue,Vivaha_Bhojanambu,గా సారీ సార్,0,Affirmative,Equational/Nominal,Root Word: సార్ (VERB),
+TE_AUTO_0496,Telugu,Spoken Subtitle,Film Dialogue,Vivaha_Bhojanambu,గులాబ్ జాము ఐస్క్రీమ,0,Affirmative,Equational/Nominal,Root Word: ఐస్క్రీమ (NOUN),
+TE_AUTO_0497,Telugu,Spoken Subtitle,Film Dialogue,Vivaha_Bhojanambu,70 ప్లస్ కదా,0,Affirmative,Equational/Nominal,Root Word: కదా (VERB),
+TE_AUTO_0498,Telugu,Spoken Subtitle,Film Dialogue,Vivaha_Bhojanambu,30 మందితో పెళ్లా అయ్యో,0,Affirmative,Equational/Nominal,Root Word: పెళ్లా (NOUN),
+TE_AUTO_0499,Telugu,Spoken Subtitle,Film Dialogue,Vivaha_Bhojanambu,రామ ప్రేమ మందిరం,0,Affirmative,Equational/Nominal,Root Word: మందిరం (NOUN),
+TE_AUTO_0500,Telugu,Spoken Subtitle,Film Dialogue,Vivaha_Bhojanambu,ఏంటి పిన్నగారు ఉప్మా ఎలా ఉంది?,1,Affirmative,Adjectival,Root Word: ఉంది (VERB),ఉంది
+TE_AUTO_0501,Telugu,Spoken Subtitle,Film Dialogue,Vivaha_Bhojanambu,సో ఇక్కడ జీడిపప్పు కూడా మేటరే,0,Affirmative,Locative/Existential,Root Word: మేటరే (NOUN),
+TE_AUTO_0502,Telugu,Spoken Subtitle,Film Dialogue,Vivaha_Bhojanambu,ఏంటది ఆటో స్వీటు ఓ,0,Affirmative,Equational/Nominal,Root Word: ఓ (NOUN),
+TE_AUTO_0503,Telugu,Spoken Subtitle,Film Dialogue,Vivaha_Bhojanambu,అల్లుడు ఇది మామూలు మంచం కాదు,1,Negative,Equational/Nominal,Root Word: కాదు (VERB),కాదు
+TE_AUTO_0504,Telugu,Spoken Subtitle,Film Dialogue,Vivaha_Bhojanambu,వాట్ అది కాదే,1,Negative,Equational/Nominal,Root Word: కాదే (VERB),కాదు
+TE_AUTO_0505,Telugu,Spoken Subtitle,Film Dialogue,Vivaha_Bhojanambu,ఏమైంది నీకు ఇది ఇప్పుడే ఇంత పొగరగా ఉంది,1,Affirmative,Adjectival,Root Word: ఉంది (VERB),ఉంది
+TE_AUTO_0506,Telugu,Spoken Subtitle,Film Dialogue,Vivaha_Bhojanambu,తొందరగా వెళ్ళటమే మంచిది.,0,Affirmative,Adjectival,Root Word: మంచిది (NOUN),
+TE_AUTO_0507,Telugu,Spoken Subtitle,Film Dialogue,Vivaha_Bhojanambu,ఏంటిది ఆలివ్వాయిల్ రా,0,Affirmative,Equational/Nominal,Root Word: రా (VERB),
+TE_AUTO_0508,Telugu,Spoken Subtitle,Film Dialogue,Vivaha_Bhojanambu,హమే పూరి శ్రద్ధా కే సాత్,0,Affirmative,Equational/Nominal,Root Word: శ్రద్ధా (PROPN),
+TE_AUTO_0509,Telugu,Spoken Subtitle,Film Dialogue,Vivaha_Bhojanambu,భావ్ వ్యక్త కర్నే చాహియే,0,Affirmative,Equational/Nominal,Root Word: కర్నే (NOUN),
+TE_AUTO_0510,Telugu,Spoken Subtitle,Film Dialogue,Vivaha_Bhojanambu,రేపు రాత్రి 11 గంటలకి మంచి ముహూర్తం ఉంది,1,Affirmative,Locative/Existential,Root Word: ఉంది (VERB),ఉంది
+TE_AUTO_0511,Telugu,Spoken Subtitle,Film Dialogue,Vivaha_Bhojanambu,నీకు దండం రా,0,Affirmative,Equational/Nominal,Root Word: రా (VERB),
+TE_AUTO_0512,Telugu,Spoken Subtitle,Film Dialogue,Vivaha_Bhojanambu,నీ శుద్దురా ఏ నాకు మూడు లేదురా,1,Negative,Locative/Existential,Root Word: లేదురా (VERB),లేదు
+TE_AUTO_0513,Telugu,Spoken Subtitle,Film Dialogue,Vivaha_Bhojanambu,ఆజ్ ఏక్ మహత్వపూర్ణ,0,Affirmative,Equational/Nominal,Root Word: మహత్వపూర్ణ (NOUN),
+TE_AUTO_0514,Telugu,Spoken Subtitle,Film Dialogue,Vivaha_Bhojanambu,నిర్ణయ కర్నే జారహా,0,Affirmative,Equational/Nominal,Root Word: జారహా (NOUN),
+TE_AUTO_0515,Telugu,Spoken Subtitle,Film Dialogue,Vivaha_Bhojanambu,పూరే దేశ్ మే ధ్యాన్సే సునియే పూరే దేశ్ మే,0,Affirmative,Equational/Nominal,Root Word: సునియే (NOUN),
+TE_AUTO_0516,Telugu,Spoken Subtitle,Film Dialogue,Vivaha_Bhojanambu,సంపూర్ణ లాక్ డౌన్ హోనేజారా,0,Affirmative,Equational/Nominal,Root Word: హోనేజారా (NOUN),
+TE_AUTO_0517,Telugu,Spoken Subtitle,Film Dialogue,Vivaha_Bhojanambu,సంపూర్ణ లాక్ డౌన్ హోనేజారా,0,Affirmative,Equational/Nominal,Root Word: హోనేజారా (NOUN),
+TE_AUTO_0518,Telugu,Spoken Subtitle,Film Dialogue,Vivaha_Bhojanambu,ఏంటి 15 రోజులు లాక్డౌన్ ఆకో బచానే కే లియ ఆప్కే పరివార్ కో బచానే కే లియ పూరి తర పాబంది లగాయి జారహి,0,Affirmative,Equational/Nominal,Root Word: జారహి (NOUN),
+TE_AUTO_0519,Telugu,Spoken Subtitle,Film Dialogue,Vivaha_Bhojanambu,అంతా ఉంటే ఎంత సందడిగా ఉందో,1,Affirmative,Adjectival,Root Word: ఉందో (VERB),ఉంది
+TE_AUTO_0520,Telugu,Spoken Subtitle,Film Dialogue,Vivaha_Bhojanambu,హలో మార్నింగ్ సార్,0,Affirmative,Equational/Nominal,Root Word: సార్ (VERB),
+TE_AUTO_0521,Telugu,Spoken Subtitle,Film Dialogue,Vivaha_Bhojanambu,హలో ఈవెనింగ్ సార్,0,Affirmative,Equational/Nominal,Root Word: సార్ (NOUN),
+TE_AUTO_0522,Telugu,Spoken Subtitle,Film Dialogue,Vivaha_Bhojanambu,హలో సూపర్ స్టార్,0,Affirmative,Equational/Nominal,Root Word: స్టార్ (NOUN),
+TE_AUTO_0523,Telugu,Spoken Subtitle,Film Dialogue,Vivaha_Bhojanambu,హలో మేఘనా వాళ్ళందరూ ఎవరేఓ,0,Affirmative,Equational/Nominal,Root Word: ఓ (NOUN),
+TE_AUTO_0524,Telugu,Spoken Subtitle,Film Dialogue,Vivaha_Bhojanambu,నాకు చాలా హ్యాపీగా ఉంది.,1,Affirmative,Adjectival,Root Word: ఉంది (VERB),ఉంది
+TE_AUTO_0525,Telugu,Spoken Subtitle,Film Dialogue,Vivaha_Bhojanambu,మా ఫ్యామిలీ అంతా నీ మీద చాలా నెగిటివ్ గా ఉన్నారు.,1,Affirmative,Adjectival,Root Word: ఉన్నారు (VERB),ఉన్నారు
+TE_AUTO_0526,Telugu,Spoken Subtitle,Film Dialogue,Vivaha_Bhojanambu,వాడు తలుచుకుంటే ఈ లాక్ డౌన్ లో బ్రేక్ డౌన్లు ఎంతసేపు రా,0,Affirmative,Equational/Nominal,Root Word: రా (VERB),
+TE_AUTO_0527,Telugu,Spoken Subtitle,Film Dialogue,Vivaha_Bhojanambu,అంటే వీళ్ళు 16 మంది ఉన్నారు,1,Affirmative,Locative/Existential,Root Word: ఉన్నారు (VERB),ఉన్నారు
+TE_AUTO_0528,Telugu,Spoken Subtitle,Film Dialogue,Vivaha_Bhojanambu,మా ఆవిడ ప్రెగ్నెంట్,0,Affirmative,Equational/Nominal,Root Word: ప్రెగ్నెంట్ (NOUN),
+TE_AUTO_0529,Telugu,Spoken Subtitle,Film Dialogue,Vivaha_Bhojanambu,హలో హలో సార్,0,Affirmative,Locative/Existential,Root Word: సార్ (VERB),
+TE_AUTO_0530,Telugu,Spoken Subtitle,Film Dialogue,Vivaha_Bhojanambu,కాకపోతే మాత్రం పిలుస్తావ ఏంటిరా పీనస్,0,Affirmative,Equational/Nominal,Root Word: పిలుస్తావ (NOUN),
+TE_AUTO_0531,Telugu,Spoken Subtitle,Film Dialogue,Vivaha_Bhojanambu,వాడు గవర్నమెంట్ అంప్లైరా,0,Affirmative,Equational/Nominal,Root Word: అంప్లైరా (NOUN),
+TE_AUTO_0532,Telugu,Spoken Subtitle,Film Dialogue,Vivaha_Bhojanambu,హలో మహేష్ ఆ ఎక్కడున్నావ్,1,Affirmative,Locative/Existential,Root Word: ఎక్కడున్నావ్ (VERB),ఉన్నావ్
+TE_AUTO_0533,Telugu,Spoken Subtitle,Film Dialogue,Vivaha_Bhojanambu,పొడి దగ్గ ఉంటదిలే నాకెందుకో డౌట్ గా ఉంది,1,Affirmative,Adjectival,Root Word: ఉంది (VERB),ఉంది
+TE_AUTO_0534,Telugu,Spoken Subtitle,Film Dialogue,Vivaha_Bhojanambu,పత్తి గింజల మహేష్,0,Affirmative,Equational/Nominal,Root Word: మహేష్ (NOUN),
+TE_AUTO_0535,Telugu,Spoken Subtitle,Film Dialogue,Vivaha_Bhojanambu,నాకు దగ్గు లేదు,1,Negative,Locative/Existential,Root Word: లేదు (VERB),లేదు
+TE_AUTO_0536,Telugu,Spoken Subtitle,Film Dialogue,Vivaha_Bhojanambu,గెట్ అవుట్ ఫ్రమ మై హౌస్,0,Affirmative,Equational/Nominal,Root Word: ఫ్రమ (NOUN),
+TE_AUTO_0537,Telugu,Spoken Subtitle,Film Dialogue,Vivaha_Bhojanambu,టేక్ ద శాంపుల్స్ ఓకే సార్,0,Affirmative,Equational/Nominal,Root Word: సార్ (VERB),
+TE_AUTO_0538,Telugu,Spoken Subtitle,Film Dialogue,Vivaha_Bhojanambu,కరోనా వస్తే చికిత్స లేదా,1,Negative,Locative/Existential,Root Word: లేదా (VERB),లేదు
+TE_AUTO_0539,Telugu,Spoken Subtitle,Film Dialogue,Vivaha_Bhojanambu,కరోనాతో అత్యధికంగా చనిపోయే వారిలో ముసలి వాళ్ళు దీర్ఘకాల వ్యాధులతో బాధపడుతున్న వారు ఉన్నారు.,1,Affirmative,Locative/Existential,Root Word: ఉన్నారు (VERB),ఉన్నారు
+TE_AUTO_0540,Telugu,Spoken Subtitle,Film Dialogue,Vivaha_Bhojanambu,వన్ టూ త్రీ ఫోర్ మిస్టర్ మహేష్ డాక్టర్,0,Affirmative,Equational/Nominal,Root Word: డాక్టర్ (NOUN),
+TE_AUTO_0541,Telugu,Spoken Subtitle,Film Dialogue,Vivaha_Bhojanambu,వి ఆర్ ఎక్స్ట్రీమ్లీ సారీ డాక్టర్,0,Affirmative,Equational/Nominal,Root Word: సారీ (NOUN),
+TE_AUTO_0542,Telugu,Spoken Subtitle,Film Dialogue,Vivaha_Bhojanambu,మీకు కరోనా లేదు,1,Negative,Locative/Existential,Root Word: లేదు (VERB),లేదు
+TE_AUTO_0543,Telugu,Spoken Subtitle,Film Dialogue,Vivaha_Bhojanambu,థాంక్యూ ఓకే సార్,0,Affirmative,Equational/Nominal,Root Word: సార్ (INTJ),
+TE_AUTO_0544,Telugu,Spoken Subtitle,Film Dialogue,Vivaha_Bhojanambu,మామయ్యగారు నువ్వు ఉండవమ్మ ఇంట్లో చిన్న పిల్లలు ముసలాళ్ళు ఉన్నారు.,1,Affirmative,Locative/Existential,Root Word: ఉన్నారు (VERB),ఉన్నారు
+TE_AUTO_0545,Telugu,Spoken Subtitle,Film Dialogue,Vivaha_Bhojanambu,వ్యాధితో రోగితో కాదు,1,Negative,Equational/Nominal,Root Word: కాదు (VERB),కాదు
+TE_AUTO_0546,Telugu,Spoken Subtitle,Film Dialogue,Vivaha_Bhojanambu,వాడు పనికిమాలినోడు కాదండి,1,Negative,Equational/Nominal,Root Word: కాదండి (VERB),కాదు
+TE_AUTO_0547,Telugu,Spoken Subtitle,Film Dialogue,Vivaha_Bhojanambu,అల్లుడుగారు ఏది కాదండి,1,Negative,Equational/Nominal,Root Word: కాదండి (VERB),కాదు
+TE_AUTO_0548,Telugu,Spoken Subtitle,Film Dialogue,Vivaha_Bhojanambu,ఆలివ్ ఆయిల్ నీకేనా,0,Affirmative,Equational/Nominal,Root Word: నీకేనా (NOUN),
+TE_AUTO_0549,Telugu,Spoken Subtitle,Film Dialogue,Vivaha_Bhojanambu,అరేయ్ ఆ పాపు పాపు,0,Affirmative,Equational/Nominal,Root Word: పాపు (NOUN),
+TE_AUTO_0550,Telugu,Spoken Subtitle,Film Dialogue,Vivaha_Bhojanambu,పోలీసులు ఎవరూ లేరా,1,Negative,Locative/Existential,Root Word: లేరా (VERB),లేరు
+TE_AUTO_0551,Telugu,Spoken Subtitle,Film Dialogue,Vivaha_Bhojanambu,ఫ్యామిలీ మొత్తంలో ముసలోడే బెటర్ మీ ఇంటి పేరు ఏమిటో,0,Affirmative,Equational/Nominal,Root Word: ముసలోడే (NOUN),
+TE_AUTO_0552,Telugu,Spoken Subtitle,Film Dialogue,Vivaha_Bhojanambu,ముదురు టెంకలా ఉన్నావ్,1,Affirmative,Adjectival,Root Word: ఉన్నావ్ (VERB),ఉన్నావ్
+TE_AUTO_0553,Telugu,Spoken Subtitle,Film Dialogue,Vivaha_Bhojanambu,ఇండియా ఇస్ ఏ ఇండిపెండెంట్ కంట్రీ రా,0,Affirmative,Equational/Nominal,Root Word: రా (VERB),
+TE_AUTO_0554,Telugu,Spoken Subtitle,Film Dialogue,Vivaha_Bhojanambu,ఏమడు ఎలా ఉన్నాయి,1,Affirmative,Adjectival,Root Word: ఉన్నాయి (VERB),ఉన్నాయి
+TE_AUTO_0555,Telugu,Spoken Subtitle,Film Dialogue,Vivaha_Bhojanambu,జబ్బును కూడా పండగలా చేసుకుంటున్నారంటే మీ ఫ్యామిలీ ఫ్యామిలీ సార్,0,Affirmative,Equational/Nominal,Root Word: సార్ (VERB),
+TE_AUTO_0556,Telugu,Spoken Subtitle,Film Dialogue,Vivaha_Bhojanambu,అన్ని దోమలు ప్రమాదకరం కాదండి.,1,Negative,Equational/Nominal,Root Word: కాదండి (VERB),కాదు
+TE_AUTO_0557,Telugu,Spoken Subtitle,Film Dialogue,Vivaha_Bhojanambu,మలేరియా దోమ ఇది పెద్ద డేంజర్ కాదు,1,Negative,Adjectival,Root Word: కాదు (VERB),కాదు
+TE_AUTO_0558,Telugu,Spoken Subtitle,Film Dialogue,Vivaha_Bhojanambu,కానీ డెంగ్యూ దోమ చాలా పెద్ద డేంజర్ అండి.,0,Affirmative,Adjectival,Root Word: డేంజర్ (NOUN),
+TE_AUTO_0559,Telugu,Spoken Subtitle,Film Dialogue,Vivaha_Bhojanambu,ప్రేమ గురించి దోమ గురించి కాదు,1,Negative,Equational/Nominal,Root Word: కాదు (VERB),కాదు
+TE_AUTO_0560,Telugu,Spoken Subtitle,Film Dialogue,Vivaha_Bhojanambu,అసలు ఇండియాలో దోమలు లేకపోతే నా ప్రేమే లేదు.,1,Negative,Locative/Existential,Root Word: లేదు (VERB),లేదు
+TE_AUTO_0561,Telugu,Spoken Subtitle,Film Dialogue,Vivaha_Bhojanambu,నా బ్లడ్ గ్రూప్ చాలా రేర్,0,Affirmative,Equational/Nominal,Root Word: రేర్ (NOUN),
+TE_AUTO_0562,Telugu,Spoken Subtitle,Film Dialogue,Vivaha_Bhojanambu,అదిగో ఆ అమ్మాయే థాంక్స్ డాక్టర్ ఆ మేడం,0,Affirmative,Equational/Nominal,Root Word: మేడం (NOUN),
+TE_AUTO_0563,Telugu,Spoken Subtitle,Film Dialogue,Vivaha_Bhojanambu,గుడ్ నైట్ సార్,0,Affirmative,Equational/Nominal,Root Word: సార్ (NOUN),
+TE_AUTO_0564,Telugu,Spoken Subtitle,Film Dialogue,Vivaha_Bhojanambu,యా యు కమ,0,Affirmative,Equational/Nominal,Root Word: కమ (PROPN),
+TE_AUTO_0565,Telugu,Spoken Subtitle,Film Dialogue,Vivaha_Bhojanambu,నువ్వు నా జోడి,0,Affirmative,Equational/Nominal,Root Word: జోడి (NOUN),
+TE_AUTO_0566,Telugu,Spoken Subtitle,Film Dialogue,Vivaha_Bhojanambu,నువ్వు నా జోడీ,0,Affirmative,Equational/Nominal,Root Word: జోడీ (NOUN),
+TE_AUTO_0567,Telugu,Spoken Subtitle,Film Dialogue,Vivaha_Bhojanambu,కళ్ళలోన కొత్త ఫ్లడ్,0,Affirmative,Equational/Nominal,Root Word: ఫ్లడ్ (NOUN),
+TE_AUTO_0568,Telugu,Spoken Subtitle,Film Dialogue,Vivaha_Bhojanambu,నైట్ క్లాస్ ఉంది,1,Affirmative,Locative/Existential,Root Word: ఉంది (VERB),ఉంది
+TE_AUTO_0569,Telugu,Spoken Subtitle,Film Dialogue,Vivaha_Bhojanambu,ఏదైనా అంతేనా ఏదైనా రూపాయలు ఏంటి,0,Affirmative,Equational/Nominal,Root Word: ఏంటి (VERB),
+TE_AUTO_0570,Telugu,Spoken Subtitle,Film Dialogue,Vivaha_Bhojanambu,నేను మీతో నీకు దండం రా,0,Affirmative,Equational/Nominal,Root Word: రా (VERB),
+TE_AUTO_0571,Telugu,Spoken Subtitle,Film Dialogue,Vivaha_Bhojanambu,ఓ ఐ అండర్స్టాండ్,0,Affirmative,Equational/Nominal,Root Word: అండర్స్టాండ్ (NOUN),
+TE_AUTO_0572,Telugu,Spoken Subtitle,Film Dialogue,Vivaha_Bhojanambu,అండర్స్టాండ్ మై హార్ట్ మేడం,0,Affirmative,Equational/Nominal,Root Word: మేడం (NOUN),
+TE_AUTO_0573,Telugu,Spoken Subtitle,Film Dialogue,Vivaha_Bhojanambu,స యస్ ఏ స్టూడెంట్ యు ఫెల్డ్,0,Affirmative,Equational/Nominal,Root Word: యు (NOUN),
+TE_AUTO_0574,Telugu,Spoken Subtitle,Film Dialogue,Vivaha_Bhojanambu,నువ్వు నా జోడి,0,Affirmative,Equational/Nominal,Root Word: జోడి (NOUN),
+TE_AUTO_0575,Telugu,Spoken Subtitle,Film Dialogue,Vivaha_Bhojanambu,నీకు స్పోకెన్ ఇంగ్లీష్ క్లాస్ టీచర్ అయ్యే అవసరం ఏంటి?,0,Affirmative,Adjectival,Root Word: ఏంటి (VERB),
+TE_AUTO_0576,Telugu,Spoken Subtitle,Film Dialogue,Vivaha_Bhojanambu,అదేంటి నాన్నగారు మీరే కదా,0,Affirmative,Equational/Nominal,Root Word: కదా (VERB),
+TE_AUTO_0577,Telugu,Spoken Subtitle,Film Dialogue,Vivaha_Bhojanambu,నేను డిగ్రీ చదువుతున్న రోజుల్లో,0,Affirmative,Locative/Existential,Root Word: రోజుల్లో (ADV),
+TE_AUTO_0578,Telugu,Spoken Subtitle,Film Dialogue,Vivaha_Bhojanambu,హలో అరే మీకో గుడ్ న్యూస్ రా,0,Affirmative,Equational/Nominal,Root Word: రా (VERB),
+TE_AUTO_0579,Telugu,Spoken Subtitle,Film Dialogue,Vivaha_Bhojanambu,ఏయ్ సూపర్ రా,0,Affirmative,Adjectival,Root Word: రా (VERB),
+TE_AUTO_0580,Telugu,Spoken Subtitle,Film Dialogue,Vivaha_Bhojanambu,వరదా నిన్ను చూస్తుంటే నాకు చాలా బాధగా ఉందిరా,1,Affirmative,Adjectival,Root Word: ఉందిరా (VERB),ఉంది
+TE_AUTO_0581,Telugu,Spoken Subtitle,Film Dialogue,Vivaha_Bhojanambu,కానీ ఆడికి చిన్న ప్రాబ్లం ఉందిరా,1,Affirmative,Locative/Existential,Root Word: ఉందిరా (VERB),ఉంది
+TE_AUTO_0582,Telugu,Spoken Subtitle,Film Dialogue,Vivaha_Bhojanambu,ఈ అమౌంట్ ఎంత ఇమ్మంటరా సార్,0,Affirmative,Equational/Nominal,Root Word: సార్ (VERB),
+TE_AUTO_0583,Telugu,Spoken Subtitle,Film Dialogue,Vivaha_Bhojanambu,ఆ కస్టమర్ ఇస్ డాగు రా,0,Affirmative,Equational/Nominal,Root Word: రా (VERB),
+TE_AUTO_0584,Telugu,Spoken Subtitle,Film Dialogue,Vivaha_Bhojanambu,అని అది కస్టమర్ ఇస్ డాగ్ కాదు,1,Negative,Equational/Nominal,Root Word: కాదు (VERB),కాదు
+TE_AUTO_0585,Telugu,Spoken Subtitle,Film Dialogue,Vivaha_Bhojanambu,కస్టమర్ ఇస్ గాడ్,0,Affirmative,Equational/Nominal,Root Word: గాడ్ (NOUN),
+TE_AUTO_0586,Telugu,Spoken Subtitle,Film Dialogue,Vivaha_Bhojanambu,నాకు పెద్ద నాచుబో,0,Affirmative,Equational/Nominal,Root Word: నాచుబో (NOUN),
+TE_AUTO_0587,Telugu,Spoken Subtitle,Film Dialogue,Vivaha_Bhojanambu,అది చెప్పాల్సిందే ఆ నేను కాదు,1,Negative,Equational/Nominal,Root Word: కాదు (VERB),కాదు
+TE_AUTO_0588,Telugu,Spoken Subtitle,Film Dialogue,Vivaha_Bhojanambu,ఇదిగో ఈ పిల్లగా బ్రహ్మగారు బ్రహ్మగారు,0,Affirmative,Equational/Nominal,Root Word: బ్రహ్మగారు (NOUN),
+TE_AUTO_0589,Telugu,Spoken Subtitle,Film Dialogue,Vivaha_Bhojanambu,ఎంతన్న నీ అందమే రేయ్,0,Affirmative,Equational/Nominal,Root Word: అందమే (NOUN),
+TE_AUTO_0590,Telugu,Spoken Subtitle,Film Dialogue,Vivaha_Bhojanambu,ఆ బ్రహ్మరికి రెండు సబ్వేలో,0,Affirmative,Locative/Existential,Root Word: సబ్వేలో (NOUN),
+TE_AUTO_0591,Telugu,Spoken Subtitle,Film Dialogue,Vivaha_Bhojanambu,ఆ వెల్త్ ఇస్ హెల్త్,0,Affirmative,Equational/Nominal,Root Word: హెల్త్ (NOUN),
+TE_AUTO_0592,Telugu,Spoken Subtitle,Film Dialogue,Vivaha_Bhojanambu,అది హెల్త్ ఇస్ వెల్త్ సార్.,0,Affirmative,Equational/Nominal,Root Word: సార్ (VERB),
+TE_AUTO_0593,Telugu,Spoken Subtitle,Film Dialogue,Vivaha_Bhojanambu,అడ్వాన్స్ ఓహోహో సారీ సార్,0,Affirmative,Equational/Nominal,Root Word: సారీ (NOUN),
+TE_AUTO_0594,Telugu,Spoken Subtitle,Film Dialogue,Vivaha_Bhojanambu,తెల్లగాలు కాస్త స్లో లేదు,1,Negative,Locative/Existential,Root Word: లేదు (VERB),లేదు
+TE_AUTO_0595,Telugu,Spoken Subtitle,Film Dialogue,Vivaha_Bhojanambu,బ్రమలా మేము మంచిోళ్లే,0,Affirmative,Equational/Nominal,Root Word: మంచిోళ్లే (NOUN),
+TE_AUTO_0596,Telugu,Spoken Subtitle,Film Dialogue,Vivaha_Bhojanambu,ఆ ఒక చిన్న డౌట్ సార్,0,Affirmative,Equational/Nominal,Root Word: సార్ (NOUN),
+TE_AUTO_0597,Telugu,Spoken Subtitle,Film Dialogue,Vivaha_Bhojanambu,తమంతే తత్ర దేవతా,0,Affirmative,Equational/Nominal,Root Word: దేవతా (NOUN),
+TE_AUTO_0598,Telugu,Spoken Subtitle,Film Dialogue,Vivaha_Bhojanambu,మీ నాన్న కాదు,1,Negative,Equational/Nominal,Root Word: కాదు (VERB),కాదు
+TE_AUTO_0599,Telugu,Spoken Subtitle,Film Dialogue,Vivaha_Bhojanambu,గాన అల్లుడు ఏందా,0,Affirmative,Equational/Nominal,Root Word: ఏందా (PRON),
+TE_AUTO_0600,Telugu,Spoken Subtitle,Film Dialogue,Vivaha_Bhojanambu,మాయ మనంఏంటి మన సంస్కృతి ఏంటి ఒక ఆడపిల్లతో బిహేవ్ చేసే పద్ధతి ఇదేనా తప్పు కదా,0,Affirmative,Equational/Nominal,Root Word: కదా (VERB),
+TE_AUTO_0601,Telugu,Spoken Subtitle,Film Dialogue,Vivaha_Bhojanambu,"ప్రస్తుతానికి 10,000 ఉన్నాయి",1,Affirmative,Locative/Existential,Root Word: ఉన్నాయి (VERB),ఉన్నాయి
+TE_AUTO_0602,Telugu,Spoken Subtitle,Film Dialogue,Vivaha_Bhojanambu,ఈ అభిరాస మీద నాకుఏదో డౌట్ ఉండేదే లెక్క సరిగ్గా ఉందో,1,Affirmative,Adjectival,Root Word: ఉందో (VERB),ఉంది
+TE_AUTO_0603,Telugu,Spoken Subtitle,Film Dialogue,Vivaha_Bhojanambu,లోపలికి పదవే ప్లీజ్,0,Affirmative,Equational/Nominal,Root Word: ప్లీజ్ (NOUN),
+TE_AUTO_0604,Telugu,Spoken Subtitle,Film Dialogue,Vivaha_Bhojanambu,థాంక్స్ పిన్ని అరేయ్ థాంక్స్ ఎందుకురా,0,Affirmative,Equational/Nominal,Root Word: పిన్ని (NOUN),
+TE_AUTO_0605,Telugu,Spoken Subtitle,Film Dialogue,Vivaha_Bhojanambu,పక్క గల్లీలోనే కదా,0,Affirmative,Locative/Existential,Root Word: కదా (VERB),
+TE_AUTO_0606,Telugu,Spoken Subtitle,Film Dialogue,Vivaha_Bhojanambu,బాయ్ జాగ్రత్త రా,0,Affirmative,Equational/Nominal,Root Word: రా (VERB),
+TE_AUTO_0607,Telugu,Spoken Subtitle,Film Dialogue,Vivaha_Bhojanambu,నాకు నువ్వు తప్పు ఎవరు లేరు.,1,Negative,Locative/Existential,Root Word: లేరు (VERB),లేరు
+TE_AUTO_0608,Telugu,Spoken Subtitle,Film Dialogue,Vivaha_Bhojanambu,పక్కన పక్కన ఎవరు లేరు,1,Negative,Locative/Existential,Root Word: లేరు (VERB),లేరు
+TE_AUTO_0609,Telugu,Spoken Subtitle,Film Dialogue,Vivaha_Bhojanambu,ఏంది బ్రహ్మరా రేయ్,0,Affirmative,Equational/Nominal,Root Word: బ్రహ్మరా (NOUN),
+TE_AUTO_0610,Telugu,Spoken Subtitle,Film Dialogue,Vivaha_Bhojanambu,ఇంకా ఎంతసేపు అమ్మా,0,Affirmative,Equational/Nominal,Root Word: ఎంతసేపు (NOUN),
+TE_AUTO_0611,Telugu,Spoken Subtitle,Film Dialogue,Vivaha_Bhojanambu,మిస్టేక్స్ స్టెప్పింగ్ స్టోన్ టు పోలీస్ స్టేషన్,0,Affirmative,Equational/Nominal,Root Word: స్టేషన్ (NOUN),
+TE_AUTO_0612,Telugu,Spoken Subtitle,Film Dialogue,Vivaha_Bhojanambu,ఏంది స్వామి కలమండవా,0,Affirmative,Equational/Nominal,Root Word: కలమండవా (NOUN),
+TE_AUTO_0613,Telugu,Spoken Subtitle,Film Dialogue,Vivaha_Bhojanambu,నాకు అలాంటి ప్లాన్ ఏమ లేదు,1,Negative,Locative/Existential,Root Word: లేదు (VERB),లేదు
+TE_AUTO_0614,Telugu,Spoken Subtitle,Film Dialogue,Vivaha_Bhojanambu,నీది కాగినే నాది కాగినే రెస్పెక్ట్,0,Affirmative,Equational/Nominal,Root Word: నాది (PRON),
+TE_AUTO_0615,Telugu,Spoken Subtitle,Film Dialogue,Vivaha_Bhojanambu,గోల్డ్ చైన్ చాలా సెంటిమెంట్ సార్,0,Affirmative,Equational/Nominal,Root Word: సార్ (VERB),
+TE_AUTO_0616,Telugu,Spoken Subtitle,Film Dialogue,Vivaha_Bhojanambu,సరే బాబాయి ఉన్నారా,1,Affirmative,Locative/Existential,Root Word: ఉన్నారా (VERB),ఉన్నారు
+TE_AUTO_0617,Telugu,Spoken Subtitle,Film Dialogue,Vivaha_Bhojanambu,మన పెళ్లికి వచ్చిందే 30 మంది అందులో పాతి మంది మీ ఫ్యామిలీ ఉన్నారు.,1,Affirmative,Locative/Existential,Root Word: ఉన్నారు (VERB),ఉన్నారు
+TE_AUTO_0618,Telugu,Spoken Subtitle,Film Dialogue,Vivaha_Bhojanambu,హైదరాబాద్ లోనా కాదండి,1,Negative,Equational/Nominal,Root Word: కాదండి (VERB),కాదు
+TE_AUTO_0619,Telugu,Spoken Subtitle,Film Dialogue,Vivaha_Bhojanambu,మీరు ఇంటర్వ్యూ మొదలెడితే మూడున్నర గంటలు,0,Affirmative,Equational/Nominal,Root Word: గంటలు (NOUN),
+TE_AUTO_0620,Telugu,Spoken Subtitle,Film Dialogue,Vivaha_Bhojanambu,సింగిల్ కింగులం తెలారితరంగులమ్మ,0,Affirmative,Equational/Nominal,Root Word: తెలారితరంగులమ్మ (NOUN),
+TE_AUTO_0621,Telugu,Spoken Subtitle,Film Dialogue,Vivaha_Bhojanambu,ఏంట్రా ఇంకా కాలేదని ఇది,0,Affirmative,Equational/Nominal,Root Word: కాలేదని (VERB),
+TE_AUTO_0622,Telugu,Spoken Subtitle,Film Dialogue,Vivaha_Bhojanambu,అదే ఉల్లిపాయ వ్యాన్ లో వైజాగ్ ఉల్లిపాయల వ్యాన్ లోనా మేమా,0,Affirmative,Equational/Nominal,Root Word: మేమా (NOUN),
+TE_AUTO_0623,Telugu,Spoken Subtitle,Film Dialogue,Vivaha_Bhojanambu,అదేంటి మీ అబ్బాయే కదా,0,Affirmative,Equational/Nominal,Root Word: అబ్బాయే (NOUN),
+TE_AUTO_0624,Telugu,Spoken Subtitle,Film Dialogue,Vivaha_Bhojanambu,నేను మా ఆవిడ,0,Affirmative,Equational/Nominal,Root Word: ఆవిడ (PRON),
+TE_AUTO_0625,Telugu,Spoken Subtitle,Film Dialogue,Vivaha_Bhojanambu,జనం ఆ వరంగల్లో,0,Affirmative,Locative/Existential,Root Word: వరంగల్లో (NOUN),
+TE_AUTO_0626,Telugu,Spoken Subtitle,Film Dialogue,Vivaha_Bhojanambu,అలాగే అలాగే అటు కాదు,1,Negative,Locative/Existential,Root Word: కాదు (VERB),కాదు
+TE_AUTO_0627,Telugu,Spoken Subtitle,Film Dialogue,Vivaha_Bhojanambu,ఓ ఈ ఇంట్లోకి మన ఇంట్లోకే,0,Affirmative,Equational/Nominal,Root Word: ఇంట్లోకే (NOUN),
+TE_AUTO_0628,Telugu,Spoken Subtitle,Film Dialogue,Vivaha_Bhojanambu,ధ్యాన్ మే రక్తే హుయే,0,Affirmative,Equational/Nominal,Root Word: రక్తే (NOUN),
+TE_AUTO_0629,Telugu,Spoken Subtitle,Film Dialogue,Vivaha_Bhojanambu,తీన్ మై తక్,0,Affirmative,Equational/Nominal,Root Word: తక్ (PRON),
+TE_AUTO_0630,Telugu,Spoken Subtitle,Film Dialogue,Vivaha_Bhojanambu,నాన్న ఏంటి గోల,0,Affirmative,Equational/Nominal,Root Word: గోల (NOUN),
+TE_AUTO_0631,Telugu,Spoken Subtitle,Film Dialogue,Vivaha_Bhojanambu,అమ్మ అమ్మ రేయ్,0,Affirmative,Equational/Nominal,Root Word: రేయ్ (NOUN),
+TE_AUTO_0632,Telugu,Spoken Subtitle,Film Dialogue,Vivaha_Bhojanambu,మా నాన్న కాదు,1,Negative,Equational/Nominal,Root Word: కాదు (VERB),కాదు
+TE_AUTO_0633,Telugu,Spoken Subtitle,Film Dialogue,Vivaha_Bhojanambu,వీడి నీ కొడుకా,0,Affirmative,Equational/Nominal,Root Word: కొడుకా (NOUN),
+TE_AUTO_0634,Telugu,Spoken Subtitle,Film Dialogue,Vivaha_Bhojanambu,ఇప్పుడు చెప్పమ్మ వీడు నీ కొడుకా,0,Affirmative,Equational/Nominal,Root Word: కొడుకా (NOUN),
+TE_AUTO_0635,Telugu,Spoken Subtitle,Film Dialogue,Vivaha_Bhojanambu,అంటే వైరస్ కూడా జీవమే కదా,0,Affirmative,Equational/Nominal,Root Word: కదా (VERB),
+TE_AUTO_0636,Telugu,Spoken Subtitle,Film Dialogue,Vivaha_Bhojanambu,మా అమ్మనే కదా,0,Affirmative,Equational/Nominal,Root Word: కదా (VERB),
+TE_AUTO_0637,Telugu,Spoken Subtitle,Film Dialogue,Vivaha_Bhojanambu,నువ్వు నా పేమకమే కదా,0,Affirmative,Equational/Nominal,Root Word: కదా (VERB),
+TE_AUTO_0638,Telugu,Spoken Subtitle,Film Dialogue,Vivaha_Bhojanambu,అమ్మ నాన్న లేరు,1,Negative,Locative/Existential,Root Word: లేరు (VERB),లేరు
+TE_AUTO_0639,Telugu,Spoken Subtitle,Film Dialogue,Vivaha_Bhojanambu,ఎవరిరా నీకు మామయ్య,0,Affirmative,Equational/Nominal,Root Word: మామయ్య (NOUN),
+TE_AUTO_0640,Telugu,Spoken Subtitle,Film Dialogue,Vivaha_Bhojanambu,గుండెలో నొప్పిగా ఉందిరా,1,Affirmative,Adjectival,Root Word: ఉందిరా (VERB),ఉంది
+TE_AUTO_0641,Telugu,Spoken Subtitle,Film Dialogue,Vivaha_Bhojanambu,అంటున్నావ్ ఏద ఎలా ఉన్నారో,1,Affirmative,Adjectival,Root Word: ఉన్నారో (VERB),ఉన్నారు
+TE_AUTO_0642,Telugu,Spoken Subtitle,Film Dialogue,Vivaha_Bhojanambu,హార్ట్ ప్రాబ్లం ఉంది,1,Affirmative,Locative/Existential,Root Word: ఉంది (VERB),ఉంది
+TE_AUTO_0643,Telugu,Spoken Subtitle,Film Dialogue,Vivaha_Bhojanambu,మీ అడ్రెస్ ఏంటి సార్,0,Affirmative,Equational/Nominal,Root Word: సార్ (PRON),
+TE_AUTO_0644,Telugu,Spoken Subtitle,Film Dialogue,Vivaha_Bhojanambu,ఏంటి మీ అడ్రెస్,0,Affirmative,Equational/Nominal,Root Word: అడ్రెస్ (NOUN),
+TE_AUTO_0645,Telugu,Spoken Subtitle,Film Dialogue,Vivaha_Bhojanambu,అదే నా అడ్రెస్,0,Affirmative,Equational/Nominal,Root Word: అడ్రెస్ (NOUN),
+TE_AUTO_0646,Telugu,Spoken Subtitle,Film Dialogue,Vivaha_Bhojanambu,చిన్నప్పటి నుంచి నాకు అడ్రెస్ లేదండి.,1,Negative,Locative/Existential,Root Word: లేదండి (VERB),లేదు
+TE_AUTO_0647,Telugu,Spoken Subtitle,Film Dialogue,Vivaha_Bhojanambu,అమ్మ నాన్న లేరు,1,Negative,Locative/Existential,Root Word: లేరు (VERB),లేరు
+TE_AUTO_0648,Telugu,Spoken Subtitle,Film Dialogue,Vivaha_Bhojanambu,ఆ తర్వాత ఎక్కడున్నానో,1,Affirmative,Locative/Existential,Root Word: ఎక్కడున్నానో (VERB),ఉన్నాను
+TE_AUTO_0649,Telugu,Spoken Subtitle,Film Dialogue,Vivaha_Bhojanambu,అవును నాన్నగారు ఇదేంటి ప్లాన్,0,Affirmative,Equational/Nominal,Root Word: ప్లాన్ (NOUN),
+TE_AUTO_0650,Telugu,Spoken Subtitle,Film Dialogue,Vivaha_Bhojanambu,ఆ పార్టీ కూడా లేదు,1,Negative,Locative/Existential,Root Word: లేదు (VERB),లేదు
+TE_AUTO_0651,Telugu,Spoken Subtitle,Film Dialogue,Vivaha_Bhojanambu,స్వీట్ ఏం లేదా,1,Negative,Locative/Existential,Root Word: లేదా (VERB),లేదు
+TE_AUTO_0652,Telugu,Spoken Subtitle,Film Dialogue,Vivaha_Bhojanambu,ఏ ఏ ఉంది,1,Affirmative,Locative/Existential,Root Word: ఉంది (VERB),ఉంది
+TE_AUTO_0653,Telugu,Spoken Subtitle,Film Dialogue,Vivaha_Bhojanambu,70 70 ఆ నాకే,0,Affirmative,Equational/Nominal,Root Word: 70 (NOUN),
+TE_AUTO_0654,Telugu,Spoken Subtitle,Film Dialogue,Vivaha_Bhojanambu,అన్నయ్య మన అదృష్టం అలా ఉంది,1,Affirmative,Adjectival,Root Word: ఉంది (VERB),ఉంది
+TE_AUTO_0655,Telugu,Spoken Subtitle,Film Dialogue,Vivaha_Bhojanambu,ఆ పిఏ మోహన్ గురించి నాకు ముందే,1,Affirmative,Locative/Existential,Root Word: ముందే (VERB),ఉంది
+TE_AUTO_0656,Telugu,Spoken Subtitle,Film Dialogue,Vivaha_Bhojanambu,డాక్టర్ గారు ప్లీజ్ ఫీజ్ లో 50% అర్జెంట్,0,Affirmative,Equational/Nominal,Root Word: అర్జెంట్ (NOUN),
+TE_AUTO_0657,Telugu,Spoken Subtitle,Film Dialogue,Vivaha_Bhojanambu,వన్ మినిట్ సర్,0,Affirmative,Equational/Nominal,Root Word: సర్ (PROPN),
+TE_AUTO_0658,Telugu,Spoken Subtitle,Film Dialogue,Vivaha_Bhojanambu,తాత గారికి ఏం కాదు,1,Negative,Equational/Nominal,Root Word: కాదు (VERB),కాదు
+TE_AUTO_0659,Telugu,Spoken Subtitle,Film Dialogue,Vivaha_Bhojanambu,నాకు తను అందగాడే,0,Affirmative,Equational/Nominal,Root Word: అందగాడే (NOUN),
+TE_AUTO_0660,Telugu,Spoken Subtitle,Film Dialogue,Vivaha_Bhojanambu,ఇంటి పేరులో ఏముంది,1,Affirmative,Locative/Existential,Root Word: ఏముంది (VERB),ఉంది
+TE_AUTO_0661,Telugu,Spoken Subtitle,Film Dialogue,Vivaha_Bhojanambu,ఆ నేను సార్,0,Affirmative,Equational/Nominal,Root Word: సార్ (NOUN),
+TE_AUTO_0662,Telugu,Spoken Subtitle,Film Dialogue,Vivaha_Bhojanambu,ఎవర్రా నువ్వు రేయ్,0,Affirmative,Equational/Nominal,Root Word: రేయ్ (NOUN),
+TE_AUTO_0663,Telugu,Spoken Subtitle,Film Dialogue,Vivaha_Bhojanambu,వింగ్స్ అంటే క్రేజీ షేవింగ్ చేయని సన్నాసి,0,Affirmative,Equational/Nominal,Root Word: సన్నాసి (NOUN),
+TE_AUTO_0664,Telugu,Spoken Subtitle,Film Dialogue,Vivaha_Bhojanambu,వీడు బైబర్ పినాసి,0,Affirmative,Equational/Nominal,Root Word: పినాసి (NOUN),
+TE_AUTO_0665,Telugu,Spoken Subtitle,Film Dialogue,Vivaha_Bhojanambu,సేవింగ్స్ అంటే క్రేజీ సేవింగ్ చేయని సన్నాసి,0,Affirmative,Equational/Nominal,Root Word: సన్నాసి (NOUN),
+TE_AUTO_0666,Telugu,Spoken Subtitle,Film Dialogue,Vivaha_Bhojanambu,కోటాకి ఫ్యాన్ తగులుకొండ అబ్బాయి,0,Affirmative,Equational/Nominal,Root Word: అబ్బాయి (NOUN),
+TE_AUTO_0667,Telugu,Literary,Literary Narrative,Diddubatu,"అనుకొని, రెక్క మెల్లన తెరవ, నడవలో దీపము లేదు.",1,Negative,Locative/Existential,Root Word: లేదు (VERB),లేదు
+TE_AUTO_0668,Telugu,Literary,Literary Narrative,Diddubatu,పట్టరాని కోపముతో వానిని జూచి గోపాలరావు,0,Affirmative,Equational/Nominal,Root Word: గోపాలరావు (NOUN),
+TE_AUTO_0669,Telugu,Literary,Literary Dialogue,Diddubatu,మీ అమ్మ కాదురా,1,Negative,Equational/Nominal,Root Word: కాదురా (VERB),కాదు
+TE_AUTO_0670,Telugu,Literary,Literary Dialogue,Diddubatu,"బుద్ధిహీనుడా, నా భార్యా",0,Affirmative,Equational/Nominal,Root Word: బుద్ధిహీనుడా (NOUN),
+TE_AUTO_0671,Telugu,Literary,Literary Narrative,Diddubatu,గోపాలుడు సదయ హృదయుడు.,0,Affirmative,Equational/Nominal,Root Word: హృదయుడు (NOUN),
+TE_AUTO_0672,Telugu,Literary,Literary Dialogue,Diddubatu,యేటో మాయలా వుంది బాబూ,1,Affirmative,Adjectival,Root Word: వుంది (VERB),ఉంది
+TE_AUTO_0673,Telugu,Literary,Literary Dialogue,Diddubatu,చదువు నేరిస్తే యేటౌతదీ?,0,Affirmative,Equational/Nominal,Root Word: యేటౌతదీ (NOUN),
+TE_AUTO_0674,Telugu,Literary,Literary Dialogue,Diddubatu,భగవంతుడి సృష్టిలోకల్లా ఉత్కృష్టమైన వస్తువ విద్య నేర్చిన స్త్రీ రత్నమే.,0,Affirmative,Equational/Nominal,Root Word: రత్నమే (NOUN),
+TE_AUTO_0675,Telugu,Literary,Literary Dialogue,Diddubatu,నువ్వు తాతల నాటి నౌఖరువి.,0,Affirmative,Equational/Nominal,Root Word: నౌఖరువి (NOUN),
+TE_AUTO_0676,Telugu,Literary,Literary Dialogue,Diddubatu,మరి పంతులు మనుసు మనుసులో లేదు.,1,Negative,Locative/Existential,Root Word: లేదు (VERB),లేదు
+TE_AUTO_0677,Telugu,Literary,Literary Narrative,Mee_Peremiti,దేవుడు చేసిన మనుషుల్లారా!,0,Affirmative,Equational/Nominal,Root Word: మనుషుల్లారా (NOUN),
+TE_AUTO_0678,Telugu,Literary,Literary Narrative,Mee_Peremiti,మనుషులు చేసిన దేవుళ్ళారా!,0,Affirmative,Equational/Nominal,Root Word: దేవుళ్ళారా (NOUN),
+TE_AUTO_0679,Telugu,Literary,Literary Narrative,Mee_Peremiti,"పురాణములను గురించి మేము శంకలు వేస్తే, మా గురువు గారు",0,Affirmative,Equational/Nominal,Root Word: గురువు (NOUN),
+TE_AUTO_0680,Telugu,Literary,Literary Dialogue,Mee_Peremiti,అదేం తర్జుమా కాదు గద?,1,Negative,Equational/Nominal,Root Word: కాదు (VERB),కాదు
+TE_AUTO_0681,Telugu,Literary,Literary Dialogue,Mee_Peremiti,ఆ రెండో పుస్తకమేమిటో?,0,Affirmative,Equational/Nominal,Root Word: పుస్తకమేమిటో (NOUN),
+TE_AUTO_0682,Telugu,Literary,Literary Narrative,Mee_Peremiti,మా గురువు గారి వంటి గురువులు లోకంలో లేరు.,1,Negative,Locative/Existential,Root Word: లేరు (VERB),లేరు
+TE_AUTO_0683,Telugu,Literary,Literary Narrative,Mee_Peremiti,మన దేశంలో అంత తార్కికుడు లేడని ప్రతీతి.,0,Affirmative,Equational/Nominal,Root Word: ప్రతీతి (NOUN),
+TE_AUTO_0684,Telugu,Literary,Literary Narrative,Mee_Peremiti,"శాస్త్రం మాటకేం గాని, కావ్యాల్లో మంచి రసగ్రాహి.",0,Affirmative,Equational/Nominal,Root Word: మాటకేం (NOUN),
+TE_AUTO_0685,Telugu,Literary,Literary Narrative,Mee_Peremiti,"మరి సుగుణ సంపత్తికో అంటే, సత్యకాలపు మనిషి అన్నప్పుడు, ఆయనే సత్యకాలపు మనిషి.",0,Affirmative,Equational/Nominal,Root Word: సంపత్తికో (NOUN),
+TE_AUTO_0686,Telugu,Literary,Literary Narrative,Mee_Peremiti,రామ్మూర్తికి భూములు లావుగా వున్నాయి.,1,Affirmative,Adjectival,Root Word: వున్నాయి (VERB),ఉన్నాయి
+TE_AUTO_0687,Telugu,Literary,Literary Narrative,Mee_Peremiti,అవి పువ్వులు కావు.,1,Negative,Equational/Nominal,Root Word: కావు (VERB),కావు
+TE_AUTO_0688,Telugu,Literary,Literary Narrative,Mee_Peremiti,అవి పళ్ళు కావు.,1,Negative,Equational/Nominal,Root Word: కావు (VERB),కావు
+TE_AUTO_0689,Telugu,Literary,Literary Narrative,Mee_Peremiti,వెంకయ్య స్కూలులో మేష్టరు.,0,Affirmative,Equational/Nominal,Root Word: మేష్టరు (NOUN),
+TE_AUTO_0690,Telugu,Literary,Literary Narrative,Mee_Peremiti,మా స్కూలు జట్టులో ఆరేడుగురం యిక్కడనే వున్నాం.,1,Affirmative,Locative/Existential,Root Word: వున్నాం (VERB),ఉన్నాం
+TE_AUTO_0691,Telugu,Literary,Literary Narrative,Mee_Peremiti,యిక ప్రస్తుత కథా -,0,Affirmative,Equational/Nominal,Root Word: యిక (NOUN),
+TE_AUTO_0692,Telugu,Literary,Literary Narrative,Mee_Peremiti,ఇప్పటి మట్టుకు మీకు తెలియవలసిన దేమంటే- అక్కడి విష్ణుక్షేత్రం ఆధునికం.,0,Affirmative,Equational/Nominal,Root Word: ఆధునికం (NOUN),
+TE_AUTO_0693,Telugu,Literary,Literary Narrative,Mee_Peremiti,ఆ వూరి నల్ల కొండల నంతటను శిధిలమైన బౌద్ధ కట్టడములు కలవు.,1,Affirmative,Locative/Existential,Root Word: కలవు (VERB),కలవు
+TE_AUTO_0694,Telugu,Literary,Literary Narrative,Mee_Peremiti,"ఈ దేశంలో పాండవులు వుండని గుహలూ, సీతామ్మవారు స్నానమాడని గుంటలూ లేవు.",1,Negative,Locative/Existential,Root Word: లేవు (VERB),లేవు
+TE_AUTO_0695,Telugu,Literary,Literary Narrative,Mee_Peremiti,దాని పీఠం మీద,0,Affirmative,Locative/Existential,Root Word: పీఠం (NOUN),
+TE_AUTO_0696,Telugu,Literary,Literary Dialogue,Mee_Peremiti,యే ధర్మా హేతు ప్రభవా' ఇత్యాది బౌద్ద సిద్ధాంతము సొంపుగా వ్రాయబడివున్నది.,1,Affirmative,Adjectival,Root Word: ధర్మా (NOUN),ఉన్నది
+TE_AUTO_0697,Telugu,Literary,Literary Dialogue,Mee_Peremiti,"ప్రాణములనయినా యిత్తుము గాని, దానిని యివ్వ జాలము",0,Affirmative,Equational/Nominal,Root Word: యిత్తుము (NOUN),
+TE_AUTO_0698,Telugu,Literary,Literary Narrative,Mee_Peremiti,నాటికీ నేటికీ మరి పికరు లేదు.,1,Negative,Locative/Existential,Root Word: లేదు (VERB),లేదు
+TE_AUTO_0699,Telugu,Literary,Literary Narrative,Mee_Peremiti,మంచి సాహిత్యం కద్దు.,1,Affirmative,Locative/Existential,Root Word: కద్దు (NOUN),కద్దు
+TE_AUTO_0700,Telugu,Literary,Literary Dialogue,Mee_Peremiti,ఒక కథ వుంది,1,Affirmative,Locative/Existential,Root Word: వుంది (VERB),ఉంది
+TE_AUTO_0701,Telugu,Literary,Literary Narrative,Mee_Peremiti,ఈ గ్రామంలో శైవ వైష్ణవ మతాలకు వైరం చిరకాలం నుంచి కద్దు.,1,Affirmative,Locative/Existential,Root Word: కద్దు (NOUN),కద్దు
+TE_AUTO_0702,Telugu,Literary,Literary Dialogue,Mee_Peremiti,అవును నీకంటూ తెలియని సంగతి లేదు.,1,Negative,Locative/Existential,Root Word: లేదు (VERB),లేదు
+TE_AUTO_0703,Telugu,Literary,Literary Narrative,Mee_Peremiti,రంగాచార్యులు గారు బహు యోగ్యులు.,0,Affirmative,Equational/Nominal,Root Word: యోగ్యులు (NOUN),
+TE_AUTO_0704,Telugu,Literary,Literary Narrative,Mee_Peremiti,ద్రావిడ వేదములో కూడా గట్టివారని ప్రతీతి కద్దు.,1,Affirmative,Locative/Existential,Root Word: కద్దు (VERB),కద్దు
+TE_AUTO_0705,Telugu,Literary,Literary Narrative,Mee_Peremiti,ఆమెకు ఒక కొమార్తె.,0,Affirmative,Equational/Nominal,Root Word: కొమార్తె (NOUN),
+TE_AUTO_0706,Telugu,Literary,Literary Narrative,Mee_Peremiti,మాకూ వాళ్ళకూ రాకపోకలు గలవు.,1,Affirmative,Locative/Existential,Root Word: గలవు (VERB),గలవు
+TE_AUTO_0707,Telugu,Literary,Literary Narrative,Mee_Peremiti,విష్ణుస్థలం యొక్క స్థితి ఇది.,0,Affirmative,Equational/Nominal,Root Word: ఇది (PRON),
+TE_AUTO_0708,Telugu,Literary,Literary Narrative,Mee_Peremiti,శైవులలో వున్న ఐకమత్యం వైష్ణవుల్లో లేదు.,1,Negative,Locative/Existential,Root Word: లేదు (VERB),లేదు
+TE_AUTO_0709,Telugu,Literary,Literary Dialogue,Mee_Peremiti,"యీ బ్రాహ్మలదీ, జ్ఞానము కాదు.",1,Negative,Equational/Nominal,Root Word: బ్రాహ్మలదీ (NOUN),కాదు
+TE_AUTO_0710,Telugu,Literary,Literary Dialogue,Mee_Peremiti,ఔర : యేమి మూర్ఖత,0,Affirmative,Equational/Nominal,Root Word: మూర్ఖత (NOUN),
+TE_AUTO_0711,Telugu,Literary,Literary Dialogue,Mee_Peremiti,యీ అజ్ఞులా అవతార పురుషులు?,0,Affirmative,Equational/Nominal,Root Word: అజ్ఞులా (NOUN),
+TE_AUTO_0712,Telugu,Literary,Literary Dialogue,Mee_Peremiti,అందులో సారధి నాయడు లక్షాధికారి.,0,Affirmative,Equational/Nominal,Root Word: లక్షాధికారి (NOUN),
+TE_AUTO_0713,Telugu,Literary,Literary Dialogue,Mee_Peremiti,అతని బావమరిది రామినాయడు గ్రామ మునసబు.,0,Affirmative,Equational/Nominal,Root Word: మునసబు (NOUN),
+TE_AUTO_0714,Telugu,Literary,Literary Dialogue,Mee_Peremiti,"కొంచధూర్తూ, నిషా బాజీన్నీ - భోజన ప్రియుడు.",0,Affirmative,Equational/Nominal,Root Word: ప్రియుడు (NOUN),
+TE_AUTO_0715,Telugu,Literary,Literary Dialogue,Mee_Peremiti,యీ తాలూకాలో కల్లా పెద్ద సారా దుకాణం యీ వూళ్ళోనే వుంది.,1,Affirmative,Locative/Existential,Root Word: వుంది (VERB),ఉంది
+TE_AUTO_0716,Telugu,Literary,Literary Narrative,Mee_Peremiti,నాలుగు సంవత్సరముల కిందట యిక్కడికి దక్షిణ దేశం నుంచి ఒక అయ్యవార్లంగారు,0,Affirmative,Equational/Nominal,Root Word: అయ్యవార్లంగారు (NOUN),
+TE_AUTO_0717,Telugu,Literary,Literary Narrative,Mee_Peremiti,"నాటికీ నేటికీ, రెంటియందూ ప్రపత్తి యేకరీతిగానే వుంది.",1,Affirmative,Adjectival,Root Word: వుంది (VERB),ఉంది
+TE_AUTO_0718,Telugu,Literary,Literary Dialogue,Mee_Peremiti,"వైష్ణవుడు, శైవుడు కావాలని కోరితే, అడ్డి యేమి కార్యం?",0,Affirmative,Equational/Nominal,Root Word: కార్యం (NOUN),
+TE_AUTO_0719,Telugu,Literary,Literary Dialogue,Mee_Peremiti,"అది లేకుంటే వైష్ణవుడైనా, కార్యం లేదు",1,Negative,Locative/Existential,Root Word: లేదు (VERB),లేదు
+TE_AUTO_0720,Telugu,Literary,Literary Narrative,Mee_Peremiti,"అందులో యోధులు, దుకాణంలో రహస్య",0,Affirmative,Equational/Nominal,Root Word: రహస్య (NOUN),
+TE_AUTO_0721,Telugu,Literary,Literary Dialogue,Mee_Peremiti,"రామానుజయ్య అయితే, చులాగ్గా డేగలా వున్నాడు గనక, అవస్యం అతగాడే గరుడాళ్వారి అవతారం.",1,Affirmative,Adjectival,Root Word: వున్నాడు (VERB),ఉన్నాడు
+TE_AUTO_0722,Telugu,Literary,Literary Dialogue,Mee_Peremiti,రామానుజయ్య తేలిగ్గా వున్నాడు,1,Affirmative,Adjectival,Root Word: వున్నాడు (VERB),ఉన్నాడు
+TE_AUTO_0723,Telugu,Literary,Literary Dialogue,Mee_Peremiti,రావస్సోవికి మయిమం వుందా లేదా?,1,Negative,Locative/Existential,Root Word: వుందా (VERB),లేదు
+TE_AUTO_0724,Telugu,Literary,Literary Dialogue,Mee_Peremiti,యుక్తాయుక్తం యెరిగిన మనిషివి.,0,Affirmative,Equational/Nominal,Root Word: మనిషివి (NOUN),
+TE_AUTO_0725,Telugu,Literary,Literary Dialogue,Mee_Peremiti,వైష్ణవ మత నిషిద్ధము.,0,Affirmative,Equational/Nominal,Root Word: నిషిద్ధము (NOUN),
+TE_AUTO_0726,Telugu,Literary,Literary Narrative,Mee_Peremiti,ఆ మాట నిజమే!,0,Affirmative,Adjectival,Root Word: నిజమే (NOUN),
+TE_AUTO_0727,Telugu,Literary,Literary Dialogue,Mee_Peremiti,"నాకెందుకు తల్లీ, అపవిత్రుడను",0,Affirmative,Equational/Nominal,Root Word: తల్లీ (NOUN),
+TE_AUTO_0728,Telugu,Literary,Literary Dialogue,Mee_Peremiti,"నాకు మంతరం, మాయా యెరికనేదే!",0,Affirmative,Equational/Nominal,Root Word: మంతరం (NOUN),
+TE_AUTO_0729,Telugu,Literary,Literary Dialogue,Mee_Peremiti,నీకు కొండంత గుండె వుంది!,1,Affirmative,Locative/Existential,Root Word: వుంది (VERB),ఉంది
+TE_AUTO_0730,Telugu,Literary,Literary Narrative,Mee_Peremiti,లేకపోతాయని గదా నీ దుఃఖం.,0,Affirmative,Equational/Nominal,Root Word: లేకపోతాయని (VERB),
+TE_AUTO_0731,Telugu,Literary,Literary Dialogue,Mee_Peremiti,"అమ్మా శర్కరపొంగలి, దధ్యోదనమూ అనేవి ముఖ్యములు కావు.",1,Negative,Equational/Nominal,Root Word: కావు (VERB),కావు
+TE_AUTO_0732,Telugu,Literary,Literary Narrative,Mee_Peremiti,దానిలో అరకాసంతయినా మహత్తు లేదా?,1,Negative,Locative/Existential,Root Word: లేదా (VERB),లేదు
+TE_AUTO_0733,Telugu,Literary,Literary Dialogue,Mee_Peremiti,అమ్మా యిదిగో దాసుడ,0,Affirmative,Equational/Nominal,Root Word: దాసుడ (NOUN),
+TE_AUTO_0734,Telugu,Literary,Literary Dialogue,Mee_Peremiti,గనక మీ వైష్ణవ మతం గొప్పా అతగాడి తురక మతం గొప్పా?,0,Affirmative,Equational/Nominal,Root Word: గొప్పా (NOUN),
+TE_AUTO_0735,Telugu,Literary,Literary Dialogue,Mee_Peremiti,"ఈ రెండు విధాల మనుష్యులూ శైవుల్లోనూ, వైష్ణవుల్లోనూ కూడా వున్నారు.",1,Affirmative,Locative/Existential,Root Word: వున్నారు (VERB),ఉన్నారు
+TE_AUTO_0736,Telugu,Literary,Literary Dialogue,Mee_Peremiti,శ్రీ స్వామివారి తిరునామమే.,0,Affirmative,Equational/Nominal,Root Word: తిరునామమే (NOUN),
+TE_AUTO_0737,Telugu,Literary,Literary Dialogue,Mee_Peremiti,అతగాడు కబీరు దాసంత భక్తుడు.,0,Affirmative,Equational/Nominal,Root Word: భక్తుడు (NOUN),
+TE_AUTO_0738,Telugu,Literary,Literary Dialogue,Mee_Peremiti,అమ్మా మీరు సాక్షాత్తూ శ్రీ మహాలక్ష్మి అవతారం.,0,Affirmative,Equational/Nominal,Root Word: అవతారం (NOUN),
+TE_AUTO_0739,Telugu,Literary,Literary Dialogue,Mee_Peremiti,"శివుడన్నా, విష్ణన్నా, పీరన్నా బుద్ధుడన్నా ఆ పరమాత్మ మట్టుకు ఒక్కడే గదా?",0,Affirmative,Equational/Nominal,Root Word: ఒక్కడే (VERB),
+TE_AUTO_0740,Telugu,Literary,Literary Dialogue,Mee_Peremiti,"పీరో, బిట్రో, దెయ్యమో, దేవరో, యీ అజ్ఞులకు మూఢభక్తి అయినా వుంది.",1,Affirmative,Locative/Existential,Root Word: వుంది (VERB),ఉంది
+TE_AUTO_0741,Telugu,Literary,Literary Narrative,Metilda,నేను వృక్షశాస్త్రము యమ్.,0,Affirmative,Equational/Nominal,Root Word: వృక్షశాస్త్రము (NOUN),
+TE_AUTO_0742,Telugu,Literary,Literary Dialogue,Metilda,"మంచి మనిషా, చెడ్డ మనిషా?",0,Affirmative,Equational/Nominal,Root Word: మనిషా (NOUN),
+TE_AUTO_0743,Telugu,Literary,Literary Narrative,Metilda,రామారావు నాకు ప్రాణసమానమైన మిత్రుడు.,0,Affirmative,Equational/Nominal,Root Word: మిత్రుడు (NOUN),
+TE_AUTO_0744,Telugu,Literary,Literary Narrative,Metilda,వారం పది రోజులు కట్టుమీద ఉన్నాను.,1,Affirmative,Locative/Existential,Root Word: ఉన్నాను (VERB),ఉన్నాను
+TE_AUTO_0745,Telugu,Literary,Literary Narrative,Metilda,అంత ముసలివాడు కాడు.,1,Negative,Equational/Nominal,Root Word: కాడు (VERB),కాడు
+TE_AUTO_0746,Telugu,Literary,Literary Narrative,Metilda,దానిలో మూడు బీరువాలతో పుస్తకాలు వున్నాయి.,1,Affirmative,Locative/Existential,Root Word: వున్నాయి (VERB),ఉన్నాయి
+TE_AUTO_0747,Telugu,Literary,Literary Narrative,Metilda,ఇది యింగ్లీషు పద్ధతి ప్రకారం యిద్దరికీ శరీర వ్యాయామం.,0,Affirmative,Equational/Nominal,Root Word: వ్యాయామం (NOUN),
+TE_AUTO_0748,Telugu,Literary,Literary Narrative,Metilda,ఇంటిలో మిగిలిన వాళ్ళు ఒక ముసలి వంట బ్రాహ్మణుడు.,0,Affirmative,Locative/Existential,Root Word: బ్రాహ్మణుడు (NOUN),
+TE_AUTO_0749,Telugu,Literary,Literary Dialogue,Metilda,"చూస్తున్నానుగాని, చెడ్డ తలపు మనసులో యీషత్తు వుంటే దేవుడు సాక్షి?",0,Affirmative,Equational/Nominal,Root Word: సాక్షి (NOUN),
+TE_AUTO_0750,Telugu,Literary,Literary Narrative,Metilda,బిందువులుగా స్రవించిన కన్నీరు.,0,Affirmative,Equational/Nominal,Root Word: కన్నీరు (NOUN),
+TE_AUTO_0751,Telugu,Literary,Literary Dialogue,Metilda,లేకపోతే నా ప్రారబ్ధం,0,Affirmative,Equational/Nominal,Root Word: ప్రారబ్ధం (NOUN),
+TE_AUTO_0752,Telugu,Literary,Literary Dialogue,Metilda,ఆలు మొగుళ్ళ దెబ్బలాటల్లోకి వెళ్లవద్దని మన పెద్దల శాసనం.,0,Affirmative,Equational/Nominal,Root Word: శాసనం (NOUN),
+TE_AUTO_0753,Telugu,Literary,Literary Dialogue,Metilda,"అవి అభేద్యాలు, అగమ్య గోచరాలు.",0,Affirmative,Equational/Nominal,Root Word: అభేద్యాలు (NOUN),
+TE_AUTO_0754,Telugu,Literary,Literary Dialogue,Metilda,గుడ్డకి లోపం లేదు.,1,Negative,Locative/Existential,Root Word: లేదు (VERB),లేదు
+TE_AUTO_0755,Telugu,Literary,Literary Dialogue,Metilda,అది కూడని పని.,0,Affirmative,Equational/Nominal,Root Word: పని (NOUN),
+TE_AUTO_0756,Telugu,Literary,Literary Dialogue,Metilda,ఆ అవకాశానికి అవకాశం యివ్వని వాడె ప్రాజ్ఞుడు,0,Affirmative,Equational/Nominal,Root Word: ప్రాజ్ఞుడు (NOUN),
+TE_AUTO_0757,Telugu,Literary,Literary Dialogue,Metilda,నా పెళ్ళాం బహు బుద్ధిమంతురాలు.,0,Affirmative,Equational/Nominal,Root Word: బుద్ధిమంతురాలు (NOUN),
+TE_AUTO_0758,Telugu,Literary,Literary Dialogue,Metilda,నాకు నీతో లోకం.,0,Affirmative,Equational/Nominal,Root Word: లోకం (NOUN),
+TE_AUTO_0759,Telugu,Literary,Literary Dialogue,Metilda,కూడునా యిలాంటి పని,0,Affirmative,Equational/Nominal,Root Word: పని (NOUN),

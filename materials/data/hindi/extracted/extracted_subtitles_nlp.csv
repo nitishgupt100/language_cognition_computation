@@ -1,0 +1,1459 @@
+﻿Sentence_ID,Register,Movie_Title,Raw_Sentence,Copula_Status,Polarity,Predicate_Type_Hint,Predicate_Type_Final,Notes
+SUB_001,Subtitle,3 Idiots,"Subtitles by MartianBuilder
+Source: Script PDF
+https://www.scrite.io/download-3-idiots-script-pdf/ नमस्ते?",0,Affirmative,NLP Parsed (PROPN),Equational/Nominal,Root Word: नमस्ते
+SUB_002,Subtitle,3 Idiots,"सिर, आपका मोबाइल क्रपाय बंद कीजिए एक सेकंड प्लीज माफ कीजिए?",0,Affirmative,NLP Parsed (VERB),Adjectival,Root Word: कीजिए
+SUB_003,Subtitle,3 Idiots,"सिर, बैटिए प्लीज।",0,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: प्लीज
+SUB_004,Subtitle,3 Idiots,नहीं मैं बिल्कुल ठीक हूँ।,1,Negative,NLP Parsed (ADJ),Adjectival,Root Word: ठीक
+SUB_005,Subtitle,3 Idiots,"आप लोग जाएं, आप लोग जाएं।",0,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: जाएं
+SUB_006,Subtitle,3 Idiots,इंतजार करो गाड़ी निकालो यार।,0,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: निकालो
+SUB_007,Subtitle,3 Idiots,तुस्सी मि. ढिल्लों?,0,Affirmative,NLP Parsed (PROPN),Equational/Nominal,Root Word: ढिल्लों
+SUB_008,Subtitle,3 Idiots,"क्यों, नाम यहाँ टैटू करवाऊं क्या?",0,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: करवाऊं
+SUB_009,Subtitle,3 Idiots,अरे जल्दी निकालो यार गाड़ी।,0,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: निकालो
+SUB_010,Subtitle,3 Idiots,वहाँ ले लो।,0,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: ले
+SUB_011,Subtitle,3 Idiots,अरे एक्सेलरेटर पे थोड़ा लोड दे काके।,0,Affirmative,NLP Parsed (VERB),Locative/Existential,Root Word: काके
+SUB_012,Subtitle,3 Idiots,हाँ फरहान --- बोल।,0,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: बोल।
+SUB_013,Subtitle,3 Idiots,तू जल्दी बाहर आ।,0,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: आ।
+SUB_014,Subtitle,3 Idiots,मैं पाँच मिनट में तेरे यहाँ पहुँच रहा हूँ।,1,Affirmative,NLP Parsed (VERB),Locative/Existential,Root Word: पहुँच
+SUB_015,Subtitle,3 Idiots,उसको याद आया?,0,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: आया
+SUB_016,Subtitle,3 Idiots,हाँ वही वही।,0,Affirmative,NLP Parsed (PRON),Equational/Nominal,Root Word: वही
+SUB_017,Subtitle,3 Idiots,बोल रहा है कि रैंचो आ रहा है।,1,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: बोल
+SUB_018,Subtitle,3 Idiots,क्या बोल रहा है?,1,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: बोल
+SUB_019,Subtitle,3 Idiots,"हाँ, बोला कि अगर रैंचो से मिलना है तो ठीक आठ बजे कैम्पस आ जा, टंकी पे।",1,Affirmative,NLP Parsed (VERB),Locative/Existential,Root Word: बोला
+SUB_020,Subtitle,3 Idiots,अरे तू जल्दी बाहर आ ना यार।,0,Negative,NLP Parsed (VERB),Equational/Nominal,Root Word: यार।
+SUB_021,Subtitle,3 Idiots,"हाँ ठीक ठीक है, ओके।",1,Affirmative,NLP Parsed (ADJ),Adjectival,Root Word: ठीक
+SUB_022,Subtitle,3 Idiots,सूनी मैं थोड़ी देर में आ रहा हूँ।,1,Affirmative,NLP Parsed (VERB),Locative/Existential,Root Word: आ
+SUB_023,Subtitle,3 Idiots,यार मैं आके बात करता हूँ।,1,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: करता
+SUB_024,Subtitle,3 Idiots,अरे पैंट तो पहन के जाओ।,0,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: पहन
+SUB_025,Subtitle,3 Idiots,"भाई साहब, अब आप होटल जाना, लेकिन एयरपोर्ट होकर जाना।",0,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: जाना
+SUB_026,Subtitle,3 Idiots,मेरे भाई साहब आ रहे हैं उनको होटल पहुँचा देना।,1,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: आ
+SUB_027,Subtitle,3 Idiots,सेम सरनेम यार -- ढिल्लों।,0,Affirmative,NLP Parsed (PROPN),Equational/Nominal,Root Word: ढिल्लों
+SUB_028,Subtitle,3 Idiots,"हे चतुर, रैंचो कहाँ है?",1,Affirmative,NLP Parsed (PRON),Equational/Nominal,Root Word: कहाँ
+SUB_029,Subtitle,3 Idiots,रैंचो रैंचो कहाँ है?,1,Affirmative,NLP Parsed (PRON),Equational/Nominal,Root Word: कहाँ
+SUB_030,Subtitle,3 Idiots,"नमाक्षकर , इडियट्स मदिरा पियोगे?",0,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: पियोगे
+SUB_031,Subtitle,3 Idiots,कुछ पी लो अरे रैंचो कहाँ है यार?,1,Affirmative,NLP Parsed (PRON),Equational/Nominal,Root Word: कहाँ
+SUB_032,Subtitle,3 Idiots,पहले ये देखो।,0,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: देखो।
+SUB_033,Subtitle,3 Idiots,"मेरी बीवी को नहीं, उसके पीछे का बंगला देखो, पियोगे पैंतीस लाख स्विमिंग पूल - गरम!",0,Negative,NLP Parsed (VERB),Locative/Existential,Root Word: देखो
+SUB_034,Subtitle,3 Idiots,Living room - maple wood flooring My new Lambhorghini 6496 cc - very fast अबे हमें क्यों दिखा रहा है ये सब?,1,Affirmative,NLP Parsed (VERB),Locative/Existential,Root Word: दिखा
+SUB_035,Subtitle,3 Idiots,यह क्या है?,1,Affirmative,NLP Parsed (PRON),Equational/Nominal,Root Word: क्या
+SUB_036,Subtitle,3 Idiots,आज की डेट।,0,Affirmative,NLP Parsed (NOUN),Equational/Nominal,Root Word: डेट।
+SUB_037,Subtitle,3 Idiots,और क्या यार?,0,Affirmative,NLP Parsed (INTJ),Equational/Nominal,Root Word: यार
+SUB_038,Subtitle,3 Idiots,आज ही के दिन।,0,Affirmative,NLP Parsed (NOUN),Equational/Nominal,Root Word: दिन।
+SUB_039,Subtitle,3 Idiots,"देखेंगे, कौन ज्यादा सक्सेसफुल है।",1,Affirmative,NLP Parsed (VERB),Adjectival,Root Word: देखेंगे
+SUB_040,Subtitle,3 Idiots,चल लगा बैट।,0,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: चल
+SUB_041,Subtitle,3 Idiots,कुछ याद आया?,0,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: आया
+SUB_042,Subtitle,3 Idiots,"I kept my promise. I'm back. साले, मैं हवाई जहाज छोड़ के आया हूँ।",1,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: आया
+SUB_043,Subtitle,3 Idiots,ये अपनी पैंट छोड़ के आया है।,1,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: आया
+SUB_044,Subtitle,3 Idiots,सिर्फ़ रैंचो से मिलने के लिए।,0,Affirmative,NLP Parsed (VERB),Locative/Existential,Root Word: मिलने
+SUB_045,Subtitle,3 Idiots,पाँच साल से हम उसको ढूँढ रहे हैं।,1,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: ढूँढ
+SUB_046,Subtitle,3 Idiots,यार तू इसके दांत तोड़ता है या मैं तोड़ूँ?,1,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: तोड़ता
+SUB_047,Subtitle,3 Idiots,अबे साले तो तूने हमें क्यों बुलाया?,0,Affirmative,NLP Parsed (VERB),Locative/Existential,Root Word: बुलाया
+SUB_048,Subtitle,3 Idiots,रैंचो से मिलाने।,0,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: मिलाने
+SUB_049,Subtitle,3 Idiots,मतलब तुझे मालूम है रैंचो कहाँ है?,1,Affirmative,NLP Parsed (ADJ),Adjectival,Root Word: मालूम
+SUB_050,Subtitle,3 Idiots,कहाँ है रैंचो?,1,Affirmative,NLP Parsed (AUX),Equational/Nominal,Root Word: है
+SUB_051,Subtitle,3 Idiots,रणछोड़दास शामलदास चाँछड़।,0,Affirmative,NLP Parsed (PROPN),Equational/Nominal,Root Word: चाँछड़
+SUB_052,Subtitle,3 Idiots,और पांच बजकर सोलह मिनट पर अब्बा ने कहा -- मेरा बेटा इंजीनियर बनेगा।,0,Affirmative,NLP Parsed (VERB),Locative/Existential,Root Word: कहा
+SUB_053,Subtitle,3 Idiots,And my fate was sealed मेरा बेटा इंजीनियर बनेगा।,0,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: बनेगा
+SUB_054,Subtitle,3 Idiots,राजू रस्तोगी... रणछोड़दास चाँछड़ रूम नम्बर बोलो।,0,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: बोलो
+SUB_055,Subtitle,3 Idiots,मैं मन मोहन।,0,Affirmative,NLP Parsed (NOUN),Equational/Nominal,Root Word: मन
+SUB_056,Subtitle,3 Idiots,ये सब इंजीनियर्स मुझे मिलीमीटर बुलाते हैं।,1,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: बुलाते
+SUB_057,Subtitle,3 Idiots,"दूध, अंडा-ब्रेड, कपड़े धोना, इस्तत्री करना, जर्नल भरना, असाइनमेंट कॉपी करना, कोई भी काम है, बोलो।",1,Affirmative,NLP Parsed (VERB),Locative/Existential,Root Word: है
+SUB_058,Subtitle,3 Idiots,फिक्स्ड रेट है।,1,Affirmative,NLP Parsed (NOUN),Equational/Nominal,Root Word: रेट
+SUB_059,Subtitle,3 Idiots,"अरे एक मिनट, एक मिनट --- एक मिनट इसको पकड़।",0,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: पक
+SUB_060,Subtitle,3 Idiots,ये किलोबाइट है।,1,Affirmative,NLP Parsed (NOUN),Equational/Nominal,Root Word: किलोबाइट
+SUB_061,Subtitle,3 Idiots,"ये मेगाबाइट और ये इनकी माँ, गीगाबाइट।",0,Affirmative,NLP Parsed (NOUN),Equational/Nominal,Root Word: मेगाबाइट
+SUB_062,Subtitle,3 Idiots,"ले लो, फोटो ले लो।",0,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: ले
+SUB_063,Subtitle,3 Idiots,ये फैमिली बाइट नहीं करती।,0,Negative,NLP Parsed (VERB),Equational/Nominal,Root Word: करती
+SUB_064,Subtitle,3 Idiots,"ए, चल निकल यहाँ से।",0,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: निकल
+SUB_065,Subtitle,3 Idiots,चार रुपये दो।,0,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: दो
+SUB_066,Subtitle,3 Idiots,दो रुपया पर बैग।,0,Affirmative,NLP Parsed (NOUN),Locative/Existential,Root Word: बैग।
+SUB_067,Subtitle,3 Idiots,चेंज रख ले।,0,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: रख
+SUB_068,Subtitle,3 Idiots,तुमने अपने को टिप दिया तो आपुन भी तुमको एक टिप देगा।,0,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: देगा
+SUB_069,Subtitle,3 Idiots,आज रात को अंडरवियर बिना होल वाले पहनना।,0,Negative,NLP Parsed (VERB),Adjectival,Root Word: पहनना
+SUB_070,Subtitle,3 Idiots,"जहाँपनाह, तुस्सी ग्रेट हो।",1,Affirmative,NLP Parsed (VERB),Adjectival,Root Word: हो
+SUB_071,Subtitle,3 Idiots,तोहफा कबूल करो।,0,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: कर
+SUB_072,Subtitle,3 Idiots,"आह, ये तो ही-मैन है।",1,Affirmative,NLP Parsed (PRON),Equational/Nominal,Root Word: ये
+SUB_073,Subtitle,3 Idiots,"अरे-अरे, नन्हा सा, प्यारा सा।",0,Affirmative,NLP Parsed (ADJ),Adjectival,Root Word: प्यारा
+SUB_074,Subtitle,3 Idiots,हो हो हो चिकना चिकना चिकना।,1,Affirmative,NLP Parsed (VERB),Adjectival,Root Word: हो
+SUB_075,Subtitle,3 Idiots,स्पाइडरमैन बैटमैन नया तोहफा।,0,Affirmative,NLP Parsed (NOUN),Equational/Nominal,Root Word: तोहफा।
+SUB_076,Subtitle,3 Idiots,पैंट उतारिए और ठप्पा लगा लो।,0,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: उतारिए
+SUB_077,Subtitle,3 Idiots,नाम क्या है तेरा?,1,Affirmative,NLP Parsed (PRON),Equational/Nominal,Root Word: क्या
+SUB_078,Subtitle,3 Idiots,"'रणछोड़दास शामलदास चाँछड़' ओए, सुना भाइयों रट्टा मार लो।",0,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: मार
+SUB_079,Subtitle,3 Idiots,चलो -- पैंट उतार!,0,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: चलो
+SUB_080,Subtitle,3 Idiots,"अच्छा, तो तू ऐसे नहीं सुनेगा?",0,Negative,NLP Parsed (VERB),Adjectival,Root Word: सुनेगा
+SUB_081,Subtitle,3 Idiots,गीली पैंट नहीं पहनते बच्चू।,0,Negative,NLP Parsed (VERB),Adjectival,Root Word: पहनते
+SUB_082,Subtitle,3 Idiots,चल चल चल--- आल इज़ वेल... आल इज़ वेल।,0,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: चल
+SUB_083,Subtitle,3 Idiots,आल इज़ वेल... आल इज़ वेल।,0,Affirmative,NLP Parsed (PROPN),Equational/Nominal,Root Word: वेल।
+SUB_084,Subtitle,3 Idiots,ये क्या बोल रहा है?,1,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: बोल
+SUB_085,Subtitle,3 Idiots,ये कोई समझाओ इसे!,0,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: समझाओ
+SUB_086,Subtitle,3 Idiots,ए जेम्स बांड -- समझा इसे।,0,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: समझा
+SUB_087,Subtitle,3 Idiots,अपनी पैंट उतार दो वरना ये तुम पर पेशाब करने वाले हैं।,1,Affirmative,NLP Parsed (VERB),Locative/Existential,Root Word: उतार
+SUB_088,Subtitle,3 Idiots,"ओए अंग्रेज, हिन्दी बोलने में शर्म आती है?",1,Affirmative,NLP Parsed (VERB),Locative/Existential,Root Word: आती
+SUB_089,Subtitle,3 Idiots,तो स्लोली समझा ना इसे।,0,Negative,NLP Parsed (VERB),Equational/Nominal,Root Word: समझा
+SUB_090,Subtitle,3 Idiots,जल्दी किसको है।,1,Affirmative,NLP Parsed (PRON),Equational/Nominal,Root Word: किसको
+SUB_091,Subtitle,3 Idiots,फिर से पहन लिया आपने?,0,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: पहन
+SUB_092,Subtitle,3 Idiots,वस्त्र उतारिये नहीं तो यह आप पर मूत्रविसर्जन करेगा।,0,Negative,NLP Parsed (VERB),Locative/Existential,Root Word: करेगा
+SUB_093,Subtitle,3 Idiots,पिस को मूत्रविसर्जन बोला?,0,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: बोला
+SUB_094,Subtitle,3 Idiots,अबे महापंडित आए हैं इंजीनियरिंग पढ़ने।,1,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: आए
+SUB_095,Subtitle,3 Idiots,ये बाहर आ साले --- ए बाहर आ।,0,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: आ।
+SUB_096,Subtitle,3 Idiots,"बाहर आ, नहीं तो --- नहीं तो मैं तेरे दरवाजे पे मूत्रविसर्जन करूँगा।",0,Negative,NLP Parsed (VERB),Locative/Existential,Root Word: आ
+SUB_097,Subtitle,3 Idiots,दस तक गिनूंगा।,0,Affirmative,NLP Parsed (VERB),Locative/Existential,Root Word: गिनूंगा
+SUB_098,Subtitle,3 Idiots,बाहर नहीं आया तो -- तो मैं -- तो पूरे सेमेस्टर में तेरे दरवाजे पे मूत्रविसर्जन करूँगा।,0,Negative,NLP Parsed (VERB),Locative/Existential,Root Word: आया
+SUB_099,Subtitle,3 Idiots,एक दो तीन!,0,Affirmative,NLP Parsed (NUM),Equational/Nominal,Root Word: तीन
+SUB_100,Subtitle,3 Idiots,साल्ट वाटर इज़ अ ग्रेट कंडक्टर ऑफ इलेक्ट्रिसिटी।,0,Affirmative,NLP Parsed (PROPN),Equational/Nominal,Root Word: इलेक्ट्रिसिटी
+SUB_101,Subtitle,3 Idiots,एठ्थ स्टैंडर्ड फिजिक्स।,0,Affirmative,NLP Parsed (PROPN),Equational/Nominal,Root Word: फिजिक्स
+SUB_102,Subtitle,3 Idiots,साले ने अप्लाई किया।,0,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: किया
+SUB_103,Subtitle,3 Idiots,अरे वायरस आ रहा है अंडे -- लेके।,1,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: आ
+SUB_104,Subtitle,3 Idiots,"फर्स्ट ईयर को नीचे बुलाया है --- जल्दी आओ, जल्दी आओ।",1,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: बुलाया
+SUB_105,Subtitle,3 Idiots,ये क्या है?,1,Affirmative,NLP Parsed (PRON),Equational/Nominal,Root Word: क्या
+SUB_106,Subtitle,3 Idiots,सर कोयल बर्ड का नेस्ट।,0,Affirmative,NLP Parsed (NOUN),Equational/Nominal,Root Word: नेस्ट।
+SUB_107,Subtitle,3 Idiots,कोयल अपना घोंसला कभी नहीं बनाती।,0,Negative,NLP Parsed (VERB),Equational/Nominal,Root Word: बनाती
+SUB_108,Subtitle,3 Idiots,वो अपने अंडे दूसरों के घोंसले में रखती है।,1,Affirmative,NLP Parsed (VERB),Locative/Existential,Root Word: रखती
+SUB_109,Subtitle,3 Idiots,और जब उसके बच्चे इस दुनिया में आते हैं तो सबसे पहले क्या करते हैं?,1,Affirmative,NLP Parsed (VERB),Locative/Existential,Root Word: करते
+SUB_110,Subtitle,3 Idiots,वो बच्चे दूसरे अंडों को धक्का मार के घोंसले से गिरा देते हैं।,1,Affirmative,NLP Parsed (VERB),Adjectival,Root Word: गिरा
+SUB_111,Subtitle,3 Idiots,"Competition over Their life begins with murder.
+That's nature Compete or die You also are like the koel birds And these are the eggs
+you smashed to get into ICE डोंट फॉरगेट कि हर साल आईसीई में चार लाख एप्लीकेशन आती हैं और उनमें से सिर्फ दो सौ सिलेक्ट होती हैं।",1,Affirmative,NLP Parsed (VERB),Locative/Existential,Root Word: आती
+SUB_112,Subtitle,3 Idiots,और ये ---फिनिश्ड।,0,Affirmative,NLP Parsed (PRON),Equational/Nominal,Root Word: ये
+SUB_113,Subtitle,3 Idiots,रिमेम्बर लाइफ इज़ अ रेस।,0,Affirmative,NLP Parsed (PROPN),Equational/Nominal,Root Word: रेस।
+SUB_114,Subtitle,3 Idiots,अगर तेज नहीं भागोगे तो कोई तुम्हें कुचल के आगे निकल जायेगा।,0,Negative,NLP Parsed (VERB),Adjectival,Root Word: निकल
+SUB_115,Subtitle,3 Idiots,लेट मी टेल यू अ वेरी इंटरेस्टिंग स्टोरी।,0,Affirmative,NLP Parsed (PROPN),Equational/Nominal,Root Word: स्टोरी
+SUB_116,Subtitle,3 Idiots,ये एस्ट्रोनॉट पेन है।,1,Affirmative,NLP Parsed (NOUN),Locative/Existential,Root Word: पेन
+SUB_117,Subtitle,3 Idiots,"स्पेस में फाउंटेन पेन, बॉलपेन कुछ नहीं चलता।",0,Negative,NLP Parsed (VERB),Locative/Existential,Root Word: चलता
+SUB_118,Subtitle,3 Idiots,"तो लाखों डॉलर खर्च करने के बाद, साइंटिस्ट ने ऐसा पेन इजाद किया जिससे कोई भी एंगल, कोई भी टेम्परेचर, जीरो ग्रेविटी में, हम लिख सकते हैं।",1,Affirmative,NLP Parsed (VERB),Locative/Existential,Root Word: किया
+SUB_119,Subtitle,3 Idiots,"उन्होंने कहा, ""वीरू सहस्रबुद्धे""।",0,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: कहा
+SUB_120,Subtitle,3 Idiots,"मैंने कहा, ""जी सर""।",0,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: कहा
+SUB_121,Subtitle,3 Idiots,उन्होंने मुझे ये पेन दिखाया।,0,Affirmative,NLP Parsed (VERB),Locative/Existential,Root Word: दिखाया
+SUB_122,Subtitle,3 Idiots,"कहा, ""यह उत्कृष्टता का प्रतीक है।",1,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: कहा
+SUB_123,Subtitle,3 Idiots,मैं यह तुम्हें देता हूँ।,1,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: देता
+SUB_124,Subtitle,3 Idiots,"और जिस दिन तुम्हें तुम्हारे जैसा कोई एक्स्ट्राऑर्डिनरी स्टूडेंट मिले, तो यह पेन उसे पास ऑन कर देना।",0,Affirmative,NLP Parsed (VERB),Locative/Existential,Root Word: कर
+SUB_125,Subtitle,3 Idiots,""" बत्तीस साल से वीरू सहस्रबुद्धे उस स्टूडेंट का वेट कर रहा है।",1,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: कर
+SUB_126,Subtitle,3 Idiots,पर कोई लक नहीं।,0,Negative,NLP Parsed (NOUN),Locative/Existential,Root Word: लक
+SUB_127,Subtitle,3 Idiots,यहाँ कोई ऐसा है जो इस पेन को जीतने की कोशिश करेगा?,1,Affirmative,NLP Parsed (PRON),Locative/Existential,Root Word: ऐसा
+SUB_128,Subtitle,3 Idiots,हाथ नीचे कर लो।,0,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: कर
+SUB_129,Subtitle,3 Idiots,क्या मैं इसे नोटिस बोर्ड पर लगा दूँ?,0,Affirmative,NLP Parsed (VERB),Locative/Existential,Root Word: लगा
+SUB_130,Subtitle,3 Idiots,"सर, मेरा एक सवाल है सर।",1,Affirmative,NLP Parsed (NOUN),Equational/Nominal,Root Word: सवाल
+SUB_131,Subtitle,3 Idiots,"सर, स्पेस में फाउंटेन पेन, बॉलपेन चलता नहीं है, तो एस्ट्रोनॉट ने पेन्सिल का इस्तेमाल क्यों नहीं किया?",1,Negative,NLP Parsed (VERB),Locative/Existential,Root Word: चलता
+SUB_132,Subtitle,3 Idiots,लाखों डॉलर बच जाते सर।,0,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: बच
+SUB_133,Subtitle,3 Idiots,"साला रात को सीनियर्स की नुनु पे झटका देता है, दिन में डायरेक्टर को ऊँगली करता है।",1,Affirmative,NLP Parsed (VERB),Locative/Existential,Root Word: देता
+SUB_134,Subtitle,3 Idiots,यार तू तो वायरस का फुल एलपीडी कर दिया!,0,Affirmative,NLP Parsed (VERB),Adjectival,Root Word: कर
+SUB_135,Subtitle,3 Idiots,जहाँपनाह तुस्सी ग्रेट हो।,1,Affirmative,NLP Parsed (VERB),Adjectival,Root Word: हो
+SUB_136,Subtitle,3 Idiots,तोहफा कबूल करो।,0,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: कर
+SUB_137,Subtitle,3 Idiots,"अबे, भाग यहाँ से।",0,Affirmative,NLP Parsed (PRON),Locative/Existential,Root Word: यहाँ
+SUB_138,Subtitle,3 Idiots,स्कूल नहीं है तेरा?,1,Negative,NLP Parsed (NOUN),Equational/Nominal,Root Word: स्कूल
+SUB_139,Subtitle,3 Idiots,फीस कौन भरेगा --- तेरा बाप?,0,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: भरेगा
+SUB_140,Subtitle,3 Idiots,"साले, बाप पे जाता है, तेरी -- सुन, स्कूल के लिये फीस थोड़ी लगती है।",1,Affirmative,NLP Parsed (VERB),Locative/Existential,Root Word: लगती
+SUB_141,Subtitle,3 Idiots,यूनिफॉर्म लगता है।,1,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: लगता
+SUB_142,Subtitle,3 Idiots,"तुझे जो भी स्कूल पसंद है ना, उसका यूनिफॉर्म खरीद ले और चुपचाप जाके क्लास में बैठ जा।",1,Negative,NLP Parsed (VERB),Locative/Existential,Root Word: खरीद
+SUB_143,Subtitle,3 Idiots,"इतनी आबादी है, किसको क्या पता चलने वाला है?",1,Affirmative,NLP Parsed (NOUN),Equational/Nominal,Root Word: आबादी
+SUB_144,Subtitle,3 Idiots,मशीन क्या है?,1,Affirmative,NLP Parsed (PRON),Equational/Nominal,Root Word: क्या
+SUB_145,Subtitle,3 Idiots,आप मुस्कुरा क्यों रहे हैं?,1,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: मुस्कुरा
+SUB_146,Subtitle,3 Idiots,आज यहाँ हूँ तो बहुत ख़ुशी हो रही है।,1,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: हो
+SUB_147,Subtitle,3 Idiots,इतनी ख़ुशी की जरूरत नहीं है।,1,Negative,NLP Parsed (NOUN),Equational/Nominal,Root Word: जरूरत
+SUB_148,Subtitle,3 Idiots,मशीन को डिफाइन करो।,0,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: कर
+SUB_149,Subtitle,3 Idiots,"सर, मशीन वो हर चीज़ है जो इंसान का काम आसान करे।",1,Affirmative,NLP Parsed (NOUN),Equational/Nominal,Root Word: चीज़
+SUB_150,Subtitle,3 Idiots,क्या आप थोड़ा विस्तार से बतायेंगे?,0,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: बतायेंगे
+SUB_151,Subtitle,3 Idiots,"सर, जो भी काम को आसान बनाए, या वक्त बचाए, वो मशीन है।",1,Affirmative,NLP Parsed (NOUN),Equational/Nominal,Root Word: मशीन
+SUB_152,Subtitle,3 Idiots,"आज गर्मी है, बटन दबाइए, हवा का झोंका पाइए।",1,Affirmative,NLP Parsed (NOUN),Equational/Nominal,Root Word: गर्मी
+SUB_153,Subtitle,3 Idiots,पंख... एक मशीन!,0,Affirmative,NLP Parsed (NOUN),Equational/Nominal,Root Word: मशीन
+SUB_154,Subtitle,3 Idiots,मीलों दूर दोस्त से बात कीजिए।,0,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: कीजिए
+SUB_155,Subtitle,3 Idiots,टेलीफोन... एक मशीन!,0,Affirmative,NLP Parsed (NOUN),Equational/Nominal,Root Word: मशीन
+SUB_156,Subtitle,3 Idiots,सेकंडों में लाखों की गणना करें।,0,Affirmative,NLP Parsed (VERB),Locative/Existential,Root Word: करें
+SUB_157,Subtitle,3 Idiots,कैलकुलेटर... एक मशीन!,0,Affirmative,NLP Parsed (NOUN),Equational/Nominal,Root Word: मशीन
+SUB_158,Subtitle,3 Idiots,पेन की निब से लेकर पैंट की ज़िप तक - सब मशीनें।,0,Affirmative,NLP Parsed (NOUN),Locative/Existential,Root Word: मशीनें
+SUB_159,Subtitle,3 Idiots,एक सेकंड में ऊपर और नीचे।,0,Affirmative,NLP Parsed (ADV),Locative/Existential,Root Word: नीचे
+SUB_160,Subtitle,3 Idiots,"अप, डाउन, अप, डाउन... डेफिनिशन क्या है?",1,Affirmative,NLP Parsed (PRON),Equational/Nominal,Root Word: क्या
+SUB_161,Subtitle,3 Idiots,सर मैंने अभी आपको दी।,0,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: दी
+SUB_162,Subtitle,3 Idiots,तुम एग्जाम में यह लिखोगे?,0,Affirmative,NLP Parsed (VERB),Locative/Existential,Root Word: लिखोगे
+SUB_163,Subtitle,3 Idiots,"यह एक मशीन है - अप, डाउन... इडियट!",1,Affirmative,NLP Parsed (NOUN),Equational/Nominal,Root Word: मशीन
+SUB_164,Subtitle,3 Idiots,"सर, मशीन्स आर एनी कॉम्बिनेशन ऑफ बॉडीज़ सो कनेक्टेड दैट देयर रिलेटिव मोशन्स आर कन्सट्रेंड एंड बाइ विच मीन्स, फाॅर्स एंड मोशन मे बी ट्रांसमिटेड एंड मॉडिफाइड एज अ स्क्रू एंड इट्स नट, और अ लीवर अरेंज्ड टू टर्न अबाउट अ फलक्रम और अ पुली अबाउट इट्स पिवट, एक्सट्रा।",0,Affirmative,NLP Parsed (PROPN),Equational/Nominal,Root Word: मीन्स
+SUB_165,Subtitle,3 Idiots,"स्पेशली, अ कंस्ट्रक्शन, मोर और लेस कॉम्प्लेक्स कंसिस्टिंग ऑफ अ कॉम्बिनेशन ऑफ मूविंग पार्ट्स, और सिंपल मैकेनिकल एलिमेंट्स, एज व्हील्स, लीवर्स, कैम्स एक्सट्रा।",0,Affirmative,NLP Parsed (PROPN),Locative/Existential,Root Word: स्पेशली
+SUB_166,Subtitle,3 Idiots,"लेकिन सर, मैंने भी तो वही कहा, आसान भाषा में।",0,Affirmative,NLP Parsed (VERB),Locative/Existential,Root Word: कहा
+SUB_167,Subtitle,3 Idiots,"अगर आपको आसान भाषा पसंद है, तो आर्ट्स या कॉमर्स कॉलेज जॉइन कर लें।",1,Affirmative,NLP Parsed (VERB),Adjectival,Root Word: कर
+SUB_168,Subtitle,3 Idiots,"लेकिन सर, मतलब भी तो समझना चाहिए ना... ऐसी किताबी डेफिनेशन रटने का क्या फायदा?",0,Affirmative,NLP Parsed (NOUN),Equational/Nominal,Root Word: फायदा
+SUB_169,Subtitle,3 Idiots,आप किताब से ज्यादा जानते हैं?,1,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: जानते
+SUB_170,Subtitle,3 Idiots,"लेकिन सर, और भी तो किताबें हैं जिनमें -- क्यों?",1,Affirmative,NLP Parsed (NOUN),Locative/Existential,Root Word: किताबें
+SUB_171,Subtitle,3 Idiots,आसान भाषा में --- बाहर जाइये!,0,Affirmative,NLP Parsed (VERB),Locative/Existential,Root Word: जाइये
+SUB_172,Subtitle,3 Idiots,"इन्स्ट्रुमेन्ट्स दैट रिकॉर्ड, एनालाइज, समराइज, ऑर्गेनाइज, डिबेट एंड एक्सप्लेन इन्फॉर्मेशन; दैट आर इलस्ट्रेटेड, नॉन-इलस्ट्रेटेड, हार्ड-बाउंड, पेपरबैक, जैकेटेड, नॉन-जैकेटेड; विथ फोरवर्ड, इंट्रोडक्शन, टेबल-ऑफ़-कंटेंट्स, इंडेक्स; दैट आर इंटेंडेड फॉर द एनलाइटनमेंट, अंडरस्टैंडिंग, एनरिचमेंट, एनहांसमेंट एंड एजुकेशन ऑफ़ द ह्यूमन ब्रेन थ्रू द सेंसरी रूट ऑफ़ विज़न।",0,Affirmative,NLP Parsed (PROPN),Locative/Existential,Root Word: रिकॉर्ड
+SUB_173,Subtitle,3 Idiots,अरे कहना क्या चाहते हो?,1,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: चाहते
+SUB_174,Subtitle,3 Idiots,लेकिन आपको सीधा-सीधा पसंद नहीं आया।,0,Negative,NLP Parsed (VERB),Adjectival,Root Word: आया
+SUB_175,Subtitle,3 Idiots,"एक्सक्यूज मी, सर।",0,Affirmative,NLP Parsed (PROPN),Equational/Nominal,Root Word: सर।
+SUB_176,Subtitle,3 Idiots,मिस्टर जॉय लोबो!,0,Affirmative,NLP Parsed (PROPN),Equational/Nominal,Root Word: लोबो
+SUB_177,Subtitle,3 Idiots,"सर, वो कॉनवोकेशन के डेट्स अगर पता चल जाते तो -- क्यों?",0,Affirmative,NLP Parsed (SCONJ),Equational/Nominal,Root Word: तो
+SUB_178,Subtitle,3 Idiots,अपने गाँव से मैं पहला इंजीनियर हूँ सर।,1,Affirmative,NLP Parsed (NOUN),Equational/Nominal,Root Word: इंजीनियर
+SUB_179,Subtitle,3 Idiots,सारे रिलेटिव्स कॉनवोकेशन पे आना चाहते हैं।,1,Affirmative,NLP Parsed (VERB),Locative/Existential,Root Word: चाहते
+SUB_180,Subtitle,3 Idiots,"इन दैट केस, आपके डैड को फोन लगाओ प्लीज।",0,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: लगाओ
+SUB_181,Subtitle,3 Idiots,डोंट वेस्ट माई टाइम।,0,Affirmative,NLP Parsed (PROPN),Equational/Nominal,Root Word: टाइम।
+SUB_182,Subtitle,3 Idiots,"डैड, डायरेक्टर साहब आपसे बात करेंगे।",0,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: करेंगे
+SUB_183,Subtitle,3 Idiots,उसने सारी डेडलाइन्स का उल्लंघन किया है।,1,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: किया
+SUB_184,Subtitle,3 Idiots,"मिस्टर लोबो, यह एक अव्यावहारिक प्रोजेक्ट है।",1,Affirmative,NLP Parsed (NOUN),Equational/Nominal,Root Word: प्रोजेक्ट
+SUB_185,Subtitle,3 Idiots,वो कोई बेकार का हेलिकॉप्टर बना रहा है।,1,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: बना
+SUB_186,Subtitle,3 Idiots,मैं सुझाव देता हूँ कि आप अपनी टिकट बुक न करें।,1,Negative,NLP Parsed (VERB),Equational/Nominal,Root Word: देता
+SUB_187,Subtitle,3 Idiots,आई एम सो सॉरी।,0,Affirmative,NLP Parsed (PROPN),Equational/Nominal,Root Word: सॉरी।
+SUB_188,Subtitle,3 Idiots,"सर, मैं बहुत करीब हूँ सर।",1,Affirmative,NLP Parsed (ADV),Equational/Nominal,Root Word: करीब
+SUB_189,Subtitle,3 Idiots,क्या आपका प्रोजेक्ट तैयार है?,1,Affirmative,NLP Parsed (ADJ),Adjectival,Root Word: तैयार
+SUB_190,Subtitle,3 Idiots,"सबमिट कर लो, तो हम कंसीडर करेंगे।",0,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: करेंगे
+SUB_191,Subtitle,3 Idiots,सर मुझे थोड़ा सा एक्सटेंशन दे दीजिये।,0,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: दे
+SUB_192,Subtitle,3 Idiots,सर डैड के स्ट्रोक के बाद मैं दो महीने कॉन्सेंट्रेट नहीं कर पाया सर।,0,Negative,NLP Parsed (VERB),Equational/Nominal,Root Word: कर
+SUB_193,Subtitle,3 Idiots,तो पढ़ाई क्यों छोड़ दी?,0,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: छोड़
+SUB_194,Subtitle,3 Idiots,सर आई एम वेरी क्लोज।,0,Affirmative,NLP Parsed (PROPN),Equational/Nominal,Root Word: क्लोज।
+SUB_195,Subtitle,3 Idiots,सर आप एक दफा देख तो लीजिये प्लीज।,0,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: देख
+SUB_196,Subtitle,3 Idiots,"मैं आपको सिम्पैथी दे सकता हूँ, एक्सटेंशन नहीं, आई एम सॉरी।",1,Negative,NLP Parsed (VERB),Equational/Nominal,Root Word: दे
+SUB_197,Subtitle,3 Idiots,"सर... मैं बहुत करीब हूँ... सारी उम्र हम मर मर के जी लिये एक पल तो अब हमें जीने दो जीने दो सारी उम्र हम मर मर के जी लिये एक पल तो अब हमें जीने दो जीने दो गिव मी सम सनशाइन, गिव मी सम रेन गिव मी अनदर चांस, आई वाना ग्रो अप वन्स अगेन गिव मी सम सनशाइन, गिव मी सम रेन गिव मी अनदर चांस, आई वाना ग्रो अप वन्स अगेन साले ने क्या डिजाइन बनाया है यार।",1,Affirmative,NLP Parsed (VERB),Locative/Existential,Root Word: बनाया
+SUB_198,Subtitle,3 Idiots,हेलिकॉप्टर के ऊपर वायरलेस कैमरा।,0,Affirmative,NLP Parsed (NOUN),Locative/Existential,Root Word: कैमरा।
+SUB_199,Subtitle,3 Idiots,"ट्रैफिक अपडेट, सिक्योरिटी, सबके काम आ सकता है।",1,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: आ
+SUB_200,Subtitle,3 Idiots,उड़ेगा ही नहीं।,0,Negative,NLP Parsed (VERB),Equational/Nominal,Root Word: उड़ेगा
+SUB_201,Subtitle,3 Idiots,उड़ेगा कैसे नहीं।,0,Negative,NLP Parsed (VERB),Equational/Nominal,Root Word: उड़ेगा
+SUB_202,Subtitle,3 Idiots,"ए, जॉय को मत बोलना।",0,Negative,NLP Parsed (VERB),Equational/Nominal,Root Word: बोलना।
+SUB_203,Subtitle,3 Idiots,उसको सरप्राइज देंगे।,0,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: देंगे
+SUB_204,Subtitle,3 Idiots,"उसकी खिड़की के बाहर उड़ायेंगे, उसका रिएक्शन रिकॉर्ड करेंगे।",0,Affirmative,NLP Parsed (VERB),Locative/Existential,Root Word: उड़ायेंगे
+SUB_205,Subtitle,3 Idiots,अरे हम उसका प्रोजेक्ट करेंगे तो हमारा कौन करेगा?,0,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: करेगा
+SUB_206,Subtitle,3 Idiots,"टेस्ट्स, वायवाज, क्वीज़ेस मिला के हर सेमेस्टर में 42 एग्जाम हैं।",1,Affirmative,NLP Parsed (NOUN),Locative/Existential,Root Word: एग्जाम
+SUB_207,Subtitle,3 Idiots,अरे तू डरता बहुत है यार।,1,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: डरता
+SUB_208,Subtitle,3 Idiots,"ये हाथ ले, अपने दिल पे डाल, और बोल -- आल इज़ वेल, आल इज़ वेल।",0,Affirmative,NLP Parsed (VERB),Locative/Existential,Root Word: ले
+SUB_209,Subtitle,3 Idiots,आल इज़ वेल?,0,Affirmative,NLP Parsed (PROPN),Equational/Nominal,Root Word: वेल
+SUB_210,Subtitle,3 Idiots,अबे ये कुछ नया लाया है हमारे बाबा रणछोड़दास।,1,Affirmative,NLP Parsed (VERB),Adjectival,Root Word: लाया
+SUB_211,Subtitle,3 Idiots,उस दिन एक बात समझ में आई।,0,Affirmative,NLP Parsed (VERB),Locative/Existential,Root Word: आई
+SUB_212,Subtitle,3 Idiots,"ये जो अपना दिल है ना, बड़ा डरपोक है यार।",1,Negative,NLP Parsed (NOUN),Equational/Nominal,Root Word: दिल
+SUB_213,Subtitle,3 Idiots,उसको बेवकूफ बना के रखो।,0,Affirmative,NLP Parsed (VERB),Adjectival,Root Word: रखो।
+SUB_214,Subtitle,3 Idiots,"लाइफ में कितनी भी बड़ी प्रॉब्लम हो ना, उसको बोलो कोई बात नहीं चाचू -- सब ठीक ठाक है।",1,Negative,NLP Parsed (ADJ),Locative/Existential,Root Word: ठाक
+SUB_215,Subtitle,3 Idiots,और उससे प्रॉब्लम सॉल्व हो जायेगी?,1,Affirmative,NLP Parsed (VERB),Adjectival,Root Word: हो
+SUB_216,Subtitle,3 Idiots,लेकिन उसको झेलने की हिम्मत आ जाती है।,1,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: आ
+SUB_217,Subtitle,3 Idiots,"ये मंत्र याद कर लो, यहाँ पर बहुत जरूरत पड़ने वाली है।",1,Affirmative,NLP Parsed (VERB),Locative/Existential,Root Word: पड़ने
+SUB_218,Subtitle,3 Idiots,यस --- आल इज़ वेल अरे मुर्गी आल इज़ वेल अरे बकरा आल इज़ वेल अरे भैया आल इज़ वेल ये जॉय की खिड़की पर ले चल।,0,Affirmative,NLP Parsed (VERB),Locative/Existential,Root Word: ले
+SUB_219,Subtitle,3 Idiots,ए साइलेंसर को देख!,0,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: देख
+SUB_220,Subtitle,3 Idiots,रंगा का नंगा!,0,Affirmative,NLP Parsed (ADJ),Adjectival,Root Word: नंगा
+SUB_221,Subtitle,3 Idiots,"ओए जॉय, बाहर आ यार।",0,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: आ
+SUB_222,Subtitle,3 Idiots,जॉय --- जॉय खिड़की पर आ।,0,Affirmative,NLP Parsed (VERB),Locative/Existential,Root Word: आ।
+SUB_223,Subtitle,3 Idiots,"ओये जॉय, बाहर देख।",0,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: देख।
+SUB_224,Subtitle,3 Idiots,जॉय --- जॉय -- गुड न्यूज़ है सर।,1,Affirmative,NLP Parsed (PROPN),Equational/Nominal,Root Word: न्यूज़
+SUB_225,Subtitle,3 Idiots,"ना पुलिस को पता चला, ना जॉय के बाप को।",0,Negative,NLP Parsed (VERB),Equational/Nominal,Root Word: चला
+SUB_226,Subtitle,3 Idiots,सब सोच रहे हैं सुसाइड है सर।,1,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: सोच
+SUB_227,Subtitle,3 Idiots,"पोस्टमार्टम रिपोर्ट में आया -- मौत का कारण: इंटेंस प्रेशर ऑन विंडपाइप, रिजल्टिंग इन चोकिंग।",0,Affirmative,NLP Parsed (VERB),Locative/Existential,Root Word: आया
+SUB_228,Subtitle,3 Idiots,"और पिछले चार साल से जो यहाँ प्रेशर पड़ रहा है, उसका क्या?",1,Affirmative,NLP Parsed (PRON),Equational/Nominal,Root Word: क्या
+SUB_229,Subtitle,3 Idiots,वो तो रिपोर्ट में है ही नहीं सर।,1,Negative,NLP Parsed (NOUN),Locative/Existential,Root Word: रिपोर्ट
+SUB_230,Subtitle,3 Idiots,ये इंजीनियर भी बड़े चालाक हैं सर -- ऐसी कोई मशीन ही नहीं बनाई जो यहाँ का प्रेशर नाप सके।,1,Negative,NLP Parsed (ADJ),Adjectival,Root Word: चालाक
+SUB_231,Subtitle,3 Idiots,"बनाते तो पता चल जाता कि ये सुसाइड नहीं, मर्डर है सर।",1,Negative,NLP Parsed (VERB),Equational/Nominal,Root Word: चल
+SUB_232,Subtitle,3 Idiots,जॉय के सुसाइड के लिए तुम मुझे दोष दे रहे हो?,1,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: दे
+SUB_233,Subtitle,3 Idiots,एक स्टूडेंट प्रेशर नहीं ले पाता तो हम जिम्मेदार कैसे?,0,Negative,NLP Parsed (ADJ),Adjectival,Root Word: जिम्मेदार
+SUB_234,Subtitle,3 Idiots,"सर, मैं आपको दोष नहीं दे रहा हूँ सर।",1,Negative,NLP Parsed (VERB),Equational/Nominal,Root Word: दे
+SUB_235,Subtitle,3 Idiots,मैं एक्चुअली सिस्टम को दोष दे रहा हूँ।,1,Affirmative,NLP Parsed (VERB),Adjectival,Root Word: दे
+SUB_236,Subtitle,3 Idiots,सर मेरे पास कुछ स्टैटिस्टिक्स हैं सर।,1,Affirmative,NLP Parsed (NOUN),Equational/Nominal,Root Word: स्टैटिस्टिक्स
+SUB_237,Subtitle,3 Idiots,सुसाइड में इंडिया नंबर 1 है सर।,1,Affirmative,NLP Parsed (PROPN),Locative/Existential,Root Word: 1
+SUB_238,Subtitle,3 Idiots,हर डेढ़ घंटे में कोई न कोई स्टूडेंट सुसाइड का अटेम्प्ट करता है।,1,Negative,NLP Parsed (VERB),Locative/Existential,Root Word: करता
+SUB_239,Subtitle,3 Idiots,यहाँ पे स्टूडेंट बीमारी से कम और सुसाइड से ज्यादा मरते हैं।,1,Affirmative,NLP Parsed (VERB),Locative/Existential,Root Word: मरते
+SUB_240,Subtitle,3 Idiots,कुछ तो गलत हो रहा है ना सर।,1,Negative,NLP Parsed (VERB),Adjectival,Root Word: हो
+SUB_241,Subtitle,3 Idiots,मैं दूसरे कॉलेज के बारे में नहीं बता सकता बट दिस इज़ वन ऑफ़ द फाइनेस्ट कॉलेजेस इन द कंट्री।,0,Negative,NLP Parsed (VERB),Locative/Existential,Root Word: बता
+SUB_242,Subtitle,3 Idiots,बत्तीस साल से मैं ये कॉलेज चला रहा हूँ और अट्ठाईसवीं पोजीशन से नंबर 1 तक लेकर आया हूँ मैं।,1,Affirmative,NLP Parsed (VERB),Locative/Existential,Root Word: चला
+SUB_243,Subtitle,3 Idiots,"सर वाट नंबर 1, वाट नंबर 1? सर, यहाँ पे कोई नए आइडियाज की बात ही नहीं करता सर, इन्वेंशन की बात ही नहीं करता।",0,Negative,NLP Parsed (VERB),Locative/Existential,Root Word: करता
+SUB_244,Subtitle,3 Idiots,"बात करते हैं तो सिर्फ मार्क्स की -- या फिर, यूएसए में नौकरी की।",1,Affirmative,NLP Parsed (VERB),Locative/Existential,Root Word: करते
+SUB_245,Subtitle,3 Idiots,"यहाँ पे ज्ञान नहीं मिल रहा है सर, यहाँ पे सिर्फ ये सिखाया जा रहा है कि मार्क्स कैसे लाते हैं।",1,Negative,NLP Parsed (VERB),Locative/Existential,Root Word: मिल
+SUB_246,Subtitle,3 Idiots,"नो सर, आई -- सर, सर माय पेपर... वैद्यनाथन, प्लीज सिट डाउन।",0,Affirmative,NLP Parsed (PROPN),Locative/Existential,Root Word: सर
+SUB_247,Subtitle,3 Idiots,"आज हमारे बीच एक ऐसे लीडर हैं, जिनका मानना है कि वो हमारे हाईली क्वालिफाइड टीचर्स से बेहतर पढ़ा सकते हैं।",1,Affirmative,NLP Parsed (NOUN),Equational/Nominal,Root Word: लीडर
+SUB_248,Subtitle,3 Idiots,हमारे पास पूरा दिन नहीं है।,1,Negative,NLP Parsed (NOUN),Equational/Nominal,Root Word: दिन
+SUB_249,Subtitle,3 Idiots,आपके पास तीस सेकंड हैं।,1,Affirmative,NLP Parsed (NOUN),Locative/Existential,Root Word: सेकंड
+SUB_250,Subtitle,3 Idiots,आप चाहें तो किताब का इस्तेमाल कर सकते हैं।,1,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: कर
+SUB_251,Subtitle,3 Idiots,जिसे जवाब मिलेगा वो हाथ ऊपर करेगा।,0,Affirmative,NLP Parsed (VERB),Locative/Existential,Root Word: करेगा
+SUB_252,Subtitle,3 Idiots,देखते हैं कौन फर्स्ट आता है और कौन लास्ट।,1,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: देखते
+SUB_253,Subtitle,3 Idiots,योर टाइम स्टार्ट्स... नाउ।,0,Affirmative,NLP Parsed (PROPN),Equational/Nominal,Root Word: स्टार्ट्स
+SUB_254,Subtitle,3 Idiots,"टाइम अप सर, टाइम अप।",0,Affirmative,NLP Parsed (NOUN),Equational/Nominal,Root Word: अप।
+SUB_255,Subtitle,3 Idiots,किसी को जवाब नहीं मिला?,0,Negative,NLP Parsed (VERB),Equational/Nominal,Root Word: मिला
+SUB_256,Subtitle,3 Idiots,अब अपनी लाइफ का एक मिनट रिवाइंड करो और सोचो।,0,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: करो
+SUB_257,Subtitle,3 Idiots,सब रेस में लग गए।,0,Affirmative,NLP Parsed (VERB),Locative/Existential,Root Word: लग
+SUB_258,Subtitle,3 Idiots,"ऐसे पढ़ के फर्स्ट आ भी गए, तो क्या फायदा।",0,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: आ
+SUB_259,Subtitle,3 Idiots,क्या आपका ज्ञान बढ़ेगा?,0,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: बढ़ेगा
+SUB_260,Subtitle,3 Idiots,"नहीं, सिर्फ प्रेशर बढ़ेगा।",0,Negative,NLP Parsed (VERB),Equational/Nominal,Root Word: बढ़ेगा
+SUB_261,Subtitle,3 Idiots,"ये कॉलेज है, प्रेशर कुकर नहीं।",1,Negative,NLP Parsed (NOUN),Equational/Nominal,Root Word: कॉलेज
+SUB_262,Subtitle,3 Idiots,"हंटर के डर से तो शेर भी कुर्सी पे बैठना सीख जाता है, पर उसे 'वेल ट्रेंड' कहते हैं, 'वेल एजुकेटेड' नहीं।",1,Negative,NLP Parsed (VERB),Locative/Existential,Root Word: सीख
+SUB_263,Subtitle,3 Idiots,दिस इज़ नॉट अ फिलॉसफी क्लास।,0,Affirmative,NLP Parsed (PROPN),Equational/Nominal,Root Word: क्लास।
+SUB_264,Subtitle,3 Idiots,बस उन दो शब्दों का मतलब समझाओ।,0,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: समझाओ।
+SUB_265,Subtitle,3 Idiots,"सर, ये शब्द एक्जिस्ट ही नहीं करते।",0,Negative,NLP Parsed (VERB),Equational/Nominal,Root Word: करते
+SUB_266,Subtitle,3 Idiots,ये मेरे दोस्तों के नाम हैं।,1,Affirmative,NLP Parsed (NOUN),Equational/Nominal,Root Word: नाम
+SUB_267,Subtitle,3 Idiots,फरहान और राजू।,0,Affirmative,NLP Parsed (PROPN),Equational/Nominal,Root Word: फरहान
+SUB_268,Subtitle,3 Idiots,उसमें तो आप एक्सपर्ट हैं।,1,Affirmative,NLP Parsed (NOUN),Locative/Existential,Root Word: एक्सपर्ट
+SUB_269,Subtitle,3 Idiots,और मुझे यकीन है कि आप एक दिन जरूर सीखेंगे क्योंकि आपकी तरह मैं अपने कमजोर स्टूडेंट्स का हाथ कभी नहीं छोड़ता।,1,Negative,NLP Parsed (NOUN),Equational/Nominal,Root Word: यकीन
+SUB_270,Subtitle,3 Idiots,"Quiet, I said खेद के साथ मैं आपको सूचित करना चाहता हूँ
+कि आपका बेटा --- फरहान...
+राजू... गलत संगत में हैं।",1,Affirmative,NLP Parsed (VERB),Locative/Existential,Root Word: चाहता
+SUB_271,Subtitle,3 Idiots,"सही कदम नहीं उठाए गए तो
+उसका फ्यूचर बर्बाद हो सकता है।",1,Negative,NLP Parsed (VERB),Adjectival,Root Word: हो
+SUB_272,Subtitle,3 Idiots,"वायरस के लेटर्स हमारे घर पे
+एटम बम की तरह गिरे।",0,Affirmative,NLP Parsed (VERB),Locative/Existential,Root Word: गिरे
+SUB_273,Subtitle,3 Idiots,"और वो हमने अपने नहीं, फरहान के कमरे में लगाया,
+ताकि वो सुकून से पढ़ सके।",0,Negative,NLP Parsed (VERB),Locative/Existential,Root Word: लगाया
+SUB_274,Subtitle,3 Idiots,कार नहीं खरीदी मैंने।,0,Negative,NLP Parsed (VERB),Equational/Nominal,Root Word: खरीदी
+SUB_275,Subtitle,3 Idiots,आज तक स्कूटर चलाता हूँ।,1,Affirmative,NLP Parsed (VERB),Locative/Existential,Root Word: चलाता
+SUB_276,Subtitle,3 Idiots,सारा पैसा हमने फरहान की पढ़ाई में लगा दिया।,0,Affirmative,NLP Parsed (VERB),Locative/Existential,Root Word: लगा
+SUB_277,Subtitle,3 Idiots,अपना फ्यूचर हमने फरहान के फ्यूचर के लिए कुर्बान कर दिया।,0,Affirmative,NLP Parsed (VERB),Adjectival,Root Word: कर
+SUB_278,Subtitle,3 Idiots,समझे कि नहीं आप?,0,Negative,NLP Parsed (VERB),Equational/Nominal,Root Word: समझे
+SUB_279,Subtitle,3 Idiots,"हे, ये फोटोज तूने लिए फरहान?",0,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: लिए
+SUB_280,Subtitle,3 Idiots,91%. सुना आपने?,0,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: सुना
+SUB_281,Subtitle,3 Idiots,सीधे 94% से 91%. आपको मजाक लग रहा है?,1,Affirmative,NLP Parsed (VERB),Adjectival,Root Word: लग
+SUB_282,Subtitle,3 Idiots,"नहीं, नहीं अंकल, सॉरी --- एक्चुअली मैं ये कह रहा हूँ
+कितने कमाल के फोटो खींचे हैं सर, उसने!",1,Negative,NLP Parsed (VERB),Equational/Nominal,Root Word: कह
+SUB_283,Subtitle,3 Idiots,इसको आप इंजीनियर क्यों बना रहे हैं?,1,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: बना
+SUB_284,Subtitle,3 Idiots,इसको तो वाइल्डलाइफ फोटोग्राफर बनना चाहिए।,0,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: बनना
+SUB_285,Subtitle,3 Idiots,"सुनिए --- हाथ जोड़ कर आपसे गुजारिश करता हूँ,
+मेरे बेटे का फ्यूचर बर्बाद मत कीजिए।",1,Negative,NLP Parsed (VERB),Adjectival,Root Word: करता
+SUB_286,Subtitle,3 Idiots,"अब्बा ने तो खाना दिया नहीं --- अब हम अपना भूखा पेट भरने... और डांट का कोटा पूरा करने, राजू के घर पहुंचे।",0,Negative,NLP Parsed (VERB),Locative/Existential,Root Word: पहुंचे
+SUB_287,Subtitle,3 Idiots,मारुति 800 माँगते हैं दहेज में।,1,Affirmative,NLP Parsed (VERB),Locative/Existential,Root Word: माँगते
+SUB_288,Subtitle,3 Idiots,भिंडी लीजिये ना।,0,Negative,NLP Parsed (VERB),Equational/Nominal,Root Word: लीजिये
+SUB_289,Subtitle,3 Idiots,लूट मची है सारे देश में!,1,Affirmative,NLP Parsed (VERB),Locative/Existential,Root Word: मची
+SUB_290,Subtitle,3 Idiots,माँ --- पनीर लेंगे?,0,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: लेंगे
+SUB_291,Subtitle,3 Idiots,"पनीर तो बेटा कुछ दिनों में इत्ती-इत्ती थैलियों में
+सुनार की दुकान में बिकेगा --- पनीर दूँ?",0,Affirmative,NLP Parsed (VERB),Locative/Existential,Root Word: बिकेगा
+SUB_292,Subtitle,3 Idiots,"माँ तू रहने दे ना अभी ठीक है भाई, चुप हो जाती हूँ ये अच्छा है --- बच्चों के लिये कमाओ,
+नौकरानी की तरह काम करो और उसके बाद मौन व्रत रखों।",1,Negative,NLP Parsed (ADJ),Adjectival,Root Word: अच्छा
+SUB_293,Subtitle,3 Idiots,"अरे घर की समस्या है तो बेटे को नहीं बताऊँगी
+तो और किसे बताऊँगी --- उसके दोस्तों को?",1,Negative,NLP Parsed (VERB),Equational/Nominal,Root Word: बताऊँगी
+SUB_294,Subtitle,3 Idiots,दोस्त को सँभालते की दोस्त की माँ के आँसू पोंछते।,0,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: पोंछते
+SUB_295,Subtitle,3 Idiots,"हमने सोचा हटो यार, मटर पनीर पे कंसन्ट्रेट करो।",0,Affirmative,NLP Parsed (VERB),Locative/Existential,Root Word: सोचा
+SUB_296,Subtitle,3 Idiots,इनकी एक्जिमा की क्रीम भी अब पचपन रुपये की आती है।,1,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: आती
+SUB_297,Subtitle,3 Idiots,और रोटी दूँ बेटा?,0,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: दूँ
+SUB_298,Subtitle,3 Idiots,नहीं नहीं आंटी।,0,Negative,NLP Parsed (NOUN),Equational/Nominal,Root Word: आंटी
+SUB_299,Subtitle,3 Idiots,भिंडी --- बारह रुपये की --- अरे कम से कम खाना ऑफर तो किया।,0,Affirmative,NLP Parsed (VERB),Adjectival,Root Word: किया
+SUB_300,Subtitle,3 Idiots,तेरे भुक्कड़ बाप जैसा नहीं।,0,Negative,NLP Parsed (NOUN),Locative/Existential,Root Word: बाप
+SUB_301,Subtitle,3 Idiots,"हाँ हाँ, तेरी माँ तो मदर टेरेसा हैं!",1,Affirmative,NLP Parsed (PROPN),Equational/Nominal,Root Word: टेरेसा
+SUB_302,Subtitle,3 Idiots,मेरी माँ को लेकर मजाक नहीं करने का!,0,Negative,NLP Parsed (VERB),Locative/Existential,Root Word: करने
+SUB_303,Subtitle,3 Idiots,छोड़ यार तुम लोग क्या झगड़ा कर रहे हो!,1,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: कर
+SUB_304,Subtitle,3 Idiots,भूख लगी है यार।,1,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: लगी
+SUB_305,Subtitle,3 Idiots,कहीं बाहर चलते हैं खाना खाने के लिए।,1,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: चलते
+SUB_306,Subtitle,3 Idiots,मंथ-एंड है यार।,1,Affirmative,NLP Parsed (ADJ),Adjectival,Root Word: मंथ-एंड
+SUB_307,Subtitle,3 Idiots,पैसा क्या इसकी मदर टेरेसा देगी?,0,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: देगी
+SUB_308,Subtitle,3 Idiots,"ओए, खाना खाने के लिए पैसे नहीं लगते,
+यूनिफॉर्म लगती है, यूनिफॉर्म।",1,Negative,NLP Parsed (VERB),Equational/Nominal,Root Word: लगती
+SUB_309,Subtitle,3 Idiots,वो देख... चल!,0,Affirmative,NLP Parsed (CCONJ),Equational/Nominal,Root Word: चल!
+SUB_310,Subtitle,3 Idiots,"चल - गुड इवनिंग, गुड इवनिंग।",0,Affirmative,NLP Parsed (NOUN),Equational/Nominal,Root Word: इवनिंग
+SUB_311,Subtitle,3 Idiots,तीन लार्ज वोदका।,0,Affirmative,NLP Parsed (NOUN),Equational/Nominal,Root Word: वोदका।
+SUB_312,Subtitle,3 Idiots,और स्टार्टर्स में क्या है?,1,Affirmative,NLP Parsed (PRON),Locative/Existential,Root Word: क्या
+SUB_313,Subtitle,3 Idiots,और ये छोड़ दे।,0,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: छोड़
+SUB_314,Subtitle,3 Idiots,"और म्यूजिक चेंज कर यार
+--- कुछ गज़ल वज़ल लगा।",0,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: लगा
+SUB_315,Subtitle,3 Idiots,"पिया, व्हाट द हेल!",0,Affirmative,NLP Parsed (PROPN),Equational/Nominal,Root Word: पिया
+SUB_316,Subtitle,3 Idiots,ये क्या पहना है?,1,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: पहना
+SUB_317,Subtitle,3 Idiots,ब्लडी एटीन्थ सेंचुरी की वॉच।,0,Affirmative,NLP Parsed (NOUN),Equational/Nominal,Root Word: वॉच।
+SUB_318,Subtitle,3 Idiots,"पिया, लोग क्या बोलेंगे, सुहास की फिआंसे को देखो... डॉक्टर बनने वाली है,
+पर दो सौ रुपये की घड़ी पहनती है।",1,Affirmative,NLP Parsed (VERB),Locative/Existential,Root Word: बनने
+SUB_319,Subtitle,3 Idiots,प्लीज टेक इट ऑफ़।,0,Affirmative,NLP Parsed (PROPN),Equational/Nominal,Root Word: फ़।
+SUB_320,Subtitle,3 Idiots,"हे आंटी, यू आर लुकिंग गुड।",0,Affirmative,NLP Parsed (NOUN),Equational/Nominal,Root Word: आंटी
+SUB_321,Subtitle,3 Idiots,"डोंट मिस माय सेट, डार्लिंग!",0,Affirmative,NLP Parsed (PROPN),Equational/Nominal,Root Word: सेट
+SUB_322,Subtitle,3 Idiots,मेंडले से हैं।,1,Affirmative,NLP Parsed (PROPN),Locative/Existential,Root Word: मेंडले
+SUB_323,Subtitle,3 Idiots,"हे, लेट्स गो मीट डेविड।",0,Affirmative,NLP Parsed (PROPN),Equational/Nominal,Root Word: डेविड।
+SUB_324,Subtitle,3 Idiots,मे आई टेक द ग्लास?,0,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: आई
+SUB_325,Subtitle,3 Idiots,मैं आपको क्यों मारूँगी?,0,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: मारूँगी
+SUB_326,Subtitle,3 Idiots,क्योंकि मैं आपको थोड़ी सी फ्री एडवाइस देने वाला हूँ।,1,Affirmative,NLP Parsed (VERB),Adjectival,Root Word: हूँ
+SUB_327,Subtitle,3 Idiots,उस गधे से कभी शादी मत करियेगा।,0,Negative,NLP Parsed (VERB),Equational/Nominal,Root Word: करियेगा
+SUB_328,Subtitle,3 Idiots,"वो आदमी नहीं, प्राइस टैग है, प्राइस टैग।",1,Negative,NLP Parsed (NOUN),Equational/Nominal,Root Word: आदमी
+SUB_329,Subtitle,3 Idiots,"ज़िन्दगी भर आपको अलग-अलग प्रोडक्ट्स के
+दाम बता-बता के पका देगा।",0,Affirmative,NLP Parsed (VERB),Adjectival,Root Word: पका
+SUB_330,Subtitle,3 Idiots,"उसके जूते कितने के हैं, पता करूँ?",1,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: करूँ
+SUB_331,Subtitle,3 Idiots,मैं नहीं पूछूँगा।,0,Negative,NLP Parsed (VERB),Equational/Nominal,Root Word: पूछूँगा
+SUB_332,Subtitle,3 Idiots,अरे क्या किया भाई?,0,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: किया
+SUB_333,Subtitle,3 Idiots,अरे तीन सौ डॉलर के शूज़ हैं!,1,Affirmative,NLP Parsed (NOUN),Equational/Nominal,Root Word: शूज़
+SUB_334,Subtitle,3 Idiots,पुदीने की चटनी ऑन माय 300-डॉलर शूज़!,0,Affirmative,NLP Parsed (NOUN),Equational/Nominal,Root Word: शूज़
+SUB_335,Subtitle,3 Idiots,फ्री एडवाइस है।,1,Affirmative,NLP Parsed (NOUN),Equational/Nominal,Root Word: एडवाइस
+SUB_336,Subtitle,3 Idiots,"लेना है तो लो
+नहीं तो जाने दो।",1,Negative,NLP Parsed (VERB),Equational/Nominal,Root Word: लो
+SUB_337,Subtitle,3 Idiots,जेन्युइन इटालियन लेदर – हैंड स्टिच्ड!,0,Affirmative,NLP Parsed (PROPN),Equational/Nominal,Root Word: स्टिच्ड
+SUB_338,Subtitle,3 Idiots,"डैड, ये आपके गेस्ट हैं?",1,Affirmative,NLP Parsed (NOUN),Equational/Nominal,Root Word: गेस्ट
+SUB_339,Subtitle,3 Idiots,ये तो मेरे स्टूडेंट्स हैं।,1,Affirmative,NLP Parsed (NOUN),Equational/Nominal,Root Word: स्टूडेंट्स
+SUB_340,Subtitle,3 Idiots,ये यहाँ क्या कर रहे हैं?,1,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: कर
+SUB_341,Subtitle,3 Idiots,"एक सेकंड, डैड।",0,Affirmative,NLP Parsed (NOUN),Equational/Nominal,Root Word: सेकंड
+SUB_342,Subtitle,3 Idiots,ये छोले बहुत अच्छे लग रहे हैं यार।,1,Affirmative,NLP Parsed (VERB),Adjectival,Root Word: लग
+SUB_343,Subtitle,3 Idiots,"अबे, पूरी के लिए जगह नहीं है।",1,Negative,NLP Parsed (NOUN),Equational/Nominal,Root Word: जगह
+SUB_344,Subtitle,3 Idiots,आपने मेरी आँखें खोल दीं।,0,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: खोल
+SUB_345,Subtitle,3 Idiots,थैंक यू सो मच।,0,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: सो
+SUB_346,Subtitle,3 Idiots,क्या मैं आपसे थोड़ी और मदद माँग सकती हूँ?,1,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: माँग
+SUB_347,Subtitle,3 Idiots,मेरे डैड सुहास के साथ ये एंगेजमेंट तोड़ने नहीं देंगे।,0,Negative,NLP Parsed (VERB),Locative/Existential,Root Word: देंगे
+SUB_348,Subtitle,3 Idiots,"आप इतना अच्छा एक्सप्लेन करते हैं,
+अगर आप उनको भी एक डेमो दे दें तो--- हाँ हाँ क्यों नहीं क्यों नहीं डेमो देंगे।",1,Negative,NLP Parsed (VERB),Adjectival,Root Word: करते
+SUB_349,Subtitle,3 Idiots,"राजू, चटनी दे।",0,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: दे।
+SUB_350,Subtitle,3 Idiots,यू आर रियली स्वीट।,0,Affirmative,NLP Parsed (PROPN),Equational/Nominal,Root Word: स्वीट।
+SUB_351,Subtitle,3 Idiots,कहाँ हैं डैडी आपके?,1,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: हैं
+SUB_352,Subtitle,3 Idiots,आल इज वेल --- आल इज वेल।,0,Affirmative,NLP Parsed (PROPN),Equational/Nominal,Root Word: वेल।
+SUB_353,Subtitle,3 Idiots,फ्री एडवाइस है।,1,Affirmative,NLP Parsed (NOUN),Equational/Nominal,Root Word: एडवाइस
+SUB_354,Subtitle,3 Idiots,लेना है तो लो नहीं तो जाने दो।,1,Negative,NLP Parsed (VERB),Equational/Nominal,Root Word: लो
+SUB_355,Subtitle,3 Idiots,तुम लोग यहाँ क्या कर रहे हो?,1,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: कर
+SUB_356,Subtitle,3 Idiots,"सर --- लिफाफा देके आते हैं सर, स्टेज पे।",1,Affirmative,NLP Parsed (VERB),Locative/Existential,Root Word: आते
+SUB_357,Subtitle,3 Idiots,मुझे दे दो।,0,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: दे
+SUB_358,Subtitle,3 Idiots,मेरी बहन की शादी है।,1,Affirmative,NLP Parsed (NOUN),Equational/Nominal,Root Word: शादी
+SUB_359,Subtitle,3 Idiots,"सर, आपकी टोटल कितनी बेटियाँ हैं सर?",1,Affirmative,NLP Parsed (NOUN),Equational/Nominal,Root Word: बेटियाँ
+SUB_360,Subtitle,3 Idiots,"तूने डाला नहीं, राजू --- फरहान --- वैसे हमने तो आपको बुलाया नहीं।",0,Negative,NLP Parsed (VERB),Equational/Nominal,Root Word: डाला
+SUB_361,Subtitle,3 Idiots,"नहीं सर --- हम एक्चुअली साइंस की तरफ से हैं सर,
+साइंस की तरफ से।",1,Negative,NLP Parsed (NOUN),Locative/Existential,Root Word: साइंस
+SUB_362,Subtitle,3 Idiots,कैन यू एक्सप्लेन?,0,Affirmative,NLP Parsed (PROPN),Equational/Nominal,Root Word: एक्सप्लेन
+SUB_363,Subtitle,3 Idiots,डैड ये एक्सप्लेन बहुत अच्छा करते हैं।,1,Affirmative,NLP Parsed (VERB),Adjectival,Root Word: करते
+SUB_364,Subtitle,3 Idiots,अभी डेमो देंगे।,0,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: देंगे
+SUB_365,Subtitle,3 Idiots,"सर एक्चुअली दिल्ली में इलेक्ट्रिसिटी बहुत जाती है सर
+और शादी में बड़ी प्रॉब्लम होती है सर।",1,Affirmative,NLP Parsed (VERB),Locative/Existential,Root Word: जाती
+SUB_366,Subtitle,3 Idiots,उसकी वजह से।,0,Affirmative,NLP Parsed (PRON),Locative/Existential,Root Word: उसकी
+SUB_367,Subtitle,3 Idiots,तो बना दिया इन्वर्टर?,0,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: बना
+SUB_368,Subtitle,3 Idiots,"सर, डिज़ाइन रेडी है।",1,Affirmative,NLP Parsed (NOUN),Equational/Nominal,Root Word: रेडी
+SUB_369,Subtitle,3 Idiots,डिज़ाइन कहाँ है फरहान?,1,Affirmative,NLP Parsed (PRON),Equational/Nominal,Root Word: कहाँ
+SUB_370,Subtitle,3 Idiots,डिजाइन कहाँ है फरहान?,1,Affirmative,NLP Parsed (PRON),Equational/Nominal,Root Word: कहाँ
+SUB_371,Subtitle,3 Idiots,"सर, एक्चुअली डिजाइन छोड़िये ना, सर।",0,Negative,NLP Parsed (VERB),Equational/Nominal,Root Word: छोड़िये
+SUB_372,Subtitle,3 Idiots,"सर, मैं
+आपको डायरेक्ट इन्वर्टर बना के दिखाता हूँ।",1,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: दिखाता
+SUB_373,Subtitle,3 Idiots,तुम सिर्फ बेवकूफ बना सकते हो।,1,Affirmative,NLP Parsed (VERB),Adjectival,Root Word: बना
+SUB_374,Subtitle,3 Idiots,"नहीं सर, सर मैं आपको इन्वर्टर ज़रूर बना के
+दिखाऊँगा, सर।",0,Negative,NLP Parsed (VERB),Equational/Nominal,Root Word: दिखाऊँगा
+SUB_375,Subtitle,3 Idiots,"और, और उसको आपका नाम दूँगा सर।",0,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: दूँगा
+SUB_376,Subtitle,3 Idiots,"तो, इट विल बी एन ऑनर --- फरहान।",0,Affirmative,NLP Parsed (PROPN),Equational/Nominal,Root Word: फरहान
+SUB_377,Subtitle,3 Idiots,"आप दोनों से कल मैं ऑफिस
+में मिलना चाहूँगा।",0,Affirmative,NLP Parsed (VERB),Locative/Existential,Root Word: चाहूँगा
+SUB_378,Subtitle,3 Idiots,हम लोग भर देंगे सर --- इंस्टॉलमेंट्स में सर।,0,Affirmative,NLP Parsed (VERB),Locative/Existential,Root Word: भर
+SUB_379,Subtitle,3 Idiots,और आगे से हम किसी शादी में नहीं घुसेंगे सर।,0,Negative,NLP Parsed (VERB),Locative/Existential,Root Word: घुसेंगे
+SUB_380,Subtitle,3 Idiots,"इनफैक्ट सर, मैं शादी ही नहीं करूँगा।",0,Negative,NLP Parsed (VERB),Equational/Nominal,Root Word: करूँगा
+SUB_381,Subtitle,3 Idiots,और ये भी नहीं करेगा सर।,0,Negative,NLP Parsed (VERB),Equational/Nominal,Root Word: करेगा
+SUB_382,Subtitle,3 Idiots,हाँ हाँ सर --- मैं --- मैं भी नहीं करूँगा सर।,0,Negative,NLP Parsed (VERB),Equational/Nominal,Root Word: हाँ
+SUB_383,Subtitle,3 Idiots,इस दुनिया में दो इडियट्स कम पैदा होते।,0,Affirmative,NLP Parsed (VERB),Locative/Existential,Root Word: होते
+SUB_384,Subtitle,3 Idiots,ये हैं रणछोड़दास के पिताजी की मंथली इनकम।,1,Affirmative,NLP Parsed (PRON),Equational/Nominal,Root Word: ये
+SUB_385,Subtitle,3 Idiots,ढाई करोड़ रुपये।,0,Affirmative,NLP Parsed (NOUN),Equational/Nominal,Root Word: रुपये
+SUB_386,Subtitle,3 Idiots,"अब इसमें से एक या दो जीरो निकाल दो तो
+उससे कोई फर्क नहीं पड़ता।",0,Negative,NLP Parsed (VERB),Locative/Existential,Root Word: पड़ता
+SUB_387,Subtitle,3 Idiots,"लेकिन एक और जीरो कम हो जाए --- तो
+आई वुड वरी अ लिटिल।",1,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: हो
+SUB_388,Subtitle,3 Idiots,यह तुम्हारे पिताजी की महीने की इनकम है मि. फरहान?,1,Affirmative,NLP Parsed (NOUN),Equational/Nominal,Root Word: इनकम
+SUB_389,Subtitle,3 Idiots,अब एक और जीरो कम करदो --- तो ये तुम्हारी फैमिली इनकम है मिस्टर राजू रस्तोगी --- बिग रीज़न टू वरी।,1,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: करदो
+SUB_390,Subtitle,3 Idiots,"वीरू सहस्रबुद्धे की बात मानों और अपना कमरा
+चेंज करो।",0,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: कर
+SUB_391,Subtitle,3 Idiots,चतुर रामलिंगम के साथ शिफ्ट हो जाओ।,1,Affirmative,NLP Parsed (VERB),Adjectival,Root Word: हो
+SUB_392,Subtitle,3 Idiots,एग्जाम आ रहे हैं।,1,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: आ
+SUB_393,Subtitle,3 Idiots,"उस छाँछड़ के साथ रहोगे
+तो कभी पास नहीं होगे।",0,Negative,NLP Parsed (VERB),Equational/Nominal,Root Word: होगे
+SUB_394,Subtitle,3 Idiots,शेव करानी है?,1,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: करानी
+SUB_395,Subtitle,3 Idiots,देन गेट लॉस्ट!,0,Affirmative,NLP Parsed (PROPN),Equational/Nominal,Root Word: लॉस्ट
+SUB_396,Subtitle,3 Idiots,राजू तू समझ कर।,0,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: समझ
+SUB_397,Subtitle,3 Idiots,"वायरस हमारे साथ गेम
+खेल रहा है --- डिवाइड एंड रूल।",1,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: खेल
+SUB_398,Subtitle,3 Idiots,अरे तू डर मत यार।,0,Negative,NLP Parsed (NOUN),Equational/Nominal,Root Word: डर
+SUB_399,Subtitle,3 Idiots,डरना पड़ता है।,1,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: डरना
+SUB_400,Subtitle,3 Idiots,मुझे अच्छी नौकरी के लिये अच्छे ग्रेड्स चाहिये।,0,Affirmative,NLP Parsed (VERB),Adjectival,Root Word: चाहिये
+SUB_401,Subtitle,3 Idiots,और ग्रेड्स उसके हाथ में है।,1,Affirmative,NLP Parsed (NOUN),Locative/Existential,Root Word: हाथ
+SUB_402,Subtitle,3 Idiots,"तेरे जैसा रईस बाप नहीं है मेरा, जिसके
+खर्चे पर पूरी ज़िन्दगी निकाल लूँगा।",1,Negative,NLP Parsed (NOUN),Locative/Existential,Root Word: बाप
+SUB_403,Subtitle,3 Idiots,"ए राजू, तू क्या बकवास कर रहा है यार?",1,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: कर
+SUB_404,Subtitle,3 Idiots,जो बोलेगा हम वही करेंगे क्या?,0,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: करेंगे
+SUB_405,Subtitle,3 Idiots,ए अब तू लाइन क्रॉस कर रहा है।,1,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: कर
+SUB_406,Subtitle,3 Idiots,नहीं मैं बीच में लाइन बना रहा हूँ।,1,Negative,NLP Parsed (VERB),Locative/Existential,Root Word: बना
+SUB_407,Subtitle,3 Idiots,क्योंकि मुझे मेरी फैमिली को सपोर्ट करना है।,1,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: करना
+SUB_408,Subtitle,3 Idiots,माँ की आधी सैलरी बाबा की दवाइयों में जाती है।,1,Affirmative,NLP Parsed (VERB),Locative/Existential,Root Word: जाती
+SUB_409,Subtitle,3 Idiots,"कम्मो की शादी नहीं हो रही क्योंकि लड़केवालों
+को मारुति 800 चाहिये।",1,Negative,NLP Parsed (VERB),Equational/Nominal,Root Word: हो
+SUB_410,Subtitle,3 Idiots,पिछले पाँच सालों में माँ ने एक साड़ी तक नहीं खरीदी।,0,Negative,NLP Parsed (VERB),Locative/Existential,Root Word: खरीदी
+SUB_411,Subtitle,3 Idiots,"वैसे एक साल में कितनी साड़ियाँ रिज़नेबल
+होती हैं?",1,Affirmative,NLP Parsed (VERB),Locative/Existential,Root Word: होती
+SUB_412,Subtitle,3 Idiots,"माँ को लेके मजाक नहीं, हाँ।",0,Negative,NLP Parsed (NOUN),Equational/Nominal,Root Word: मजाक
+SUB_413,Subtitle,3 Idiots,"अरे राजू, हम लोग दिल लगा के पढ़ेंगे,
+सिर्फ ग्रेड्स के लिए नहीं।",0,Negative,NLP Parsed (VERB),Equational/Nominal,Root Word: पढ़ेंगे
+SUB_414,Subtitle,3 Idiots,' सक्सेस के पीछे मत भागो।,0,Negative,NLP Parsed (VERB),Locative/Existential,Root Word: भागो।
+SUB_415,Subtitle,3 Idiots,एक्सीलेंस का पीछा करो।,0,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: कर
+SUB_416,Subtitle,3 Idiots,किस महापुरुष ने कहा है?,1,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: कहा
+SUB_417,Subtitle,3 Idiots,बाबा रणछोड़दास ने?,0,Affirmative,NLP Parsed (PROPN),Locative/Existential,Root Word: रणछोड़दास
+SUB_418,Subtitle,3 Idiots,मरो तुम लोग।,0,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: लोग।
+SUB_419,Subtitle,3 Idiots,"अरे, अरे यार राजू, टेंशन मत ले यार।",0,Negative,NLP Parsed (VERB),Equational/Nominal,Root Word: ले
+SUB_420,Subtitle,3 Idiots,"हम लोग टॉप
+करेंगे ना यार।",0,Negative,NLP Parsed (VERB),Equational/Nominal,Root Word: ना
+SUB_421,Subtitle,3 Idiots,नथिंग इज इम्पॉसिबल।,0,Affirmative,NLP Parsed (PROPN),Equational/Nominal,Root Word: इम्पॉसिब
+SUB_422,Subtitle,3 Idiots,"नथिंग इज इम्पॉसिबल, ना?",0,Negative,NLP Parsed (PROPN),Equational/Nominal,Root Word: इम्पॉसिबल
+SUB_423,Subtitle,3 Idiots,"ले डाल दे इसको
+वापिस अंदर।",0,Affirmative,NLP Parsed (VERB),Adjectival,Root Word: डाल
+SUB_424,Subtitle,3 Idiots,राजू ने ट्रेन का डिब्बा बदल दिया।,0,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: बदल
+SUB_425,Subtitle,3 Idiots,अब वो चतुर के साथ सफ़र करने निकल पड़ा।,0,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: निकल
+SUB_426,Subtitle,3 Idiots,"हिन्दी का सफ़र नहीं, अंग्रेज़ी का सफ़र।",0,Negative,NLP Parsed (NOUN),Equational/Nominal,Root Word: सफ़र
+SUB_427,Subtitle,3 Idiots,आई डिड नॉट डू इट --- राजू?,0,Affirmative,NLP Parsed (PROPN),Equational/Nominal,Root Word: राजू
+SUB_428,Subtitle,3 Idiots,"या तो खुद के मार्क्स अच्छे लाओ या दूसरों के
+कम कराओ।",0,Affirmative,NLP Parsed (VERB),Adjectival,Root Word: लाओ
+SUB_429,Subtitle,3 Idiots,"रणचो ने साइलेंसर को सबक सिखाने का और
+राजू को बचाने का कम्बाइंड प्लान बनाया।",0,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: बनाया
+SUB_430,Subtitle,3 Idiots,विथ वन मास्टर प्लान।,0,Affirmative,NLP Parsed (NOUN),Equational/Nominal,Root Word: प्लान।
+SUB_431,Subtitle,3 Idiots,"हमारे डायरेक्टर साहब ने यहाँ कई चमत्कार किये
+हैं।",1,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: किये
+SUB_432,Subtitle,3 Idiots,चमत्कार का मतलब है --- मतलब नहीं चाहिये दुबेजी।,1,Negative,NLP Parsed (NOUN),Equational/Nominal,Root Word: मतलब
+SUB_433,Subtitle,3 Idiots,मैं याद कर लेंगे।,0,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: कर
+SUB_434,Subtitle,3 Idiots,आई विल मेमोराइज इट।,0,Affirmative,NLP Parsed (PROPN),Equational/Nominal,Root Word: इट।
+SUB_435,Subtitle,3 Idiots,"उसने वायरस को इम्प्रेस करने के लिये अपनी
+स्पीच लाइब्रेरियन दुबे से शुद्ध हिन्दी में लिखवाई।",0,Affirmative,NLP Parsed (VERB),Locative/Existential,Root Word: लिखवाई
+SUB_436,Subtitle,3 Idiots,इन हाई-ब्रो हिन्दी।,0,Affirmative,NLP Parsed (PROPN),Equational/Nominal,Root Word: हिन्दी
+SUB_437,Subtitle,3 Idiots,"हाँ, बुलाता हूँ।",1,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: बुलाता
+SUB_438,Subtitle,3 Idiots,"चतुर, तुम्हारा फोन है।",1,Affirmative,NLP Parsed (NOUN),Equational/Nominal,Root Word: फोन
+SUB_439,Subtitle,3 Idiots,दुबेजी प्रिंटआउट अपने पास रखिये।,0,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: रखिये
+SUB_440,Subtitle,3 Idiots,मैं आती हूँ।,1,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: आती
+SUB_441,Subtitle,3 Idiots,"चलो भाई, ये भी काम करो इनका... अरे दुबेजी, आपको डायरेक्टर साहब ने अभी
+याद किया है।",1,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: करो
+SUB_442,Subtitle,3 Idiots,"अच्छा ठीक है, तुम ये चतुर को दे देना।",1,Affirmative,NLP Parsed (ADJ),Adjectival,Root Word: ठीक
+SUB_443,Subtitle,3 Idiots,"मैं,
+मैं आता हूँ।",1,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: आता
+SUB_444,Subtitle,3 Idiots,"Hello. Hello
+- Hello, Mr. Ramalingam?",0,Affirmative,NLP Parsed (PROPN),Equational/Nominal,Root Word: Ramalingam
+SUB_445,Subtitle,3 Idiots,"हाँ, मैं जगत नगर पुलिस स्टेशन से बोल रहा हूँ।",1,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: बोल
+SUB_446,Subtitle,3 Idiots,आप उगांडा से हैं?,1,Affirmative,NLP Parsed (PROPN),Locative/Existential,Root Word: उगांडा
+SUB_447,Subtitle,3 Idiots,"जी, आपकी जान को खतरा है।",1,Affirmative,NLP Parsed (NOUN),Equational/Nominal,Root Word: खतरा
+SUB_448,Subtitle,3 Idiots,"आपने मुझे बुलाया, सर?",0,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: बुलाया
+SUB_449,Subtitle,3 Idiots,कौन हो तुम?,1,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: हो
+SUB_450,Subtitle,3 Idiots,परमानेंट हूँ सर।,1,Affirmative,NLP Parsed (ADJ),Locative/Existential,Root Word: परमानेंट
+SUB_451,Subtitle,3 Idiots,"हाँ, एक मिनट, एक मिनट।",0,Affirmative,NLP Parsed (NOUN),Equational/Nominal,Root Word: मिनट
+SUB_452,Subtitle,3 Idiots,कमिश्नर साहब का फोन है।,1,Affirmative,NLP Parsed (NOUN),Equational/Nominal,Root Word: फोन
+SUB_453,Subtitle,3 Idiots,"एक्सक्यूज मी, सर!",0,Affirmative,NLP Parsed (PROPN),Equational/Nominal,Root Word: मी
+SUB_454,Subtitle,3 Idiots,आपने बोला गेट के बाहर --- मेरी मौत --- हाँ।,0,Affirmative,NLP Parsed (VERB),Locative/Existential,Root Word: बोला
+SUB_455,Subtitle,3 Idiots,देखो जब तुम गेट के बाहर निकलोगे तब सामने तुम्हें एक सिग्नल दिखेगा।,0,Affirmative,NLP Parsed (VERB),Locative/Existential,Root Word: दिखेगा
+SUB_456,Subtitle,3 Idiots,तुम ध्यान से रोड क्रॉस करना।,0,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: करना
+SUB_457,Subtitle,3 Idiots,"वो क्या है ना बेटा, आजकल ट्रैफिक बहुत ज़्यादा है।",1,Negative,NLP Parsed (PRON),Equational/Nominal,Root Word: क्या
+SUB_458,Subtitle,3 Idiots,तो कभी गाड़ी-वाड़ी से टकरा गए तो मौत हो सकती है।,1,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: हो
+SUB_459,Subtitle,3 Idiots,क्या बकवास है!,1,Affirmative,NLP Parsed (ADJ),Adjectival,Root Word: बकवास
+SUB_460,Subtitle,3 Idiots,ये मुझे पता है!,1,Affirmative,NLP Parsed (AUX),Equational/Nominal,Root Word: है
+SUB_461,Subtitle,3 Idiots,"ओह, यू नो दैट!",0,Affirmative,NLP Parsed (PROPN),Equational/Nominal,Root Word: दैट
+SUB_462,Subtitle,3 Idiots,वैरी गुड बेटा।,0,Affirmative,NLP Parsed (PROPN),Equational/Nominal,Root Word: बेटा।
+SUB_463,Subtitle,3 Idiots,तब तो तुम सेफ हो।,1,Affirmative,NLP Parsed (VERB),Adjectival,Root Word: हो
+SUB_464,Subtitle,3 Idiots,"हे साइलेंसर, दुबे ने तेरे लिए दिया है।",1,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: दिया
+SUB_465,Subtitle,3 Idiots,"यू डोंट कॉल मी दैट, छाँछड़!",0,Affirmative,NLP Parsed (PROPN),Equational/Nominal,Root Word: दैट
+SUB_466,Subtitle,3 Idiots,"अरे, डायरेक्टर तो बोले, हमने नहीं बुलाया?",0,Negative,NLP Parsed (VERB),Equational/Nominal,Root Word: बुलाया
+SUB_467,Subtitle,3 Idiots,मैंने तो कहा 'याद' किया।,0,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: कहा
+SUB_468,Subtitle,3 Idiots,आदरणीय सभापति महोदय।,0,Affirmative,NLP Parsed (NOUN),Equational/Nominal,Root Word: सभापति
+SUB_469,Subtitle,3 Idiots,"अतिथि विशेष शिक्षण मंत्री श्री आर. डी. त्रिपाठी जी, माननीय शिक्षकगण और मेरे प्यारे सहपाठियों।",0,Affirmative,NLP Parsed (PROPN),Equational/Nominal,Root Word: त्रिपाठी
+SUB_470,Subtitle,3 Idiots,आज अगर आई.सी.ई. आसमान की बुलंदियों को छू रहा है तो उसका श्रेय सिर्फ एक इंसान को जाता है।,1,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: जाता
+SUB_471,Subtitle,3 Idiots,श्री वीरू सहस्रबुद्धे!,0,Affirmative,NLP Parsed (PROPN),Equational/Nominal,Root Word: सहस्रबुद्धे
+SUB_472,Subtitle,3 Idiots,"सर, बोल वो रहे हैं, पर शब्द हमारे हैं।",1,Affirmative,NLP Parsed (VERB),Locative/Existential,Root Word: रहे
+SUB_473,Subtitle,3 Idiots,"ही इज़ अ ग्रेट गाय, रियली यू आर!",0,Affirmative,NLP Parsed (PROPN),Equational/Nominal,Root Word: गाय
+SUB_474,Subtitle,3 Idiots,"पिछले बत्तीस साल से इन्होंने निरंतर, इस कॉलेज में, बलात्कार पे बलात्कार किये --- इसका मतलब है 'चमत्कार' पे चमत्कार किये हैं।",1,Affirmative,NLP Parsed (VERB),Locative/Existential,Root Word: किये
+SUB_475,Subtitle,3 Idiots,उम्मीद है आगे भी करते रहेंगे।,1,Affirmative,NLP Parsed (NOUN),Equational/Nominal,Root Word: उम्मीद
+SUB_476,Subtitle,3 Idiots,हमें तो आश्चर्य होता है कि एक इंसान अपने जीवन काल में इतनी बलात्कार कैसे कर सकता है।,1,Affirmative,NLP Parsed (VERB),Locative/Existential,Root Word: होता
+SUB_477,Subtitle,3 Idiots,इन्होंने कड़ी तपस्या से अपने आप को इस काबिल बनाया है।,1,Affirmative,NLP Parsed (VERB),Adjectival,Root Word: बनाया
+SUB_478,Subtitle,3 Idiots,"वक़्त का सही उपयोग, घंटे का पूर्ण इस्तेमाल कोई इनसे सीखे।",0,Affirmative,NLP Parsed (VERB),Adjectival,Root Word: सीखे
+SUB_479,Subtitle,3 Idiots,"सीखें इनसे, सीखें!",0,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: सीखें
+SUB_480,Subtitle,3 Idiots,आज हम सब छात्र यहाँ हैं।,1,Affirmative,NLP Parsed (PRON),Equational/Nominal,Root Word: यहाँ
+SUB_481,Subtitle,3 Idiots,आई.सी.ई. का नाम रोशन करेंगे।,0,Affirmative,NLP Parsed (VERB),Adjectival,Root Word: करेंगे
+SUB_482,Subtitle,3 Idiots,दिखा देंगे सबको जो बलात्कार करने की क्षमता यहाँ के छात्रों में है वो संसार के किसी छात्र में नहीं।,1,Negative,NLP Parsed (VERB),Locative/Existential,Root Word: दिखा
+SUB_483,Subtitle,3 Idiots,"नो अदर छात्र, नो अदर छात्र!",0,Affirmative,NLP Parsed (NOUN),Equational/Nominal,Root Word: छात्र
+SUB_484,Subtitle,3 Idiots,"आदरणीय मंत्रीजी, नमस्कार।",0,Affirmative,NLP Parsed (PROPN),Equational/Nominal,Root Word: नमस्कार
+SUB_485,Subtitle,3 Idiots,स्तन माने --- कैसी अपमानजनक बातें कर रहा है ये लड़का।,1,Affirmative,NLP Parsed (VERB),Adjectival,Root Word: कर
+SUB_486,Subtitle,3 Idiots,स्तन होता सभी के पास है।,1,Affirmative,NLP Parsed (PRON),Locative/Existential,Root Word: सभी
+SUB_487,Subtitle,3 Idiots,सब छुपा के रखते हैं।,1,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: रखते
+SUB_488,Subtitle,3 Idiots,देता कोई नहीं।,0,Negative,NLP Parsed (VERB),Equational/Nominal,Root Word: देता
+SUB_489,Subtitle,3 Idiots,अश्लील है ये लौंडा!,1,Affirmative,NLP Parsed (ADJ),Adjectival,Root Word: अश्लील
+SUB_490,Subtitle,3 Idiots,आपने अपना स्तन इस बलात्कारी पुरुष के हाथ में दिया है।,1,Affirmative,NLP Parsed (VERB),Locative/Existential,Root Word: दिया
+SUB_491,Subtitle,3 Idiots,अब देखिये ये कैसा इसका उपयोग करता है।,1,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: करता
+SUB_492,Subtitle,3 Idiots,"सहस्रबुद्धे, इतनी बुद्धि नहीं है तुम्हारे पास!",1,Negative,NLP Parsed (NOUN),Equational/Nominal,Root Word: बुद्धि
+SUB_493,Subtitle,3 Idiots,बदतमीज़ कहीं के!,0,Affirmative,NLP Parsed (PRON),Locative/Existential,Root Word: कहीं
+SUB_494,Subtitle,3 Idiots,इस स्वर्ण अवसर पर एक श्लोक याद आ रहे हैं।,1,Affirmative,NLP Parsed (VERB),Locative/Existential,Root Word: आ
+SUB_495,Subtitle,3 Idiots,उत्तमं दाड़-दाड़-आंत पादं!,0,Affirmative,NLP Parsed (NOUN),Equational/Nominal,Root Word: पादं
+SUB_496,Subtitle,3 Idiots,मध्यमं पादं --- थुचुक थुचुक।,0,Affirmative,NLP Parsed (PROPN),Equational/Nominal,Root Word: थुचु
+SUB_497,Subtitle,3 Idiots,कनिष्ठमं --- तुड़तुड़ी पादं सुरसुरी ---  प्राण गटकं!,0,Affirmative,NLP Parsed (PROPN),Equational/Nominal,Root Word: गटकं
+SUB_498,Subtitle,3 Idiots,रट्टा मार के तू कॉलेज के चार साल तो अपनी इज़्ज़त बचा लेगा।,0,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: बचा
+SUB_499,Subtitle,3 Idiots,"लेकिन लाइफ के अगले चालीस साल तेरा बलात्कार होता रहेगा, बलात्कार!",0,Affirmative,NLP Parsed (VERB),Adjectival,Root Word: होता
+SUB_500,Subtitle,3 Idiots,अभी भी नहीं समझा ये।,0,Negative,NLP Parsed (VERB),Equational/Nominal,Root Word: समझा
+SUB_501,Subtitle,3 Idiots,'मध्यमं पादं थुचुक थुचुक' --- अनबिलीवेबल!,0,Affirmative,NLP Parsed (PROPN),Equational/Nominal,Root Word: अनबिलीवेबल
+SUB_502,Subtitle,3 Idiots,तू तो पोएट है यार रणछो।,1,Affirmative,NLP Parsed (NOUN),Equational/Nominal,Root Word: पोएट
+SUB_503,Subtitle,3 Idiots,हाउ डिड यू थिंक ऑफ़ दिस?,0,Affirmative,NLP Parsed (PROPN),Equational/Nominal,Root Word: दिस
+SUB_504,Subtitle,3 Idiots,क्या मज़ा आया यार।,0,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: आया
+SUB_505,Subtitle,3 Idiots,मैंने तुम्हारा क्या बिगाड़ा है?,1,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: बिगाड़ा
+SUB_506,Subtitle,3 Idiots,पर्सनली मत ले यार।,0,Negative,NLP Parsed (VERB),Locative/Existential,Root Word: ले
+SUB_507,Subtitle,3 Idiots,चतुर रामलिंगम ये इन्सल्ट नहीं भूलेगा।,0,Negative,NLP Parsed (VERB),Adjectival,Root Word: भूलेगा
+SUB_508,Subtitle,3 Idiots,"आई विल थिंक ऑफ़ इट एव्री मिनट, एव्री सेकंड ऑफ़ माय लाइफ।",0,Affirmative,NLP Parsed (PROPN),Equational/Nominal,Root Word: मिनट
+SUB_509,Subtitle,3 Idiots,कुछ समझ के पढ़ो यार।,0,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: पढ़ो
+SUB_510,Subtitle,3 Idiots,साइंस का मज़ा लूटो यार!,0,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: लूटो
+SUB_511,Subtitle,3 Idiots,मैं यहाँ मज़ा लूटने नहीं आया हूँ।,1,Negative,NLP Parsed (VERB),Equational/Nominal,Root Word: आया
+SUB_512,Subtitle,3 Idiots,तो क्या इज़्ज़त लूटने आया है?,1,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: आया
+SUB_513,Subtitle,3 Idiots,साइंस का बलात्कार करने आया है?,1,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: आया
+SUB_514,Subtitle,3 Idiots,हँसो --- मेरे मेथड्स पे हँसो।,0,Affirmative,NLP Parsed (VERB),Locative/Existential,Root Word: हँसो।
+SUB_515,Subtitle,3 Idiots,एक दिन इन्हीं मेथड्स से मैं सक्सेसफुल बनके दिखाऊँगा।,0,Affirmative,NLP Parsed (VERB),Adjectival,Root Word: दिखाऊँगा
+SUB_516,Subtitle,3 Idiots,यार तू फिर गलत ट्रेन पकड़ रहा है।,1,Affirmative,NLP Parsed (VERB),Adjectival,Root Word: पकड़
+SUB_517,Subtitle,3 Idiots,सक्सेस के पीछे मत भाग।,0,Negative,NLP Parsed (VERB),Locative/Existential,Root Word: भा
+SUB_518,Subtitle,3 Idiots,"इतना अच्छा इंजीनियर बन कि सक्सेस तेरे पीछे भागे, यार।",0,Affirmative,NLP Parsed (VERB),Adjectival,Root Word: बन
+SUB_519,Subtitle,3 Idiots,"दीज़ आइडियाज़ डोंट वर्क इन द रियल वर्ल्ड, छाँछड़।",0,Affirmative,NLP Parsed (PROPN),Equational/Nominal,Root Word: वर्ल्ड
+SUB_520,Subtitle,3 Idiots,"तू तेरी ट्रेन पकड़, मैं मेरी ट्रेन पकड़ता हूँ।",1,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: पकड़ता
+SUB_521,Subtitle,3 Idiots,आज ही के दिन।,0,Affirmative,NLP Parsed (NOUN),Equational/Nominal,Root Word: दिन।
+SUB_522,Subtitle,3 Idiots,"देखेंगे, कौन ज़्यादा सक्सेसफुल है... तुम या मैं।",1,Affirmative,NLP Parsed (PRON),Equational/Nominal,Root Word: तुम
+SUB_523,Subtitle,3 Idiots,है हिम्मत तो लगा बेट!,1,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: लगा
+SUB_524,Subtitle,3 Idiots,ये चैलेंज है।,1,Affirmative,NLP Parsed (NOUN),Equational/Nominal,Root Word: चैलेंज
+SUB_525,Subtitle,3 Idiots,क्या लिख रहा है ये?,1,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: लिख
+SUB_526,Subtitle,3 Idiots,ये डेट भूलना मत।,0,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: भूलना
+SUB_527,Subtitle,3 Idiots,(SEPT 5) ऐसी एक्सपेंसिव गिफ्ट्स की मुझे आदत नहीं है सुहास।,1,Negative,NLP Parsed (NOUN),Locative/Existential,Root Word: आदत
+SUB_528,Subtitle,3 Idiots,आदत डाल लो पिया।,0,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: पिया
+SUB_529,Subtitle,3 Idiots,यू आर गोना बी सुहास टंडन'स वाइफ।,0,Affirmative,NLP Parsed (PROPN),Equational/Nominal,Root Word: वाइफ।
+SUB_530,Subtitle,3 Idiots,बिल कहाँ है?,1,Affirmative,NLP Parsed (PRON),Equational/Nominal,Root Word: कहाँ
+SUB_531,Subtitle,3 Idiots,मैं अभी आती हूँ।,1,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: आती
+SUB_532,Subtitle,3 Idiots,झूठ मत बोलना।,0,Negative,NLP Parsed (VERB),Equational/Nominal,Root Word: बोलना।
+SUB_533,Subtitle,3 Idiots,तुम्हें डैड से क्या प्रॉब्लम है?,1,Affirmative,NLP Parsed (NOUN),Equational/Nominal,Root Word: प्रॉब्लम
+SUB_534,Subtitle,3 Idiots,मैं तो उनके नाम का इन्वर्टर बना रहा हूँ।,1,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: बना
+SUB_535,Subtitle,3 Idiots,ये देखो... ओह!,0,Affirmative,NLP Parsed (INTJ),Equational/Nominal,Root Word: ओह
+SUB_536,Subtitle,3 Idiots,क्यों डैड के पीछे पड़े हो?,1,Affirmative,NLP Parsed (VERB),Locative/Existential,Root Word: पड़े
+SUB_537,Subtitle,3 Idiots,"क्योंकि वो कॉलेज नहीं, फैक्ट्री चला रहे हैं।",1,Negative,NLP Parsed (VERB),Equational/Nominal,Root Word: चला
+SUB_538,Subtitle,3 Idiots,जिसमें हर साल गधे मैन्युफैक्चर होते हैं।,1,Affirmative,NLP Parsed (VERB),Locative/Existential,Root Word: होते
+SUB_539,Subtitle,3 Idiots,पूरा तोड़ दिया यार!,0,Affirmative,NLP Parsed (VERB),Adjectival,Root Word: तोड़
+SUB_540,Subtitle,3 Idiots,हाउ डेयर यू कॉल हिम अ गधा?,0,Affirmative,NLP Parsed (PROPN),Equational/Nominal,Root Word: गधा
+SUB_541,Subtitle,3 Idiots,तो और क्या बोलूँ?,0,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: बोलूँ
+SUB_542,Subtitle,3 Idiots,"पहले इंजीनियरिंग की, फिर एम.बी.ए. किया।",0,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: किया
+SUB_543,Subtitle,3 Idiots,उसके बाद अमेरिका जा के बैंक में नौकरी कर रहा है।,1,Affirmative,NLP Parsed (VERB),Locative/Existential,Root Word: कर
+SUB_544,Subtitle,3 Idiots,क्योंकि उसमें पैसा ज़्यादा है?,1,Affirmative,NLP Parsed (DET),Locative/Existential,Root Word: ज़्यादा
+SUB_545,Subtitle,3 Idiots,ऐसे गधों के लिये लाइफ सिर्फ एक प्रॉफिट और लॉस स्टेटमेंट होती है।,1,Affirmative,NLP Parsed (VERB),Locative/Existential,Root Word: होती
+SUB_546,Subtitle,3 Idiots,तुम्हें उसमें प्रॉफिट नज़र आ रहा है इसलिये तुम्हारे साथ है।,1,Affirmative,NLP Parsed (VERB),Locative/Existential,Root Word: आ
+SUB_547,Subtitle,3 Idiots,"डायरेक्टर की बेटी हो, डॉक्टर बनने वाली हो... उसकी इमेज के लिये अच्छा है, वगैरह, वगैरह।",1,Affirmative,NLP Parsed (ADJ),Adjectival,Root Word: अच्छा
+SUB_548,Subtitle,3 Idiots,उसको तुमसे कोई लगाव नहीं है।,1,Negative,NLP Parsed (NOUN),Equational/Nominal,Root Word: लगाव
+SUB_549,Subtitle,3 Idiots,तुम समझते क्या हो अपने आप को?,1,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: हो
+SUB_550,Subtitle,3 Idiots,"क्या मतलब सुहास को मुझमें इंटरेस्ट नहीं है, हाँ?",1,Negative,NLP Parsed (NOUN),Locative/Existential,Root Word: इंटरेस्ट
+SUB_551,Subtitle,3 Idiots,नई घड़ी ली?,0,Affirmative,NLP Parsed (VERB),Adjectival,Root Word: ली
+SUB_552,Subtitle,3 Idiots,तुमको क्या हर बार डेमो दिखाना पड़ता है?,1,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: दिखाना
+SUB_553,Subtitle,3 Idiots,घड़ी खो दी तुमने?,0,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: खो
+SUB_554,Subtitle,3 Idiots,कोई बात नहीं।,0,Negative,NLP Parsed (NOUN),Equational/Nominal,Root Word: बात
+SUB_555,Subtitle,3 Idiots,दूसरी ले लेंगे।,0,Affirmative,NLP Parsed (VERB),Adjectival,Root Word: ले
+SUB_556,Subtitle,3 Idiots,मेरी तो सिर्फ दो सौ पचास की है पर टाइम वही बताती है।,1,Affirmative,NLP Parsed (NUM),Locative/Existential,Root Word: पचास
+SUB_557,Subtitle,3 Idiots,तुम चुप रहो... तुम इतनी केयरलेस कैसे हो सकती हो पिया!,1,Affirmative,NLP Parsed (VERB),Adjectival,Root Word: हो
+SUB_558,Subtitle,3 Idiots,ये कैलोस एटीट्यूड मुझे पसंद नहीं है।,1,Negative,NLP Parsed (NOUN),Equational/Nominal,Root Word: पसंद
+SUB_559,Subtitle,3 Idiots,अब डिनर पे वही अपना पुराना कबाड़ पहन के चलना।,0,Affirmative,NLP Parsed (VERB),Locative/Existential,Root Word: चलना।
+SUB_560,Subtitle,3 Idiots,क्या घूर रहे हो?,1,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: घूर
+SUB_561,Subtitle,3 Idiots,लो आ गए आंसू!,0,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: आ
+SUB_562,Subtitle,3 Idiots,"रियल मैच्योर, पिया।",0,Affirmative,NLP Parsed (NOUN),Equational/Nominal,Root Word: मैच्योर
+SUB_563,Subtitle,3 Idiots,मैं ये सब हैंडल नहीं कर सकता।,0,Negative,NLP Parsed (VERB),Equational/Nominal,Root Word: कर
+SUB_564,Subtitle,3 Idiots,रोना बंद करो और उसे ढूंढो।,0,Affirmative,NLP Parsed (VERB),Adjectival,Root Word: करो
+SUB_565,Subtitle,3 Idiots,इस घड़ी के लिये कोई और कलाई ढूंढ लो... गधे!,0,Affirmative,NLP Parsed (PUNCT),Equational/Nominal,Root Word: गधे!
+SUB_566,Subtitle,3 Idiots,तुम तो सॉलिड हो यार!,1,Affirmative,NLP Parsed (VERB),Adjectival,Root Word: यार
+SUB_567,Subtitle,3 Idiots,मुँह पे गधा बोल दिया!,0,Affirmative,NLP Parsed (VERB),Locative/Existential,Root Word: बोल
+SUB_568,Subtitle,3 Idiots,यहाँ शोर बहुत है यार।,1,Affirmative,NLP Parsed (DET),Equational/Nominal,Root Word: बहुत
+SUB_569,Subtitle,3 Idiots,"वो 'थैंक यू' बोल रही है, मुझे 'गेट लॉस्ट' सुनाई दे रहा है।",1,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: बोल
+SUB_570,Subtitle,3 Idiots,मैंने गेट लॉस्ट ही बोला।,0,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: बोला।
+SUB_571,Subtitle,3 Idiots,मतलब क्या है तुम्हारा?,1,Affirmative,NLP Parsed (PRON),Equational/Nominal,Root Word: क्या
+SUB_572,Subtitle,3 Idiots,"मतलब ये कि जब वो तुम्हारे सामने आता है क्या तुम्हें ऐसा लगा कि हवाएं चलने लगीं, स्लो मोशन में दुपट्टा उड़ने लगा है?",1,Affirmative,NLP Parsed (VERB),Locative/Existential,Root Word: लगा
+SUB_573,Subtitle,3 Idiots,"ऐसा सिर्फ फिल्मों में होता है, रियल लाइफ में नहीं।",1,Negative,NLP Parsed (VERB),Locative/Existential,Root Word: होता
+SUB_574,Subtitle,3 Idiots,होता है लाइफ में भी --- अगर इंसान से प्यार करो।,1,Affirmative,NLP Parsed (VERB),Locative/Existential,Root Word: होता
+SUB_575,Subtitle,3 Idiots,... गधों के साथ नहीं होता।,0,Negative,NLP Parsed (VERB),Equational/Nominal,Root Word: होता
+SUB_576,Subtitle,3 Idiots,"ओके, मैं आता हूँ।",1,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: आता
+SUB_577,Subtitle,3 Idiots,तुम मेडिकल स्टूडेंट हो ना?,1,Negative,NLP Parsed (VERB),Equational/Nominal,Root Word: ना
+SUB_578,Subtitle,3 Idiots,मुझे तुम्हारी हेल्प चाहिए।,0,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: चाहिए
+SUB_579,Subtitle,3 Idiots,इट्स एन इमरजेंसी!,0,Affirmative,NLP Parsed (PROPN),Equational/Nominal,Root Word: इमरजेंसी
+SUB_580,Subtitle,3 Idiots,"मेरे साथ चलो, प्लीज।",0,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: चलो
+SUB_581,Subtitle,3 Idiots,"तुम डॉक्टर लोग क्या कसम खाते हो --- कि कभी पेशेंट को ना नहीं बोलोगे --- हिप्पोक्रेटिक ओथ --- प्लीज मेरी हेल्प करो, इट्स एन इमरजेंसी प्लीज।",1,Negative,NLP Parsed (VERB),Locative/Existential,Root Word: खाते
+SUB_582,Subtitle,3 Idiots,"मेरी बहन की शादी में घुस आये, मेरी एंगेजमेंट तोड़ दी... डैड तुम्हारी वजह से बीपी की गोलियां खा रहे हैं... और मैं तुम्हारी हेल्प कर रही हूँ!",1,Affirmative,NLP Parsed (VERB),Locative/Existential,Root Word: कर
+SUB_583,Subtitle,3 Idiots,ये हिप्पोक्रेटिक ओथ --- इसने तो हमारी लगा दी!,0,Affirmative,NLP Parsed (VERB),Adjectival,Root Word: लगा
+SUB_584,Subtitle,3 Idiots,"आंटी, राजू कहाँ है?",1,Affirmative,NLP Parsed (PRON),Equational/Nominal,Root Word: कहाँ
+SUB_585,Subtitle,3 Idiots,"अजीब देश है हमारा --- पिज़्ज़ा तीस मिनट में पहुँचने की गारंटी है, लेकिन एम्बुलेंस ---!",1,Affirmative,NLP Parsed (NOUN),Locative/Existential,Root Word: देश
+SUB_586,Subtitle,3 Idiots,हॉस्पिटलाइज़ करना पड़ेगा।,0,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: करना
+SUB_587,Subtitle,3 Idiots,ओये रोक ओये!,0,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: रोक
+SUB_588,Subtitle,3 Idiots,"हटो, हटो, हटो!",0,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: हटो
+SUB_589,Subtitle,3 Idiots,"हटो, मूव, इट्स एन इमरजेंसी!",0,Affirmative,NLP Parsed (PROPN),Equational/Nominal,Root Word: हटो
+SUB_590,Subtitle,3 Idiots,"हटो... मूव... मूव... मूव... डॉक्टर, डॉक्टर, इमरजेंसी!",0,Affirmative,NLP Parsed (NOUN),Equational/Nominal,Root Word: डॉक्टर
+SUB_591,Subtitle,3 Idiots,"ये तू रखता है, अपने पास?",1,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: रखता
+SUB_592,Subtitle,3 Idiots,"ऐ, आया राजू।",0,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: आया
+SUB_593,Subtitle,3 Idiots,"कमीने, बाबा को स्कूटर पे ले आया?",0,Affirmative,NLP Parsed (VERB),Locative/Existential,Root Word: ले
+SUB_594,Subtitle,3 Idiots,तो क्या स्पीड पोस्ट से भेजता?,0,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: भेजता
+SUB_595,Subtitle,3 Idiots,बाबा के प्रोफेशन पे नहीं जाने का!,0,Negative,NLP Parsed (VERB),Locative/Existential,Root Word: जाने
+SUB_596,Subtitle,3 Idiots,कहाँ हैं वो?,1,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: हैं
+SUB_597,Subtitle,3 Idiots,डॉक्टर से पूछ।,0,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: पूछ।
+SUB_598,Subtitle,3 Idiots,"इट वाज़ अ क्लोज कॉल, पिया।",0,Affirmative,NLP Parsed (NOUN),Equational/Nominal,Root Word: कॉल
+SUB_599,Subtitle,3 Idiots,थोड़ी भी देर होती तो हम उन्हें खो देते।,0,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: खो
+SUB_600,Subtitle,3 Idiots,शुक्र है तुमने एम्बुलेंस का इंतज़ार नहीं किया और स्कूटर पे ले आई।,1,Negative,NLP Parsed (PROPN),Locative/Existential,Root Word: शुक्र
+SUB_601,Subtitle,3 Idiots,कोई प्रॉब्लम हो तो फोन करना।,1,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: करना
+SUB_602,Subtitle,3 Idiots,रणछो --- थैंक यू यार।,0,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: यार।
+SUB_603,Subtitle,3 Idiots,साले दोस्त को थैंक यू बोलता है!,1,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: बोलता
+SUB_604,Subtitle,3 Idiots,"वो साइलेंसर तुझे मैनर्स सिखा रहा है, हाँ?",1,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: सिखा
+SUB_605,Subtitle,3 Idiots,उसने तुझे ये नहीं बताया कि दोस्त ही इंसान का सबसे बड़ा स्तन (सहारा) होता है?,1,Negative,NLP Parsed (VERB),Adjectival,Root Word: बताया
+SUB_606,Subtitle,3 Idiots,चलो चलो अब चलो।,0,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: चलो।
+SUB_607,Subtitle,3 Idiots,कल एग्जाम है तुम लोगों का।,1,Affirmative,NLP Parsed (NOUN),Equational/Nominal,Root Word: एग्जाम
+SUB_608,Subtitle,3 Idiots,अरे एग्जाम तो बहुत होते हैं।,1,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: होते
+SUB_609,Subtitle,3 Idiots,बाप मोस्टली एक ही होता है।,1,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: होता
+SUB_610,Subtitle,3 Idiots,"बस बस बस, चुप --- चुप ---।",0,Affirmative,NLP Parsed (ADJ),Adjectival,Root Word: चुप
+SUB_611,Subtitle,3 Idiots,"मुझे माफ़ कर दे --- श--- बस, चुप चुप चुप।",0,Affirmative,NLP Parsed (VERB),Adjectival,Root Word: कर
+SUB_612,Subtitle,3 Idiots,जा बाबा को मिल ले।,0,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: मिल
+SUB_613,Subtitle,3 Idiots,"और ऐसी रोती शकल मत लेके जा, हाँ।",0,Negative,NLP Parsed (VERB),Equational/Nominal,Root Word: हाँ
+SUB_614,Subtitle,3 Idiots,तुम्हारी स्कूटर ने तो आज जान बचा दी!,0,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: बचा
+SUB_615,Subtitle,3 Idiots,कितने की है?,1,Affirmative,NLP Parsed (PRON),Locative/Existential,Root Word: कितने
+SUB_616,Subtitle,3 Idiots,चटनी डाल के देखो।,0,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: देखो।
+SUB_617,Subtitle,3 Idiots,शायद बता दे।,0,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: बता
+SUB_618,Subtitle,3 Idiots,"हे, हैप्पी इंडिपेंडेंस डे यार!",0,Affirmative,NLP Parsed (AUX),Locative/Existential,Root Word: हे
+SUB_619,Subtitle,3 Idiots,लेकिन आज पंद्रह अगस्त नहीं है।,1,Negative,NLP Parsed (PROPN),Equational/Nominal,Root Word: अगस्त
+SUB_620,Subtitle,3 Idiots,तुम्हारे लिये तो है!,1,Affirmative,NLP Parsed (PRON),Locative/Existential,Root Word: तुम्हारे
+SUB_621,Subtitle,3 Idiots,अब तुम जब चाहो अपनी माँ की घड़ी पहन सकती हो।,1,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: पहन
+SUB_622,Subtitle,3 Idiots,कोई गधा नहीं बोलेगा कि एंशिएंट पीस ऑफ़ जंक है।,1,Negative,NLP Parsed (VERB),Equational/Nominal,Root Word: बोलेगा
+SUB_623,Subtitle,3 Idiots,"बहन की शादी में लड़की ऊपर से नीचे तक बन-ठन के हो, सिर्फ हाथ में घड़ी पुरानी हो, तो क्या मतलब होता है?",1,Affirmative,NLP Parsed (VERB),Locative/Existential,Root Word: होता
+SUB_624,Subtitle,3 Idiots,"तुम्हारी माँ बहुत खूबसूरत रही होंगी, ना?",0,Affirmative,NLP Parsed (VERB),Adjectival,Root Word: रही
+SUB_625,Subtitle,3 Idiots,तुम्हें कैसे पता?,0,Affirmative,NLP Parsed (NOUN),Equational/Nominal,Root Word: पता
+SUB_626,Subtitle,3 Idiots,अपने बाप को देखा है?,1,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: देखा
+SUB_627,Subtitle,3 Idiots,'लाइफ इज़ अ रेस।,0,Affirmative,NLP Parsed (PROPN),Equational/Nominal,Root Word: अ
+SUB_628,Subtitle,3 Idiots,"लेकिन अगर प्यार में हो, तो बारिश की उम्मीद रखें रिमझिम रिमझिम रिमझिम
+सन सन सन सन हवा टिप टिप टिप टिप बूंदें
+गुर्राती बिजलियां भीगी भीगी साड़ी में
+यूं ठुमके लगाती तू जैसा फिल्मों में होता है
+हो रहा है हू-ब-हू ज़ूबी डूबी ज़ूबी डूबी पम पारा
+ज़ूबी डूबी परम पम क्यों पागल स्टुपिड मन...
+ज़ूबी डूबी ज़ूबी डूबी ज़ूबी डूबी ज़ूबी डूबी पम पारा
+ज़ूबी डूबी परम पम क्यों पागल स्टुपिड मन...
+ज़ूबी डूबी ज़ूबी डूबी अम्बर का चाँद ज़मीं पर
+इतरा के गा रहा इक टिम-टिम टूटा तारा
+इठला के गा रहा है रात अकेली तन्हा
+मुझे छू ले आके तू जैसा फिल्मों में होता है
+हो रहा है हू-ब-हू ज़ूबी डूबी ज़ूबी डूबी पम पारा
+ज़ूबी डूबी परम पम क्यों पागल स्टुपिड मन...
+ज़ूबी डूबी ज़ूबी डूबी ज़ूबी डूबी ज़ूबी डूबी पम पारा
+ज़ूबी डूबी परम पम क्यों पागल स्टुपिड मन...
+ज़ूबी डूबी ज़ूबी डूबी ज़ूबी डूबी ज़ूबी डूबी...
+पागल स्टुपिड मन ज़ूबी डूबी ज़ूबी डूबी...
+पागल स्टुपिड मन हैलो।",1,Affirmative,NLP Parsed (VERB),Locative/Existential,Root Word: डूबी
+SUB_629,Subtitle,3 Idiots,उठो हूँ... अंकल ऑफ हो गए क्या?,1,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: हो
+SUB_630,Subtitle,3 Idiots,"साढ़े आठ बज गए हैं, नौ बजे एग्जाम है लेकिन हम उन्हें यहाँ अकेले छोड़ के कैसे जा सकते हैं?",1,Affirmative,NLP Parsed (VERB),Adjectival,Root Word: बज
+SUB_631,Subtitle,3 Idiots,मैं हूँ यहाँ।,1,Affirmative,NLP Parsed (PRON),Equational/Nominal,Root Word: मैं
+SUB_632,Subtitle,3 Idiots,तीन घंटे की तो बात है मेरी स्कूटर ले जाओ।,1,Affirmative,NLP Parsed (NOUN),Equational/Nominal,Root Word: बात
+SUB_633,Subtitle,3 Idiots,"देर हो रही है ऐ... गॉड, क्या पुरानी घड़ी है!",1,Affirmative,NLP Parsed (VERB),Adjectival,Root Word: हो
+SUB_634,Subtitle,3 Idiots,"सॉरी सर, लेट हो गए बैठ जाओ अपनी जगह पर सर, वो अभी भी लिख रहे हैं हैलो।",1,Affirmative,NLP Parsed (VERB),Locative/Existential,Root Word: लिख
+SUB_635,Subtitle,3 Idiots,"प्लीज सर, पांच मिनट।",0,Affirmative,NLP Parsed (NOUN),Equational/Nominal,Root Word: सर
+SUB_636,Subtitle,3 Idiots,मैं ये नहीं ले सकता सर प्लीज सर!,0,Negative,NLP Parsed (VERB),Equational/Nominal,Root Word: ले
+SUB_637,Subtitle,3 Idiots,"सर, आप जानते हैं हम कौन हैं?",1,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: जानते
+SUB_638,Subtitle,3 Idiots,"प्राइम मिनिस्टर के बेटे हो तब भी... मैं तुम्हारा पेपर एक्सेप्ट नहीं करूँगा क्या आपको हमारा नाम
+और रोल नंबर पता है?",1,Negative,NLP Parsed (VERB),Locative/Existential,Root Word: करूँगा
+SUB_639,Subtitle,3 Idiots,नहीं... कौन हो तुम लोग?,1,Negative,NLP Parsed (VERB),Equational/Nominal,Root Word: हो
+SUB_640,Subtitle,3 Idiots,नहीं पता - भाग!,0,Negative,NLP Parsed (NOUN),Equational/Nominal,Root Word: पता
+SUB_641,Subtitle,3 Idiots,"ऐ, तुम्हारा रोल नंबर क्या है?",1,Affirmative,NLP Parsed (PRON),Equational/Nominal,Root Word: क्या
+SUB_642,Subtitle,3 Idiots,कहाँ मर गए उनके पेपर?,0,Affirmative,NLP Parsed (VERB),Locative/Existential,Root Word: मर
+SUB_643,Subtitle,3 Idiots,भगवान के साथ डील स्ट्राइक करने का समय बस इलेक्ट्रॉनिक्स बचा लो।,0,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: बचा
+SUB_644,Subtitle,3 Idiots,"ओह चेक कर, नीचे से चेक कर, नीचे से चेक कर यार।",0,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: कर
+SUB_645,Subtitle,3 Idiots,तेरा है यार --- लास्ट!,1,Affirmative,NLP Parsed (PRON),Equational/Nominal,Root Word: तेरा
+SUB_646,Subtitle,3 Idiots,नहीं है यार ---!,1,Negative,NLP Parsed (INTJ),Equational/Nominal,Root Word: यार
+SUB_647,Subtitle,3 Idiots,यह मुमकिन नहीं है।,1,Negative,NLP Parsed (ADJ),Adjectival,Root Word: मुमकिन
+SUB_648,Subtitle,3 Idiots,यह नाइंसाफी है!,1,Affirmative,NLP Parsed (NOUN),Equational/Nominal,Root Word: नाइंसाफी
+SUB_649,Subtitle,3 Idiots,साला ये साइलेंसर इतना चिल्ला क्यों रहा है यार?,1,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: चिल्ला
+SUB_650,Subtitle,3 Idiots,सेकंड आया है।,1,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: आया
+SUB_651,Subtitle,3 Idiots,फर्स्ट कौन आया?,0,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: आया
+SUB_652,Subtitle,3 Idiots,हट ना --- हट ना यार!,0,Negative,NLP Parsed (VERB),Equational/Nominal,Root Word: हट
+SUB_653,Subtitle,3 Idiots,ह्यूमन बिहेवियर के बारे में उस दिन हमने कुछ जाना।,0,Affirmative,NLP Parsed (VERB),Locative/Existential,Root Word: जाना
+SUB_654,Subtitle,3 Idiots,दोस्त फेल हो तो दुख होता है।,1,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: होता
+SUB_655,Subtitle,3 Idiots,लेकिन दोस्त फर्स्ट आए तो ज्यादा दुख होता है।,1,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: होता
+SUB_656,Subtitle,3 Idiots,डायरेक्टर के दाईं ओर।,0,Affirmative,NLP Parsed (NOUN),Locative/Existential,Root Word: दाईं
+SUB_657,Subtitle,3 Idiots,"तीसरी पंक्ति... सर, ये रैंक के हिसाब से बैठना ज़रूरी है?",1,Affirmative,NLP Parsed (VERB),Adjectival,Root Word: है
+SUB_658,Subtitle,3 Idiots,"क्यों, तुम्हें कोई प्रॉब्लम है?",1,Affirmative,NLP Parsed (NOUN),Equational/Nominal,Root Word: प्रॉब्लम
+SUB_659,Subtitle,3 Idiots,"सर, मुझे तो पूरे ग्रेडिंग सिस्टम से ही प्रॉब्लम है, सर।",1,Affirmative,NLP Parsed (NOUN),Equational/Nominal,Root Word: प्रॉब्लम
+SUB_660,Subtitle,3 Idiots,ऐसा लगता है कोई कास्ट-सिस्टम है।,1,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: लगता
+SUB_661,Subtitle,3 Idiots,"'A' ग्रेड स्टूडेंट बादशाह, 'C' ग्रेड स्टूडेंट्स गुलाम।",0,Affirmative,NLP Parsed (NOUN),Equational/Nominal,Root Word: बादशाह
+SUB_662,Subtitle,3 Idiots,इट्स नॉट नाइस सर।,0,Affirmative,NLP Parsed (PROPN),Equational/Nominal,Root Word: नाइस
+SUB_663,Subtitle,3 Idiots,"हाँ, है ना सर।",1,Negative,NLP Parsed (PRON),Equational/Nominal,Root Word: हाँ
+SUB_664,Subtitle,3 Idiots,"सर रिज़ल्ट्स जो है ना, वो नोटिस बोर्ड पे लगना ही नहीं चाहिए, सर।",1,Negative,NLP Parsed (VERB),Locative/Existential,Root Word: लगना
+SUB_665,Subtitle,3 Idiots,"किसी की कमियाँ, किसी की खामियाँ, हम क्यों खुले आम सबके सामने पेश करें?",0,Affirmative,NLP Parsed (VERB),Locative/Existential,Root Word: करें
+SUB_666,Subtitle,3 Idiots,यू सी सर?,0,Affirmative,NLP Parsed (PROPN),Equational/Nominal,Root Word: सर
+SUB_667,Subtitle,3 Idiots,"अभी देखिए मैं फर्स्ट आया हूँ, मैं आपके साथ बैठा हूँ।",1,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: आया
+SUB_668,Subtitle,3 Idiots,मेरे दोस्त बेचारे लास्ट आए हैं तो उनको पीछे डाल दिया है।,1,Affirmative,NLP Parsed (VERB),Adjectival,Root Word: डाल
+SUB_669,Subtitle,3 Idiots,कम से कम कोने में तो बैठे हैं।,1,Affirmative,NLP Parsed (VERB),Locative/Existential,Root Word: बैठे
+SUB_670,Subtitle,3 Idiots,तुम गारंटी देते हो!,1,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: देते
+SUB_671,Subtitle,3 Idiots,तुम गारंटी देते हो!,1,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: देते
+SUB_672,Subtitle,3 Idiots,"शर्त सर, शर्त?",0,Affirmative,NLP Parsed (NOUN),Equational/Nominal,Root Word: शर्त
+SUB_673,Subtitle,3 Idiots,उन दोनों में से एक को भी कैंपस इंटरव्यू में जॉब मिल जाए ना... तो मेरी मूंछ काट देना।,0,Affirmative,NLP Parsed (VERB),Locative/Existential,Root Word: काट
+SUB_674,Subtitle,3 Idiots,कार के हॉर्न के नीचे अपना हॉर्न कवर कर रहा है साले।,1,Affirmative,NLP Parsed (VERB),Locative/Existential,Root Word: कर
+SUB_675,Subtitle,3 Idiots,साले सेप्टिक टैंक!,0,Affirmative,NLP Parsed (NOUN),Equational/Nominal,Root Word: टैंक
+SUB_676,Subtitle,3 Idiots,फिर चूर्ण खाया तूने?,0,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: खाया
+SUB_677,Subtitle,3 Idiots,मैंने नहीं किया... राजू?,0,Negative,NLP Parsed (PROPN),Equational/Nominal,Root Word: राजू
+SUB_678,Subtitle,3 Idiots,"ओये, बहुत पुरानी पहचान है इन गरम हवाओं से।",1,Affirmative,NLP Parsed (NOUN),Equational/Nominal,Root Word: पहचान
+SUB_679,Subtitle,3 Idiots,ग्लोबल वॉर्मिंग के लिए यही कमीना रिस्पॉन्सिबल है।,1,Affirmative,NLP Parsed (NOUN),Equational/Nominal,Root Word: रिस्पॉन्सिबल
+SUB_680,Subtitle,3 Idiots,"ला यार, तेरा बटुआ दे।",0,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: दे।
+SUB_681,Subtitle,3 Idiots,मैं पैंट खरीद के आता हूँ।,1,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: आता
+SUB_682,Subtitle,3 Idiots,"छोड़ ना यार, ये चतुर रामलिंगम का सूट पहन ले।",0,Negative,NLP Parsed (VERB),Adjectival,Root Word: पहन
+SUB_683,Subtitle,3 Idiots,"छोड़ ना यार, रणछो तेरे को बिना पैंट के भी पहचान लेगा।",0,Negative,NLP Parsed (VERB),Equational/Nominal,Root Word: पहचान
+SUB_684,Subtitle,3 Idiots,"मिस्टर, ये एड्रेस किधर है?",1,Affirmative,NLP Parsed (PRON),Equational/Nominal,Root Word: किधर
+SUB_685,Subtitle,3 Idiots,इसको पढ़ना नहीं आती है।,1,Negative,NLP Parsed (VERB),Equational/Nominal,Root Word: आती
+SUB_686,Subtitle,3 Idiots,"भाईसाहब, यहाँ शिमला में कोई रणछोड़दास चांचड़ रहता है?",1,Affirmative,NLP Parsed (VERB),Locative/Existential,Root Word: रहता
+SUB_687,Subtitle,3 Idiots,"हाँ, वो वहां रहते हैं।",1,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: रहते
+SUB_688,Subtitle,3 Idiots,गीता में लिखा है सब सबका है।,1,Affirmative,NLP Parsed (VERB),Locative/Existential,Root Word: लिखा
+SUB_689,Subtitle,3 Idiots,क्या कर रहा है यार!,1,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: कर
+SUB_690,Subtitle,3 Idiots,लोग गलत इंटरप्रेट करेंगे।,0,Affirmative,NLP Parsed (VERB),Adjectival,Root Word: करेंगे
+SUB_691,Subtitle,3 Idiots,मुझे अभी चाहिए।,0,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: चाहिए
+SUB_692,Subtitle,3 Idiots,रणछो के पापा।,0,Affirmative,NLP Parsed (NOUN),Equational/Nominal,Root Word: पापा।
+SUB_693,Subtitle,3 Idiots,"भाई साहब, ये रणछोड़दास कहाँ मिलेंगे?",0,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: मिलेंगे
+SUB_694,Subtitle,3 Idiots,वो बैठे हैं।,1,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: बैठे
+SUB_695,Subtitle,3 Idiots,रणछो... ओह सॉरी।,0,Affirmative,NLP Parsed (INTJ),Equational/Nominal,Root Word: ओह
+SUB_696,Subtitle,3 Idiots,मैं ही रणछोड़दास हूँ।,1,Affirmative,NLP Parsed (ADJ),Adjectival,Root Word: रणछोड़दास
+SUB_697,Subtitle,3 Idiots,"नहीं, मेरा मतलब... 'रणछोड़दास श्यामaldas चांचड़'।",0,Negative,NLP Parsed (NOUN),Equational/Nominal,Root Word: चांचड़
+SUB_698,Subtitle,3 Idiots,रणछोड़दास श्यामaldas चांचड़।,0,Affirmative,NLP Parsed (PROPN),Equational/Nominal,Root Word: चांचड़
+SUB_699,Subtitle,3 Idiots,मैं ही हूँ।,1,Affirmative,NLP Parsed (PRON),Equational/Nominal,Root Word: मैं
+SUB_700,Subtitle,3 Idiots,"रणछोड़, अपना ध्यान रखना बेटा।",0,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: रखना
+SUB_701,Subtitle,3 Idiots,'रणछोड़दास चांचड़' राजू यार मैं इतिहास में पहला आदमी होऊँगा जो दिल्ली से शिमला तक अंडरवियर में आया।,0,Affirmative,NLP Parsed (VERB),Locative/Existential,Root Word: होऊँगा
+SUB_702,Subtitle,3 Idiots,वो भी गलत आदमी से मिलने!,0,Affirmative,NLP Parsed (VERB),Adjectival,Root Word: मिलने
+SUB_703,Subtitle,3 Idiots,"वही नाम, वही डिग्री, वही फोटो।",0,Affirmative,NLP Parsed (NOUN),Equational/Nominal,Root Word: डिग्री
+SUB_704,Subtitle,3 Idiots,लेकिन आदमी अलग!,0,Affirmative,NLP Parsed (NOUN),Equational/Nominal,Root Word: आदमी
+SUB_705,Subtitle,3 Idiots,"चक्कर क्या है, समझ में नहीं आया यार!",1,Negative,NLP Parsed (VERB),Locative/Existential,Root Word: आया
+SUB_706,Subtitle,3 Idiots,लेकिन ये साइलेंसर को रणछो का ये एड्रेस मिला कहाँ से?,0,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: मिला
+SUB_707,Subtitle,3 Idiots,"ओए चतुर, इधर आ।",0,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: आ।
+SUB_708,Subtitle,3 Idiots,खास तौर पर मिस्टर फुंसुख वांगडू के लिए।,0,Affirmative,NLP Parsed (PROPN),Locative/Existential,Root Word: वांगडू
+SUB_709,Subtitle,3 Idiots,ये कौन है?,1,Affirmative,NLP Parsed (PRON),Equational/Nominal,Root Word: कौन
+SUB_710,Subtitle,3 Idiots,पता है वो कौन है?,1,Affirmative,NLP Parsed (AUX),Equational/Nominal,Root Word: है
+SUB_711,Subtitle,3 Idiots,वो एक महान साइंटिस्ट है।,1,Affirmative,NLP Parsed (NOUN),Equational/Nominal,Root Word: साइंटिस्ट
+SUB_712,Subtitle,3 Idiots,पूरी दुनिया उसे चाहती है।,1,Affirmative,NLP Parsed (VERB),Adjectival,Root Word: चाहती
+SUB_713,Subtitle,3 Idiots,एक साल लगा है अपॉइंटमेंट मिलने में।,1,Affirmative,NLP Parsed (VERB),Locative/Existential,Root Word: लगा
+SUB_714,Subtitle,3 Idiots,"एक बार उसने मेरी कंपनी के साथ डील साइन कर ली, तो मैं बहुत बड़ा आदमी बन जाऊँगा!",0,Affirmative,NLP Parsed (VERB),Adjectival,Root Word: बन
+SUB_715,Subtitle,3 Idiots,वांगडू की आरती उतारना बंद कर और ये बता कि तुझे ये एड्रेस मिला कहाँ से?,0,Affirmative,NLP Parsed (VERB),Adjectival,Root Word: कर
+SUB_716,Subtitle,3 Idiots,तुम्हें फुंसुख वांगडू का शुक्रगुज़ार होना चाहिए।,0,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: होना
+SUB_717,Subtitle,3 Idiots,उसी की वजह से रणछो का क्लू मिला।,0,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: मिला
+SUB_718,Subtitle,3 Idiots,तेरे आने की खबर सुनकर प्लास्टिक सर्जरी करवा ली क्या!,0,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: करवा
+SUB_719,Subtitle,3 Idiots,इसका जवाब सिर्फ एक ही आदमी दे सकता है।,1,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: दे
+SUB_720,Subtitle,3 Idiots,आई एम सॉरी पापा।,0,Affirmative,NLP Parsed (PROPN),Equational/Nominal,Root Word: सॉरी
+SUB_721,Subtitle,3 Idiots,मैं आपकी आखिरी इच्छा पूरी नहीं कर पाया।,0,Negative,NLP Parsed (VERB),Adjectival,Root Word: कर
+SUB_722,Subtitle,3 Idiots,"आप बोलते रहे हरिद्वार ले चलो, हरिद्वार ले चलो।",0,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: ले
+SUB_723,Subtitle,3 Idiots,और मैं हाईवे के टेंडर खुलने का वेट करता रहा।,0,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: करता
+SUB_724,Subtitle,3 Idiots,वहाँ टेंडर खुला और यहाँ आपने आँखें बंद कर लीं।,0,Affirmative,NLP Parsed (VERB),Adjectival,Root Word: खुला
+SUB_725,Subtitle,3 Idiots,आई एम सो सॉरी पापा।,0,Affirmative,NLP Parsed (PROPN),Equational/Nominal,Root Word: सॉरी
+SUB_726,Subtitle,3 Idiots,मैं एक अच्छा बेटा नहीं बन सका... गलत।,0,Negative,NLP Parsed (ADV),Equational/Nominal,Root Word: गलत।
+SUB_727,Subtitle,3 Idiots,तू इतना बड़ा इंजीनियर बना।,0,Affirmative,NLP Parsed (VERB),Adjectival,Root Word: बना।
+SUB_728,Subtitle,3 Idiots,डिग्री दीवार पर लटकी है!,1,Affirmative,NLP Parsed (VERB),Locative/Existential,Root Word: लटकी
+SUB_729,Subtitle,3 Idiots,बिना परमिशन मेरी प्रॉपर्टी में घुसे कैसे?,0,Negative,NLP Parsed (VERB),Locative/Existential,Root Word: घुसे
+SUB_730,Subtitle,3 Idiots,अंदर करवा दूँगा।,0,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: करवा
+SUB_731,Subtitle,3 Idiots,हमने सब पता किया है।,1,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: किया
+SUB_732,Subtitle,3 Idiots,आईसीई की डिग्री के ज़ोर पर तू ये हाईवे कॉन्ट्रैक्ट्स ले रहा है?,1,Affirmative,NLP Parsed (VERB),Locative/Existential,Root Word: ले
+SUB_733,Subtitle,3 Idiots,ये डिग्री हमारे दोस्त की है।,1,Affirmative,NLP Parsed (NOUN),Equational/Nominal,Root Word: डिग्री
+SUB_734,Subtitle,3 Idiots,तेरे पास कैसे आई?,0,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: आई
+SUB_735,Subtitle,3 Idiots,डेढ़ सौ एकड़ की प्रॉपर्टी है।,1,Affirmative,NLP Parsed (NOUN),Locative/Existential,Root Word: प्रॉपर्टी
+SUB_736,Subtitle,3 Idiots,"भेजा उड़ा के कहीं कोने में दफना दूँगा, किसी को पता भी नहीं चलेगा।",0,Negative,NLP Parsed (VERB),Locative/Existential,Root Word: चलेगा
+SUB_737,Subtitle,3 Idiots,अब दफा हो जाओ।,1,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: हो
+SUB_738,Subtitle,3 Idiots,पापा की अस्थियाँ लेकर हरिद्वार जा रहा हूँ।,1,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: जा
+SUB_739,Subtitle,3 Idiots,कहो तो तुम्हारी भी साथ ले जाऊँ?,0,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: ले
+SUB_740,Subtitle,3 Idiots,पापा को उठा!,0,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: उठा
+SUB_741,Subtitle,3 Idiots,पापा को छोड़!,0,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: छोड़
+SUB_742,Subtitle,3 Idiots,"सच बता कौन है तू, वरना यहीं पे अस्थि विसर्जन कर दूँगा तेरे पापा का।",1,Affirmative,NLP Parsed (VERB),Locative/Existential,Root Word: बता
+SUB_743,Subtitle,3 Idiots,पापा को मेरे हवाले कर!,0,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: कर
+SUB_744,Subtitle,3 Idiots,पापा को पॉट से निकाल!,0,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: निकाल
+SUB_745,Subtitle,3 Idiots,मैं तीन तक गिनूँगा।,0,Affirmative,NLP Parsed (VERB),Locative/Existential,Root Word: गिनूँगा
+SUB_746,Subtitle,3 Idiots,डराता किसको है?,1,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: डराता
+SUB_747,Subtitle,3 Idiots,"राजू, डाल दे अंदर।",0,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: डाल
+SUB_748,Subtitle,3 Idiots,फिर गटर में छान-छान के निकालते रहना अपने पापा को।,0,Affirmative,NLP Parsed (NOUN),Locative/Existential,Root Word: पापा
+SUB_749,Subtitle,3 Idiots,हम गलत लोटा ले आए यार।,0,Affirmative,NLP Parsed (VERB),Adjectival,Root Word: ले
+SUB_750,Subtitle,3 Idiots,ये तो खाली है!,1,Affirmative,NLP Parsed (ADJ),Adjectival,Root Word: खाली
+SUB_751,Subtitle,3 Idiots,"खाली कर देंगे, मैं कह रहा हूँ खाली कर देंगे!",1,Affirmative,NLP Parsed (VERB),Adjectival,Root Word: कह
+SUB_752,Subtitle,3 Idiots,खाली कर देंगे!,0,Affirmative,NLP Parsed (VERB),Adjectival,Root Word: कर
+SUB_753,Subtitle,3 Idiots,नहीं... हाथ ऊपर!,0,Negative,NLP Parsed (VERB),Locative/Existential,Root Word: ऊपर!
+SUB_754,Subtitle,3 Idiots,कौन है तू?,1,Affirmative,NLP Parsed (PRON),Equational/Nominal,Root Word: कौन
+SUB_755,Subtitle,3 Idiots,अरे मैं रणछोड़दास हूँ यार।,1,Affirmative,NLP Parsed (ADJ),Adjectival,Root Word: रणछोड़दास
+SUB_756,Subtitle,3 Idiots,"पापा की कसम खा के कहता हूँ, मैं ही रणछोड़दास हूँ।",1,Affirmative,NLP Parsed (VERB),Adjectival,Root Word: कहता
+SUB_757,Subtitle,3 Idiots,माँ-बाप के गुज़रने के बाद भी पापा ने उसे घर में रहने दिया।,0,Affirmative,NLP Parsed (VERB),Locative/Existential,Root Word: रहने
+SUB_758,Subtitle,3 Idiots,कौन सी क्लास में हो बेटा?,1,Affirmative,NLP Parsed (VERB),Locative/Existential,Root Word: हो
+SUB_759,Subtitle,3 Idiots,नाम क्या है तुम्हारा?,1,Affirmative,NLP Parsed (PRON),Equational/Nominal,Root Word: क्या
+SUB_760,Subtitle,3 Idiots,हम पकड़े गए।,0,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: पकड़े
+SUB_761,Subtitle,3 Idiots,"शुरुआत तुमने की है, तो खत्म भी तुम ही करोगे।",1,Affirmative,NLP Parsed (VERB),Adjectival,Root Word: करोगे
+SUB_762,Subtitle,3 Idiots,पूरे हिमाचल में लोग मुझे सलाम ठोकते हैं।,1,Affirmative,NLP Parsed (VERB),Locative/Existential,Root Word: ठोकते
+SUB_763,Subtitle,3 Idiots,"पर मेरे मुड़ते ही, मेरी पीठ पीछे... मुझे अनपढ़ (अंगूठा छाप) कहते हैं।",1,Affirmative,NLP Parsed (VERB),Locative/Existential,Root Word: कहते
+SUB_764,Subtitle,3 Idiots,"इस लड़के को विद्या चाहिए, और मुझे सिर्फ डिग्री।",0,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: चाहिए
+SUB_765,Subtitle,3 Idiots,जैसा चल रहा है वैसा चलने दें।,1,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: चलने
+SUB_766,Subtitle,3 Idiots,इंजीनियर बनाइये इस लौंडे को।,0,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: बनाइये
+SUB_767,Subtitle,3 Idiots,और मुझे रणछोड़दास के नाम की डिग्री उस दीवार पर चाहिए।,0,Affirmative,NLP Parsed (VERB),Locative/Existential,Root Word: चाहिए
+SUB_768,Subtitle,3 Idiots,' वह वाकई तुम दोनों को बहुत याद करता है।,1,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: करता
+SUB_769,Subtitle,3 Idiots,"मैं तुम्हें उसका पता दे दूँगा, चले जाओ उसके पास।",0,Affirmative,NLP Parsed (VERB),Locative/Existential,Root Word: दे
+SUB_770,Subtitle,3 Idiots,पर प्लीज मेरा सीक्रेट रखना।,0,Affirmative,NLP Parsed (VERB),Locative/Existential,Root Word: रखना।
+SUB_771,Subtitle,3 Idiots,कौन सा सीक्रेट?,0,Affirmative,NLP Parsed (NOUN),Equational/Nominal,Root Word: सीक्रेट
+SUB_772,Subtitle,3 Idiots,सर आप गलत लोटा ले आए।,0,Affirmative,NLP Parsed (VERB),Adjectival,Root Word: ले
+SUB_773,Subtitle,3 Idiots,पापा इसमें हैं।,1,Affirmative,NLP Parsed (PRON),Locative/Existential,Root Word: इसमें
+SUB_774,Subtitle,3 Idiots,अबे क्या हो रहा है?,1,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: हो
+SUB_775,Subtitle,3 Idiots,कॉम्प्लिकेटेड स्टोरी है।,1,Affirmative,NLP Parsed (NOUN),Equational/Nominal,Root Word: स्टोरी
+SUB_776,Subtitle,3 Idiots,बिना सबटाइटल्स के।,0,Negative,NLP Parsed (NOUN),Locative/Existential,Root Word: सबटाइटल्स
+SUB_777,Subtitle,3 Idiots,रणछो से मिलने।,0,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: मिलने
+SUB_778,Subtitle,3 Idiots,वह लद्दाख में क्या कर रहा है?,1,Affirmative,NLP Parsed (VERB),Locative/Existential,Root Word: कर
+SUB_779,Subtitle,3 Idiots,हमारे पास एक स्कूल का पता है।,1,Affirmative,NLP Parsed (NOUN),Equational/Nominal,Root Word: पता
+SUB_780,Subtitle,3 Idiots,"मैं रॉकलेज कॉर्पोरेशन का वाइस प्रेसिडेंट हूँ, और वो... 'A' फॉर एप्पल, 'B' फॉर बॉल... 'D' फॉर डोंकी मैन!",1,Affirmative,NLP Parsed (NOUN),Equational/Nominal,Root Word: प्रेसिडेंट
+SUB_781,Subtitle,3 Idiots,अगले हफ्ते मैं फुंसुख वांगडू के साथ मल्टी-मिलियन डॉलर डील साइन करूँगा।,0,Affirmative,NLP Parsed (VERB),Adjectival,Root Word: करूँगा
+SUB_782,Subtitle,3 Idiots,"नील आर्मस्ट्रांग, सर।",0,Affirmative,NLP Parsed (PROPN),Equational/Nominal,Root Word: आर्मस्ट्रांग
+SUB_783,Subtitle,3 Idiots,"जाहिर है, नील आर्मस्ट्रांग।",1,Affirmative,NLP Parsed (ADJ),Adjectival,Root Word: जाहिर
+SUB_784,Subtitle,3 Idiots,हम सब जानते हैं।,1,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: जानते
+SUB_785,Subtitle,3 Idiots,अपना वक्त बर्बाद मत करो।,0,Negative,NLP Parsed (VERB),Adjectival,Root Word: कर
+SUB_786,Subtitle,3 Idiots,यह ज़रूरी नहीं है।,1,Negative,NLP Parsed (ADJ),Adjectival,Root Word: ज़रूरी
+SUB_787,Subtitle,3 Idiots,कोई भी उस आदमी को याद नहीं रखता जो दूसरे नंबर पर आता है।,1,Negative,NLP Parsed (VERB),Locative/Existential,Root Word: रखता
+SUB_788,Subtitle,3 Idiots,"जल्द ही, 26 कंपनियाँ यहाँ जॉब ऑफर्स लेकर आएँगी।",0,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: आएँगी
+SUB_789,Subtitle,3 Idiots,"यह तुम्हारी आखिरी दौड़ है, मेरे दोस्तों।",1,Affirmative,NLP Parsed (NOUN),Equational/Nominal,Root Word: दौड़
+SUB_790,Subtitle,3 Idiots,पूरी ताकत लगा दो।,0,Affirmative,NLP Parsed (VERB),Adjectival,Root Word: लगा
+SUB_791,Subtitle,3 Idiots,बाहर जाओ और इतिहास बनाओ!,0,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: जाओ
+SUB_792,Subtitle,3 Idiots,"सर, फर्ज़ कीजिए कि किसी स्टूडेंट को नौकरी मिल जाए... लेकिन वह फाइनल एग्जाम में एक-दो नंबर से फेल हो जाए, तो क्या नौकरी रहेगी?",1,Affirmative,NLP Parsed (VERB),Locative/Existential,Root Word: रहेगी
+SUB_793,Subtitle,3 Idiots,बहुत अच्छा सवाल।,0,Affirmative,NLP Parsed (NOUN),Equational/Nominal,Root Word: सवाल।
+SUB_794,Subtitle,3 Idiots,किसी और के मन में भी यही सवाल है?,1,Affirmative,NLP Parsed (NOUN),Locative/Existential,Root Word: सवाल
+SUB_795,Subtitle,3 Idiots,कृपया स्टेज पर आइए।,0,Affirmative,NLP Parsed (VERB),Locative/Existential,Root Word: आइए।
+SUB_796,Subtitle,3 Idiots,इनके लिए ज़ोरदार तालियाँ।,0,Affirmative,NLP Parsed (NOUN),Equational/Nominal,Root Word: तालियाँ
+SUB_797,Subtitle,3 Idiots,पिछले चार सालों से... ये हमारे सबसे 'कंसिस्टेंट' (लगातार एक जैसा प्रदर्शन करने वाले) छात्र रहे हैं।,1,Affirmative,NLP Parsed (VERB),Adjectival,Root Word: रहे
+SUB_798,Subtitle,3 Idiots,हर एग्जाम में लगातार आखिरी नंबर पर आए हैं।,1,Affirmative,NLP Parsed (VERB),Locative/Existential,Root Word: आए
+SUB_799,Subtitle,3 Idiots,"आइए मेरे जीनियसों, आइए।",0,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: आइए
+SUB_800,Subtitle,3 Idiots,इनके दिमाग की बाज़ार में बहुत अच्छी कीमत मिलेगी।,0,Affirmative,NLP Parsed (VERB),Locative/Existential,Root Word: मिलेगी
+SUB_801,Subtitle,3 Idiots,और इनके सवाल का जवाब ये है— एग्जाम का इनकी नौकरियों पर कोई असर नहीं पड़ेगा।,0,Negative,NLP Parsed (PRON),Locative/Existential,Root Word: ये
+SUB_802,Subtitle,3 Idiots,क्योंकि कोई भी कंपनी इन्हें काम पर रखेगी ही नहीं!,0,Negative,NLP Parsed (VERB),Locative/Existential,Root Word: रखेगी
+SUB_803,Subtitle,3 Idiots,ये इतने अनोखे हैं कि इनके नाम सोने के अक्षरों में लिखे जाएँगे— 'फरहानिट्रेट' और 'प्राराजुलाइज़ेशन'।,1,Affirmative,NLP Parsed (ADJ),Locative/Existential,Root Word: अनोखे
+SUB_804,Subtitle,3 Idiots,सब मिलकर इनके लिए तालियाँ बजाएँ।,0,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: बजाएँ
+SUB_805,Subtitle,3 Idiots,साले ने सबके सामने बेइज्जती कर दी।,0,Affirmative,NLP Parsed (VERB),Locative/Existential,Root Word: कर
+SUB_806,Subtitle,3 Idiots,"भगवान, मैं नॉन-वेज छोड़ दूँगा, हज़ार अगरबत्तियाँ जलाऊँगा।",0,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: छोड़
+SUB_807,Subtitle,3 Idiots,बस एक काम कर दे— वायरस को इस दुनिया से उठा ले!,0,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: कर
+SUB_808,Subtitle,3 Idiots,नरक में जला उसे।,0,Affirmative,NLP Parsed (VERB),Locative/Existential,Root Word: जला
+SUB_809,Subtitle,3 Idiots,"खोलते तेल में उसके पकौड़े बना, भगवान!",0,Affirmative,NLP Parsed (VERB),Locative/Existential,Root Word: बना
+SUB_810,Subtitle,3 Idiots,तुझे लगता है भगवान कोई सुपारी किलर है?,1,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: लगता
+SUB_811,Subtitle,3 Idiots,तू चुप रह।,0,Affirmative,NLP Parsed (VERB),Adjectival,Root Word: रह।
+SUB_812,Subtitle,3 Idiots,तू हर साल वायरस के साथ सेंटर में बैठकर फोटो खिंचवाता है।,1,Affirmative,NLP Parsed (VERB),Locative/Existential,Root Word: खिंचवाता
+SUB_813,Subtitle,3 Idiots,हम साले कोने में सड़ रहे होते हैं।,1,Affirmative,NLP Parsed (VERB),Locative/Existential,Root Word: सड़
+SUB_814,Subtitle,3 Idiots,इस साल तो लगता है हम फोटो के बाहर ही लुढ़क जाएँगे।,1,Affirmative,NLP Parsed (VERB),Locative/Existential,Root Word: लगता
+SUB_815,Subtitle,3 Idiots,पता है मैं फर्स्ट क्यों आता हूँ?,1,Affirmative,NLP Parsed (AUX),Equational/Nominal,Root Word: है
+SUB_816,Subtitle,3 Idiots,क्योंकि मुझे मशीनों से प्यार है।,1,Affirmative,NLP Parsed (NOUN),Equational/Nominal,Root Word: प्यार
+SUB_817,Subtitle,3 Idiots,इंजीनियरिंग मेरा पैशन (जुनून) है।,1,Affirmative,NLP Parsed (NOUN),Equational/Nominal,Root Word: पैशन
+SUB_818,Subtitle,3 Idiots,तेरा पैशन पता है क्या है?,1,Affirmative,NLP Parsed (PRON),Equational/Nominal,Root Word: क्या
+SUB_819,Subtitle,3 Idiots,वो मेरा बैग है।,1,Affirmative,NLP Parsed (NOUN),Equational/Nominal,Root Word: बैग
+SUB_820,Subtitle,3 Idiots,तू क्या कर रहा है रणछो?,1,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: कर
+SUB_821,Subtitle,3 Idiots,ये... है तेरा पैशन।,1,Affirmative,NLP Parsed (PRON),Equational/Nominal,Root Word: ये...
+SUB_822,Subtitle,3 Idiots,जाकर यह खत पोस्ट कर।,0,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: कर
+SUB_823,Subtitle,3 Idiots,क्या खत है?,1,Affirmative,NLP Parsed (NOUN),Equational/Nominal,Root Word: खत
+SUB_824,Subtitle,3 Idiots,"पर अपने पिता, हिटलर कुरैशी के डर से उसने यह खत कभी पोस्ट ही नहीं किया।",0,Negative,NLP Parsed (VERB),Locative/Existential,Root Word: किया
+SUB_825,Subtitle,3 Idiots,"इंजीनियरिंग छोड़, फोटोग्राफी से शादी कर।",0,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: कर
+SUB_826,Subtitle,3 Idiots,अपने टैलेंट के पीछे भाग।,0,Affirmative,NLP Parsed (VERB),Locative/Existential,Root Word: भा
+SUB_827,Subtitle,3 Idiots,अगर लता मंगेशकर के पिता ने उनसे कहा होता कि तू फास्ट बॉलर बन जा... या सचिन तेंदुलकर के पिता ने उनसे कहा होता कि तू सिंगर बन जा... तो सोच आज वो कहाँ होते?,0,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: कहा
+SUB_828,Subtitle,3 Idiots,तू समझ रहा है मैं क्या कह रहा हूँ?,1,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: समझ
+SUB_829,Subtitle,3 Idiots,"इश्क करता है जानवरों से, और शादी कर रहा है मशीनों से!",1,Affirmative,NLP Parsed (NOUN),Locative/Existential,Root Word: मशीनों
+SUB_830,Subtitle,3 Idiots,"बाबा रणछोड़दास, मेरी गर्लफ्रेंड और बीवी दोनों इंजीनियरिंग हैं।",1,Affirmative,NLP Parsed (NOUN),Equational/Nominal,Root Word: इंजीनियरिंग
+SUB_831,Subtitle,3 Idiots,फिर भी मैं लास्ट क्यों आता हूँ?,1,Affirmative,NLP Parsed (VERB),Adjectival,Root Word: आता
+SUB_832,Subtitle,3 Idiots,क्योंकि तू डरपोक है।,1,Affirmative,NLP Parsed (ADJ),Adjectival,Root Word: डरपोक
+SUB_833,Subtitle,3 Idiots,भविष्य से डरता है।,1,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: डरता
+SUB_834,Subtitle,3 Idiots,"ये देख—उंगलियाँ कम हैं, अँगूठियाँ ज़्यादा हैं।",1,Affirmative,NLP Parsed (DET),Equational/Nominal,Root Word: कम
+SUB_835,Subtitle,3 Idiots,"हर डर के लिए एक अँगूठी—एग्जाम, बहन की शादी, नौकरी।",0,Affirmative,NLP Parsed (NOUN),Equational/Nominal,Root Word: अँगूठी
+SUB_836,Subtitle,3 Idiots,"कल से इतना डरेगा, तो आज क्या खाक जियेगा?",0,Affirmative,NLP Parsed (VERB),Adjectival,Root Word: जियेगा
+SUB_837,Subtitle,3 Idiots,पढ़ाई पर फोकस कैसे करेगा?,0,Affirmative,NLP Parsed (VERB),Locative/Existential,Root Word: करेगा
+SUB_838,Subtitle,3 Idiots,अजीब दोस्त मिले हैं।,1,Affirmative,NLP Parsed (VERB),Adjectival,Root Word: मिले
+SUB_839,Subtitle,3 Idiots,"एक डर-डर के जीता है, दूसरा मर-मर के।",1,Affirmative,NLP Parsed (VERB),Adjectival,Root Word: जीता
+SUB_840,Subtitle,3 Idiots,तू तो साले दोनों करता है!,1,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: करता
+SUB_841,Subtitle,3 Idiots,डरता भी है और मरता भी है!,1,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: डरता
+SUB_842,Subtitle,3 Idiots,तू पिया से प्यार करता है पर बोलने से डरता है... इसलिए नाटक करता है कि नहीं करता।,1,Negative,NLP Parsed (VERB),Locative/Existential,Root Word: करता
+SUB_843,Subtitle,3 Idiots,क्या बकवास है!,1,Affirmative,NLP Parsed (ADJ),Adjectival,Root Word: बकवास
+SUB_844,Subtitle,3 Idiots,"फ्री एडवाइस (मुफ्त सलाह) देना आसान है, करना मुश्किल।",1,Affirmative,NLP Parsed (VERB),Adjectival,Root Word: है
+SUB_845,Subtitle,3 Idiots,तो जाकर पिया को बोल!,0,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: बोल
+SUB_846,Subtitle,3 Idiots,कोई कनेक्शन नहीं है!,1,Negative,NLP Parsed (NOUN),Equational/Nominal,Root Word: कनेक्शन
+SUB_847,Subtitle,3 Idiots,"मेरी बात सुन, अगर तू पिया को जाकर अपने दिल की बात बोलेगा... तो मैं भी अब्बा से जाकर बोलूँगा कि मुझे फोटोग्राफर बनना है, इंजीनियर नहीं।",1,Negative,NLP Parsed (VERB),Locative/Existential,Root Word: बोलूँगा
+SUB_848,Subtitle,3 Idiots,और मैं भी अपनी अँगूठियाँ उतारकर इंटरव्यू देने जाऊँगा।,0,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: देने
+SUB_849,Subtitle,3 Idiots,बाबा की बोलती बंद!,0,Affirmative,NLP Parsed (ADJ),Adjectival,Root Word: बंद
+SUB_850,Subtitle,3 Idiots,मैं एंटी-वायरस हूँ।,1,Affirmative,NLP Parsed (NOUN),Equational/Nominal,Root Word: एंटी-वायरस
+SUB_851,Subtitle,3 Idiots,"देख लो भाई, कोई कुत्ता-वुत्ता तो नहीं है।",1,Negative,NLP Parsed (VERB),Equational/Nominal,Root Word: देख
+SUB_852,Subtitle,3 Idiots,डरपोक कहीं के!,0,Affirmative,NLP Parsed (PRON),Locative/Existential,Root Word: कहीं
+SUB_853,Subtitle,3 Idiots,सावधान—अंदर वायरस है।,1,Affirmative,NLP Parsed (NOUN),Equational/Nominal,Root Word: वायरस
+SUB_854,Subtitle,3 Idiots,बैकग्राउंड म्यूजिक चाहिए?,0,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: चाहिए
+SUB_855,Subtitle,3 Idiots,पिया... चिल्लाओ मत!,0,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: मत!
+SUB_856,Subtitle,3 Idiots,"मैं हूँ, रणछो।",1,Affirmative,NLP Parsed (PRON),Equational/Nominal,Root Word: मैं
+SUB_857,Subtitle,3 Idiots,"बस एक मिनट मेरी बात सुन लो, फिर मैं चला जाऊँगा।",0,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: चला
+SUB_858,Subtitle,3 Idiots,मैं तुम्हारे साथ स्कूटर पर पूरी उम्र गुज़ार सकता हूँ।,1,Affirmative,NLP Parsed (VERB),Locative/Existential,Root Word: गुज़ार
+SUB_859,Subtitle,3 Idiots,...और वक्त ठहर जाता है।,1,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: ठहर
+SUB_860,Subtitle,3 Idiots,हर रात तुम दुल्हन की तरह तैयार होकर मेरे सपनों में स्कूटर पर आती हो।,1,Affirmative,NLP Parsed (VERB),Locative/Existential,Root Word: आती
+SUB_861,Subtitle,3 Idiots,तुम घूंघट की जगह अपना हेलमेट उठाती हो... और मुझे किस (Kiss) करने के लिए करीब आती हो।,1,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: आती
+SUB_862,Subtitle,3 Idiots,पर वो किस हो नहीं पाती।,1,Negative,NLP Parsed (VERB),Locative/Existential,Root Word: हो
+SUB_863,Subtitle,3 Idiots,"क्योंकि नाक बीच में आ जाती है, और फिर मैं जाग जाता हूँ।",1,Affirmative,NLP Parsed (VERB),Locative/Existential,Root Word: आ
+SUB_864,Subtitle,3 Idiots,"नाक बीच में नहीं आती, स्टुपिड!",0,Negative,NLP Parsed (VERB),Locative/Existential,Root Word: आती
+SUB_865,Subtitle,3 Idiots,"आई ऍम सॉरी, मुझे लगा तुम पिया हो।",1,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: पिया
+SUB_866,Subtitle,3 Idiots,"दीदी, आपने बीच में क्यों टोका?",0,Affirmative,NLP Parsed (VERB),Locative/Existential,Root Word: टोका
+SUB_867,Subtitle,3 Idiots,उसे यह कहने में चार साल लग गए।,0,Affirmative,NLP Parsed (VERB),Locative/Existential,Root Word: लग
+SUB_868,Subtitle,3 Idiots,"पिया, इसे किस करके बताओ कि नाक बीच में नहीं आती।",0,Negative,NLP Parsed (VERB),Locative/Existential,Root Word: बताओ
+SUB_869,Subtitle,3 Idiots,"मेरी परमिशन है, किस करो इसे... यह कितना प्यारा है!",1,Affirmative,NLP Parsed (ADJ),Locative/Existential,Root Word: प्यारा
+SUB_870,Subtitle,3 Idiots,ये कौन है?,1,Affirmative,NLP Parsed (PRON),Equational/Nominal,Root Word: कौन
+SUB_871,Subtitle,3 Idiots,तुम कौन हो?,1,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: हो
+SUB_872,Subtitle,3 Idiots,तुम्हें कैसे मालूम कि यह 'बेटा' है या 'बेटी'?,1,Affirmative,NLP Parsed (ADJ),Adjectival,Root Word: मालूम
+SUB_873,Subtitle,3 Idiots,"ओय चैंपियन, तू अंदर ही रह भाई।",0,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: रह
+SUB_874,Subtitle,3 Idiots,बाहर बहुत बड़ा सर्कस है।,1,Affirmative,NLP Parsed (NOUN),Equational/Nominal,Root Word: सर्कस
+SUB_875,Subtitle,3 Idiots,तेरा नाना इस सर्कस का रिंगमास्टर है।,1,Affirmative,NLP Parsed (NOUN),Equational/Nominal,Root Word: रिंगमास्टर
+SUB_876,Subtitle,3 Idiots,वह चाबुक चलाएगा— 'भागो!,0,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: चलाएगा
+SUB_877,Subtitle,3 Idiots,लाइफ एक रेस है।,1,Affirmative,NLP Parsed (NOUN),Equational/Nominal,Root Word: रेस
+SUB_878,Subtitle,3 Idiots,' पर तू वही करना जो तेरा दिल कहे।,0,Affirmative,NLP Parsed (VERB),Locative/Existential,Root Word: करना
+SUB_879,Subtitle,3 Idiots,"अगर नाना डराए... तो अपने दिल पर हाथ रखना और बोलना, 'ऑल इज़ वेल'।",0,Affirmative,NLP Parsed (VERB),Locative/Existential,Root Word: रखना
+SUB_880,Subtitle,3 Idiots,इसने लात मारी!,0,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: मारी
+SUB_881,Subtitle,3 Idiots,फिर से बोलो।,0,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: बोलो।
+SUB_882,Subtitle,3 Idiots,ऑल इज़ वेल।,0,Affirmative,NLP Parsed (PROPN),Equational/Nominal,Root Word: वेल।
+SUB_883,Subtitle,3 Idiots,फिर से मारी!,0,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: मारी
+SUB_884,Subtitle,3 Idiots,एक बार और।,0,Affirmative,NLP Parsed (NOUN),Equational/Nominal,Root Word: बार
+SUB_885,Subtitle,3 Idiots,ऑल इज़ वेल!,0,Affirmative,NLP Parsed (PROPN),Equational/Nominal,Root Word: वेल
+SUB_886,Subtitle,3 Idiots,कौन है वहाँ?,1,Affirmative,NLP Parsed (PRON),Equational/Nominal,Root Word: कौन
+SUB_887,Subtitle,3 Idiots,अब्बा को चिट्ठी भेजता है!,1,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: भेजता
+SUB_888,Subtitle,3 Idiots,ये ले—हमारी तरफ से—पी-मेल (Pee-mail)!,0,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: ले—
+SUB_889,Subtitle,3 Idiots,"एंजॉय द पी-मेल, हैप्पी रीडिंग!",0,Affirmative,NLP Parsed (PROPN),Equational/Nominal,Root Word: पी-मेल
+SUB_890,Subtitle,3 Idiots,"सिक्योरिटी, उस तरफ!",0,Affirmative,NLP Parsed (NOUN),Equational/Nominal,Root Word: सिक्योरिटी
+SUB_891,Subtitle,3 Idiots,तो आप सभी ने पहले ही 'सिंपल पेंडुलम' (सरल लोलक) के बारे में पढ़ लिया है।,1,Affirmative,NLP Parsed (VERB),Locative/Existential,Root Word: पढ़
+SUB_892,Subtitle,3 Idiots,अब हम 'कंपाउंड पेंडुलम' (मिश्रित लोलक) के उन्नत अध्ययन पर आते हैं।,1,Affirmative,NLP Parsed (VERB),Locative/Existential,Root Word: आते
+SUB_893,Subtitle,3 Idiots,यह एक अनियमित वस्तु है जो अपनी धुरी पर दोलन (oscillate) करती है।,1,Affirmative,NLP Parsed (NOUN),Locative/Existential,Root Word: वस्तु
+SUB_894,Subtitle,3 Idiots,Let me demonstrate to you यह क्या है?,1,Affirmative,NLP Parsed (PRON),Equational/Nominal,Root Word: क्या
+SUB_895,Subtitle,3 Idiots,इसके अंदर क्या है?,1,Affirmative,NLP Parsed (PRON),Locative/Existential,Root Word: क्या
+SUB_896,Subtitle,3 Idiots,लेड इस पेंसिल की धुरी (axis) है।,1,Affirmative,NLP Parsed (NOUN),Locative/Existential,Root Word: धुरी
+SUB_897,Subtitle,3 Idiots,"यहाँ तक कि आप भी एक कंपाउंड पेंडुलम हो सकते हैं, अगर आप अपनी धुरी पर दोलन करें... राजू रस्तोगी कहाँ है?",1,Affirmative,NLP Parsed (PRON),Locative/Existential,Root Word: कहाँ
+SUB_898,Subtitle,3 Idiots,सब लोग यहीं हैं।,1,Affirmative,NLP Parsed (PRON),Equational/Nominal,Root Word: यहीं
+SUB_899,Subtitle,3 Idiots,"गुड मॉर्निंग, सर।",0,Affirmative,NLP Parsed (PROPN),Equational/Nominal,Root Word: मॉर्निंग
+SUB_900,Subtitle,3 Idiots,"हाँ सर, दो रात से सोया नहीं है, इसलिए ऐसा दिख रहा है।",1,Negative,NLP Parsed (VERB),Equational/Nominal,Root Word: दिख
+SUB_901,Subtitle,3 Idiots,"इंडक्शन मोटर, सर।",0,Affirmative,NLP Parsed (NOUN),Equational/Nominal,Root Word: मोटर
+SUB_902,Subtitle,3 Idiots,पूरा चैप्टर पढ़ लिया इसने।,0,Affirmative,NLP Parsed (VERB),Adjectival,Root Word: पढ़
+SUB_903,Subtitle,3 Idiots,"उस स्थिति में, मिस्टर राजू रस्तोगी... यस सर!",0,Affirmative,NLP Parsed (NOUN),Locative/Existential,Root Word: यस
+SUB_904,Subtitle,3 Idiots,क्या तुम हमें बता सकते हो कि इंडक्शन मोटर कैसे शुरू होती है?,1,Affirmative,NLP Parsed (VERB),Locative/Existential,Root Word: बता
+SUB_905,Subtitle,3 Idiots,मेरे ऑफिस में चलकर एक कप चाय पीते हैं।,1,Affirmative,NLP Parsed (VERB),Locative/Existential,Root Word: पीते
+SUB_906,Subtitle,3 Idiots,दरवाजा बंद करो।,0,Affirmative,NLP Parsed (VERB),Adjectival,Root Word: कर
+SUB_907,Subtitle,3 Idiots,क्या तुम्हें टाइपिंग आती है?,1,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: आती
+SUB_908,Subtitle,3 Idiots,क्या तुम मेरे लिए एक लेटर टाइप करोगे?,0,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: करोगे
+SUB_909,Subtitle,3 Idiots,"सर, आई ऍम सॉरी सर... टाइप करो।",0,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: कर
+SUB_910,Subtitle,3 Idiots,"आपका बेटा, मिस्टर राजू रस्तोगी... इंपीरियल कॉलेज ऑफ इंजीनियरिंग से निकाला जाता है।",1,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: निकाला
+SUB_911,Subtitle,3 Idiots,"चलो, टाइप करो।",0,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: कर
+SUB_912,Subtitle,3 Idiots,"सर, पापा मर जाएँगे।",0,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: मर
+SUB_913,Subtitle,3 Idiots,मेरा फैसला अंतिम है और इसे बदला नहीं जा सकता।,1,Negative,NLP Parsed (ADJ),Adjectival,Root Word: अंतिम
+SUB_914,Subtitle,3 Idiots,"वो ज़िंदा सिर्फ इसलिए हैं कि मुझे इंजीनियर बनता देख सकें, सर।",1,Affirmative,NLP Parsed (PRON),Equational/Nominal,Root Word: इसलिए
+SUB_915,Subtitle,3 Idiots,"सर, एक मौका दे दीजिए... प्लीज।",0,Affirmative,NLP Parsed (PUNCT),Equational/Nominal,Root Word: प्लीज।
+SUB_916,Subtitle,3 Idiots,"ठीक है, लेटर में से अपना नाम निकाल दो... और रणछोड़दास का नाम डाल दो।",1,Affirmative,NLP Parsed (VERB),Locative/Existential,Root Word: डाल
+SUB_917,Subtitle,3 Idiots,मेरे गवाह बन जाओ और मैं तुम्हें छोड़ दूँगा।,0,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: बन
+SUB_918,Subtitle,3 Idiots,तुम्हारे पास सोचने के लिए साढ़े सात मिनट हैं।,1,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: हैं
+SUB_919,Subtitle,3 Idiots,"जाने नहीं देंगे तुझे जाने तुझे देंगे नहीं चाहे तुझको रब बुला ले हम ना रब से डरने वाले राहों में डट के खड़े हैं हम यारों से नज़रें चुरा ले चाहे कितना दम लगा ले जाने ना तुझको ऐसे देंगे हम जाने नहीं देंगे तुझे जाने तुझे देंगे नहीं रणछो, उस मॉनिटर को देखो।",1,Negative,NLP Parsed (VERB),Locative/Existential,Root Word: देंगे
+SUB_920,Subtitle,3 Idiots,"शॉक की वजह से उसकी बॉडी पैरालाइज्ड (लकवाग्रस्त) है, पर दिमाग अलर्ट है।",1,Affirmative,NLP Parsed (VERB),Locative/Existential,Root Word: है
+SUB_921,Subtitle,3 Idiots,"वो हमें देख सकता है, सुन सकता है।",1,Affirmative,NLP Parsed (VERB),Locative/Existential,Root Word: देख
+SUB_922,Subtitle,3 Idiots,"प्लीज आंटी, उसके सामने रोना मत।",0,Affirmative,NLP Parsed (VERB),Locative/Existential,Root Word: मत।
+SUB_923,Subtitle,3 Idiots,"उससे नॉर्मल बातें करो, मोटिवेट करो, जोक्स सुनाओ।",0,Affirmative,NLP Parsed (VERB),Adjectival,Root Word: करो
+SUB_924,Subtitle,3 Idiots,"चल, अब जाग भी जा।",0,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: जाग
+SUB_925,Subtitle,3 Idiots,तेरे बाबा पिया का स्कूटर मांग रहे हैं।,1,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: मांग
+SUB_926,Subtitle,3 Idiots,क्या बोलता है—दे दूँ?,0,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: बोलता
+SUB_927,Subtitle,3 Idiots,ठोक तो नहीं देंगे?,0,Negative,NLP Parsed (VERB),Equational/Nominal,Root Word: देंगे
+SUB_928,Subtitle,3 Idiots,"राजू, फरहान वेबकैम पर लाइव है।",1,Affirmative,NLP Parsed (ADJ),Locative/Existential,Root Word: लाइव
+SUB_929,Subtitle,3 Idiots,ये देख—वायरस ने तेरा सस्पेंशन ऑर्डर कैंसिल कर दिया है।,1,Affirmative,NLP Parsed (VERB),Locative/Existential,Root Word: कर
+SUB_930,Subtitle,3 Idiots,प्रॉब्लम सॉल्व्ड... अब तो उठ जा।,0,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: उठ
+SUB_931,Subtitle,3 Idiots,तू सुन रहा है?,1,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: सुन
+SUB_932,Subtitle,3 Idiots,उठ जा भाई।,0,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: भाई
+SUB_933,Subtitle,3 Idiots,दो कदम का ये सफर है उम्र छोटी सी डगर है एक कदम में लड़खड़ाए क्यों?,1,Affirmative,NLP Parsed (NOUN),Locative/Existential,Root Word: सफर
+SUB_934,Subtitle,3 Idiots,"जाने नहीं देंगे तुझे... ये देख, माँ ने साड़ी खरीदी है, नई साड़ी!",1,Negative,NLP Parsed (VERB),Adjectival,Root Word: खरीदी
+SUB_935,Subtitle,3 Idiots,"पूरे दो हज़ार की है, बेटा!",1,Affirmative,NLP Parsed (NUM),Locative/Existential,Root Word: हज़ार
+SUB_936,Subtitle,3 Idiots,"ओए, अब तो उठ जा साले... एक नहीं, दस साड़ियाँ खरीदी हैं, दस!",1,Negative,NLP Parsed (VERB),Equational/Nominal,Root Word: खरीदी
+SUB_937,Subtitle,3 Idiots,"बोल ना, कैसी लग रही हूँ?",1,Negative,NLP Parsed (VERB),Equational/Nominal,Root Word: लग
+SUB_938,Subtitle,3 Idiots,तूने सुना कामो के बारे में?,0,Affirmative,NLP Parsed (VERB),Locative/Existential,Root Word: सुना
+SUB_939,Subtitle,3 Idiots,और वो भी बिना दहेज के!,0,Negative,NLP Parsed (NOUN),Locative/Existential,Root Word: दहेज
+SUB_940,Subtitle,3 Idiots,"दूल्हे को कुछ भी नहीं चाहिए... सिर्फ कामो चाहिए, कामो!",0,Negative,NLP Parsed (VERB),Equational/Nominal,Root Word: चाहिए
+SUB_941,Subtitle,3 Idiots,मालूम है दूल्हा कौन है?,1,Affirmative,NLP Parsed (ADJ),Adjectival,Root Word: मालूम
+SUB_942,Subtitle,3 Idiots,तू उसे बहुत अच्छी तरह जानता है।,1,Affirmative,NLP Parsed (VERB),Adjectival,Root Word: जानता
+SUB_943,Subtitle,3 Idiots,उसे जानवरों से बहुत प्यार है।,1,Affirmative,NLP Parsed (NOUN),Equational/Nominal,Root Word: प्यार
+SUB_944,Subtitle,3 Idiots,वो वाइल्डलाइफ फोटोग्राफर बनने वाला है!,1,Affirmative,NLP Parsed (VERB),Adjectival,Root Word: है
+SUB_945,Subtitle,3 Idiots,"चुप हो जा, क्या कर रहा है तू!",1,Affirmative,NLP Parsed (VERB),Adjectival,Root Word: कर
+SUB_946,Subtitle,3 Idiots,चुप हो जा... नहीं समझा?,1,Negative,NLP Parsed (VERB),Adjectival,Root Word: समझा
+SUB_947,Subtitle,3 Idiots,अरे अपना फरहान यार!,0,Affirmative,NLP Parsed (PROPN),Equational/Nominal,Root Word: फरहान
+SUB_948,Subtitle,3 Idiots,फरहान कभी दहेज नहीं लेगा यार अपनों से।,0,Negative,NLP Parsed (VERB),Equational/Nominal,Root Word: लेगा
+SUB_949,Subtitle,3 Idiots,फरहान करेगा तेरी बहन से शादी!,0,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: करेगा
+SUB_950,Subtitle,3 Idiots,और वो भी फ्री!,0,Affirmative,NLP Parsed (PRON),Equational/Nominal,Root Word: वो
+SUB_951,Subtitle,3 Idiots,वेल डन यार!,0,Affirmative,NLP Parsed (PROPN),Equational/Nominal,Root Word: डन
+SUB_952,Subtitle,3 Idiots,सब फिक्स हो गया—फरहान तेरी बहन से शादी करेगा।,1,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: हो
+SUB_953,Subtitle,3 Idiots,रणछो... कमीनो... कितना झूठ बोलोगे?,0,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: बोलोगे
+SUB_954,Subtitle,3 Idiots,जाने नहीं देंगे तुझे... जाने तुझे देंगे नहीं जाने नहीं देंगे तुझे... जाने तुझे देंगे नहीं जाने नहीं देंगे तुझे... 'Okra Rs.12/ kilo' आपने टैक्सी बुलाई है?,1,Negative,NLP Parsed (VERB),Adjectival,Root Word: बुलाई
+SUB_955,Subtitle,3 Idiots,मैंने बुलाई है।,1,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: बुलाई
+SUB_956,Subtitle,3 Idiots,जॉब इंटरव्यू के लिये जाना है।,1,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: जाना
+SUB_957,Subtitle,3 Idiots,अच्छा तू चल रहा है मेरे साथ?,1,Affirmative,NLP Parsed (VERB),Adjectival,Root Word: चल
+SUB_958,Subtitle,3 Idiots,तुझे तेरे घर ड्रॉप करूँगा और मैं जॉब इंटरव्यू के लिए जाऊँगा।,0,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: करूँगा
+SUB_959,Subtitle,3 Idiots,"साले, मैं घर क्यों जाऊँगा?",0,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: जाऊँगा
+SUB_960,Subtitle,3 Idiots,ला तेरी टाई दे -- क्यों?,0,Affirmative,NLP Parsed (NOUN),Equational/Nominal,Root Word: टाई
+SUB_961,Subtitle,3 Idiots,क्या है ये?,1,Affirmative,NLP Parsed (PRON),Equational/Nominal,Root Word: क्या
+SUB_962,Subtitle,3 Idiots,"चिट्ठी है कोई फोटोग्राफर है
+-- आन्द्रे इस्तवन।",1,Affirmative,NLP Parsed (NOUN),Equational/Nominal,Root Word: चिट्ठी
+SUB_963,Subtitle,3 Idiots,साले तुम लोगों ने मेरी चिट्ठी पोस्ट कर दी!,0,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: कर
+SUB_964,Subtitle,3 Idiots,तेरे फोटोज उसे बहुत पसंद आये।,0,Affirmative,NLP Parsed (VERB),Adjectival,Root Word: आये
+SUB_965,Subtitle,3 Idiots,तुझे असिस्टेंट बनाना चाहता है।,1,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: चाहता
+SUB_966,Subtitle,3 Idiots,"एक साल के लिए ब्राज़ीलियन रेन फॉरेस्ट में
+काम करने के लिए बुलाया है।",1,Affirmative,NLP Parsed (VERB),Locative/Existential,Root Word: बुलाया
+SUB_967,Subtitle,3 Idiots,कहता है तुझे सैलरी भी देगा।,1,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: कहता
+SUB_968,Subtitle,3 Idiots,अब्बा नहीं मानेंगे।,0,Negative,NLP Parsed (VERB),Equational/Nominal,Root Word: मानेंगे
+SUB_969,Subtitle,3 Idiots,"जा उनके पास,
+और प्यार से समझा उनको।",0,Affirmative,NLP Parsed (VERB),Locative/Existential,Root Word: समझा
+SUB_970,Subtitle,3 Idiots,आज डर मत फरहान।,0,Negative,NLP Parsed (NOUN),Equational/Nominal,Root Word: डर
+SUB_971,Subtitle,3 Idiots,क्या ख्याल है?,1,Affirmative,NLP Parsed (NOUN),Equational/Nominal,Root Word: ख्याल
+SUB_972,Subtitle,3 Idiots,पसन्द आयेगा उसे?,0,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: आयेगा
+SUB_973,Subtitle,3 Idiots,"आज साहबज़ादे को
+नौकरी मिल रही है।",1,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: मिल
+SUB_974,Subtitle,3 Idiots,"अब तो सर उठा कर फ़क्र से घूमने के दिन आ रहे हैं
+और तुम कंजूसी कर रही हो, हाँ!",1,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: आ
+SUB_975,Subtitle,3 Idiots,"मैं इंजीनियर नहीं बनना चाहता, अब्बा।",0,Negative,NLP Parsed (VERB),Equational/Nominal,Root Word: चाहता
+SUB_976,Subtitle,3 Idiots,यू हैड एन एक्सीडेंट?,0,Affirmative,NLP Parsed (PROPN),Equational/Nominal,Root Word: एक्सीडेंट
+SUB_977,Subtitle,3 Idiots,"वो शैतान रणछो
+अब भी तुम्हारे दिमाग से खेल रहा है।",1,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: खेल
+SUB_978,Subtitle,3 Idiots,मुझे नहीं समझ आती इंजीनियरिंग।,0,Negative,NLP Parsed (VERB),Equational/Nominal,Root Word: समझ
+SUB_979,Subtitle,3 Idiots,"रणछो बहुत सिंपल सी बात कहता है -
+जो काम में आपको मज़ा आये उसे अपना प्रोफेशन बनाओ।",1,Affirmative,NLP Parsed (VERB),Locative/Existential,Root Word: कहता
+SUB_980,Subtitle,3 Idiots,फिर काम काम नहीं खेल लगेगा।,0,Negative,NLP Parsed (VERB),Equational/Nominal,Root Word: लगेगा
+SUB_981,Subtitle,3 Idiots,"अब्बा, स्टाइपेंड ज़्यादा नहीं है, लेकिन सीखने को बहुत कुछ मिलेगा।",1,Negative,NLP Parsed (DET),Locative/Existential,Root Word: ज़्यादा
+SUB_982,Subtitle,3 Idiots,"पांच साल बाद जब... अपने दोस्तों को गाड़ी खरीदते, अपना घर बनाते
+देखोगे तो अपने आप को कोसोगे।",0,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: कोसोगे
+SUB_983,Subtitle,3 Idiots,इंजीनियर बनके फ्रस्ट्रेट हो जाऊँगा।,1,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: हो
+SUB_984,Subtitle,3 Idiots,"फिर ज़िन्दगी भर
+आप को कोसूँगा।",0,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: कोसूँगा
+SUB_985,Subtitle,3 Idiots,बेहतर यही है ना... कि मैं अपने आप को कोसूँ अब्बा।,1,Affirmative,NLP Parsed (PRON),Equational/Nominal,Root Word: यही
+SUB_986,Subtitle,3 Idiots,"अरे, हँसेंगे लोग।",0,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: हँसेंगे
+SUB_987,Subtitle,3 Idiots,कहेंगे कि फाइनल ईयर में आके छोड़ दिया।,0,Affirmative,NLP Parsed (VERB),Locative/Existential,Root Word: कहेंगे
+SUB_988,Subtitle,3 Idiots,वो क्या सोचेंगे?,0,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: सोचेंगे
+SUB_989,Subtitle,3 Idiots,"आप क्या सोचेंगे, फर्क पड़ता है।",1,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: सोचेंगे
+SUB_990,Subtitle,3 Idiots,"कपूर साहब क्या सोचेंगे, इससे मुझे कोई फर्क नहीं पड़ता।",0,Negative,NLP Parsed (VERB),Equational/Nominal,Root Word: सोचेंगे
+SUB_991,Subtitle,3 Idiots,अरे मुझे तो उनका पहला नाम तक नहीं पता।,0,Negative,NLP Parsed (VERB),Locative/Existential,Root Word: पता
+SUB_992,Subtitle,3 Idiots,फ़िल्म देख कर आये हो?,1,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: आये
+SUB_993,Subtitle,3 Idiots,ड्रामा कर रहे हो?,1,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: कर
+SUB_994,Subtitle,3 Idiots,बस भी कीजिये।,0,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: कीजिये
+SUB_995,Subtitle,3 Idiots,परेशान है बेचारा।,1,Affirmative,NLP Parsed (ADJ),Locative/Existential,Root Word: परेशान
+SUB_996,Subtitle,3 Idiots,"कुछ मत बोलो साहबज़ादे से, वरना छत से कूद पड़ेंगे।",0,Negative,NLP Parsed (VERB),Equational/Nominal,Root Word: कूद
+SUB_997,Subtitle,3 Idiots,मैं सुसाइड नहीं करूँगा।,0,Negative,NLP Parsed (VERB),Equational/Nominal,Root Word: करूँगा
+SUB_998,Subtitle,3 Idiots,"वो जो रणछो है ना, जिसे आप शैतान कहते हैं,
+उसने जबरदस्ती इसमें आपके और अम्मी का फोटो डलवाया।",1,Negative,NLP Parsed (VERB),Locative/Existential,Root Word: डलवाया
+SUB_999,Subtitle,3 Idiots,"अब्बा, मैं आपको कन्विंस करना चाहता हूँ।",1,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: चाहता
+SUB_1000,Subtitle,3 Idiots,पर ये सुसाइड की तलवार आपके सर पे लटका कर नहीं।,0,Negative,NLP Parsed (VERB),Locative/Existential,Root Word: लटका
+SUB_1001,Subtitle,3 Idiots,कम पैसे कमाऊँगा ना।,0,Negative,NLP Parsed (VERB),Equational/Nominal,Root Word: कमाऊँगा
+SUB_1002,Subtitle,3 Idiots,पर अब्बा मैं खुश रहूँगा।,0,Affirmative,NLP Parsed (VERB),Locative/Existential,Root Word: रहूँगा
+SUB_1003,Subtitle,3 Idiots,आई विल बी रियली हैप्पी।,0,Affirmative,NLP Parsed (PROPN),Equational/Nominal,Root Word: हैप्पी।
+SUB_1004,Subtitle,3 Idiots,आपके लिये जो भी करूँगा दिल से करूँगा।,0,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: करूँगा
+SUB_1005,Subtitle,3 Idiots,आज तक मैंने आपकी हर बात सुनी है।,1,Affirmative,NLP Parsed (VERB),Locative/Existential,Root Word: सुनी
+SUB_1006,Subtitle,3 Idiots,"आज बस एक बार
+मुझे अपने दिल की बात सुनने दीजिये ना।",0,Negative,NLP Parsed (VERB),Equational/Nominal,Root Word: ना
+SUB_1007,Subtitle,3 Idiots,अब्बा जाइये मत ना प्लीज़।,0,Negative,NLP Parsed (VERB),Equational/Nominal,Root Word: जाइये
+SUB_1008,Subtitle,3 Idiots,इसे वापिस कर देना।,0,Affirmative,NLP Parsed (VERB),Adjectival,Root Word: कर
+SUB_1009,Subtitle,3 Idiots,"बेटे, तुम्हारा वो प्रोफेशनल कैमरा कितने का आयेगा?",0,Affirmative,NLP Parsed (VERB),Adjectival,Root Word: आयेगा
+SUB_1010,Subtitle,3 Idiots,इस लैपटॉप के अगेंस्ट आ जायेगा ना?,0,Negative,NLP Parsed (VERB),Equational/Nominal,Root Word: आ
+SUB_1011,Subtitle,3 Idiots,अगर और पैसे लगे तो मांग लेना बेटा।,0,Affirmative,NLP Parsed (NOUN),Equational/Nominal,Root Word: मांग
+SUB_1012,Subtitle,3 Idiots,"जा बेटे, अपनी ज़िन्दगी जी ले।",0,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: जी
+SUB_1013,Subtitle,3 Idiots,आपके मार्क्स कंसिस्टेंटली पुअर हैं।,1,Affirmative,NLP Parsed (NOUN),Equational/Nominal,Root Word: पुअर
+SUB_1014,Subtitle,3 Idiots,कोई खास वजह?,0,Affirmative,NLP Parsed (NOUN),Equational/Nominal,Root Word: वजह
+SUB_1015,Subtitle,3 Idiots,मैं डरने लगा।,0,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: लगा
+SUB_1016,Subtitle,3 Idiots,मैं और डरने लगा।,0,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: लगा
+SUB_1017,Subtitle,3 Idiots,"डर ग्रेड्स के लिए अच्छा नहीं होता, सर।",0,Negative,NLP Parsed (VERB),Adjectival,Root Word: होता
+SUB_1018,Subtitle,3 Idiots,मैंने और ज़्यादा अंगूठियां और तावीज़ पहन लिए।,0,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: पहन
+SUB_1019,Subtitle,3 Idiots,पूजा करने लगा।,0,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: लगा
+SUB_1020,Subtitle,3 Idiots,"पूजा क्या, भगवान से भीख मांगने लगा।",0,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: लगा
+SUB_1021,Subtitle,3 Idiots,ये दे दो --- वो दे दो।,0,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: दे
+SUB_1022,Subtitle,3 Idiots,"सोलह हड्डियां टूटीं, दो महीने सोचने का मौका मिला।",0,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: मिला
+SUB_1023,Subtitle,3 Idiots,तब बात समझ आयी।,0,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: समझ
+SUB_1024,Subtitle,3 Idiots,"सर, आज मैंने भगवान से नहीं कहा कि मुझे यह जॉब दिला देना, मैंने सिर्फ हाथ जोड़े और इस लाइफ के लिए थैंक्यू बोला।",0,Negative,NLP Parsed (VERB),Equational/Nominal,Root Word: कहा
+SUB_1025,Subtitle,3 Idiots,क्योंकि मैं अपनी लाइफ के साथ कुछ ना कुछ वर्थव्हाइल कर ही लूँगा।,0,Negative,NLP Parsed (VERB),Adjectival,Root Word: कर
+SUB_1026,Subtitle,3 Idiots,"अगर आप रिजेक्ट कर दें ना सर, तो कोई अफ़सोस नहीं।",0,Negative,NLP Parsed (NOUN),Equational/Nominal,Root Word: अफ़सोस
+SUB_1027,Subtitle,3 Idiots,"देखिए, आपका इतना फ्रैंक बिहेवियर हमारी कंपनी के लिये ठीक नहीं है।",1,Negative,NLP Parsed (VERB),Adjectival,Root Word: देखिए
+SUB_1028,Subtitle,3 Idiots,क्लाइंट्स को हैंडल करने के लिए हमें एक डिप्लोमैटिक आदमी की ज़रूरत है।,1,Affirmative,NLP Parsed (VERB),Locative/Existential,Root Word: है
+SUB_1029,Subtitle,3 Idiots,आप कुछ ज़्यादा ही स्ट्रेटफॉरवर्ड हैं।,1,Affirmative,NLP Parsed (ADJ),Adjectival,Root Word: स्ट्रेटफॉरवर्ड
+SUB_1030,Subtitle,3 Idiots,पर... अगर आप हमें भरोसा दिलाएं कि आप अपने इस एटीट्यूड को कंट्रोल कर सकते हैं -- तो कुछ हो सकता है।,1,Affirmative,NLP Parsed (VERB),Locative/Existential,Root Word: हो
+SUB_1031,Subtitle,3 Idiots,"दोनों टांगें तुड़वा के अपने पैरों पे खड़ा होना सीखा है, सर।",1,Affirmative,NLP Parsed (VERB),Locative/Existential,Root Word: सीखा
+SUB_1032,Subtitle,3 Idiots,बड़ी मुश्किल से आया है ये एटीट्यूड।,1,Affirmative,NLP Parsed (VERB),Adjectival,Root Word: आया
+SUB_1033,Subtitle,3 Idiots,"नहीं बदलेगा, सर।",0,Negative,NLP Parsed (VERB),Equational/Nominal,Root Word: बदलेगा
+SUB_1034,Subtitle,3 Idiots,आप अपनी नौकरी रख लीजिये... मैं अपना एटीट्यूड रख लेता हूँ।,1,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: रख
+SUB_1035,Subtitle,3 Idiots,"आई एम सॉरी, डोंट माइंड सर।",0,Affirmative,NLP Parsed (PROPN),Equational/Nominal,Root Word: सॉरी
+SUB_1036,Subtitle,3 Idiots,पच्चीस साल से मैं रिक्रूटमेंट कर रहा हूँ।,1,Affirmative,NLP Parsed (VERB),Locative/Existential,Root Word: कर
+SUB_1037,Subtitle,3 Idiots,बहुत सारी इंटरव्यूज़ लिये हैं।,1,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: लिये
+SUB_1038,Subtitle,3 Idiots,जॉब पाने के लिये लोग हमारी हाँ में हाँ मिला ही लेते हैं।,1,Affirmative,NLP Parsed (VERB),Locative/Existential,Root Word: मिला
+SUB_1039,Subtitle,3 Idiots,तुम कहाँ से आये हो यार?,1,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: यार
+SUB_1040,Subtitle,3 Idiots,"जी, मैं-- सैलरी कितना लोगे भैया।",0,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: भैया
+SUB_1041,Subtitle,3 Idiots,डिस्कस कर लें?,0,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: कर
+SUB_1042,Subtitle,3 Idiots,"थैंक यू, सर!",0,Affirmative,NLP Parsed (PROPN),Equational/Nominal,Root Word: यू
+SUB_1043,Subtitle,3 Idiots,जहाँपनाह तुस्सी ग्रेट हो!,1,Affirmative,NLP Parsed (VERB),Adjectival,Root Word: हो
+SUB_1044,Subtitle,3 Idiots,तोहफ़ा कबूल करो!,0,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: करो
+SUB_1045,Subtitle,3 Idiots,ये क्या कर दिया?,0,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: कर
+SUB_1046,Subtitle,3 Idiots,ऐसा लग रहा है कि किसी ने मेरे कपड़े उतार दिये!,1,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: लग
+SUB_1047,Subtitle,3 Idiots,इज़्ज़त लूट ली मेरी!,0,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: लूट
+SUB_1048,Subtitle,3 Idiots,मैं हार नहीं मानूँगा रस्तोगी।,0,Negative,NLP Parsed (VERB),Equational/Nominal,Root Word: मानूँगा
+SUB_1049,Subtitle,3 Idiots,और इस बार पेपर मैं सेट करवाऊँगा।,0,Affirmative,NLP Parsed (VERB),Locative/Existential,Root Word: करवाऊँगा
+SUB_1050,Subtitle,3 Idiots,"डैड, दैट्स नॉट फेयर।",0,Affirmative,NLP Parsed (NOUN),Equational/Nominal,Root Word: फेयर।
+SUB_1051,Subtitle,3 Idiots,एवरीथिंग इज़ फेयर इन लव एंड वार।,0,Affirmative,NLP Parsed (PROPN),Equational/Nominal,Root Word: वार।
+SUB_1052,Subtitle,3 Idiots,तुम यहाँ क्या कर रही हो?,1,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: कर
+SUB_1053,Subtitle,3 Idiots,"संभाल, संभाल, ए!",0,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: संभाल
+SUB_1054,Subtitle,3 Idiots,तुमने पी रखी है।,1,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: पी
+SUB_1055,Subtitle,3 Idiots,दो या चार!,0,Affirmative,NLP Parsed (NUM),Equational/Nominal,Root Word: दो
+SUB_1056,Subtitle,3 Idiots,ये चुराने के लिये।,0,Affirmative,NLP Parsed (VERB),Locative/Existential,Root Word: चुराने
+SUB_1057,Subtitle,3 Idiots,वायरस की ऑफ़िस की डुप्लीकेट चाबी।,0,Affirmative,NLP Parsed (NOUN),Equational/Nominal,Root Word: चाबी।
+SUB_1058,Subtitle,3 Idiots,"लाल सील के एनवलोप में क्वेश्चन पेपर है, जो मॉम ने खुद सेट किया है --- राजू को फेल करने के लिए।",1,Affirmative,NLP Parsed (NOUN),Locative/Existential,Root Word: पेपर
+SUB_1059,Subtitle,3 Idiots,मैड और व्हाट?,0,Affirmative,NLP Parsed (PROPN),Equational/Nominal,Root Word: मैड
+SUB_1060,Subtitle,3 Idiots,"ये तो चीटिंग है यार, हट!",1,Affirmative,NLP Parsed (NOUN),Equational/Nominal,Root Word: चीटिंग
+SUB_1061,Subtitle,3 Idiots,एवरीथिंग्स फेयर इन लव एंड वार।,0,Affirmative,NLP Parsed (PROPN),Equational/Nominal,Root Word: वार।
+SUB_1062,Subtitle,3 Idiots,अच्छा एक बात बताओ।,0,Affirmative,NLP Parsed (VERB),Adjectival,Root Word: बताओ
+SUB_1063,Subtitle,3 Idiots,डू यू रियली फील... कि किस करने में नाक बीच में आती है?,1,Affirmative,NLP Parsed (VERB),Locative/Existential,Root Word: आती
+SUB_1064,Subtitle,3 Idiots,ढोकला खा लो।,0,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: खा
+SUB_1065,Subtitle,3 Idiots,यू गुजरातियों आर सो क्यूट।,0,Affirmative,NLP Parsed (PROPN),Equational/Nominal,Root Word: क्यूट।
+SUB_1066,Subtitle,3 Idiots,बट व्हाई डस योर फ़ूड साउंड सो डेंजरस?,0,Affirmative,NLP Parsed (PROPN),Equational/Nominal,Root Word: डेंजरस
+SUB_1067,Subtitle,3 Idiots,"ढोकला, फाफड़ा, हांडवो, थेपला, खाखरा।",0,Affirmative,NLP Parsed (NOUN),Equational/Nominal,Root Word: ढोकला
+SUB_1068,Subtitle,3 Idiots,साउंड लाइक मिसाइल्स।,0,Affirmative,NLP Parsed (PROPN),Equational/Nominal,Root Word: मिसाइल्स।
+SUB_1069,Subtitle,3 Idiots,"'टुडे बुश ड्रॉप्ड टू ढोकलाज़ ऑन इराक' '400 डेड, 200 इंजर्ड' कम ऑन।",0,Affirmative,NLP Parsed (DET),Equational/Nominal,Root Word: कम
+SUB_1070,Subtitle,3 Idiots,"ओह... आई कैन डील विद खाखरा, फाफड़ा।",0,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: आई
+SUB_1071,Subtitle,3 Idiots,बट योर नेम... 'रणछोड़दास शामलदास चांचड़' -- यक!,0,Affirmative,NLP Parsed (PRON),Equational/Nominal,Root Word: यक
+SUB_1072,Subtitle,3 Idiots,"मैं शादी के बाद अपना सरनेम नहीं चेंज करूँगी, हाँ!",0,Negative,NLP Parsed (VERB),Equational/Nominal,Root Word: करूँगी
+SUB_1073,Subtitle,3 Idiots,"पिया, हमारी शादी नहीं हो सकती।",1,Negative,NLP Parsed (VERB),Equational/Nominal,Root Word: हो
+SUB_1074,Subtitle,3 Idiots,किसी और को चाहते हो?,1,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: चाहते
+SUB_1075,Subtitle,3 Idiots,नहीं -- गे हो?,1,Negative,NLP Parsed (VERB),Equational/Nominal,Root Word: हो
+SUB_1076,Subtitle,3 Idiots,फिर मुझे प्रपोज़ क्यों नहीं करते?,0,Negative,NLP Parsed (VERB),Equational/Nominal,Root Word: करते
+SUB_1077,Subtitle,3 Idiots,फिर साबित करो।,0,Affirmative,NLP Parsed (VERB),Adjectival,Root Word: कर
+SUB_1078,Subtitle,3 Idiots,"ऐ रुक, रुक, रुक, रुक!",0,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: रुक
+SUB_1079,Subtitle,3 Idiots,"स्टॉप हियर,
+माय ब्लेडर्स आर बर्स्टिंग।",0,Affirmative,NLP Parsed (PROPN),Equational/Nominal,Root Word: हियर
+SUB_1080,Subtitle,3 Idiots,नहीं यार... लेकिन उसका घर का नंबर मेरे पास है।,1,Negative,NLP Parsed (VERB),Equational/Nominal,Root Word: यार...
+SUB_1081,Subtitle,3 Idiots,"अरे तो लगा ना, मैं रोकता हूँ।",1,Negative,NLP Parsed (VERB),Equational/Nominal,Root Word: रोकता
+SUB_1082,Subtitle,3 Idiots,"ओह, नो प्लेस फॉर मूत्र-विसर्जन
+इन दिस कंट्री।",0,Affirmative,NLP Parsed (PROPN),Equational/Nominal,Root Word: कंट्री
+SUB_1083,Subtitle,3 Idiots,"हेलो, हाँ पिया है?",1,Affirmative,NLP Parsed (NOUN),Equational/Nominal,Root Word: पिया
+SUB_1084,Subtitle,3 Idiots,अच्छा कहाँ मिलेगी?,0,Affirmative,NLP Parsed (VERB),Adjectival,Root Word: मिलेगी
+SUB_1085,Subtitle,3 Idiots,आज शादी है उनकी।,1,Affirmative,NLP Parsed (NOUN),Equational/Nominal,Root Word: शादी
+SUB_1086,Subtitle,3 Idiots,देख छह घंटे का रास्ता है।,1,Affirmative,NLP Parsed (NOUN),Equational/Nominal,Root Word: रास्ता
+SUB_1087,Subtitle,3 Idiots,क्या बोलता है?,1,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: बोलता
+SUB_1088,Subtitle,3 Idiots,जब सोच ही लिया है पार्टनर तो मार यू-टर्न।,1,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: मार
+SUB_1089,Subtitle,3 Idiots,स्ट्रेट टू लद्दाख।,0,Affirmative,NLP Parsed (PROPN),Equational/Nominal,Root Word: लद्दा
+SUB_1090,Subtitle,3 Idiots,रणछो से मिलेंगे और वापस।,0,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: मिलेंगे
+SUB_1091,Subtitle,3 Idiots,"फ्राइडे को मेरा फुनसुख वांगडू के साथ
+मीटिंग है।",1,Affirmative,NLP Parsed (NOUN),Equational/Nominal,Root Word: मीटिंग
+SUB_1092,Subtitle,3 Idiots,चलो चलो गाड़ी में बैठो।,0,Affirmative,NLP Parsed (VERB),Locative/Existential,Root Word: बैठो।
+SUB_1093,Subtitle,3 Idiots,द जैपनीज़ विल गेट हिम।,0,Affirmative,NLP Parsed (PROPN),Equational/Nominal,Root Word: हिम।
+SUB_1094,Subtitle,3 Idiots,"दे आर ऑफरिंग हिम अ
+फर्स्ट नेम इन द कंपनी।",0,Affirmative,NLP Parsed (PROPN),Equational/Nominal,Root Word: कंपनी।
+SUB_1095,Subtitle,3 Idiots,"'फुनसुख एंड फुजियाशी',
+प्रॉफिट शेयरिंग... 'पिया वेड्स सुहास'!",0,Affirmative,NLP Parsed (PROPN),Equational/Nominal,Root Word: सुहास
+SUB_1096,Subtitle,3 Idiots,"जब भी उसकी बेटियों की शादी होती है,
+बैंड बजाने हम पहुँच जाते हैं।",1,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: पहुँच
+SUB_1097,Subtitle,3 Idiots,"अच्छा सुन, पिया को मैं संभालता हूँ,
+प्राइस टैग को तू उखाड़।",1,Affirmative,NLP Parsed (VERB),Adjectival,Root Word: संभालता
+SUB_1098,Subtitle,3 Idiots,107 के लिये?,0,Affirmative,NLP Parsed (PROPN),Locative/Existential,Root Word: 107
+SUB_1099,Subtitle,3 Idiots,कितना टाइम लगाते हो यार!,1,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: लगाते
+SUB_1100,Subtitle,3 Idiots,चलो जाओ चलो।,0,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: चलो।
+SUB_1101,Subtitle,3 Idiots,"अमोर अमोर... अमोर... क्विक क्विक... क्विक, मेरी शेरवानी प्रेस करो।",0,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: कर
+SUB_1102,Subtitle,3 Idiots,अमोर अमोर... अमोर... अरे रणछो मिल चुका है!,1,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: चुका
+SUB_1103,Subtitle,3 Idiots,अब भी इस गधे से शादी करोगी?,0,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: करोगी
+SUB_1104,Subtitle,3 Idiots,"यू आर मैड, फरहान!",0,Affirmative,NLP Parsed (PROPN),Equational/Nominal,Root Word: मैड
+SUB_1105,Subtitle,3 Idiots,डोंट फूल योरसेल्फ पिया।,0,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: पिया
+SUB_1106,Subtitle,3 Idiots,तुम भी रणछो को चाहती हो।,1,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: चाहती
+SUB_1107,Subtitle,3 Idiots,और उसकी याद में आज भी यह ढोकला खा रही हो।,1,Affirmative,NLP Parsed (VERB),Locative/Existential,Root Word: खा
+SUB_1108,Subtitle,3 Idiots,अमोर अमोर... अमोर... कुत्ते की दुम है वो।,1,Affirmative,NLP Parsed (NOUN),Equational/Nominal,Root Word: दुम
+SUB_1109,Subtitle,3 Idiots,"बारह साल नली में डाल के रखो, जब निकालोगे टेढ़ी की टेढ़ी।",0,Affirmative,NLP Parsed (VERB),Locative/Existential,Root Word: रखो
+SUB_1110,Subtitle,3 Idiots,सुहास इज़ अ चेंज्ड मैन।,0,Affirmative,NLP Parsed (PROPN),Equational/Nominal,Root Word: मैन।
+SUB_1111,Subtitle,3 Idiots,"अब वो ब्रांड्स और प्राइसेस की
+बिलकुल बात नहीं करता।",0,Negative,NLP Parsed (VERB),Equational/Nominal,Root Word: करता
+SUB_1112,Subtitle,3 Idiots,मेरी डेढ़ लाख की शेरवानी -- अरे चटनी क्यों खाते हो तुम लोग?,1,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: खाते
+SUB_1113,Subtitle,3 Idiots,मैं कुछ करता हूँ सर।,1,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: करता
+SUB_1114,Subtitle,3 Idiots,"सर हमारी लॉन्ड्री में रोज़ ऐसी
+चटनी वाली शेरवानी आती है सर।",1,Affirmative,NLP Parsed (VERB),Locative/Existential,Root Word: आती
+SUB_1115,Subtitle,3 Idiots,मैं दो मिनट में क्लीन कर दूँगा सर।,0,Affirmative,NLP Parsed (VERB),Locative/Existential,Root Word: कर
+SUB_1116,Subtitle,3 Idiots,"बट इट्स टू लेट नाउ, फरहान।",0,Affirmative,NLP Parsed (PROPN),Equational/Nominal,Root Word: नाउ
+SUB_1117,Subtitle,3 Idiots,"पिया चलो, लेट हो रहे हैं।",1,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: हो
+SUB_1118,Subtitle,3 Idiots,"पिया मैं राजू हूँ
+चिलाओ मत, मुझे मारेंगे सुहास कहाँ है?",1,Negative,NLP Parsed (PROPN),Equational/Nominal,Root Word: राजू
+SUB_1119,Subtitle,3 Idiots,अंदर जाओ और सुहास को भेजो।,0,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: जाओ
+SUB_1120,Subtitle,3 Idiots,मंत्र चालू हैं पिया।,1,Affirmative,NLP Parsed (ADJ),Adjectival,Root Word: चालू
+SUB_1121,Subtitle,3 Idiots,उठ के जाऊँगा तो रूड लगेगा।,0,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: लगेगा
+SUB_1122,Subtitle,3 Idiots,हाँ फरहान बोल -- पिया को उठा और भाग।,0,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: उठा
+SUB_1123,Subtitle,3 Idiots,"अबे चुप हो जा, हिल मत यार।",1,Negative,NLP Parsed (VERB),Adjectival,Root Word: हो
+SUB_1124,Subtitle,3 Idiots,आप यहाँ हैं...?,1,Affirmative,NLP Parsed (PRON),Equational/Nominal,Root Word: यहाँ
+SUB_1125,Subtitle,3 Idiots,तो वहाँ फेरे कौन ले रहा है?,1,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: ले
+SUB_1126,Subtitle,3 Idiots,मैं पहले से शादी-शुदा हूँ पिया।,1,Affirmative,NLP Parsed (AUX),Equational/Nominal,Root Word: हूँ
+SUB_1127,Subtitle,3 Idiots,"चलें -- कितने सारे लोग हैं यहाँ, सब हँसेंगे।",1,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: चलें
+SUB_1128,Subtitle,3 Idiots,"लोग हँसेंगे, इसलिए तुम सुसाइड करोगी?",0,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: करोगी
+SUB_1129,Subtitle,3 Idiots,"पिया लोग दो दिन के लिये गॉसिप करेंगे, फिर भूल जायेंगे।",0,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: करेंगे
+SUB_1130,Subtitle,3 Idiots,"लेकिन आज अगर तुमने ये शादी की ना...
+तो ज़िंदगी भर नहीं भूलोगी।",0,Negative,NLP Parsed (VERB),Equational/Nominal,Root Word: भूलोगी
+SUB_1131,Subtitle,3 Idiots,"यार पिया, एक थोड़ा सा माइनर सा टेंशन है।",1,Affirmative,NLP Parsed (NOUN),Equational/Nominal,Root Word: टेंशन
+SUB_1132,Subtitle,3 Idiots,तो तुमको वापस ड्रॉप कर देंगे।,0,Affirmative,NLP Parsed (VERB),Adjectival,Root Word: कर
+SUB_1133,Subtitle,3 Idiots,ये कहाँ से आया?,0,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: आया
+SUB_1134,Subtitle,3 Idiots,"इग्नोर कर -- इग्नोर कर --
+बिस्किट खाओ ना, बहुत अच्छा है।",1,Negative,NLP Parsed (ADJ),Adjectival,Root Word: अच्छा
+SUB_1135,Subtitle,3 Idiots,सब उस कमीने रैनचो के लिए।,0,Affirmative,NLP Parsed (PROPN),Locative/Existential,Root Word: रैनचो
+SUB_1136,Subtitle,3 Idiots,लाल सील वाला एनवेलप।,0,Affirmative,NLP Parsed (NOUN),Equational/Nominal,Root Word: एनवेलप।
+SUB_1137,Subtitle,3 Idiots,पिया से पूछो।,0,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: पूछो।
+SUB_1138,Subtitle,3 Idiots,"पिया, तुम्हारा फोन।",0,Affirmative,NLP Parsed (NOUN),Equational/Nominal,Root Word: पिया
+SUB_1139,Subtitle,3 Idiots,मिस्टर होने वाले पापा!,0,Affirmative,NLP Parsed (NOUN),Equational/Nominal,Root Word: पापा
+SUB_1140,Subtitle,3 Idiots,"अगर तुम 'ऑल इज़ वेल' कहो, तो वो लात मारता है।",1,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: मारता
+SUB_1141,Subtitle,3 Idiots,उसने लात मारी।,0,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: मारी।
+SUB_1142,Subtitle,3 Idiots,"पिया, तुम्हारा फोन।",0,Affirmative,NLP Parsed (NOUN),Equational/Nominal,Root Word: पिया
+SUB_1143,Subtitle,3 Idiots,"जल्दी, इसकी फोटोकॉपी करो।",0,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: कर
+SUB_1144,Subtitle,3 Idiots,वापस रख दो।,0,Affirmative,NLP Parsed (VERB),Adjectival,Root Word: रख
+SUB_1145,Subtitle,3 Idiots,हम बच गए!,0,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: बच
+SUB_1146,Subtitle,3 Idiots,"वायरस ने खुद सेट किया है, तुम्हें फेल करने के लिए।",1,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: किया
+SUB_1147,Subtitle,3 Idiots,अजीब दोस्त हो तुम!,1,Affirmative,NLP Parsed (VERB),Adjectival,Root Word: हो
+SUB_1148,Subtitle,3 Idiots,"पहले ईमानदारी सिखाते हो, फिर शर्मिंदगी का रास्ता दिखाते हो।",1,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: दिखाते
+SUB_1149,Subtitle,3 Idiots,मेरा मन किया कि उसे गले लगा लूँ... लेकिन फिर मैंने अपनी भावनाओं को कंट्रोल किया।,0,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: किया
+SUB_1150,Subtitle,3 Idiots,तुम मेरे दरवाजे पर पेशाब करोगे?,0,Affirmative,NLP Parsed (VERB),Locative/Existential,Root Word: करोगे
+SUB_1151,Subtitle,3 Idiots,तुम रस्टिकेट हो!,1,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: हो
+SUB_1152,Subtitle,3 Idiots,"अगर तुम सब सुबह तक बाहर नहीं गए, तो मैं पुलिस बुला लूँगा।",0,Negative,NLP Parsed (VERB),Locative/Existential,Root Word: बुला
+SUB_1153,Subtitle,3 Idiots,मैं पुलिस बुला लूँगा!,0,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: बुला
+SUB_1154,Subtitle,3 Idiots,हरामखोर हो तुम सब के सब।,1,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: हो
+SUB_1155,Subtitle,3 Idiots,उसे मेरे ऑफिस की चाबी कैसे मिली?,0,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: मिली
+SUB_1156,Subtitle,3 Idiots,आई विश ये चाबी भैया को दी होती।,0,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: दी
+SUB_1157,Subtitle,3 Idiots,आज वो ज़िंदा होते।,0,Affirmative,NLP Parsed (VERB),Adjectival,Root Word: होते
+SUB_1158,Subtitle,3 Idiots,"स्टॉप इट, पिया!",0,Affirmative,NLP Parsed (NOUN),Equational/Nominal,Root Word: इट
+SUB_1159,Subtitle,3 Idiots,"शट अप, पिया!",0,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: पिया
+SUB_1160,Subtitle,3 Idiots,आपने डिसाइड कर लिया कि वो इंजीनियर बनेंगे।,0,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: कर
+SUB_1161,Subtitle,3 Idiots,कभी उससे पूछा कि वो क्या बनना चाहते हैं?,1,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: पूछा
+SUB_1162,Subtitle,3 Idiots,इतना प्रेशर डाला भैया पे... कि उन्हें एंट्रेंस एग्जाम देने से मर जाना आसान लगा।,0,Affirmative,NLP Parsed (VERB),Locative/Existential,Root Word: डाला
+SUB_1163,Subtitle,3 Idiots,"मैं समझ नहीं पा रहा... डैड, आप कमरे में जाइए।",0,Negative,NLP Parsed (VERB),Locative/Existential,Root Word: जाइए
+SUB_1164,Subtitle,3 Idiots,"पिया, स्टॉप इट!",0,Affirmative,NLP Parsed (PROPN),Equational/Nominal,Root Word: पिया
+SUB_1165,Subtitle,3 Idiots,क्या कर रही है पिया!,1,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: कर
+SUB_1166,Subtitle,3 Idiots,"पर इस सुसाइड नोट से ज़्यादा कुछ लिख नहीं पाए, डैड।",0,Negative,NLP Parsed (VERB),Locative/Existential,Root Word: लिख
+SUB_1167,Subtitle,3 Idiots,"पिया, वापस रख दे वो लेटर प्लीज़!",0,Affirmative,NLP Parsed (INTJ),Equational/Nominal,Root Word: प्लीज़
+SUB_1168,Subtitle,3 Idiots,कब तक छुपा के रखोगी दीदी!,0,Affirmative,NLP Parsed (VERB),Locative/Existential,Root Word: रखोगी
+SUB_1169,Subtitle,3 Idiots,"एक बार, बस एक बार... अगर आप उनसे कह देते - कि नहीं होती इंजीनियरिंग तो छोड़ दे।",0,Negative,NLP Parsed (VERB),Equational/Nominal,Root Word: छोड़
+SUB_1170,Subtitle,3 Idiots,"जो पसंद है वो कर... तो आज भैया ज़िंदा होते, डैड।",1,Affirmative,NLP Parsed (VERB),Adjectival,Root Word: कर...
+SUB_1171,Subtitle,3 Idiots,वो सुसाइड नहीं कर सकता।,0,Negative,NLP Parsed (VERB),Equational/Nominal,Root Word: कर
+SUB_1172,Subtitle,3 Idiots,"यू आर राइट, डैड।",0,Affirmative,NLP Parsed (PROPN),Equational/Nominal,Root Word: राइट
+SUB_1173,Subtitle,3 Idiots,अरे तुझे बोला ना वापस जाने।,0,Negative,NLP Parsed (VERB),Adjectival,Root Word: जाने
+SUB_1174,Subtitle,3 Idiots,तो पीछे-पीछे क्यों आ रहा है?,1,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: आ
+SUB_1175,Subtitle,3 Idiots,ये रोड क्या तुम्हारी अम्मा की है?,1,Affirmative,NLP Parsed (NOUN),Equational/Nominal,Root Word: रोड
+SUB_1176,Subtitle,3 Idiots,"प्लीज़ हेल्प, हम यहाँ बहुत मजबूर हैं!",1,Affirmative,NLP Parsed (ADJ),Adjectival,Root Word: मजबूर
+SUB_1177,Subtitle,3 Idiots,क्या सारे शहर में एक ही एम्बुलेंस है?,1,Affirmative,NLP Parsed (NOUN),Locative/Existential,Root Word: एम्बुलेंस
+SUB_1178,Subtitle,3 Idiots,किसी और हॉस्पिटल से एम्बुलेंस मंगवाओ।,0,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: मंगवाओ।
+SUB_1179,Subtitle,3 Idiots,हम कुछ नहीं कर सकते।,0,Negative,NLP Parsed (VERB),Equational/Nominal,Root Word: कर
+SUB_1180,Subtitle,3 Idiots,"मोना, ठीक हो तुम?",1,Affirmative,NLP Parsed (VERB),Adjectival,Root Word: हो
+SUB_1181,Subtitle,3 Idiots,"रणछो, पिया है।",1,Affirmative,NLP Parsed (NOUN),Equational/Nominal,Root Word: रणछो
+SUB_1182,Subtitle,3 Idiots,रणछो यहाँ पहुँचना इम्पॉसिबल है।,1,Affirmative,NLP Parsed (VERB),Adjectival,Root Word: है
+SUB_1183,Subtitle,3 Idiots,अब मैं जैसा कहती हूँ वैसा करो।,1,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: कहती
+SUB_1184,Subtitle,3 Idiots,डिस्कनेक्ट कर दिया!,0,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: कर
+SUB_1185,Subtitle,3 Idiots,"लाइट ऑन कर, लाइट ऑन कर!",0,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: कर
+SUB_1186,Subtitle,3 Idiots,टेबल टेनिस टेबल पर!,0,Affirmative,NLP Parsed (NOUN),Locative/Existential,Root Word: टेबल
+SUB_1187,Subtitle,3 Idiots,"राजू, वेब कैमरा ऑन करो।",0,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: कर
+SUB_1188,Subtitle,3 Idiots,दीदी कहाँ हैं?,1,Affirmative,NLP Parsed (PRON),Equational/Nominal,Root Word: कहाँ
+SUB_1189,Subtitle,3 Idiots,हाँ --- हाँ --- होल्ड ऑन।,0,Affirmative,NLP Parsed (NOUN),Equational/Nominal,Root Word: हाँ
+SUB_1190,Subtitle,3 Idiots,"ये लो, पिया।",0,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: लो
+SUB_1191,Subtitle,3 Idiots,"मैं हूँ तुम्हारे पास, ओके?",1,Affirmative,NLP Parsed (PRON),Equational/Nominal,Root Word: मैं
+SUB_1192,Subtitle,3 Idiots,"पिया, मैं मर रही हूँ!",1,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: मर
+SUB_1193,Subtitle,3 Idiots,दीदी की डिलीवरी तुम लोग करोगे।,0,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: करोगे
+SUB_1194,Subtitle,3 Idiots,ऑल इज़ वेल।,0,Affirmative,NLP Parsed (PROPN),Equational/Nominal,Root Word: वेल।
+SUB_1195,Subtitle,3 Idiots,मैं तुम्हें मार डालूँगा!,0,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: मार
+SUB_1196,Subtitle,3 Idiots,"डैड, बीच में मत आओ।",0,Negative,NLP Parsed (VERB),Locative/Existential,Root Word: आओ।
+SUB_1197,Subtitle,3 Idiots,"फरहान, तुम टॉवल्स और सिज़र्स लेके आओ।",0,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: लेके
+SUB_1198,Subtitle,3 Idiots,"मिलीमीटर, कपड़े सुखाने का क्लिप और गर्म पानी लाओ।",0,Affirmative,NLP Parsed (VERB),Adjectival,Root Word: लाओ।
+SUB_1199,Subtitle,3 Idiots,"रैंचो, तुम दीदी को कवर करो।",0,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: कर
+SUB_1200,Subtitle,3 Idiots,दीदी पुश करो।,0,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: कर
+SUB_1201,Subtitle,3 Idiots,"कम ऑन मोना, दम लगा के।",0,Affirmative,NLP Parsed (VERB),Locative/Existential,Root Word: लगा
+SUB_1202,Subtitle,3 Idiots,"क्या पुश-पुश-पुश, नहीं हो रहा।",1,Negative,NLP Parsed (VERB),Equational/Nominal,Root Word: हो
+SUB_1203,Subtitle,3 Idiots,"रैंचो, देखो क्राउनिंग हो रहा है क्या?",1,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: हो
+SUB_1204,Subtitle,3 Idiots,वो डायग्राम लेके आओ।,0,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: आओ
+SUB_1205,Subtitle,3 Idiots,"रैंचो, देखो सर बाहर आ रहा है क्या?",1,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: आ
+SUB_1206,Subtitle,3 Idiots,"जा जा जा, रैंचो, जा कम ऑन।",0,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: जा
+SUB_1207,Subtitle,3 Idiots,"नहीं, नो क्राउनिंग।",0,Negative,NLP Parsed (NOUN),Equational/Nominal,Root Word: क्राउनिंग।
+SUB_1208,Subtitle,3 Idiots,दीदी प्लीज पुश करो।,0,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: कर
+SUB_1209,Subtitle,3 Idiots,वैक्यूम कप लगाना पड़ेगा पिया।,0,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: लगाना
+SUB_1210,Subtitle,3 Idiots,वैक्यूम कप क्या होता है?,1,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: होता
+SUB_1211,Subtitle,3 Idiots,कैसा होता है?,1,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: होता
+SUB_1212,Subtitle,3 Idiots,क्या करते हैं उससे?,1,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: करते
+SUB_1213,Subtitle,3 Idiots,मैं दिखाती हूँ।,1,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: दिखाती
+SUB_1214,Subtitle,3 Idiots,सक्शन पंप वैक्यूम क्रिएट करता है और ये कप बेबी के सर पर चिपक जाता है।,1,Affirmative,NLP Parsed (VERB),Locative/Existential,Root Word: करता
+SUB_1215,Subtitle,3 Idiots,फिर बेबी को बाहर खींच लेते हैं।,1,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: खींच
+SUB_1216,Subtitle,3 Idiots,मैं ये बना सकता हूँ!,1,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: बना
+SUB_1217,Subtitle,3 Idiots,वैक्यूम क्लीनर से।,0,Affirmative,NLP Parsed (NOUN),Locative/Existential,Root Word: क्लीनर
+SUB_1218,Subtitle,3 Idiots,"पर वैक्यूम क्लीनर का प्रेशर बहुत ज़्यादा होता है, रैंचो।",1,Affirmative,NLP Parsed (VERB),Locative/Existential,Root Word: होता
+SUB_1219,Subtitle,3 Idiots,प्रेशर मैं कंट्रोल कर लूँगा।,0,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: कर
+SUB_1220,Subtitle,3 Idiots,है मेरे ऑफिस में।,1,Affirmative,NLP Parsed (AUX),Locative/Existential,Root Word: है
+SUB_1221,Subtitle,3 Idiots,"फरहान, जल्दी जा, सर के ऑफिस से ले के आ।",0,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: आ।
+SUB_1222,Subtitle,3 Idiots,"मोना, पुश करो।",0,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: कर
+SUB_1223,Subtitle,3 Idiots,ओह माय गॉड!,0,Affirmative,NLP Parsed (PROPN),Equational/Nominal,Root Word: गॉड
+SUB_1224,Subtitle,3 Idiots,अब वैक्यूम क्लीनर कैसे चलेगा?,0,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: चलेगा
+SUB_1225,Subtitle,3 Idiots,"फरहान, तू वैक्यूम क्लीनर ला, मैं लाइट लाता हूँ।",1,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: लाता
+SUB_1226,Subtitle,3 Idiots,"मिलीमीटर, वायरस को बाहर निकाल।",0,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: निकाल।
+SUB_1227,Subtitle,3 Idiots,अरे ये वायरस नहीं यार!,0,Negative,NLP Parsed (NOUN),Equational/Nominal,Root Word: वायरस
+SUB_1228,Subtitle,3 Idiots,"वो जल्दी लेके आ, जल्दी, जा!",0,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: आ
+SUB_1229,Subtitle,3 Idiots,"हॉस्टल में सबको जगा और उनको बोल की कार बैटरीज़ चाहिए, वायर्स चाहिए, टूल किट चाहिए और वैक्यूम गॉज।",0,Affirmative,NLP Parsed (VERB),Locative/Existential,Root Word: जगा
+SUB_1230,Subtitle,3 Idiots,"राजेश, दीपक, बाहर निकलो, कॉमन रूम में इमरजेंसी है!",1,Affirmative,NLP Parsed (NOUN),Locative/Existential,Root Word: इमरजेंसी
+SUB_1231,Subtitle,3 Idiots,रैंचो कहाँ है?,1,Affirmative,NLP Parsed (PRON),Equational/Nominal,Root Word: कहाँ
+SUB_1232,Subtitle,3 Idiots,"सब लोग अपनी बैटरी यहाँ रखो, कम ऑन!",0,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: रखो
+SUB_1233,Subtitle,3 Idiots,एंड द वायर्स!,0,Affirmative,NLP Parsed (PROPN),Equational/Nominal,Root Word: वायर्स
+SUB_1234,Subtitle,3 Idiots,"राजू, सब स्विचेस ऑफ कर और इन्वर्टर को मेन्स में कनेक्ट कर।",0,Affirmative,NLP Parsed (VERB),Locative/Existential,Root Word: कर
+SUB_1235,Subtitle,3 Idiots,"रैंचो, वैक्यूम क्लीनर!",0,Affirmative,NLP Parsed (PROPN),Equational/Nominal,Root Word: रैंचो
+SUB_1236,Subtitle,3 Idiots,"फरहान, वो तेरा कैमरा साफ़ करने वाला, क्या बोलते हैं उसको, फुस-फुस?",1,Affirmative,NLP Parsed (VERB),Adjectival,Root Word: बोलते
+SUB_1237,Subtitle,3 Idiots,"रैंचो, ये ले ब्लोअर।",0,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: ले
+SUB_1238,Subtitle,3 Idiots,ये वैक्यूम गॉज पाइप में लगा इधर।,0,Affirmative,NLP Parsed (VERB),Locative/Existential,Root Word: लगा
+SUB_1239,Subtitle,3 Idiots,सब स्विच ऑफ हैं?,1,Affirmative,NLP Parsed (X),Equational/Nominal,Root Word: ऑफ
+SUB_1240,Subtitle,3 Idiots,अब सिर्फ टीटी टेबल और कंप्यूटर का लाइट ऑन करो।,0,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: कर
+SUB_1241,Subtitle,3 Idiots,"राजू, कंप्यूटर ऑन करो।",0,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: कर
+SUB_1242,Subtitle,3 Idiots,"फरहान, यहाँ हेल्प कर, कनेक्ट कर इसको!",0,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: कर
+SUB_1243,Subtitle,3 Idiots,"पिया, पिया जल्दी आओ, जल्दी आओ।",0,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: आओ।
+SUB_1244,Subtitle,3 Idiots,"लव यू, रैंचो!",0,Affirmative,NLP Parsed (PROPN),Equational/Nominal,Root Word: यू
+SUB_1245,Subtitle,3 Idiots,"फरहान, ऑन कर!",0,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: कर
+SUB_1246,Subtitle,3 Idiots,"पिया, सक्शन कितना होना चाहिए?",0,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: होना
+SUB_1247,Subtitle,3 Idiots,0.5 से ज़्यादा नहीं रैंचो।,0,Negative,NLP Parsed (VERB),Equational/Nominal,Root Word: रैंचो।
+SUB_1248,Subtitle,3 Idiots,"फरहान, 0.5! 0.5! वैक्यूम क्लीनर से डिलीवरी!",0,Affirmative,NLP Parsed (NOUN),Equational/Nominal,Root Word: डिलीवरी
+SUB_1249,Subtitle,3 Idiots,बीस साल के करियर में आज तक नहीं देखी।,0,Negative,NLP Parsed (VERB),Locative/Existential,Root Word: देखी
+SUB_1250,Subtitle,3 Idiots,फरहान ऑफ कर।,0,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: कर।
+SUB_1251,Subtitle,3 Idiots,"राजू, टेबल पर चढ़ो।",0,Affirmative,NLP Parsed (VERB),Locative/Existential,Root Word: चढ़ो।
+SUB_1252,Subtitle,3 Idiots,बेबी को ऐसे नीचे पुश करो।,0,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: कर
+SUB_1253,Subtitle,3 Idiots,"दे कम ऑन दीदी, पुश करो, यू कैन डू इट।",0,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: दे
+SUB_1254,Subtitle,3 Idiots,"कम ऑन मोना, कम ऑन मोना, मोना पुश!",0,Affirmative,NLP Parsed (NOUN),Equational/Nominal,Root Word: मोना
+SUB_1255,Subtitle,3 Idiots,"चैंप के बारे में सोचो, कम ऑन, फॉर चैंप!",0,Affirmative,NLP Parsed (VERB),Locative/Existential,Root Word: सोचो
+SUB_1256,Subtitle,3 Idiots,"कम ऑन, मोना!",0,Affirmative,NLP Parsed (NOUN),Equational/Nominal,Root Word: ऑन
+SUB_1257,Subtitle,3 Idiots,आ रहा है!,1,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: आ
+SUB_1258,Subtitle,3 Idiots,"कम ऑन दीदी, यू कैन डू इट।",0,Affirmative,NLP Parsed (NOUN),Equational/Nominal,Root Word: दीदी
+SUB_1259,Subtitle,3 Idiots,"हाँ मोना गुड, पुश मोना, यू कैन डू इट मोना!",0,Affirmative,NLP Parsed (PROPN),Equational/Nominal,Root Word: गुड
+SUB_1260,Subtitle,3 Idiots,फरहान बंद कर।,0,Affirmative,NLP Parsed (VERB),Adjectival,Root Word: कर
+SUB_1261,Subtitle,3 Idiots,"हाँ बंद किया, बंद किया।",0,Affirmative,NLP Parsed (VERB),Adjectival,Root Word: किया
+SUB_1262,Subtitle,3 Idiots,"दो क्लिप लगाओ, अम्बिलिकल कॉर्ड काटो।",0,Affirmative,NLP Parsed (VERB),Adjectival,Root Word: लगाओ
+SUB_1263,Subtitle,3 Idiots,"फरहान, दो क्लिप लगा जल्दी!",0,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: लगा
+SUB_1264,Subtitle,3 Idiots,अम्बिलिकल कॉर्ड पे लगा।,0,Affirmative,NLP Parsed (VERB),Locative/Existential,Root Word: लगा
+SUB_1265,Subtitle,3 Idiots,"कैंची लाओ, कैंची।",0,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: लाओ
+SUB_1266,Subtitle,3 Idiots,"ये काट, बीच में से काट ---।",0,Affirmative,NLP Parsed (VERB),Locative/Existential,Root Word: काट
+SUB_1267,Subtitle,3 Idiots,"टॉवल लाओ, टॉवल!",0,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: लाओ
+SUB_1268,Subtitle,3 Idiots,"पिया, पिया ये रो क्यों नहीं रहा?",0,Negative,NLP Parsed (VERB),Equational/Nominal,Root Word: रहा
+SUB_1269,Subtitle,3 Idiots,"रैंचो, रैंचो उसके बैक को रब करो।",0,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: कर
+SUB_1270,Subtitle,3 Idiots,"नहीं, कुछ नहीं हो रहा है।",1,Negative,NLP Parsed (VERB),Equational/Nominal,Root Word: हो
+SUB_1271,Subtitle,3 Idiots,उसके मुँह में हवा ब्लो करो।,0,Affirmative,NLP Parsed (VERB),Locative/Existential,Root Word: कर
+SUB_1272,Subtitle,3 Idiots,"कम ऑन, चैंप।",0,Affirmative,NLP Parsed (NOUN),Equational/Nominal,Root Word: चैंप
+SUB_1273,Subtitle,3 Idiots,कुछ नहीं हो रहा है।,1,Negative,NLP Parsed (VERB),Equational/Nominal,Root Word: हो
+SUB_1274,Subtitle,3 Idiots,"चुप मोना चुप --- ऑल इज़ वेल बोल --- ऑल इज़ वेल बोल, ऑल इज़ वेल।",0,Affirmative,NLP Parsed (ADJ),Adjectival,Root Word: चुप
+SUB_1275,Subtitle,3 Idiots,"लात, लात मारा।",0,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: मारा।
+SUB_1276,Subtitle,3 Idiots,बोल --- ऑल इज़ वेल।,0,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: बोल
+SUB_1277,Subtitle,3 Idiots,ऑल इज़ वेल... ऑल इज़ वेल... ऑल इज़ वेल... उस वक़्त अगर वायरस कहता कि 'मेरा पोता इंजीनियर बनेगा' तो मैं साले का जबड़ा तोड़ देता।,0,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: तोड़
+SUB_1278,Subtitle,3 Idiots,सॉलिड लात मारता है तू!,1,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: मारता
+SUB_1279,Subtitle,3 Idiots,जो दिल करे बनना!,0,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: करे
+SUB_1280,Subtitle,3 Idiots,कहाँ जा रहे हो?,1,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: जा
+SUB_1281,Subtitle,3 Idiots,आई एम नॉट फ़िनिश्ड विथ यू!,0,Affirmative,NLP Parsed (PROPN),Equational/Nominal,Root Word: यू
+SUB_1282,Subtitle,3 Idiots,कि अंतरिक्ष  में पेंसिल क्यों नहीं इस्तेमाल करते?,0,Negative,NLP Parsed (VERB),Locative/Existential,Root Word: करते
+SUB_1283,Subtitle,3 Idiots,अगर अंतरिक्ष में पेंसिल की टिप टूट जाती है तो ज़ीरो ग्रेविटी में घूमती रहेगी।,1,Affirmative,NLP Parsed (VERB),Locative/Existential,Root Word: घूमती
+SUB_1284,Subtitle,3 Idiots,तुम हर बार सही नहीं हो सकते।,1,Negative,NLP Parsed (VERB),Adjectival,Root Word: हो
+SUB_1285,Subtitle,3 Idiots,एग्जाम में पास हो के यहाँ से निकल जाओ।,1,Affirmative,NLP Parsed (VERB),Locative/Existential,Root Word: निकल
+SUB_1286,Subtitle,3 Idiots,यार खोल दे उसको।,0,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: खोल
+SUB_1287,Subtitle,3 Idiots,आई'ल सू यू ऑल इन एन अमेरिकन कोर्ट!,0,Affirmative,NLP Parsed (PROPN),Equational/Nominal,Root Word: कोर्ट
+SUB_1288,Subtitle,3 Idiots,ऐसा स्कूल तो साला रैंचो ही बना सकता है।,1,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: बना
+SUB_1289,Subtitle,3 Idiots,पर वो है कहाँ?,1,Affirmative,NLP Parsed (PRON),Locative/Existential,Root Word: वो
+SUB_1290,Subtitle,3 Idiots,इति छीछी मटंका।,0,Affirmative,NLP Parsed (NOUN),Equational/Nominal,Root Word: मटंका
+SUB_1291,Subtitle,3 Idiots,(यहाँ सु-सु मत करो।,0,Negative,NLP Parsed (VERB),Equational/Nominal,Root Word: कर
+SUB_1292,Subtitle,3 Idiots,") गो अवे, क्रीचर्स!",0,Affirmative,NLP Parsed (PROPN),Equational/Nominal,Root Word: अवे
+SUB_1293,Subtitle,3 Idiots,अरे यहाँ सु-सु मत करो।,0,Negative,NLP Parsed (VERB),Equational/Nominal,Root Word: कर
+SUB_1294,Subtitle,3 Idiots,कमीना कहीं आस-पास ही है।,1,Affirmative,NLP Parsed (ADV),Equational/Nominal,Root Word: आस-पास
+SUB_1295,Subtitle,3 Idiots,"भाई साहब, रणछोड़दास कहाँ मिलेगा?",0,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: मिलेगा
+SUB_1296,Subtitle,3 Idiots,उसका नाम रणछोड़दास थोड़ी है!,1,Affirmative,NLP Parsed (ADJ),Adjectival,Root Word: थोड़ी
+SUB_1297,Subtitle,3 Idiots,"छोटे --- छोटे --- छोटू, यार!",0,Affirmative,NLP Parsed (NOUN),Equational/Nominal,Root Word: छोटू
+SUB_1298,Subtitle,3 Idiots,उसका नाम क्या है आखिर?,1,Affirmative,NLP Parsed (PRON),Equational/Nominal,Root Word: क्या
+SUB_1299,Subtitle,3 Idiots,"अरे शांत हो जाओ, शांत हो जाओ --- आओ मेरे साथ।",1,Affirmative,NLP Parsed (VERB),Adjectival,Root Word: आओ
+SUB_1300,Subtitle,3 Idiots,"फरहान, पता है, तुम्हारी लिखी हर किताब उसने पढ़ी है।",1,Affirmative,NLP Parsed (AUX),Equational/Nominal,Root Word: है
+SUB_1301,Subtitle,3 Idiots,"राजू, तुम्हारे ब्लॉग्स रोज़ पढ़ता है।",1,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: पढ़ता
+SUB_1302,Subtitle,3 Idiots,बच्चों को तुम्हारी रिसर्च के बारे में बड़े गर्व से बताता है।,1,Affirmative,NLP Parsed (VERB),Locative/Existential,Root Word: बताता
+SUB_1303,Subtitle,3 Idiots,आपको हेलमेट याद है पिया दीदी?,1,Affirmative,NLP Parsed (AUX),Equational/Nominal,Root Word: है
+SUB_1304,Subtitle,3 Idiots,तुम कौन हो?,1,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: हो
+SUB_1305,Subtitle,3 Idiots,और हम सब का नाम कैसे जानते हो?,1,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: जानते
+SUB_1306,Subtitle,3 Idiots,"ओह, लेकिन तू यहाँ क्या कर रहा है?",1,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: कर
+SUB_1307,Subtitle,3 Idiots,पहली बार मेरे नाम पे एक चिट्ठी आयी।,0,Affirmative,NLP Parsed (VERB),Locative/Existential,Root Word: आयी।
+SUB_1308,Subtitle,3 Idiots,अंदर से ट्रेन का टिकट निकला।,0,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: निकला
+SUB_1309,Subtitle,3 Idiots,"भाई, मैंने पकड़ ली।",0,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: पकड़
+SUB_1310,Subtitle,3 Idiots,कहाँ है वो इडियट?,1,Affirmative,NLP Parsed (AUX),Equational/Nominal,Root Word: है
+SUB_1311,Subtitle,3 Idiots,"दोर्जे, तुम उड़ाओ इसे।",0,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: उड़ाओ
+SUB_1312,Subtitle,3 Idiots,तुम रोज़ दुल्हन के कॉस्ट्यूम में स्कूटर पर बैठ कर मेरे सपनों में आती हो।,1,Affirmative,NLP Parsed (VERB),Locative/Existential,Root Word: आती
+SUB_1313,Subtitle,3 Idiots,घूँघट की जगह अपना हेलमेट उठाती हो और मुझे किस करने मेरे पास आती हो।,1,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: उठाती
+SUB_1314,Subtitle,3 Idiots,किसी से प्यार करते हो?,1,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: करते
+SUB_1315,Subtitle,3 Idiots,"देखा, नाक बीच में नहीं आती स्टूपिड।",0,Negative,NLP Parsed (VERB),Locative/Existential,Root Word: आती
+SUB_1316,Subtitle,3 Idiots,अरे तेरी 'हाय' की तो ऐसी की तैसी।,0,Affirmative,NLP Parsed (DET),Locative/Existential,Root Word: ऐसी
+SUB_1317,Subtitle,3 Idiots,"अरे, अरे, मेरी बात तो सुन --- अरे यार मैं सब समझा सकता हूँ ना।",1,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: सुन
+SUB_1318,Subtitle,3 Idiots,साले कहाँ-कहाँ ढूँढा तुझे!,0,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: ढूँढा
+SUB_1319,Subtitle,3 Idiots,"मारो, और मेरी तरफ से भी दो-तीन मारो।",0,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: मारो।
+SUB_1320,Subtitle,3 Idiots,"चल, उठ साले उठ।",0,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: चल
+SUB_1321,Subtitle,3 Idiots,"मज़ा आ रहा है, इडियट्स?",1,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: आ
+SUB_1322,Subtitle,3 Idiots,हे... हाय चतुर।,0,Affirmative,NLP Parsed (NOUN),Equational/Nominal,Root Word: हाय
+SUB_1323,Subtitle,3 Idiots,आप कहाँ पहुँच गए --- गाँव में टीचर बन गए?,0,Affirmative,NLP Parsed (VERB),Locative/Existential,Root Word: पहुँच
+SUB_1324,Subtitle,3 Idiots,इंजीनियर से सीधे प्राइमरी टीचर!,0,Affirmative,NLP Parsed (NOUN),Equational/Nominal,Root Word: टीचर
+SUB_1325,Subtitle,3 Idiots,ये सैलरी कितनी है छांछड़?,1,Affirmative,NLP Parsed (DET),Equational/Nominal,Root Word: कितनी
+SUB_1326,Subtitle,3 Idiots,मेरे लिए ये सिर्फ 100 डॉलर है।,1,Affirmative,NLP Parsed (NOUN),Equational/Nominal,Root Word: डॉलर
+SUB_1327,Subtitle,3 Idiots,मेरे बेटे का पॉकेट मनी तुम्हारी सैलरी से ज़्यादा है।,1,Affirmative,NLP Parsed (DET),Equational/Nominal,Root Word: ज़्यादा
+SUB_1328,Subtitle,3 Idiots,अबे बकवास बंद कर।,0,Affirmative,NLP Parsed (VERB),Adjectival,Root Word: कर
+SUB_1329,Subtitle,3 Idiots,अब यहाँ बच्चों के डायपर बदलता है।,1,Affirmative,NLP Parsed (VERB),Locative/Existential,Root Word: बदलता
+SUB_1330,Subtitle,3 Idiots,"तू इसके दाँत तोड़ेगा या मैं तोड़ूँ, साले?",0,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: तोड़ेगा
+SUB_1331,Subtitle,3 Idiots,"रहने दे यार, छोड़ ना।",0,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: छोड़
+SUB_1332,Subtitle,3 Idiots,साइन कर यहाँ।,0,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: कर
+SUB_1333,Subtitle,3 Idiots,"एक्सेप्ट कर कि तू हारा, मैं जीता।",0,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: कर
+SUB_1334,Subtitle,3 Idiots,'डिक्लेरेशन ऑफ़ डिफीट'?,0,Affirmative,NLP Parsed (PROPN),Equational/Nominal,Root Word: डिफीट
+SUB_1335,Subtitle,3 Idiots,"ए, ये तो वायरस का पेन है!",1,Affirmative,NLP Parsed (NOUN),Locative/Existential,Root Word: पेन
+SUB_1336,Subtitle,3 Idiots,तेरे पास कैसे आया?,0,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: आया
+SUB_1337,Subtitle,3 Idiots,अब क्या बताऊँ यार।,0,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: बताऊँ
+SUB_1338,Subtitle,3 Idiots,"ये जीतने वालों के लिए है, हारने वालों के लिए नहीं!",1,Negative,NLP Parsed (VERB),Adjectival,Root Word: है
+SUB_1339,Subtitle,3 Idiots,"कोई बात नहीं, कभी स्कूल में तकलीफ हो और डोनेशन चाहिए, तो कॉल माई असिस्टेंट।",1,Negative,NLP Parsed (NOUN),Locative/Existential,Root Word: बात
+SUB_1340,Subtitle,3 Idiots,"ए फॉर एप्पल, बी फॉर बॉल... ये बिल्कुल नहीं बदला यार!",0,Negative,NLP Parsed (VERB),Equational/Nominal,Root Word: बदला
+SUB_1341,Subtitle,3 Idiots,"छोड़ यार उसको, कुछ भी बोलता रहता है।",1,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: बोलता
+SUB_1342,Subtitle,3 Idiots,गुड न्यूज़ ये है कि तुम्हारा नाम रणछोड़दास छांछड़ नहीं है।,1,Negative,NLP Parsed (PRON),Equational/Nominal,Root Word: ये
+SUB_1343,Subtitle,3 Idiots,"इमेजिन, शादी के बाद मैं पिया छांछड़!",0,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: पिया
+SUB_1344,Subtitle,3 Idiots,वैसे तुम्हारा असली नाम क्या है?,1,Affirmative,NLP Parsed (PRON),Equational/Nominal,Root Word: क्या
+SUB_1345,Subtitle,3 Idiots,"मतलब, तू साइंटिस्ट है?",1,Affirmative,NLP Parsed (NOUN),Equational/Nominal,Root Word: साइंटिस्ट
+SUB_1346,Subtitle,3 Idiots,यानी कि तेरे नाम के 400 पेटेंट्स हैं?,1,Affirmative,NLP Parsed (NOUN),Locative/Existential,Root Word: पेटेंट्स
+SUB_1347,Subtitle,3 Idiots,मैं शादी के बाद अपना सरनेम नहीं बदलूँगी!,0,Negative,NLP Parsed (VERB),Equational/Nominal,Root Word: बदलूँगी
+SUB_1348,Subtitle,3 Idiots,मतलब तू चतुर का वांगडू है?,1,Affirmative,NLP Parsed (PROPN),Equational/Nominal,Root Word: वांगडू
+SUB_1349,Subtitle,3 Idiots,यानी कि जापानी तुझे ढूँढ रहे हैं?,1,Affirmative,NLP Parsed (VERB),Adjectival,Root Word: ढूँढ
+SUB_1350,Subtitle,3 Idiots,आई डोंट लाइक वांगडू!,0,Affirmative,NLP Parsed (PROPN),Equational/Nominal,Root Word: वांगडू
+SUB_1351,Subtitle,3 Idiots,"यार एक बात बता, तू साइंटिस्ट है या टीचर?",1,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: बता
+SUB_1352,Subtitle,3 Idiots,"साइंटिस्ट हूँ, लेकिन बच्चों को भी पढ़ाता हूँ।",1,Affirmative,NLP Parsed (NOUN),Equational/Nominal,Root Word: साइंटिस्ट
+SUB_1353,Subtitle,3 Idiots,मतलब तू 'द फुनसुख वांगडू' है?,1,Affirmative,NLP Parsed (PROPN),Equational/Nominal,Root Word: वांगडू
+SUB_1354,Subtitle,3 Idiots,हाँ बाबा हाँ!,0,Affirmative,NLP Parsed (INTJ),Equational/Nominal,Root Word: हाँ
+SUB_1355,Subtitle,3 Idiots,") रुक, मैं उसे रोकता हूँ।",1,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: रोकता
+SUB_1356,Subtitle,3 Idiots,मिस्टर वांगडू... आई कांट बिलीव अपने फोन की!,0,Affirmative,NLP Parsed (NOUN),Locative/Existential,Root Word: फोन
+SUB_1357,Subtitle,3 Idiots,आई एम सॉरी मिस्टर चतुर।,0,Affirmative,NLP Parsed (PROPN),Equational/Nominal,Root Word: चतुर।
+SUB_1358,Subtitle,3 Idiots,लेकिन आपकी कंपनी के साथ मैं डील साइन नहीं कर पाऊँगा।,0,Negative,NLP Parsed (VERB),Equational/Nominal,Root Word: कर
+SUB_1359,Subtitle,3 Idiots,अरे कैसे साइन करूँ यार।,0,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: करूँ
+SUB_1360,Subtitle,3 Idiots,वॉट पेन सर?,0,Affirmative,NLP Parsed (PROPN),Locative/Existential,Root Word: सर
+SUB_1361,Subtitle,3 Idiots,आई डिडंट गेट यू... वो जो तेरे हाथ में है—वायरस की पेन!,0,Affirmative,NLP Parsed (NOUN),Locative/Existential,Root Word: हाथ
+SUB_1362,Subtitle,3 Idiots,हाँ बोल चतुर।,0,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: बोल
+SUB_1363,Subtitle,3 Idiots,"यू गॉट मी, रैंचो—आई मीन मिस्टर वांगडू।",0,Affirmative,NLP Parsed (PROPN),Equational/Nominal,Root Word: वांगडू
+SUB_1364,Subtitle,3 Idiots,टोटली फ्लॉर्ड मी।,0,Affirmative,NLP Parsed (PROPN),Equational/Nominal,Root Word: फ्लॉर्ड
+SUB_1365,Subtitle,3 Idiots,आई होप हमारी पर्सनल प्रॉब्लम इस डील को कुछ फर्क नहीं डालेगी।,0,Negative,NLP Parsed (VERB),Locative/Existential,Root Word: डालेगी
+SUB_1366,Subtitle,3 Idiots,) अरे आई वॉज़ जस्ट जोकिंग यार!,0,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: आई
+SUB_1367,Subtitle,3 Idiots,हाँ --- नहीं झूठ बोल रहा है?,1,Negative,NLP Parsed (VERB),Equational/Nominal,Root Word: बोल
+SUB_1368,Subtitle,3 Idiots,"नो नो नो नो, आई एम टेलिंग यू, शपथ!",0,Affirmative,NLP Parsed (NOUN),Equational/Nominal,Root Word: शपथ
+SUB_1369,Subtitle,3 Idiots,"रैंचो 100, चतुर 0। यू विन, आई लूज़।",0,Affirmative,NLP Parsed (PROPN),Equational/Nominal,Root Word: लू
+SUB_1370,Subtitle,3 Idiots,यू डोंट बिलीव मी?,0,Affirmative,NLP Parsed (PROPN),Equational/Nominal,Root Word: मी
+SUB_1371,Subtitle,3 Idiots,पिछाड़ी से सावधान!,0,Affirmative,NLP Parsed (ADJ),Adjectival,Root Word: सावधान
+SUB_1372,Subtitle,3 Idiots,जहाँपनाह तुस्सी ग्रेट हो --- तोहफा कबूल करो।,1,Affirmative,NLP Parsed (VERB),Equational/Nominal,Root Word: कर
+SUB_1373,Subtitle,3 Idiots,एक फ्री एडवाइस दूँ मिस्टर वांगडू?,0,Affirmative,NLP Parsed (VERB),Adjectival,Root Word: दूँ
