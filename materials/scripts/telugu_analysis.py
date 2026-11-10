@@ -20,7 +20,7 @@ def load_telugu_datasets(
     manual_csv="Telugu_copula_dataset_manual.csv"
 ):
     """
-    Loads Telugu automatic and manual gold datasets with dynamic path resolution:
+    Loads Telugu automatic and manually verified datasets with dynamic path resolution:
     - Resolves paths relative to the script directory to prevent FileNotFoundError.
     - Sets Copula_Deleted_Clean = 1 when Copula_Status_NLP == 0 (zero copula).
     - Ensures uniform factor levels across registers and predicate categories.
@@ -131,17 +131,17 @@ def run_full_telugu_pipeline():
     # Stage 1: Automatic Pipeline Evaluation
     evaluate_hypotheses(df_auto, "Stage 1: Automatic Pipeline Corpus")
 
-    # Stage 2: Manual Gold Set Evaluation
-    evaluate_hypotheses(df_manual, "Stage 2: Manually Verified Gold Set")
+    # Stage 2: Manual Set Evaluation
+    evaluate_hypotheses(df_manual, "Stage 2: Manually Verified Set")
 
     # Generate Publication-Grade Visualizations (4-Panel Dashboard)
     fig, axes = plt.subplots(2, 2, figsize=(15, 11))
     pct = lambda x: np.mean(x) * 100
 
-    # Plot 1: Register Comparison Across Automatic Pipeline vs Gold Set (H1)
+    # Plot 1: Register Comparison Across Automatic Pipeline vs Manual Set (H1)
     comp_df = pd.concat([
         df_auto.assign(Pipeline_Stage='Automatic Pipeline (N=759)'),
-        df_manual.assign(Pipeline_Stage='Manual Gold Set (N=116)')
+        df_manual.assign(Pipeline_Stage='Manual Verified Set (N=116)')
     ])
     sns.barplot(data=comp_df, x='Sub_Register', y='Copula_Deleted_Clean', hue='Pipeline_Stage',
                 order=SUB_ORDER, estimator=pct, errorbar=None, ax=axes[0, 0], palette=['#95a5a6', '#2ecc71'])
@@ -152,10 +152,10 @@ def run_full_telugu_pipeline():
     for c in axes[0, 0].containers:
         axes[0, 0].bar_label(c, fmt='%.1f%%', fontweight='bold', padding=3)
 
-    # Plot 2: Predicate Type Hierarchy by Sub-Register (Gold Set, H2)
+    # Plot 2: Predicate Type Hierarchy by Sub-Register (Manual Set, H2)
     sns.barplot(data=df_manual, x='Predicate_Type_Final_NLP', y='Copula_Deleted_Clean', hue='Sub_Register',
                 order=PRED_ORDER, hue_order=SUB_ORDER, estimator=pct, errorbar=None, ax=axes[0, 1], palette='viridis')
-    axes[0, 1].set_title("B. Telugu: Predicate Hierarchy by Sub-Register (Gold Set, H2)", fontweight='bold')
+    axes[0, 1].set_title("B. Telugu: Predicate Hierarchy by Sub-Register (Manual Set, H2)", fontweight='bold')
     axes[0, 1].set_ylabel("Zero-Copula Rate (%)")
     axes[0, 1].set_xlabel("Predicate Category")
     axes[0, 1].set_ylim(0, 105)
@@ -173,10 +173,10 @@ def run_full_telugu_pipeline():
     for c in axes[1, 0].containers:
         axes[1, 0].bar_label(c, fmt='%.1f%%', fontweight='bold', padding=3)
 
-    # Plot 4: Polarity x Sub-Register Interaction (Gold Set, H3)
+    # Plot 4: Polarity x Sub-Register Interaction (Manual Set, H3)
     sns.barplot(data=df_manual, x='Polarity_NLP', y='Copula_Deleted_Clean', hue='Sub_Register',
                 hue_order=SUB_ORDER, estimator=pct, errorbar=None, ax=axes[1, 1], palette='magma')
-    axes[1, 1].set_title("D. Telugu: Polarity Categorical Block (Gold Set, H3)", fontweight='bold')
+    axes[1, 1].set_title("D. Telugu: Polarity Categorical Block (Manual Set, H3)", fontweight='bold')
     axes[1, 1].set_ylabel("Zero-Copula Rate (%)")
     axes[1, 1].set_xlabel("Clausal Polarity")
     axes[1, 1].set_ylim(0, 105)

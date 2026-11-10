@@ -1,6 +1,6 @@
 ﻿Order,Language,Family,Clean_N,Overall_Del_%,H1_Informal_%,H1_Formal_Narr_%,H1_Status,H2_Equational_%,H2_Adjectival_%,H2_Locative_%,H2_Cramers_V,H3_Affirmative_%,H3_Negative_%,H3_Neg_Marker
-1,Hindi,Indo-Aryan (Central),3089,34.3,36.3,17.7,Supported (p = 1.17e-13),40.3,32.2,19.3,0.174,34.2,34.9,Standalone नहीं (nahin) licenses है drop
-2,Assamese,Indo-Aryan (Eastern),97,68.0,80.4,54.3,"Supported (+66 pp in Locatives, p = 0.012)",95.3,84.6,34.6,0.593,81.5,0.0,Fused নহয় (nohoy) / নাই (nai) — 0% drop
-3,Bengali,Indo-Aryan (Eastern),373,56.6,57.1,56.2,Grammaticalized across registers (p = 0.916),78.2,67.8,19.5,0.537,76.7,0.0,Fused নয় (noy) / নেই (nei) — 0% drop
-4,Telugu (Gold),Dravidian (South-Central),116,44.0,42.9,45.2,Grammaticalized across registers (p = 1.000),79.2,45.8,5.1,0.653,60.7,0.0,Fused కాదు (kaadu) / లేదు (ledu) — 0% drop
-5,Tamil,Dravidian (Southern),106,73.6,81.1,66.0,"Diglossic Locative gap (+58.8 pp, p < 0.001)",82.5,87.5,41.2,0.466,81.2,0.0,Fused அல்ல (alla) / இல்லை (illai) — 0% drop
+1,Hindi,Indo-Aryan (Central),3089,34.2,36.3,17.7,Supported (p = 1.81e-10),39.7,20.1,26.8,0.16,34.3,33.7,Standalone नहीं (nahin) licenses है drop
+2,Assamese,Indo-Aryan (Eastern),97,71.1,84.3,56.5,"Supported (+66.0 pp in Locatives, p = 0.0052)",84.8,84.0,34.6,0.488,86.2,0.0,Fused নহয় (nohoy) / নাই (nai) — 0% drop
+3,Bengali,Indo-Aryan (Eastern),373,52.0,43.6,55.1,Grammaticalized across registers (p = 0.061),78.2,67.8,19.3,0.542,73.8,0.0,Fused নয় (noy) / নেই (nei) — 0% drop
+4,Telugu (Manual),Dravidian (South-Central),116,47.4,42.9,45.2,Grammaticalized across registers (p = 1.000),79.2,45.8,5.1,0.653,65.5,0.0,Fused కాదు (kaadu) / లేదు (ledu) — 0% drop
+5,Tamil,Dravidian (Southern),106,70.8,81.1,60.4,"Supported (+58.8 pp in Locatives, p = 0.033)",84.1,85.7,41.2,0.447,85.2,0.0,Fused அல்ல (alla) / இல்லை (illai) — 0% drop

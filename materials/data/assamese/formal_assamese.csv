@@ -10,7 +10,7 @@
 7,সময়ৰ প্ৰকৃত যন্ত্ৰ-পাতি কৰ্ম হয়।,সময়ৰ প্ৰকৃত যন্ত্ৰ-পাতি কৰ্ম।,Nominal,Work is the actual instrument of time.
 8,সময় অমূল্য ধন হয়। ,সময় অমূল্য ধন।,Nominal,Time is invaluable wealth.
 9,গাঁওখনৰ নাম পিপলান্ত্ৰি হয়।,গাঁওখনৰ নাম পিপলান্ত্ৰি।,Nominal/identify ,The name of the village is Piplantri.
-10,নম্ৰতা ডাঙৰ আশয়ৰ চিন হয়। ,নম্ৰতা ডাঙৰ আশয়ৰ চিন l,Adjectival,Humility is a sign of noble character.
+10,নম্ৰতা ডাঙৰ আশয়ৰ চিন হয়। ,নম্ৰতা ডাঙৰ আশয়ৰ চিন।,Nominal,Humility is a sign of noble character.
 11,এই শ্ৰেণীৰ মানুহৰ স্বভাৱ নিচেই পাতল হয়। ,এই শ্ৰেণীৰ মানুহৰ স্বভাৱ নিচেই পাতল।,Adjectival,The nature of this category of people is very frivolous.
 12,অন্ধবিশ্বাস আৰু কুসংস্কাৰ পৃথিৱীৰ আটাইতকৈ গধুৰ বোজা হয়। ,অন্ধবিশ্বাস আৰু কুসংস্কাৰ পৃথিৱীৰ আটাইতকৈ গধুৰ বোজা।,Adjectival/Nominal,Superstition and blind beliefs are the heaviest burdens on the world.
 13,সাম্প্ৰতিক অসমৰ কাৰণে ই এক জ্বলন্ত সামাজিক সমস্যা হয়। ,সাম্প্ৰতিক অসমৰ কাৰণে ই এক জ্বলন্ত সামাজিক সমস্যা।,Adjectival/Nominal,It is a burning social problem for present-day Assam.
@@ -26,9 +26,9 @@
 23,সময়ৰ জোখ ঘড়ীৰ কাঁইটকেইডালত নাই।,——,Negative/Locative,The measurement of time is not in the hands of a clock.
 24,সজ ব্যৱহাৰত মিঠা মাতৰ ৰহণ নিদিলে সি মানুহৰ মনত সন্তোষ লগাব নোৱাৰে।,——,Negative/Verbal,"Without sweet speech, good behaviour cannot satisfy people's minds."
 25,এয়া আশ্চৰ্যৰ কথা নহয়নে ?,——,Interrogative/nominal,Isn't this a matter of wonder?
-26,সময় অমূল্য ধন নহয়নে?,সময় অমূল্য ধন নহয়নে,Interrogative/nominal,Isn't time invaluable wealth?
-27,নম্ৰতা এটা মনৰ গুণ নহয়নে? ,নম্ৰতা এটা মনৰ গুণ নে?,Interrogative/nominal,Isn't humility a quality of the mind?
-28,ডাইনী এক ভ্ৰান্ত বিশ্বাস নহয়নে? ,ডাইনী এক ভ্ৰান্ত বিশ্বাস নে?,Interrogative/nominal,Isn't witchcraft a false belief?
+26,সময় অমূল্য ধন নহয়নে?,——,Interrogative/nominal,Isn't time invaluable wealth?
+27,নম্ৰতা এটা মনৰ গুণ নহয়নে? ,——,Interrogative/nominal,Isn't humility a quality of the mind?
+28,ডাইনী এক ভ্ৰান্ত বিশ্বাস নহয়নে? ,——,Interrogative/nominal,Isn't witchcraft a false belief?
 29,"সময়ৰ ডাঙৰ ভাগবিলাক যুগ, কল্প আৰু শতাব্দী হয়।","সময়ৰ ডাঙৰ ভাগবিলাক যুগ, কল্প আৰু শতাব্দী।",Nominal/classification,"The major divisions of time are ages, aeons and centuries."
 30,"মজলীয়া ভাগবিলাক ঋতু, বছৰ আৰু মাহ হয়। ","মজলীয়া ভাগবিলাক ঋতু, বছৰ আৰু মাহ।",Nominal/classification,"The intermediate divisions are seasons, years and months."
 31,সময়ৰ এই ভাগবিলাক বিশেষ বিশেষ লক্ষণাক্ৰান্ত হয়। ,সময়ৰ এই ভাগবিলাক বিশেষ বিশেষ লক্ষণাক্ৰান্ত।,Adjectival,These divisions of time have particular characteristics.
@@ -43,7 +43,7 @@
 40,সকলোৰে আদি আছে।,——,Exiatential,Everything has a beginning.
 41,সকলোৰে অন্ত আছ l,——,Existential,Everything has an end.
 42,পৃথিৱী আমাৰ ঘৰ l,পৃথিৱী আমাৰ ঘৰ।,Nominal,The world is our home.
-43,মানুহৰ সেৱা পবিত্ৰ ব্ৰত। ,মানুহৰ সেৱা পবিত্ৰ ব্ৰত।,Nominal,That country is unstable.
+43,মানুহৰ সেৱা পবিত্ৰ ব্ৰত। ,মানুহৰ সেৱা পবিত্ৰ ব্ৰত।,Nominal,Service to humanity is a sacred vow.
 44,সন্মান সকলোৰে বাবে প্ৰয়োজনীয়। ,সন্মান সকলোৰে বাবে প্ৰয়োজনীয়।,Adjectival,Respect is necessary for everyone.
 45,আমাৰ ব্যক্তিগত আৰু সামাজিক উভয় জীৱনতে সন্মানৰ প্ৰয়োজন আছে।,——,Existential,Respect is necessary in both our personal and social lives.
 46,মানুহৰ মনত সুখ-দুখ থাকে।,——,Locative/Existential,Happiness and sorrow exist in the human mind.

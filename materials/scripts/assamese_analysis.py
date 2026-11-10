@@ -69,9 +69,7 @@ def load_and_audit_assamese_corpus(formal_path="formal_assamese.csv", informal_p
     # 5. Determine Clausal Polarity
     def detect_polarity(raw_type, overt_str):
         t, o = str(raw_type).strip().lower(), str(overt_str).strip()
-        if 'interrogative' in t and 'নহয়নে' in o:
-            return 'Affirmative'  # Tag question ("...isn't it?"), not clausal negation
-        if 'negative' in t or any(m in o for m in ['নাই', 'নহয়', 'নকৰে', 'নোৱাৰে', 'নাথাকে']):
+        if 'negative' in t or any(m in o for m in ['নাই', 'নহয়', 'নহয়নে', 'নকৰে', 'নোৱাৰে', 'নাথাকে']):
             return 'Negative'
         return 'Affirmative'
 

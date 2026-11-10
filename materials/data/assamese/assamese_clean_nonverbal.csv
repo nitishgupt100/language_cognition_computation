@@ -8,7 +8,7 @@
 সময়ৰ প্ৰকৃত যন্ত্ৰ-পাতি কৰ্ম হয়।,সময়ৰ প্ৰকৃত যন্ত্ৰ-পাতি কৰ্ম।,Nominal,Work is the actual instrument of time.,Formal Prose,1,Equational/Nominal,Affirmative
 সময় অমূল্য ধন হয়। ,সময় অমূল্য ধন।,Nominal,Time is invaluable wealth.,Formal Prose,1,Equational/Nominal,Affirmative
 গাঁওখনৰ নাম পিপলান্ত্ৰি হয়।,গাঁওখনৰ নাম পিপলান্ত্ৰি।,Nominal/identify ,The name of the village is Piplantri.,Formal Prose,1,Equational/Nominal,Affirmative
-নম্ৰতা ডাঙৰ আশয়ৰ চিন হয়। ,নম্ৰতা ডাঙৰ আশয়ৰ চিন l,Adjectival,Humility is a sign of noble character.,Formal Prose,1,Adjectival,Affirmative
+নম্ৰতা ডাঙৰ আশয়ৰ চিন হয়। ,নম্ৰতা ডাঙৰ আশয়ৰ চিন।,Nominal,Humility is a sign of noble character.,Formal Prose,1,Equational/Nominal,Affirmative
 এই শ্ৰেণীৰ মানুহৰ স্বভাৱ নিচেই পাতল হয়। ,এই শ্ৰেণীৰ মানুহৰ স্বভাৱ নিচেই পাতল।,Adjectival,The nature of this category of people is very frivolous.,Formal Prose,1,Adjectival,Affirmative
 অন্ধবিশ্বাস আৰু কুসংস্কাৰ পৃথিৱীৰ আটাইতকৈ গধুৰ বোজা হয়। ,অন্ধবিশ্বাস আৰু কুসংস্কাৰ পৃথিৱীৰ আটাইতকৈ গধুৰ বোজা।,Adjectival/Nominal,Superstition and blind beliefs are the heaviest burdens on the world.,Formal Prose,1,Equational/Nominal,Affirmative
 সাম্প্ৰতিক অসমৰ কাৰণে ই এক জ্বলন্ত সামাজিক সমস্যা হয়। ,সাম্প্ৰতিক অসমৰ কাৰণে ই এক জ্বলন্ত সামাজিক সমস্যা।,Adjectival/Nominal,It is a burning social problem for present-day Assam.,Formal Prose,1,Equational/Nominal,Affirmative
@@ -20,10 +20,10 @@
 গাঁওখনৰ পুনৰুজ্জীৱনৰ আঁৰত এজন ব্যক্তিৰ অক্লান্ত পৰিশ্ৰম আছে।,——,Existential,Behind the revival of the village lies the tireless effort of one person.,Formal Prose,0,Locative/Existential,Affirmative
 আমাৰ মাজত আৰু এটা প্ৰৱণতা আছে।,——,Existential ,There is another tendency among us.,Formal Prose,0,Locative/Existential,Affirmative
 সময়ৰ জোখ ঘড়ীৰ কাঁইটকেইডালত নাই।,——,Negative/Locative,The measurement of time is not in the hands of a clock.,Formal Prose,0,Locative/Existential,Negative
-এয়া আশ্চৰ্যৰ কথা নহয়নে ?,——,Interrogative/nominal,Isn't this a matter of wonder?,Formal Prose,0,Equational/Nominal,Affirmative
-সময় অমূল্য ধন নহয়নে?,সময় অমূল্য ধন নহয়নে,Interrogative/nominal,Isn't time invaluable wealth?,Formal Prose,1,Equational/Nominal,Affirmative
-নম্ৰতা এটা মনৰ গুণ নহয়নে? ,নম্ৰতা এটা মনৰ গুণ নে?,Interrogative/nominal,Isn't humility a quality of the mind?,Formal Prose,1,Equational/Nominal,Affirmative
-ডাইনী এক ভ্ৰান্ত বিশ্বাস নহয়নে? ,ডাইনী এক ভ্ৰান্ত বিশ্বাস নে?,Interrogative/nominal,Isn't witchcraft a false belief?,Formal Prose,1,Equational/Nominal,Affirmative
+এয়া আশ্চৰ্যৰ কথা নহয়নে ?,——,Interrogative/nominal,Isn't this a matter of wonder?,Formal Prose,0,Equational/Nominal,Negative
+সময় অমূল্য ধন নহয়নে?,——,Interrogative/nominal,Isn't time invaluable wealth?,Formal Prose,0,Equational/Nominal,Negative
+নম্ৰতা এটা মনৰ গুণ নহয়নে? ,——,Interrogative/nominal,Isn't humility a quality of the mind?,Formal Prose,0,Equational/Nominal,Negative
+ডাইনী এক ভ্ৰান্ত বিশ্বাস নহয়নে? ,——,Interrogative/nominal,Isn't witchcraft a false belief?,Formal Prose,0,Equational/Nominal,Negative
 "সময়ৰ ডাঙৰ ভাগবিলাক যুগ, কল্প আৰু শতাব্দী হয়।","সময়ৰ ডাঙৰ ভাগবিলাক যুগ, কল্প আৰু শতাব্দী।",Nominal/classification,"The major divisions of time are ages, aeons and centuries.",Formal Prose,1,Equational/Nominal,Affirmative
 "মজলীয়া ভাগবিলাক ঋতু, বছৰ আৰু মাহ হয়। ","মজলীয়া ভাগবিলাক ঋতু, বছৰ আৰু মাহ।",Nominal/classification,"The intermediate divisions are seasons, years and months.",Formal Prose,1,Equational/Nominal,Affirmative
 সময়ৰ এই ভাগবিলাক বিশেষ বিশেষ লক্ষণাক্ৰান্ত হয়। ,সময়ৰ এই ভাগবিলাক বিশেষ বিশেষ লক্ষণাক্ৰান্ত।,Adjectival,These divisions of time have particular characteristics.,Formal Prose,1,Adjectival,Affirmative
@@ -38,7 +38,7 @@
 সকলোৰে আদি আছে।,——,Exiatential,Everything has a beginning.,Formal Prose,0,Locative/Existential,Affirmative
 সকলোৰে অন্ত আছ l,——,Existential,Everything has an end.,Formal Prose,0,Locative/Existential,Affirmative
 পৃথিৱী আমাৰ ঘৰ l,পৃথিৱী আমাৰ ঘৰ।,Nominal,The world is our home.,Formal Prose,1,Equational/Nominal,Affirmative
-মানুহৰ সেৱা পবিত্ৰ ব্ৰত। ,মানুহৰ সেৱা পবিত্ৰ ব্ৰত।,Nominal,That country is unstable.,Formal Prose,1,Equational/Nominal,Affirmative
+মানুহৰ সেৱা পবিত্ৰ ব্ৰত। ,মানুহৰ সেৱা পবিত্ৰ ব্ৰত।,Nominal,Service to humanity is a sacred vow.,Formal Prose,1,Equational/Nominal,Affirmative
 সন্মান সকলোৰে বাবে প্ৰয়োজনীয়। ,সন্মান সকলোৰে বাবে প্ৰয়োজনীয়।,Adjectival,Respect is necessary for everyone.,Formal Prose,1,Adjectival,Affirmative
 আমাৰ ব্যক্তিগত আৰু সামাজিক উভয় জীৱনতে সন্মানৰ প্ৰয়োজন আছে।,——,Existential,Respect is necessary in both our personal and social lives.,Formal Prose,0,Locative/Existential,Affirmative
 মানুহৰ মনত সুখ-দুখ থাকে।,——,Locative/Existential,Happiness and sorrow exist in the human mind.,Formal Prose,0,Locative/Existential,Affirmative

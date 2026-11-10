@@ -72,10 +72,10 @@ def load_and_audit_tamil_corpus(formal_path="formal_tamil_2.csv", informal_path=
             return 'Locative/Existential'
         if any(k in t for k in ['locative', 'existential', 'dative', 'state', 'event']):
             return 'Locative/Existential'
-        if any(k in t for k in ['adjectival', 'quality', 'taste', 'weather', 'texture', 'behaviour', 'condition', 'evaluation']):
-            return 'Adjectival'
         if any(k in t for k in ['nominal', 'definitional', 'person', 'classification', 'identity', 'kinship', 'possession', 'choice', 'social relation', 'role', 'profession']):
             return 'Equational/Nominal'
+        if any(k in t for k in ['adjectival', 'quality', 'taste', 'weather', 'texture', 'behaviour', 'condition', 'evaluation']):
+            return 'Adjectival'
         return 'Locative/Existential' if 'possess' in t else 'Equational/Nominal'
 
     combined['Predicate_Type_Final_NLP'] = combined['Type'].apply(map_predicate)
